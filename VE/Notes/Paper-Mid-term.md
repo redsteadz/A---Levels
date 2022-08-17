@@ -1,0 +1,31 @@
+1. ![[WhatsApp Image 2021-11-03 at 10.52.55 AM.jpeg]]
+2. ![[WhatsApp Image 2021-11-03 at 10.53.17 AM.jpeg]]
+3. ![[WhatsApp Image 2021-11-03 at 10.54.44 AM.jpeg]]
+4. ![[WhatsApp Image 2021-11-03 at 10.56.02 AM.jpeg]]
+5. ![[WhatsApp Image 2021-11-03 at 10.56.49 AM.jpeg]]
+6. ![[WhatsApp Image 2021-11-03 at 10.59.17 AM.jpeg]]
+7. ![[WhatsApp Image 2021-11-03 at 11.00.35 AM.jpeg]]
+8. ![[WhatsApp Image 2021-11-03 at 11.01.12 AM.jpeg]]
+9. ![[WhatsApp Image 2021-11-03 at 11.02.06 AM.jpeg]]
+10. ![[WhatsApp Image 2021-11-03 at 11.02.44 AM.jpeg]]
+11. ![[WhatsApp Image 2021-11-03 at 11.03.12 AM.jpeg]]
+12. ![[WhatsApp Image 2021-11-03 at 11.04.46 AM.jpeg]]
+13. ![[WhatsApp Image 2021-11-03 at 11.06.16 AM.jpeg]]
+14. ![[WhatsApp Image 2021-11-03 at 11.06.37 AM.jpeg]]
+15. ![[WhatsApp Image 2021-11-03 at 11.07.22 AM.jpeg]]
+16. ![[WhatsApp Image 2021-11-03 at 11.08.42 AM.jpeg]]
+17. ![[WhatsApp Image 2021-11-03 at 11.09.05 AM.jpeg]]
+18. ![[WhatsApp Image 2021-11-03 at 11.11.34 AM.jpeg]]
+19. ![[WhatsApp Image 2021-11-03 at 11.12.46 AM.jpeg]]
+20. ![[WhatsApp Image 2021-11-03 at 11.14.46 AM.jpeg]]
+
+## Theory Paper
+
+1. ![[WhatsApp Image 2021-11-03 at 11.19.34 AM.jpeg]]
+	![[WhatsApp Image 2021-11-03 at 11.19.47 AM.jpeg]]
+2. ![[WhatsApp Image 2021-11-03 at 11.23.30 AM.jpeg]]
+3. ![[WhatsApp Image 2021-11-03 at 11.25.12 AM.jpeg]]
+4. ![[WhatsApp Image 2021-11-03 at 11.27.58 AM.jpeg]]
+5. ![[WhatsApp Image 2021-11-03 at 11.32.59 AM.jpeg]]
+
+
