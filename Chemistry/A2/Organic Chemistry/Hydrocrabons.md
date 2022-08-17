@@ -14,3 +14,12 @@ acid
 predomination of substitution over addition
 3. predict whether halogenation will occur in the side-chain or in the aromatic ring in arenes depending on reaction conditions
 4. describe that in the electrophilic substitution of arenes, different substituents direct to different ring positions (limited to the directing effects of -NH₂, -OH, -R, -NO₂, -COOH and -COR)
+   
+
+   ____
+   
+  ## <center>==Notes==</center>
+  
+  ![[Pasted image 20220817205600.png|inl]] The Benzene is replaced to create this!
+
+   

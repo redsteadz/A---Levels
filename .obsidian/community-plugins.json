@@ -5,5 +5,7 @@
   "obsidian-outliner",
   "sliding-panes-obsidian",
   "templater-obsidian",
-  "taskbone-ocr-plugin"
+  "taskbone-ocr-plugin",
+  "obsidian-git",
+  "obsidian-style-settings"
 ]
