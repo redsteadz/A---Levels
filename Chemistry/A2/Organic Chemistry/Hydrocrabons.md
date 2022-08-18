@@ -23,14 +23,4 @@ predomination of substitution over addition
   ![[Pasted image 20220817205600.png|inl]] The benzene reacts with acyl to creat acyl benzene
   
 
-   Blakdjadkj
-   dakdjadf
-   kalkda
-   a big bich in the sea went to fk us all three
    
-   asadad
-   d
-   ad
-   ad
-   ada
-   adadjfaskalsa
