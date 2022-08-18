@@ -7,9 +7,11 @@
         "id": "052e46ec5143af0f",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Physics/attatchments/Uniform-Circular-Motion.pdf"
+            "file": "Physics/A2/Circular Motion.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/attatchments/Uniform-Circular-Motion.pdf",
+                "file": "Physics/A2/Circular Motion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,11 +94,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248,
-    "collapsed": true
+    "width": 248
   },
   "active": "052e46ec5143af0f",
   "lastOpenFiles": [
+    "Physics/attatchments/Uniform-Circular-Motion.pdf",
     "Physics/A2/Circular Motion.md",
     "Physics/attatchments/Physics-syllabus(Alvl).pdf",
     "Physics/A2 Level subject Syllabus .md",
@@ -105,7 +107,6 @@
     "Chemistry/A2/Organic Chemistry/Hydrocrabons.md",
     "Chemistry/attatchments/attatchments/Pasted image 20220109173619.png",
     "Chemistry/attatchments/attatchments/Pasted image 20220109173550.png",
-    "Chemistry/attatchments/attatchments/Pasted image 20220109173517.png",
-    "Chemistry/attatchments/attatchments/Pasted image 20220109173422.png"
+    "Chemistry/attatchments/attatchments/Pasted image 20220109173517.png"
   ]
 }
