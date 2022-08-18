@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "906aa1c8a233c1de",
+        "id": "052e46ec5143af0f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Physics/A2/Circular Motion.md",
-            "mode": "source",
-            "source": false
+            "file": "Physics/attatchments/Uniform-Circular-Motion.pdf"
           }
         }
       }
@@ -53,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e1ab1b91ce03390f",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/A2/Circular Motion.md",
+                "file": "Physics/attatchments/Uniform-Circular-Motion.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +95,17 @@
     "width": 248,
     "collapsed": true
   },
-  "active": "906aa1c8a233c1de",
+  "active": "052e46ec5143af0f",
   "lastOpenFiles": [
-    "Physics/001.Physics Overview.md",
-    "Physics/AS/Dynamics.md",
+    "Physics/A2/Circular Motion.md",
+    "Physics/attatchments/Physics-syllabus(Alvl).pdf",
     "Physics/A2 Level subject Syllabus .md",
+    "Physics/A2/Untitled.md",
+    "templates/Note Taking format.md",
     "Chemistry/A2/Organic Chemistry/Hydrocrabons.md",
-    "Pasted image 20220817143411.png.annotations.md",
-    "Pasted image 20220817143411.png",
-    "Chemistry/A2/Organic Chemistry.md",
-    "Chemistry/attatchments/Chemistry_Syllabus(ALVL).pdf",
-    "Chemistry/attatchments/Cambridge International AS and A Level Chemistry.pdf",
-    "Chemistry/attatchments/2.2.5 Group 2 Trends in Solubility of Hydroxides _ Sulfates (SaveMyExams).md"
+    "Chemistry/attatchments/attatchments/Pasted image 20220109173619.png",
+    "Chemistry/attatchments/attatchments/Pasted image 20220109173550.png",
+    "Chemistry/attatchments/attatchments/Pasted image 20220109173517.png",
+    "Chemistry/attatchments/attatchments/Pasted image 20220109173422.png"
   ]
 }
