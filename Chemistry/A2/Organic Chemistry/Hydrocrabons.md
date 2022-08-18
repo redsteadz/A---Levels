@@ -28,4 +28,8 @@ predomination of substitution over addition
    kalkda
    a big bich in the sea went to fk us all three
    
-   
+   asadad
+   d
+   ad
+   ad
+   ada
