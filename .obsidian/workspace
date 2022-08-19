@@ -94,9 +94,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248
+    "width": 248,
+    "collapsed": true
   },
-  "active": "052e46ec5143af0f",
+  "active": "289b5d4e40c7ba0f",
   "lastOpenFiles": [
     "Physics/attatchments/Uniform-Circular-Motion.pdf",
     "Physics/A2/Circular Motion.md",
