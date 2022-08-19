@@ -16,11 +16,41 @@ ___
 
 
 ___
-
 # <center> ==Notes==  </center>
 ___
+The Circular motion of an object is measured in $\theta rad$  due to convenience
 
+### Angular Displacement:
+`ADD IMAGE`
+Angular displacement is the **Angle Displaced** is the angle changed from an Object Moving; 
+$$\Delta \theta_{f}- \Delta \theta_{i}$$
+### Angular Velocity (Speed):
+`ADD IMAGE`
+Angular displacement is calculated in a similar way as velocity is, but You must understand the difference between Avg Vel and Instanteous Vel:
 
+#### Average Velocity:
+Is the mean velocity of the entire journey; 
+$$
+\frac{\Delta \theta_{f}- \Delta \theta_{i}}{\Delta t}
+$$
+#### Instaneous Velocity:
+Will be the velocity for that exact instant
+`image`
+
+### Angular Acceleration:
+$$
+\begin{align}
+ \omega =\frac{\Delta \theta_{f}- \Delta \theta_{i}}{\Delta t}  \\
+ \alpha = \frac{\Delta \omega}{\Delta t} = \frac{\omega_{f}- \omega_{i}}{\Delta t}
+\end{align}
+$$
+- Getting Centripital Acceleration:
+	- $$\begin{align*}
+\alpha = \frac{R\Delta\omega}{\Delta t}\\
+\alpha = v\Delta \omega\downarrow\\
+&\alpha = r\omega^2\\
+&\alpha = \frac{v^2}{r}
+\end{align*}$$ 
 
 ___
 
