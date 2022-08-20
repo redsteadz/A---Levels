@@ -71,4 +71,4 @@ title: Past Paper Questions
 
 ```
 [[Uniform-Circular-Motion.pdf]]
-![[Circular Motion 2022-08-20 22.47.42.excalidraw]]
+![[Circular Motion 2022-08-20 22.47.42.excalidraw|]]
