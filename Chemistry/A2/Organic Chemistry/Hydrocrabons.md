@@ -1,4 +1,4 @@
-# <center>==Learning Outcomes==</center>
+#rco <center>==Learning Outcomes==</center>
 ## 30.1 Arenes
 1. describe the chemistry of arenes as exemplified by the following reactions of benzene and methylbenzene:
 (a) substitution reactions with C2₂ and with Br₂ in the presence of a catalyst, AICI, or A/Br3, to form halogenoarenes (aryl halides)
