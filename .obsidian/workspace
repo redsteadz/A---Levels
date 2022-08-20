@@ -17,82 +17,58 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "be003f7b9794177b",
-    "type": "split",
+    "id": "3427596e916d7d59",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "c5d213131ba815c8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f2e18fdf52c1d06a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "96fca3206eaaa009",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "add96179c67fdecc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "b052070f7054dacf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "right": {
-    "id": "e1ab1b91ce03390f",
-    "type": "split",
+    "id": "993d18f35f83efff",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "cea8710e31e949ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "da93f2d3abca52d5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Physics/A2/attatchments/Circular Motion 2022-08-20 22.47.42.excalidraw.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "289b5d4e40c7ba0f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
+        "id": "ec76834bc12e78fc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Physics/A2/attatchments/Circular Motion 2022-08-20 22.47.42.excalidraw.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 248
+    "currentTab": 0
   },
   "active": "554083c1fdefff69",
   "lastOpenFiles": [
