@@ -7,11 +7,9 @@
         "id": "8779546ecd9a801e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Physics/A2/Circular Motion.md",
-            "mode": "source",
-            "source": false
+            "file": "Physics/A2/attatchments/Circular Motion 2022-08-20 22.47.42.excalidraw.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/A2/Circular Motion.md",
+                "file": "Physics/A2/attatchments/Circular Motion 2022-08-20 22.47.42.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +95,8 @@
   },
   "active": "8779546ecd9a801e",
   "lastOpenFiles": [
-    "Physics/A2/attatchments/Circular Motion 2022-08-20 22.47.42.excalidraw.md",
     "Physics/A2/Circular Motion.md",
+    "Physics/A2/attatchments/Circular Motion 2022-08-20 22.47.42.excalidraw.md",
     "Excalidraw/Drawing 2022-08-20 21.12.52.excalidraw.md",
     "Chemistry/A2/Organic Chemistry/Hydrocrabons.md",
     "Pasted image 20220817143411.png.annotations.md",
