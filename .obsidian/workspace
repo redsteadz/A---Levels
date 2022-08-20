@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8779546ecd9a801e",
+        "id": "554083c1fdefff69",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Physics/A2/Circular Motion.md",
-            "mode": "source",
-            "source": false
+            "file": "Physics/A2/attatchments/Circular Motion 2022-08-20 22.47.42.excalidraw.md"
           }
         }
       }
@@ -53,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e1ab1b91ce03390f",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/A2/Circular Motion.md",
+                "file": "Physics/A2/attatchments/Circular Motion 2022-08-20 22.47.42.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +94,17 @@
     "direction": "horizontal",
     "width": 248
   },
-  "active": "8779546ecd9a801e",
+  "active": "554083c1fdefff69",
   "lastOpenFiles": [
-    "Physics/A2/attatchments/Circular Motion 2022-08-20 22.47.42.excalidraw.md",
     "Physics/A2/Circular Motion.md",
     "Excalidraw/Drawing 2022-08-20 21.12.52.excalidraw.md",
-    "Chemistry/A2/Organic Chemistry/Hydrocrabons.md",
-    "Pasted image 20220817143411.png.annotations.md",
-    "Pasted image 20220817143411.png",
-    "Chemistry/A2/Organic Chemistry.md",
-    "Chemistry/attatchments/Chemistry_Syllabus(ALVL).pdf",
-    "Chemistry/attatchments/Cambridge International AS and A Level Chemistry.pdf",
-    "Chemistry/attatchments/2.2.5 Group 2 Trends in Solubility of Hydroxides _ Sulfates (SaveMyExams).md"
+    "Excalidraw/attatchments/Pasted Image 20220820212152_659.png",
+    "Excalidraw/Drawing 2022-08-20 21.01.41.excalidraw.md",
+    "Physics/attatchments/Uniform-Circular-Motion.pdf",
+    "Physics/attatchments/Physics-syllabus(Alvl).pdf",
+    "Physics/A2 Level subject Syllabus .md",
+    "Physics/A2/Untitled.md",
+    "templates/Note Taking format.md",
+    "Chemistry/A2/Organic Chemistry/Hydrocrabons.md"
   ]
 }
