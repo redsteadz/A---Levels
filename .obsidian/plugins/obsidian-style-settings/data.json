@@ -3,5 +3,7 @@
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-honey-milk-topaz",
   "blue-topaz-theme@@funny-header-anim": true,
   "blue-topaz-theme@@retain-header-color": true,
-  "blue-topaz-theme@@naked-embed": true
+  "blue-topaz-theme@@naked-embed": true,
+  "blue-topaz-theme@@text-normal@@light": "#0E0E0E",
+  "blue-topaz-theme@@background-primary-bg-4-bt@@dark": "#1D1F28"
 }
