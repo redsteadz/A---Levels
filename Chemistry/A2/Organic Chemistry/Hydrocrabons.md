@@ -22,4 +22,4 @@ predomination of substitution over addition
   
   
   
-
+![[Hydrocrabons 2022-08-21 21.28.00.excalidraw]]
