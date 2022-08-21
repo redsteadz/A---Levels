@@ -35,7 +35,7 @@
   "pageTransclusionCharLimit": 200,
   "wordWrappingDefault": 0,
   "iframelyAllowed": true,
-  "pngExportScale": 2,
+  "pngExportScale": 5,
   "exportWithTheme": true,
   "exportWithBackground": true,
   "exportPaddingSVG": 5,
