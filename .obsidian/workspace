@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8779546ecd9a801e",
+        "id": "e7e5a243a7cd0693",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
@@ -51,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e1ab1b91ce03390f",
@@ -67,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/A2/attatchments/Circular Motion 2022-08-20 22.47.42.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,19 +92,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248
+    "width": 248,
+    "collapsed": true
   },
-  "active": "289b5d4e40c7ba0f",
+  "active": "e7e5a243a7cd0693",
   "lastOpenFiles": [
-    "Physics/A2/attatchments/Circular Motion 2022-08-20 22.47.42.excalidraw.md",
     "Physics/A2/Circular Motion.md",
+    "Physics/A2/attatchments/Circular Motion 2022-08-20 22.47.42.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2022-08-20 21.12.52.excalidraw.md",
     "Chemistry/A2/Organic Chemistry/Hydrocrabons.md",
     "Pasted image 20220817143411.png.annotations.md",
     "Pasted image 20220817143411.png",
     "Chemistry/A2/Organic Chemistry.md",
     "Chemistry/attatchments/Chemistry_Syllabus(ALVL).pdf",
-    "Chemistry/attatchments/Cambridge International AS and A Level Chemistry.pdf",
-    "Chemistry/attatchments/2.2.5 Group 2 Trends in Solubility of Hydroxides _ Sulfates (SaveMyExams).md"
+    "Chemistry/attatchments/Cambridge International AS and A Level Chemistry.pdf"
   ]
 }
