@@ -20,7 +20,7 @@ predomination of substitution over addition
    
   ## <center>==Notes==</center>
   
-  ![[Pasted image 20220817205600.png|inl]] The benzene reacts with acyl to creat acyl benzene
+  
   
 
    

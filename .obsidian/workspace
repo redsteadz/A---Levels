@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/A2/Circular Motion.md",
-            "mode": "source",
+            "file": "Chemistry/A2/Organic Chemistry/Hydrocrabons.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e1ab1b91ce03390f",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/A2/Circular Motion.md",
+                "file": "Chemistry/A2/Organic Chemistry/Hydrocrabons.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +98,15 @@
   },
   "active": "e7e5a243a7cd0693",
   "lastOpenFiles": [
-    "Physics/A2/attatchments/Circular Motion 2022-08-20 22.47.42.excalidraw.md",
     "Physics/A2/Circular Motion.md",
+    "Physics/A2/attatchments/Circular Motion 2022-08-20 22.47.42.excalidraw.md",
+    "Chemistry/A2/Organic Chemistry/Hydrocrabons.md",
+    "Excalidraw/Scripts/Downloaded/OCR - Optical Character Recognition.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2022-08-20 21.12.52.excalidraw.md",
-    "Chemistry/A2/Organic Chemistry/Hydrocrabons.md",
     "Pasted image 20220817143411.png.annotations.md",
     "Pasted image 20220817143411.png",
     "Chemistry/A2/Organic Chemistry.md",
-    "Chemistry/attatchments/Chemistry_Syllabus(ALVL).pdf",
-    "Chemistry/attatchments/Cambridge International AS and A Level Chemistry.pdf"
+    "Chemistry/attatchments/Chemistry_Syllabus(ALVL).pdf"
   ]
 }

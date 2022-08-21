@@ -8,5 +8,14 @@
   "taskbone-ocr-plugin",
   "obsidian-git",
   "obsidian-style-settings",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "cycle-through-panes",
+  "hotkeysplus-obsidian",
+  "obsidian-image-toolkit",
+  "url-into-selection",
+  "obsidian-extract-pdf-highlights",
+  "quick-latex",
+  "cm-typewriter-scroll-obsidian",
+  "oz-clear-unused-images",
+  "obsidian-pandoc"
 ]
