@@ -3,13 +3,11 @@
   "table-editor-obsidian",
   "obsidian-kanban",
   "obsidian-outliner",
-  "sliding-panes-obsidian",
   "templater-obsidian",
   "taskbone-ocr-plugin",
   "obsidian-git",
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
-  "cycle-through-panes",
   "hotkeysplus-obsidian",
   "obsidian-image-toolkit",
   "url-into-selection",
@@ -17,5 +15,7 @@
   "quick-latex",
   "cm-typewriter-scroll-obsidian",
   "oz-clear-unused-images",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "sliding-panes-obsidian",
+  "cycle-through-panes"
 ]
