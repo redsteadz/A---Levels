@@ -19,5 +19,5 @@
   3. Determine the name and position number of each substituent. (A substituent on a nitrogen is designated with an “N” instead of a number; see Section III.D.1. below.)
   4. Indicate the number of identical groups by the prefixes di, tri, tetra, etc.
   5. Place the position numbers and names of the substituent groups, in alphabetical order, before the root name. In alphabetizing, ignore prefixes like sec-, tert-, di, tri, etc., but include iso and cyclo. Always include a position number for each substituent, regardless of redundancies.
-
+![[Pasted image 20220822211314.png]]
 [[30.1 Arenes]] - Naming and all
