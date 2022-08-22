@@ -18,13 +18,12 @@ ___
 # <center> ==Notes==  </center>
 ___
 ![[Pasted image 20220822165722.png]]
-
+![[Intro 2022-08-22 19.45.34.excalidraw]]
 
 ___
 
 # <center> ==Summary==  </center>
 ___
-
 
 
 ___
@@ -39,3 +38,4 @@ title: Past Paper Questions
 
 ```
 
+![[IUPAC_Handout.pdf]]
