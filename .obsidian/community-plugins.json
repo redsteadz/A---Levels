@@ -17,5 +17,8 @@
   "oz-clear-unused-images",
   "obsidian-pandoc",
   "sliding-panes-obsidian",
-  "cycle-through-panes"
+  "cycle-through-panes",
+  "oz-image-plugin",
+  "obsidian-auto-link-title",
+  "find-unlinked-files"
 ]

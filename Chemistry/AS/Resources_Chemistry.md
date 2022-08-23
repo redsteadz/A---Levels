@@ -20,8 +20,9 @@ Resources
 ## Contents
 
 ![](Chemistry/attatchments/Cambridge%20International%20AS%20and%20A%20Level%20Chemistry.pdf)
-
-![](Chemistry_Syllabus(ALVL).pdf)
+---
+annotation-target: ![](Chemistry/A2/Chemistry_Syllabus(ALVL).pdf)
+---
 
 ![](Chemistry/attatchments/Chemistry_Syllabus(ALVL)-update.pdf)
 
