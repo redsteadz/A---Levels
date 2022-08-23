@@ -20845,7 +20845,7 @@
       }
     }
   },
-  "defaultTrayMode": false,
+  "defaultTrayMode": true,
   "previousRelease": "1.7.15",
   "showReleaseNotes": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
