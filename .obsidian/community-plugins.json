@@ -18,7 +18,8 @@
   "obsidian-pandoc",
   "sliding-panes-obsidian",
   "cycle-through-panes",
-  "oz-image-plugin",
   "obsidian-auto-link-title",
-  "find-unlinked-files"
+  "find-unlinked-files",
+  "oz-image-plugin",
+  "obsidian-paste-image-rename"
 ]

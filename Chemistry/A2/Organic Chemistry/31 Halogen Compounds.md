@@ -14,7 +14,7 @@ ___
 -   To restore the **aromatic stabilization,** a hydrogen atom is removed in the **second stage** of the electrophilic substitution reaction to form chlorobenzene
 -   When this happens, the delocalised π system of the ring is **restored**
 -   The same reaction occurs with benzene and bromine in the presence of an AlBr3 catalyst to form **bromobenzene**
-![[30.1 Arenes 2022-08-22 21.12.00.excalidraw]]
+![[Chemistry/A2/Organic Chemistry/attatchments/30.1 Arenes Benzene-Halogenation.excalidraw]]
 
 ![[30.1 Arenes 2022-08-22 23.14.31.excalidraw]]
 
