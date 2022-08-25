@@ -61,6 +61,99 @@
     "source": "https://excalidraw.com",
     "libraryItems": [
       {
+        "id": "fP5d9EobZ3zu1SlFBnKxh",
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "line",
+            "version": 62,
+            "versionNonce": 1690633295,
+            "isDeleted": false,
+            "id": "aYhDxcfvRO8XIxraP4OM7",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": -969.9999999999994,
+            "y": -1619.9999999999989,
+            "strokeColor": "#000000",
+            "backgroundColor": "transparent",
+            "width": 1030,
+            "height": 0,
+            "seed": 994599759,
+            "groupIds": [
+              "NhNxx84oug8hi5emTaomB"
+            ],
+            "strokeSharpness": "round",
+            "boundElements": [],
+            "updated": 1661456494025,
+            "link": null,
+            "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                1030,
+                0
+              ]
+            ]
+          },
+          {
+            "type": "line",
+            "version": 128,
+            "versionNonce": 2033675297,
+            "isDeleted": false,
+            "id": "A0u9xFTKl64VXe2oGQw4S",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": -966.6666666666662,
+            "y": -1533.3333333333323,
+            "strokeColor": "#000000",
+            "backgroundColor": "transparent",
+            "width": 1030,
+            "height": 0,
+            "seed": 1509550273,
+            "groupIds": [
+              "NhNxx84oug8hi5emTaomB"
+            ],
+            "strokeSharpness": "round",
+            "boundElements": [],
+            "updated": 1661456494026,
+            "link": null,
+            "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                1030,
+                0
+              ]
+            ]
+          }
+        ],
+        "created": 1661456500785
+      },
+      {
         "id": "Z1r6tftpPyZo6mOCfgSko",
         "status": "unpublished",
         "elements": [
@@ -20758,6 +20851,14 @@
         "value": 10,
         "description": "Padding between the bounding box of the selected elements, and the box the script creates"
       }
+    },
+    "Downloaded/Box Each Selected Groups": {
+      "Prompt for padding?": true,
+      "Default padding": {
+        "value": 10,
+        "description": "Padding between the bounding box of the selected elements, and the box the script creates"
+      },
+      "Remember last padding?": false
     }
   },
   "defaultTrayMode": true,
