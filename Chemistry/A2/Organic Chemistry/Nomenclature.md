@@ -20,4 +20,4 @@
   4. Indicate the number of identical groups by the prefixes di, tri, tetra, etc.
   5. Place the position numbers and names of the substituent groups, in alphabetical order, before the root name. In alphabetizing, ignore prefixes like sec-, tert-, di, tri, etc., but include iso and cyclo. Always include a position number for each substituent, regardless of redundancies.
 ![[Pasted image 20220822211314.png]]
-[[30.1 Arenes]] - Naming and all
+[[Chemistry/A2/Organic Chemistry/30 Arenes]] - Naming and all

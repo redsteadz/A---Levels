@@ -103,5 +103,7 @@ collapse:true
 ```ad-info
 title:Knockhardy
 collapse:true
-[[14. Benzene - Structure, Reactions and Substitution.pdf]]
+- [[14. Benzene - Structure, Reactions and Substitution.pdf]]
+- [[Chemistry/A2/Organic Chemistry/attatchments/30. Friedel-Crafts Reactions - Alkylation and Acylation.pdf]]
+- [[Chemistry/A2/Organic Chemistry/attatchments/32. Phenol - Structure, Preparation, Uses and Reactions.pdf]]
 ```
