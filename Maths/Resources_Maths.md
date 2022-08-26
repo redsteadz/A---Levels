@@ -11,7 +11,10 @@
 
 
 ## Books (AS level):
-[Books](Books.md)
+[Books](Maths/AS/Books.md)
 
 ## Worksheets:
 [Worksheets](Worksheets.md)
+
+## Syllabus:
+[[Maths/attatchments/Maths Syllabus.pdf]]
