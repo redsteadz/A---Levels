@@ -90,6 +90,22 @@ acid
 | Electron Withdrawing | $\ce {-NO2,-COOH,-COR}$ | 3 and/5              |
 | Electron Donating    | $\ce{-R,-OH,-NH2}$                        |   2,4 and /6                   |
 ## <center> ==Resource/Pastpapers== </center>
+
+```ad-question
+title:Past Papers
+collapse:true
+
+- [[Chemistry/A2/Organic Chemistry/attatchments/Benzene and its Compounds MS.pdf]]
+
+- [[Chemistry/A2/Organic Chemistry/attatchments/Benzene and its Compounds QP.pdf]]
+
+- [[Chemistry/A2/Organic Chemistry/attatchments/Hydrocarbons.pdf]]
+  
+## Solved
+[[Chemistry/A2/Organic Chemistry/Topic_Q/30 Arenes PP]]
+
+```
+
 ```ad-info
 title:SaveMyExams
 collapse:true
