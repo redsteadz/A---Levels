@@ -6,7 +6,14 @@ kanban-plugin: basic
 
 ## Not Done
 
+- [ ] **23 Chemical Energetics**
+- [ ] **24 Electrochemistry**
+- [ ] **25 Equilibria**
+- [ ] **26 Reaction Kinetics**
+- [ ] **27 Group 2**
+- [ ] **28 Chemistry of Transition Elements**
 - [ ] **32 Hydroxy Compounds** [[Chemistry/A2/Organic Chemistry/Hydroxy Compounds]] @{2022-08-28}
+- [ ] **29 Intro To Organic **[[Chemistry/A2/Organic Chemistry/Intro]]
 
 
 ## Learn Concepts off
