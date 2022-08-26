@@ -15,7 +15,7 @@
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "1000",
-  "isLeftHanded": false,
+  "isLeftHanded": true,
   "matchTheme": true,
   "matchThemeAlways": true,
   "matchThemeTrigger": true,
@@ -20898,6 +20898,22 @@
       "Default spacing": {
         "value": 10,
         "description": "Fixed vertical spacing between elements"
+      },
+      "Remember last spacing?": false
+    },
+    "Downloaded/Fixed horizontal distance between centers": {
+      "Prompt for distance?": true,
+      "Default distance": {
+        "value": 10,
+        "description": "Fixed horizontal distance between centers"
+      },
+      "Remember last distance?": false
+    },
+    "Downloaded/Fixed spacing": {
+      "Prompt for spacing?": true,
+      "Default spacing": {
+        "value": 10,
+        "description": "Fixed horizontal spacing between elements"
       },
       "Remember last spacing?": false
     }
