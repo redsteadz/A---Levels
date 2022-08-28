@@ -101,33 +101,6 @@ For the position of the stone at which the glue snaps,
 
                                                                     angular speed = rads^-1 ^f6gLVWeR
 
-1 A particle is following a circular path and is observed to have an angular displacement
-of 10.3⁰.
-(a) Express this angle in radians (rad). Show your working and give your answer to three
-significant figures.
-
-
-
-
-
-                                                                    angle =
-(b) (i) Determine tan10.3° to three significant figures.
-
-
-                                                                tan 10.3⁰ =
-
-(ii) Hence calculate the percentage error that is made when the angle 10.3⁰, as
-measured in radians, is assumed to be equal to tan 10.3⁰.
-
-
-
-
-
-
-
-                                                                percentage error =
-[3] ^M8xvrh0L
-
 1 (a) Explain
 (i) what is meant by a radian, ..[2]
 
@@ -247,46 +220,46 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 	"source": "https://excalidraw.com",
 	"elements": [
 		{
-			"text": "(ii) State the significance of the force F for the motion of the ball in the bowl.\n\n\n\n\n(b) The ball moves in a circular path of radius 14 cm. For this radius, the angle theta is 28⁰.\n\nCalculate the speed of the ball.\n\n\n\n\n                                                                    speed            ms^-1\n",
-			"fontSize": 24,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 416,
-			"id": "X6eeXqMA",
 			"type": "text",
-			"x": 1180,
-			"y": 4164,
-			"width": 1128,
-			"height": 425,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 98,
+			"versionNonce": 610259865,
+			"isDeleted": false,
+			"id": "X6eeXqMA",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"strokeSharpness": "sharp",
+			"angle": 0,
+			"x": 1180,
+			"y": 4164,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1128,
+			"height": 425,
 			"seed": 91666,
-			"version": 97,
-			"versionNonce": 2134978898,
-			"updated": 1661616394032,
-			"isDeleted": false,
 			"groupIds": [
 				"W4QC4bvrn_2lDjwg6mwKH"
 			],
+			"strokeSharpness": "sharp",
 			"boundElements": [],
+			"updated": 1661687044254,
 			"link": null,
 			"locked": true,
+			"fontSize": 24,
+			"fontFamily": 1,
+			"text": "(ii) State the significance of the force F for the motion of the ball in the bowl.\n\n\n\n\n(b) The ball moves in a circular path of radius 14 cm. For this radius, the angle theta is 28⁰.\n\nCalculate the speed of the ball.\n\n\n\n\n                                                                    speed            ms^-1\n",
+			"rawText": "(ii) State the significance of the force F for the motion of the ball in the bowl.\n\n\n\n\n(b) The ball moves in a circular path of radius 14 cm. For this radius, the angle theta is 28⁰.\n\nCalculate the speed of the ball.\n\n\n\n\n                                                                    speed            ms^-1\n",
+			"baseline": 416,
+			"textAlign": "left",
+			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "(ii) State the significance of the force F for the motion of the ball in the bowl.\n\n\n\n\n(b) The ball moves in a circular path of radius 14 cm. For this radius, the angle theta is 28⁰.\n\nCalculate the speed of the ball.\n\n\n\n\n                                                                    speed            ms^-1\n",
-			"rawText": "(ii) State the significance of the force F for the motion of the ball in the bowl.\n\n\n\n\n(b) The ball moves in a circular path of radius 14 cm. For this radius, the angle theta is 28⁰.\n\nCalculate the speed of the ball.\n\n\n\n\n                                                                    speed            ms^-1\n"
+			"originalText": "(ii) State the significance of the force F for the motion of the ball in the bowl.\n\n\n\n\n(b) The ball moves in a circular path of radius 14 cm. For this radius, the angle theta is 28⁰.\n\nCalculate the speed of the ball.\n\n\n\n\n                                                                    speed            ms^-1\n"
 		},
 		{
 			"type": "text",
-			"version": 55,
-			"versionNonce": 1973601486,
+			"version": 56,
+			"versionNonce": 820743799,
 			"isDeleted": false,
 			"id": "Ab37k8Es",
 			"fillStyle": "hachure",
@@ -308,7 +281,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616394032,
+			"updated": 1661687044254,
 			"link": null,
 			"locked": true,
 			"fontSize": 20,
@@ -323,8 +296,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 28,
-			"versionNonce": 1047738130,
+			"version": 29,
+			"versionNonce": 1345583225,
 			"isDeleted": false,
 			"id": "hksfWpbP",
 			"fillStyle": "hachure",
@@ -346,7 +319,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616394032,
+			"updated": 1661687044254,
 			"link": null,
 			"locked": true,
 			"fontSize": 20,
@@ -361,8 +334,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 26,
-			"versionNonce": 2127362830,
+			"version": 27,
+			"versionNonce": 2004920215,
 			"isDeleted": false,
 			"id": "48DhAYRB",
 			"fillStyle": "hachure",
@@ -384,7 +357,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616394032,
+			"updated": 1661687044254,
 			"link": null,
 			"locked": true,
 			"fontSize": 20,
@@ -399,8 +372,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 115,
-			"versionNonce": 1637036558,
+			"version": 116,
+			"versionNonce": 1005617497,
 			"isDeleted": false,
 			"id": "tZiEjGFK",
 			"fillStyle": "hachure",
@@ -419,7 +392,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616096730,
+			"updated": 1661687044254,
 			"link": null,
 			"locked": false,
 			"fontSize": 24,
@@ -434,8 +407,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 137,
-			"versionNonce": 1058038226,
+			"version": 138,
+			"versionNonce": 441818295,
 			"isDeleted": false,
 			"id": "EsBC3qt3",
 			"fillStyle": "hachure",
@@ -456,7 +429,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083388,
+			"updated": 1661687044254,
 			"link": null,
 			"locked": true,
 			"fontSize": 24,
@@ -471,8 +444,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 28,
-			"versionNonce": 1107090510,
+			"version": 29,
+			"versionNonce": 350809657,
 			"isDeleted": false,
 			"id": "zQmd77S9",
 			"fillStyle": "hachure",
@@ -493,7 +466,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083388,
+			"updated": 1661687044254,
 			"link": null,
 			"locked": true,
 			"fontSize": 24,
@@ -508,8 +481,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 68,
-			"versionNonce": 235427730,
+			"version": 69,
+			"versionNonce": 1024388567,
 			"isDeleted": false,
 			"id": "DHD5aIkc",
 			"fillStyle": "hachure",
@@ -530,7 +503,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083388,
+			"updated": 1661687044255,
 			"link": null,
 			"locked": true,
 			"fontSize": 24,
@@ -545,8 +518,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 236,
-			"versionNonce": 1995973262,
+			"version": 240,
+			"versionNonce": 35764313,
 			"isDeleted": false,
 			"id": "M8xvrh0L",
 			"fillStyle": "hachure",
@@ -565,9 +538,9 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083388,
+			"updated": 1661687050640,
 			"link": null,
-			"locked": false,
+			"locked": true,
 			"fontSize": 24,
 			"fontFamily": 1,
 			"text": "1 A particle is following a circular path and is observed to have an angular displacement\nof 10.3⁰.\n(a) Express this angle in radians (rad). Show your working and give your answer to three\nsignificant figures.\n\n\n\n\n\n                                                                    angle =\n(b) (i) Determine tan10.3° to three significant figures.\n\n\n                                                                tan 10.3⁰ =\n\n(ii) Hence calculate the percentage error that is made when the angle 10.3⁰, as\nmeasured in radians, is assumed to be equal to tan 10.3⁰.\n\n\n\n\n\n\n\n                                                                percentage error =\n[3]",
@@ -580,8 +553,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 210,
-			"versionNonce": 771462482,
+			"version": 211,
+			"versionNonce": 448862967,
 			"isDeleted": false,
 			"id": "f6gLVWeR",
 			"fillStyle": "hachure",
@@ -600,7 +573,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083388,
+			"updated": 1661687044255,
 			"link": null,
 			"locked": true,
 			"fontSize": 24,
@@ -615,8 +588,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 121,
-			"versionNonce": 1899012302,
+			"version": 122,
+			"versionNonce": 1101755385,
 			"isDeleted": false,
 			"id": "IU0iexRz",
 			"fillStyle": "hachure",
@@ -635,7 +608,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083388,
+			"updated": 1661687044255,
 			"link": null,
 			"locked": true,
 			"fontSize": 24,
@@ -650,8 +623,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 113,
-			"versionNonce": 1883314962,
+			"version": 114,
+			"versionNonce": 401646615,
 			"isDeleted": false,
 			"id": "8DYQ7gJ7",
 			"fillStyle": "hachure",
@@ -670,7 +643,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083388,
+			"updated": 1661687044255,
 			"link": null,
 			"locked": true,
 			"fontSize": 24,
@@ -685,8 +658,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 400,
-			"versionNonce": 71259918,
+			"version": 401,
+			"versionNonce": 401378521,
 			"isDeleted": false,
 			"id": "yQfuHyr0",
 			"fillStyle": "hachure",
@@ -707,7 +680,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083388,
+			"updated": 1661687044255,
 			"link": null,
 			"locked": true,
 			"fontSize": 24,
@@ -722,8 +695,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 185,
-			"versionNonce": 1666181330,
+			"version": 186,
+			"versionNonce": 345114935,
 			"isDeleted": false,
 			"id": "6fafo2Kn",
 			"fillStyle": "hachure",
@@ -744,7 +717,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083388,
+			"updated": 1661687044255,
 			"link": null,
 			"locked": true,
 			"fontSize": 24,
@@ -759,8 +732,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 120,
-			"versionNonce": 681395534,
+			"version": 121,
+			"versionNonce": 1012369849,
 			"isDeleted": false,
 			"id": "I8rVq7Ld",
 			"fillStyle": "hachure",
@@ -781,7 +754,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083388,
+			"updated": 1661687044255,
 			"link": null,
 			"locked": true,
 			"fontSize": 24,
@@ -796,8 +769,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 115,
-			"versionNonce": 784268946,
+			"version": 116,
+			"versionNonce": 2114570839,
 			"isDeleted": false,
 			"id": "EFVY9jga",
 			"fillStyle": "hachure",
@@ -818,7 +791,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083388,
+			"updated": 1661687044255,
 			"link": null,
 			"locked": true,
 			"fontSize": 24,
@@ -833,8 +806,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 166,
-			"versionNonce": 1604545422,
+			"version": 167,
+			"versionNonce": 403696281,
 			"isDeleted": false,
 			"id": "ipRzcQbK",
 			"fillStyle": "hachure",
@@ -853,7 +826,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083388,
+			"updated": 1661687044256,
 			"link": null,
 			"locked": true,
 			"fontSize": 24,
@@ -868,8 +841,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 119,
-			"versionNonce": 1866816594,
+			"version": 120,
+			"versionNonce": 556558199,
 			"isDeleted": false,
 			"id": "P7GfAcud",
 			"fillStyle": "hachure",
@@ -888,7 +861,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083388,
+			"updated": 1661687044256,
 			"link": null,
 			"locked": true,
 			"fontSize": 24,
@@ -903,8 +876,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 148,
-			"versionNonce": 394971598,
+			"version": 149,
+			"versionNonce": 600387449,
 			"isDeleted": false,
 			"id": "jbMcmX7o",
 			"fillStyle": "hachure",
@@ -923,7 +896,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083388,
+			"updated": 1661687044256,
 			"link": null,
 			"locked": false,
 			"fontSize": 24,
@@ -938,8 +911,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 131,
-			"versionNonce": 314180114,
+			"version": 132,
+			"versionNonce": 1010720919,
 			"isDeleted": false,
 			"id": "YgPd38IR",
 			"fillStyle": "hachure",
@@ -958,7 +931,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044256,
 			"link": null,
 			"locked": false,
 			"fontSize": 24,
@@ -973,8 +946,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "text",
-			"version": 220,
-			"versionNonce": 258760718,
+			"version": 221,
+			"versionNonce": 1975965785,
 			"isDeleted": false,
 			"id": "Ci2cwhvX",
 			"fillStyle": "hachure",
@@ -993,7 +966,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044256,
 			"link": null,
 			"locked": false,
 			"fontSize": 24,
@@ -1008,8 +981,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "rectangle",
-			"version": 132,
-			"versionNonce": 873721810,
+			"version": 133,
+			"versionNonce": 1358181815,
 			"isDeleted": false,
 			"id": "L-6BWZytHxe4RHYh1JLHN",
 			"fillStyle": "hachure",
@@ -1028,14 +1001,14 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044256,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 248,
-			"versionNonce": 994127438,
+			"version": 249,
+			"versionNonce": 266102073,
 			"isDeleted": false,
 			"id": "LKO6LZALhB5pRiZQWrwrJ",
 			"fillStyle": "hachure",
@@ -1054,7 +1027,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044256,
 			"link": null,
 			"locked": true,
 			"status": "pending",
@@ -1066,8 +1039,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "image",
-			"version": 147,
-			"versionNonce": 2003445138,
+			"version": 148,
+			"versionNonce": 913467095,
 			"isDeleted": false,
 			"id": "veosqRkPqT8Z7kBQPuWV7",
 			"fillStyle": "hachure",
@@ -1086,7 +1059,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044256,
 			"link": null,
 			"locked": true,
 			"status": "pending",
@@ -1098,8 +1071,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 669136014,
+			"version": 59,
+			"versionNonce": 1835882009,
 			"isDeleted": false,
 			"id": "ktwKX_BfiWrmOxcEuG8PP",
 			"fillStyle": "hachure",
@@ -1118,7 +1091,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044256,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1330,8 +1303,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1710465874,
+			"version": 79,
+			"versionNonce": 1800238071,
 			"isDeleted": false,
 			"id": "e1LMFA33dihTi3b0sBEZC",
 			"fillStyle": "hachure",
@@ -1350,7 +1323,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044256,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1662,8 +1635,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 1594389198,
+			"version": 24,
+			"versionNonce": 1366108921,
 			"isDeleted": false,
 			"id": "dw6JSwyGFh0FOGmySbnOZ",
 			"fillStyle": "hachure",
@@ -1682,7 +1655,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044256,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1714,8 +1687,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1241999634,
+			"version": 56,
+			"versionNonce": 663346455,
 			"isDeleted": false,
 			"id": "tJ5Fdk8tMijUZWEwSXQ1E",
 			"fillStyle": "hachure",
@@ -1734,7 +1707,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044256,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1931,8 +1904,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 1263331598,
+			"version": 28,
+			"versionNonce": 1415537625,
 			"isDeleted": false,
 			"id": "wU_3CjajJKODrQZ0Rfq9N",
 			"fillStyle": "hachure",
@@ -1951,7 +1924,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044257,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2008,8 +1981,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 186414802,
+			"version": 25,
+			"versionNonce": 781984311,
 			"isDeleted": false,
 			"id": "jOmCYkUAqvxQ15IB6Nq2b",
 			"fillStyle": "hachure",
@@ -2028,7 +2001,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044257,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2065,8 +2038,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 472422222,
+			"version": 31,
+			"versionNonce": 844595385,
 			"isDeleted": false,
 			"id": "F0ptJiNJx6BiOYcbXSCrz",
 			"fillStyle": "hachure",
@@ -2085,7 +2058,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044257,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2157,8 +2130,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 164220050,
+			"version": 75,
+			"versionNonce": 1634255703,
 			"isDeleted": false,
 			"id": "cgVKxnIus0drY211SOz5J",
 			"fillStyle": "hachure",
@@ -2177,7 +2150,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044257,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2469,8 +2442,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 129,
-			"versionNonce": 703888782,
+			"version": 130,
+			"versionNonce": 1492713881,
 			"isDeleted": false,
 			"id": "qZtaKOHPvcwONxG9hLNEl",
 			"fillStyle": "hachure",
@@ -2489,7 +2462,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044257,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3056,8 +3029,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 2076600914,
+			"version": 59,
+			"versionNonce": 272908407,
 			"isDeleted": false,
 			"id": "3Q2nqGW_3dURrvixyYzpk",
 			"fillStyle": "hachure",
@@ -3076,7 +3049,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044257,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3288,8 +3261,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 1508481998,
+			"version": 39,
+			"versionNonce": 897017465,
 			"isDeleted": false,
 			"id": "LRT51U2HyRdykvDpd6je4",
 			"fillStyle": "hachure",
@@ -3308,7 +3281,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044257,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3420,8 +3393,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 1206472722,
+			"version": 38,
+			"versionNonce": 217258391,
 			"isDeleted": false,
 			"id": "M0pOhqrOXTdoC4Dfh8c3h",
 			"fillStyle": "hachure",
@@ -3440,7 +3413,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044257,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3547,8 +3520,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 35713550,
+			"version": 30,
+			"versionNonce": 1117138777,
 			"isDeleted": false,
 			"id": "RUuTxKtgViFeBm_mz2T1i",
 			"fillStyle": "hachure",
@@ -3567,7 +3540,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044257,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3634,8 +3607,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 1646886354,
+			"version": 60,
+			"versionNonce": 2091503287,
 			"isDeleted": false,
 			"id": "CbqGBfeNGzGvzYV0uiI6M",
 			"fillStyle": "hachure",
@@ -3654,7 +3627,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044257,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3871,8 +3844,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1301512270,
+			"version": 35,
+			"versionNonce": 1453907001,
 			"isDeleted": false,
 			"id": "JfPMhhi3uofz7LtLAL-n5",
 			"fillStyle": "hachure",
@@ -3891,7 +3864,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044257,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3983,8 +3956,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 664662930,
+			"version": 58,
+			"versionNonce": 1779228631,
 			"isDeleted": false,
 			"id": "HS9rsoj6gefSqje9IoIMl",
 			"fillStyle": "hachure",
@@ -4003,7 +3976,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044257,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4210,8 +4183,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 538592910,
+			"version": 69,
+			"versionNonce": 831712537,
 			"isDeleted": false,
 			"id": "yMDjMTMKGdjUQ4TksyiDA",
 			"fillStyle": "hachure",
@@ -4230,7 +4203,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044257,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4492,8 +4465,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 981315922,
+			"version": 69,
+			"versionNonce": 389074167,
 			"isDeleted": false,
 			"id": "bIugWZCNaqRrXYFj5ZXtd",
 			"fillStyle": "hachure",
@@ -4512,7 +4485,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044258,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4774,8 +4747,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 2054046926,
+			"version": 53,
+			"versionNonce": 1254613497,
 			"isDeleted": false,
 			"id": "tFm6KxKTn-nO5_FA7yjj_",
 			"fillStyle": "hachure",
@@ -4794,7 +4767,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044258,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4976,8 +4949,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1579136786,
+			"version": 27,
+			"versionNonce": 261756439,
 			"isDeleted": false,
 			"id": "yIe5pPHVODJN6cwW1gEup",
 			"fillStyle": "hachure",
@@ -4996,7 +4969,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044258,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5048,8 +5021,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 1579711246,
+			"version": 34,
+			"versionNonce": 1598765785,
 			"isDeleted": false,
 			"id": "-Ji8gRx4YY-6BxdaGgph5",
 			"fillStyle": "hachure",
@@ -5068,7 +5041,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083389,
+			"updated": 1661687044258,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5155,8 +5128,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1392182482,
+			"version": 29,
+			"versionNonce": 2050833207,
 			"isDeleted": false,
 			"id": "vt8tHV-l3SFYi4sXrrvST",
 			"fillStyle": "hachure",
@@ -5175,7 +5148,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044258,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5237,8 +5210,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 135,
-			"versionNonce": 834791758,
+			"version": 136,
+			"versionNonce": 1068529593,
 			"isDeleted": false,
 			"id": "NnhkEDZSZxsERclCCK7ZB",
 			"fillStyle": "hachure",
@@ -5257,7 +5230,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044258,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5854,8 +5827,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 849779346,
+			"version": 48,
+			"versionNonce": 729726039,
 			"isDeleted": false,
 			"id": "THr9NfExwhtVTjrvcesDG",
 			"fillStyle": "hachure",
@@ -5874,7 +5847,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044258,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6036,8 +6009,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 613650318,
+			"version": 90,
+			"versionNonce": 1578834073,
 			"isDeleted": false,
 			"id": "g9WC2-rlrzluN8in9rPRM",
 			"fillStyle": "hachure",
@@ -6056,7 +6029,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044258,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6428,8 +6401,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1272543314,
+			"version": 64,
+			"versionNonce": 1999837559,
 			"isDeleted": false,
 			"id": "FZ_NwKTfJuAyDnElP_Lhp",
 			"fillStyle": "hachure",
@@ -6448,7 +6421,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044258,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6685,8 +6658,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 316042702,
+			"version": 32,
+			"versionNonce": 473865593,
 			"isDeleted": false,
 			"id": "UXTr8OdRbG-dUag3jMul3",
 			"fillStyle": "hachure",
@@ -6705,7 +6678,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044258,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6782,8 +6755,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 2120916498,
+			"version": 29,
+			"versionNonce": 1117704855,
 			"isDeleted": false,
 			"id": "gFEc8M3AunC8SjW_Lmct3",
 			"fillStyle": "hachure",
@@ -6802,7 +6775,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044258,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6864,8 +6837,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 1772323854,
+			"version": 26,
+			"versionNonce": 1499367001,
 			"isDeleted": false,
 			"id": "eXeL9CC_dJJ1KP7aVGFkA",
 			"fillStyle": "hachure",
@@ -6884,7 +6857,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044258,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6931,8 +6904,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 391187410,
+			"version": 29,
+			"versionNonce": 1450600375,
 			"isDeleted": false,
 			"id": "0epS-6HOIKcRF5Ri4-sbx",
 			"fillStyle": "hachure",
@@ -6951,7 +6924,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044258,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7013,8 +6986,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 183751246,
+			"version": 35,
+			"versionNonce": 1078874937,
 			"isDeleted": false,
 			"id": "yD5B06blSMxwXz9mRs_z-",
 			"fillStyle": "hachure",
@@ -7033,7 +7006,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044259,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7125,8 +7098,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 748929426,
+			"version": 45,
+			"versionNonce": 1893619927,
 			"isDeleted": false,
 			"id": "pMsNVLHlYjMgKIjYImraa",
 			"fillStyle": "hachure",
@@ -7145,7 +7118,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044259,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7287,8 +7260,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 832592014,
+			"version": 76,
+			"versionNonce": 1433502745,
 			"isDeleted": false,
 			"id": "XhEKkyZo1FXIxCkSZCq8C",
 			"fillStyle": "hachure",
@@ -7307,7 +7280,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044259,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7609,8 +7582,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 2040119122,
+			"version": 49,
+			"versionNonce": 392898039,
 			"isDeleted": false,
 			"id": "tDIY5Zs6cPIndnR-13O1e",
 			"fillStyle": "hachure",
@@ -7629,7 +7602,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044259,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7791,8 +7764,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1432491726,
+			"version": 69,
+			"versionNonce": 1153145081,
 			"isDeleted": false,
 			"id": "5QK2cuTs6Lhk2uF0A66Vw",
 			"fillStyle": "hachure",
@@ -7811,7 +7784,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044259,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8073,8 +8046,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 982123794,
+			"version": 36,
+			"versionNonce": 690048791,
 			"isDeleted": false,
 			"id": "6vWzdPCua8uircM3AeYae",
 			"fillStyle": "hachure",
@@ -8093,7 +8066,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044259,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8190,8 +8163,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 248646926,
+			"version": 91,
+			"versionNonce": 1873809881,
 			"isDeleted": false,
 			"id": "aS_aUSriCz2m0rAEohkhI",
 			"fillStyle": "hachure",
@@ -8210,7 +8183,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044259,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8582,8 +8555,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 149656274,
+			"version": 25,
+			"versionNonce": 812995639,
 			"isDeleted": false,
 			"id": "WRbcFrlfLppxf1_MP_Ywt",
 			"fillStyle": "hachure",
@@ -8602,7 +8575,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044259,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8639,8 +8612,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 2070494030,
+			"version": 50,
+			"versionNonce": 996306617,
 			"isDeleted": false,
 			"id": "n4m1bMHBzlHN8OUdEeKlK",
 			"fillStyle": "hachure",
@@ -8659,7 +8632,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044259,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8826,8 +8799,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 51,
-			"versionNonce": 928344210,
+			"version": 52,
+			"versionNonce": 1967895895,
 			"isDeleted": false,
 			"id": "ai2jWKiDCXDBrbV0Kltwz",
 			"fillStyle": "hachure",
@@ -8846,7 +8819,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044259,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9023,8 +8996,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 562078094,
+			"version": 65,
+			"versionNonce": 511061913,
 			"isDeleted": false,
 			"id": "PnaXiB2myZk2vY0O1g1M9",
 			"fillStyle": "hachure",
@@ -9043,7 +9016,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044259,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9285,8 +9258,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 763266642,
+			"version": 30,
+			"versionNonce": 1324937847,
 			"isDeleted": false,
 			"id": "MWn-c3f45B7-9AuRIVHqu",
 			"fillStyle": "hachure",
@@ -9305,7 +9278,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044259,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9372,8 +9345,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1414610894,
+			"version": 27,
+			"versionNonce": 1864291449,
 			"isDeleted": false,
 			"id": "8yxo1Pnd-r-gGG_wkh-yR",
 			"fillStyle": "hachure",
@@ -9392,7 +9365,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044260,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9444,8 +9417,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1144908818,
+			"version": 27,
+			"versionNonce": 910265239,
 			"isDeleted": false,
 			"id": "PSf8THR2KIJR6KPd3Mf7H",
 			"fillStyle": "hachure",
@@ -9464,7 +9437,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044260,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9511,8 +9484,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 401872398,
+			"version": 30,
+			"versionNonce": 1897913689,
 			"isDeleted": false,
 			"id": "S9n7QsvCU2nuCGZbFmeZd",
 			"fillStyle": "hachure",
@@ -9531,7 +9504,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044260,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9598,8 +9571,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 562731474,
+			"version": 28,
+			"versionNonce": 391774391,
 			"isDeleted": false,
 			"id": "FvbpOTOqi8Q-S90dCAIP1",
 			"fillStyle": "hachure",
@@ -9618,7 +9591,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044260,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9675,8 +9648,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 90317902,
+			"version": 39,
+			"versionNonce": 600623673,
 			"isDeleted": false,
 			"id": "LTNAXqw-QqU-RZZyK_Ay6",
 			"fillStyle": "hachure",
@@ -9695,7 +9668,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083390,
+			"updated": 1661687044260,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9807,8 +9780,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 343642002,
+			"version": 35,
+			"versionNonce": 1676071383,
 			"isDeleted": false,
 			"id": "WX0Tl7HzoNvFaRFyY1AK9",
 			"fillStyle": "hachure",
@@ -9827,7 +9800,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044260,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9919,8 +9892,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 779381390,
+			"version": 37,
+			"versionNonce": 1342774041,
 			"isDeleted": false,
 			"id": "UYyzboPQ1NAvctbLa_SI-",
 			"fillStyle": "hachure",
@@ -9939,7 +9912,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044260,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10041,8 +10014,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1900531026,
+			"version": 29,
+			"versionNonce": 1694269175,
 			"isDeleted": false,
 			"id": "_hF4n2ZMK72ALerblMEmP",
 			"fillStyle": "hachure",
@@ -10061,7 +10034,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044260,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10123,8 +10096,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 31713486,
+			"version": 35,
+			"versionNonce": 1447579641,
 			"isDeleted": false,
 			"id": "9amnOKPUNdW2RyvNgRhDm",
 			"fillStyle": "hachure",
@@ -10143,7 +10116,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044260,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10235,8 +10208,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 1833325330,
+			"version": 26,
+			"versionNonce": 1293912087,
 			"isDeleted": false,
 			"id": "mt3yDCRlo49Gt5atiDgEt",
 			"fillStyle": "hachure",
@@ -10255,7 +10228,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044260,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10302,8 +10275,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 793353998,
+			"version": 24,
+			"versionNonce": 1015933145,
 			"isDeleted": false,
 			"id": "ql8HnrCaWfpuDcTxY5bGG",
 			"fillStyle": "hachure",
@@ -10322,7 +10295,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044260,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10359,8 +10332,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 2062426322,
+			"version": 44,
+			"versionNonce": 172256567,
 			"isDeleted": false,
 			"id": "ESuWAEz0_AHg0-V0okVft",
 			"fillStyle": "hachure",
@@ -10379,7 +10352,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044260,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10516,8 +10489,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 186551630,
+			"version": 49,
+			"versionNonce": 2087544249,
 			"isDeleted": false,
 			"id": "hfvswbhgRBk_YfMwxIPUW",
 			"fillStyle": "hachure",
@@ -10536,7 +10509,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044260,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10708,8 +10681,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 634795666,
+			"version": 24,
+			"versionNonce": 1473228375,
 			"isDeleted": false,
 			"id": "AHi0WML_ubce4VsHTjlyM",
 			"fillStyle": "hachure",
@@ -10728,7 +10701,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044261,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10775,8 +10748,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 1924903822,
+			"version": 43,
+			"versionNonce": 285886105,
 			"isDeleted": false,
 			"id": "4eGOb1DH5BxQU4joOYzRm",
 			"fillStyle": "hachure",
@@ -10795,7 +10768,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044261,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10937,8 +10910,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 1857393746,
+			"version": 47,
+			"versionNonce": 278252407,
 			"isDeleted": false,
 			"id": "43z1nC8Pi-WuNvuJ73Jhx",
 			"fillStyle": "hachure",
@@ -10957,7 +10930,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044261,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11119,8 +11092,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 811209166,
+			"version": 97,
+			"versionNonce": 1159203705,
 			"isDeleted": false,
 			"id": "q5EUgO6bvuyljSVWjPyru",
 			"fillStyle": "hachure",
@@ -11139,7 +11112,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044261,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11551,8 +11524,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 660814354,
+			"version": 35,
+			"versionNonce": 1088111767,
 			"isDeleted": false,
 			"id": "_fzd_sfqjCTtfh_uSUVwY",
 			"fillStyle": "hachure",
@@ -11571,7 +11544,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044261,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11673,8 +11646,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 1595058190,
+			"version": 47,
+			"versionNonce": 1088042073,
 			"isDeleted": false,
 			"id": "I9suwKX-zBLLS6DN_Yv_9",
 			"fillStyle": "hachure",
@@ -11693,7 +11666,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044261,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11855,8 +11828,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1322657746,
+			"version": 100,
+			"versionNonce": 2018810295,
 			"isDeleted": false,
 			"id": "B0eLmXmFujor6yXMKUmcD",
 			"fillStyle": "hachure",
@@ -11875,7 +11848,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044261,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12302,8 +12275,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1323202126,
+			"version": 27,
+			"versionNonce": 1478771001,
 			"isDeleted": false,
 			"id": "hwCWuws1-dlAUc6Xhx5Xl",
 			"fillStyle": "hachure",
@@ -12322,7 +12295,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044261,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12384,8 +12357,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1831165330,
+			"version": 23,
+			"versionNonce": 1546013399,
 			"isDeleted": false,
 			"id": "nJcE2fq44YG4Y-CR_FPOb",
 			"fillStyle": "hachure",
@@ -12404,7 +12377,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044261,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12446,8 +12419,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 1754692750,
+			"version": 28,
+			"versionNonce": 408531481,
 			"isDeleted": false,
 			"id": "idc8IHiT3chJGxfI7r_GJ",
 			"fillStyle": "hachure",
@@ -12466,7 +12439,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044261,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12533,8 +12506,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 1871174482,
+			"version": 66,
+			"versionNonce": 2028263415,
 			"isDeleted": false,
 			"id": "T2nXT_7JVtk92hq0YgsoB",
 			"fillStyle": "hachure",
@@ -12553,7 +12526,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044261,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12810,8 +12783,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 301185742,
+			"version": 34,
+			"versionNonce": 376309497,
 			"isDeleted": false,
 			"id": "lTBu1tRkciV7UDPKdwo9k",
 			"fillStyle": "hachure",
@@ -12830,7 +12803,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044261,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12927,8 +12900,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 72655122,
+			"version": 66,
+			"versionNonce": 1419034903,
 			"isDeleted": false,
 			"id": "Vm8VDr_ksahye6ZMbtDdC",
 			"fillStyle": "hachure",
@@ -12947,7 +12920,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044261,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13204,8 +13177,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 294596878,
+			"version": 35,
+			"versionNonce": 2095366105,
 			"isDeleted": false,
 			"id": "SzY3W3O3IDVkJ8MJboqkN",
 			"fillStyle": "hachure",
@@ -13224,7 +13197,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044262,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13326,8 +13299,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1996664530,
+			"version": 56,
+			"versionNonce": 1084917303,
 			"isDeleted": false,
 			"id": "Vgs8vaApfDbOIOEuR6Dw2",
 			"fillStyle": "hachure",
@@ -13346,7 +13319,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044262,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13553,8 +13526,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 1927405390,
+			"version": 33,
+			"versionNonce": 1506892985,
 			"isDeleted": false,
 			"id": "YSu7E8ybI3jal4xLqd44G",
 			"fillStyle": "hachure",
@@ -13573,7 +13546,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044262,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13665,8 +13638,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 120,
-			"versionNonce": 204014738,
+			"version": 121,
+			"versionNonce": 1812637527,
 			"isDeleted": false,
 			"id": "WWTxyX1QaccUCTXDV_bNN",
 			"fillStyle": "hachure",
@@ -13685,7 +13658,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044262,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14217,8 +14190,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 1782891918,
+			"version": 34,
+			"versionNonce": 752311705,
 			"isDeleted": false,
 			"id": "7qp5K0LyvnLUTPj6Kt4C7",
 			"fillStyle": "hachure",
@@ -14237,7 +14210,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044262,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14334,8 +14307,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 1568580178,
+			"version": 53,
+			"versionNonce": 889824375,
 			"isDeleted": false,
 			"id": "otZWMmniah5Bm9VUb52ML",
 			"fillStyle": "hachure",
@@ -14354,7 +14327,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083391,
+			"updated": 1661687044262,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14546,8 +14519,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 955311054,
+			"version": 73,
+			"versionNonce": 891961977,
 			"isDeleted": false,
 			"id": "ujiQaIGk5EoZHUtDCjgnp",
 			"fillStyle": "hachure",
@@ -14566,7 +14539,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044262,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14858,8 +14831,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 903514130,
+			"version": 95,
+			"versionNonce": 996933015,
 			"isDeleted": false,
 			"id": "P2d3rpsPfexLyXIWYxCSS",
 			"fillStyle": "hachure",
@@ -14878,7 +14851,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044262,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15280,8 +15253,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 285161998,
+			"version": 37,
+			"versionNonce": 2139982681,
 			"isDeleted": false,
 			"id": "5oF-EcyaWdK2N5UErioQQ",
 			"fillStyle": "hachure",
@@ -15300,7 +15273,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044262,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15412,8 +15385,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 1832105426,
+			"version": 38,
+			"versionNonce": 845558455,
 			"isDeleted": false,
 			"id": "AfuqTpYRTHnFnPIn1arxU",
 			"fillStyle": "hachure",
@@ -15432,7 +15405,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044262,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15549,8 +15522,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 2036910158,
+			"version": 39,
+			"versionNonce": 877967417,
 			"isDeleted": false,
 			"id": "vZU2Jzi-fG3G9u2gKbpbc",
 			"fillStyle": "hachure",
@@ -15569,7 +15542,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044262,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15691,8 +15664,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 76,
-			"versionNonce": 1151413138,
+			"version": 77,
+			"versionNonce": 1922876375,
 			"isDeleted": false,
 			"id": "fk6AY5yESRW1m4TwMFL2P",
 			"fillStyle": "hachure",
@@ -15711,7 +15684,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044262,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16023,8 +15996,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 839290510,
+			"version": 29,
+			"versionNonce": 627263769,
 			"isDeleted": false,
 			"id": "chk0FdEeCefHFeevBoLMX",
 			"fillStyle": "hachure",
@@ -16043,7 +16016,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044263,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16115,8 +16088,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 132,
-			"versionNonce": 1113188690,
+			"version": 133,
+			"versionNonce": 1277440247,
 			"isDeleted": false,
 			"id": "TojVSAi0BQKnkusdaca7w",
 			"fillStyle": "hachure",
@@ -16135,7 +16108,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044263,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16727,8 +16700,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 395414734,
+			"version": 82,
+			"versionNonce": 472694265,
 			"isDeleted": false,
 			"id": "sqAFt02zaj2du_X6pn_Hl",
 			"fillStyle": "hachure",
@@ -16747,7 +16720,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044263,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17084,8 +17057,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 229961490,
+			"version": 73,
+			"versionNonce": 411105815,
 			"isDeleted": false,
 			"id": "DcVGySqREIWgbBlj0C7ym",
 			"fillStyle": "hachure",
@@ -17104,7 +17077,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044263,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17396,8 +17369,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 124,
-			"versionNonce": 128107278,
+			"version": 125,
+			"versionNonce": 1739888345,
 			"isDeleted": false,
 			"id": "JvZrcSgEMSO9UhMjNXvko",
 			"fillStyle": "hachure",
@@ -17416,7 +17389,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044263,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17968,8 +17941,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 1260993746,
+			"version": 25,
+			"versionNonce": 212311863,
 			"isDeleted": false,
 			"id": "Mdnln5wwgrt-9TgjbOmc4",
 			"fillStyle": "hachure",
@@ -17988,7 +17961,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044263,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18040,8 +18013,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 1152594254,
+			"version": 22,
+			"versionNonce": 713970617,
 			"isDeleted": false,
 			"id": "gp0Asy1e9RNx_ZryEcewA",
 			"fillStyle": "hachure",
@@ -18060,7 +18033,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044263,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18092,8 +18065,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 2018366098,
+			"version": 40,
+			"versionNonce": 1258070103,
 			"isDeleted": false,
 			"id": "sfO8ekRUHIwFB_j2rqSjj",
 			"fillStyle": "hachure",
@@ -18112,7 +18085,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044263,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18239,8 +18212,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 66,
-			"versionNonce": 1511774094,
+			"version": 67,
+			"versionNonce": 1759343769,
 			"isDeleted": false,
 			"id": "gSnY94nSGEo781Je_oE1-",
 			"fillStyle": "hachure",
@@ -18259,7 +18232,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044263,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18521,8 +18494,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 1205448786,
+			"version": 30,
+			"versionNonce": 894729591,
 			"isDeleted": false,
 			"id": "rDtUqW4Vfaf8jVakGD9Bh",
 			"fillStyle": "hachure",
@@ -18541,7 +18514,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044263,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18618,8 +18591,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 1422798,
+			"version": 25,
+			"versionNonce": 1448442233,
 			"isDeleted": false,
 			"id": "AKn4_8VthjulFzAH9G-VW",
 			"fillStyle": "hachure",
@@ -18638,7 +18611,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044263,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18690,8 +18663,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 2107889170,
+			"version": 24,
+			"versionNonce": 2129901207,
 			"isDeleted": false,
 			"id": "NVMal8ytnWsSWMluhbf8w",
 			"fillStyle": "hachure",
@@ -18710,7 +18683,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044263,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18752,8 +18725,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 2142882830,
+			"version": 31,
+			"versionNonce": 1681515097,
 			"isDeleted": false,
 			"id": "rjHCWsMsFX8BQw2nh42Y6",
 			"fillStyle": "hachure",
@@ -18772,7 +18745,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044263,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18849,8 +18822,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1252213714,
+			"version": 27,
+			"versionNonce": 2123287479,
 			"isDeleted": false,
 			"id": "NTH8spiPOQztc8mAveQac",
 			"fillStyle": "hachure",
@@ -18869,7 +18842,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044264,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18931,8 +18904,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 385948238,
+			"version": 55,
+			"versionNonce": 257830713,
 			"isDeleted": false,
 			"id": "m6BOqa-ZKlzLn69-Eh6AF",
 			"fillStyle": "hachure",
@@ -18951,7 +18924,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044264,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19153,8 +19126,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 686750098,
+			"version": 81,
+			"versionNonce": 1078607063,
 			"isDeleted": false,
 			"id": "qLd7emVtb3oG06U6ekj5U",
 			"fillStyle": "hachure",
@@ -19173,7 +19146,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044264,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19510,8 +19483,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 1556390030,
+			"version": 39,
+			"versionNonce": 1847975961,
 			"isDeleted": false,
 			"id": "xBUWgMAm4Lk3N2mD0P2ix",
 			"fillStyle": "hachure",
@@ -19530,7 +19503,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044264,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19657,8 +19630,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 935196498,
+			"version": 37,
+			"versionNonce": 1471842807,
 			"isDeleted": false,
 			"id": "PHe_Gr3a1WZeGqhMpJu8U",
 			"fillStyle": "hachure",
@@ -19677,7 +19650,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044264,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19794,8 +19767,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 616390350,
+			"version": 22,
+			"versionNonce": 2122609913,
 			"isDeleted": false,
 			"id": "8X91tMZKblSxWw9pemaOK",
 			"fillStyle": "hachure",
@@ -19814,7 +19787,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044264,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19851,8 +19824,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 392641810,
+			"version": 27,
+			"versionNonce": 1910780695,
 			"isDeleted": false,
 			"id": "7PUs6o3Y0fehqmn-rdnDj",
 			"fillStyle": "hachure",
@@ -19871,7 +19844,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044264,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19938,8 +19911,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 1669616910,
+			"version": 39,
+			"versionNonce": 872246745,
 			"isDeleted": false,
 			"id": "3RaVPm4zZx_5QieVpAGVH",
 			"fillStyle": "hachure",
@@ -19958,7 +19931,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044264,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20085,8 +20058,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 68,
-			"versionNonce": 1164036818,
+			"version": 69,
+			"versionNonce": 658225207,
 			"isDeleted": false,
 			"id": "UgK5jg1yBFWX5NNGSBBzf",
 			"fillStyle": "hachure",
@@ -20105,7 +20078,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044264,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20382,8 +20355,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 311591758,
+			"version": 32,
+			"versionNonce": 1168394937,
 			"isDeleted": false,
 			"id": "rg2RN9djEP1vPD1Pxp0oc",
 			"fillStyle": "hachure",
@@ -20402,7 +20375,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083392,
+			"updated": 1661687044264,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20494,8 +20467,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 2017763474,
+			"version": 36,
+			"versionNonce": 228956503,
 			"isDeleted": false,
 			"id": "mx2scoia2m9XxKpGoocrD",
 			"fillStyle": "hachure",
@@ -20514,7 +20487,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044264,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20621,8 +20594,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 339798414,
+			"version": 24,
+			"versionNonce": 1008503705,
 			"isDeleted": false,
 			"id": "oFNwzP8pAp8IBqCWSn1N1",
 			"fillStyle": "hachure",
@@ -20641,7 +20614,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044264,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20688,8 +20661,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 2076622418,
+			"version": 34,
+			"versionNonce": 175527543,
 			"isDeleted": false,
 			"id": "t0MliupNC79yu7F3Hiosg",
 			"fillStyle": "hachure",
@@ -20708,7 +20681,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044264,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20810,8 +20783,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 399017934,
+			"version": 22,
+			"versionNonce": 1067036793,
 			"isDeleted": false,
 			"id": "QcJnhuRvX8TtGM2b01dyv",
 			"fillStyle": "hachure",
@@ -20830,7 +20803,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044265,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20872,8 +20845,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 213853202,
+			"version": 31,
+			"versionNonce": 1685221271,
 			"isDeleted": false,
 			"id": "FMRIWeXNctjVXqyQjbIKu",
 			"fillStyle": "hachure",
@@ -20892,7 +20865,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044265,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20979,8 +20952,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 2101501454,
+			"version": 48,
+			"versionNonce": 635386201,
 			"isDeleted": false,
 			"id": "nlGAjlsOTPsy_xi7eZcsL",
 			"fillStyle": "hachure",
@@ -20999,7 +20972,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044265,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21171,8 +21144,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 891605458,
+			"version": 56,
+			"versionNonce": 365847735,
 			"isDeleted": false,
 			"id": "duy2s6NF3NQXefaDeRfr_",
 			"fillStyle": "hachure",
@@ -21191,7 +21164,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044265,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21403,8 +21376,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 967273550,
+			"version": 22,
+			"versionNonce": 1077978681,
 			"isDeleted": false,
 			"id": "E-Q9pcOvdeWAwvFpHgRnj",
 			"fillStyle": "hachure",
@@ -21423,7 +21396,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044265,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21465,8 +21438,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 672057234,
+			"version": 23,
+			"versionNonce": 1580119511,
 			"isDeleted": false,
 			"id": "C6qqamHPxh1bFVyDQkwhJ",
 			"fillStyle": "hachure",
@@ -21485,7 +21458,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044265,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21532,8 +21505,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 986755726,
+			"version": 55,
+			"versionNonce": 1772189465,
 			"isDeleted": false,
 			"id": "kfshgRS7hBe9GUV2buMy9",
 			"fillStyle": "hachure",
@@ -21552,7 +21525,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044265,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21759,8 +21732,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 498337106,
+			"version": 27,
+			"versionNonce": 346546935,
 			"isDeleted": false,
 			"id": "z-0jjUVb5ntenn9iqFVbm",
 			"fillStyle": "hachure",
@@ -21779,7 +21752,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044265,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21846,8 +21819,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 1266102478,
+			"version": 28,
+			"versionNonce": 1416965113,
 			"isDeleted": false,
 			"id": "jmhYCIY6lTI3lCLqOq12i",
 			"fillStyle": "hachure",
@@ -21866,7 +21839,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044265,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21938,8 +21911,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 795577106,
+			"version": 41,
+			"versionNonce": 968780823,
 			"isDeleted": false,
 			"id": "uLNlqRoOxZzf5vNWbckiV",
 			"fillStyle": "hachure",
@@ -21958,7 +21931,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044265,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22095,8 +22068,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1999890190,
+			"version": 29,
+			"versionNonce": 415188185,
 			"isDeleted": false,
 			"id": "kNb7WD-bepL8B40vT6y4p",
 			"fillStyle": "hachure",
@@ -22115,7 +22088,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044265,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22187,8 +22160,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 866932946,
+			"version": 23,
+			"versionNonce": 1231474999,
 			"isDeleted": false,
 			"id": "-Z1dpismvXRQEPVoNP6ra",
 			"fillStyle": "hachure",
@@ -22207,7 +22180,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044265,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22269,8 +22242,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 1853871438,
+			"version": 25,
+			"versionNonce": 34816441,
 			"isDeleted": false,
 			"id": "dQvhwtM31JeB13FNgB8JQ",
 			"fillStyle": "hachure",
@@ -22289,7 +22262,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044266,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22361,8 +22334,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 437087890,
+			"version": 29,
+			"versionNonce": 1292210775,
 			"isDeleted": false,
 			"id": "4-GWvCGj0nH0g_HaUFqrL",
 			"fillStyle": "hachure",
@@ -22381,7 +22354,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044266,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22473,8 +22446,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1790180238,
+			"version": 29,
+			"versionNonce": 496280217,
 			"isDeleted": false,
 			"id": "lazTNhab09yHp_U7tbwwo",
 			"fillStyle": "hachure",
@@ -22493,7 +22466,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044266,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22580,8 +22553,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 1195756626,
+			"version": 21,
+			"versionNonce": 762261367,
 			"isDeleted": false,
 			"id": "vSC-wnxSeVR0NVgpCdMIg",
 			"fillStyle": "hachure",
@@ -22600,7 +22573,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044266,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22652,8 +22625,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 302602702,
+			"version": 20,
+			"versionNonce": 133621625,
 			"isDeleted": false,
 			"id": "LQt3HL82qlke78AEtGnJb",
 			"fillStyle": "hachure",
@@ -22672,7 +22645,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044266,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22719,8 +22692,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 1898738194,
+			"version": 36,
+			"versionNonce": 1156065431,
 			"isDeleted": false,
 			"id": "yt0r6uKav6Vgg3haghgYc",
 			"fillStyle": "hachure",
@@ -22739,7 +22712,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044266,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22866,8 +22839,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 1536749582,
+			"version": 42,
+			"versionNonce": 2071826521,
 			"isDeleted": false,
 			"id": "i-slMBOel4tHUwmlNUxyj",
 			"fillStyle": "hachure",
@@ -22886,7 +22859,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044266,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23043,8 +23016,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 2058903506,
+			"version": 27,
+			"versionNonce": 824507831,
 			"isDeleted": false,
 			"id": "pxoulEV_R8q8A6u2BSMSw",
 			"fillStyle": "hachure",
@@ -23063,7 +23036,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044266,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23145,8 +23118,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1935392334,
+			"version": 27,
+			"versionNonce": 503061817,
 			"isDeleted": false,
 			"id": "gA4POm29wkUmvKOCXtKZp",
 			"fillStyle": "hachure",
@@ -23165,7 +23138,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044266,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23247,8 +23220,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 1342215570,
+			"version": 22,
+			"versionNonce": 1699360471,
 			"isDeleted": false,
 			"id": "gdsfVIYuwd1LfvH5u3jae",
 			"fillStyle": "hachure",
@@ -23267,7 +23240,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044266,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23324,8 +23297,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 506119310,
+			"version": 23,
+			"versionNonce": 248909337,
 			"isDeleted": false,
 			"id": "2F199fmxVY5Spp75zWxGw",
 			"fillStyle": "hachure",
@@ -23344,7 +23317,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083393,
+			"updated": 1661687044266,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23406,8 +23379,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1111233362,
+			"version": 35,
+			"versionNonce": 2079079415,
 			"isDeleted": false,
 			"id": "96nOMQjHyIdOAm-kklqYr",
 			"fillStyle": "hachure",
@@ -23426,7 +23399,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044266,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23543,8 +23516,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 499057358,
+			"version": 22,
+			"versionNonce": 889119481,
 			"isDeleted": false,
 			"id": "taqvS7LJ7CAHJ55xUOBqm",
 			"fillStyle": "hachure",
@@ -23563,7 +23536,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044266,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23615,8 +23588,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 1673648402,
+			"version": 31,
+			"versionNonce": 1225762071,
 			"isDeleted": false,
 			"id": "G84L5bRi1odKU4x0DPmGX",
 			"fillStyle": "hachure",
@@ -23635,7 +23608,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044267,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23737,8 +23710,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 347175182,
+			"version": 20,
+			"versionNonce": 1291459545,
 			"isDeleted": false,
 			"id": "EJ7jysAlepn1-6T-nd7lW",
 			"fillStyle": "hachure",
@@ -23757,7 +23730,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044267,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23804,8 +23777,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1678304978,
+			"version": 23,
+			"versionNonce": 740878903,
 			"isDeleted": false,
 			"id": "j7akLazndK-pdKQn-Wcmd",
 			"fillStyle": "hachure",
@@ -23824,7 +23797,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044267,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23886,8 +23859,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1786455886,
+			"version": 23,
+			"versionNonce": 920336569,
 			"isDeleted": false,
 			"id": "_m9m2zrNR8MOnZdOL3zwA",
 			"fillStyle": "hachure",
@@ -23906,7 +23879,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044267,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23968,8 +23941,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 1806187666,
+			"version": 37,
+			"versionNonce": 572296023,
 			"isDeleted": false,
 			"id": "vWk2iRbKvC3D7J4qEqROF",
 			"fillStyle": "hachure",
@@ -23988,7 +23961,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044267,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24120,8 +24093,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 796200334,
+			"version": 20,
+			"versionNonce": 71678361,
 			"isDeleted": false,
 			"id": "L_zIcAo2yMgv3b-c9bFGP",
 			"fillStyle": "hachure",
@@ -24140,7 +24113,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044267,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24182,8 +24155,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 2018957906,
+			"version": 41,
+			"versionNonce": 390006903,
 			"isDeleted": false,
 			"id": "ZQp1JpNNzN65Rmwl3CEhO",
 			"fillStyle": "hachure",
@@ -24202,7 +24175,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044267,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24349,8 +24322,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 14166990,
+			"version": 21,
+			"versionNonce": 1181556345,
 			"isDeleted": false,
 			"id": "KnJ8E1A3oNpS2qDvJ53wz",
 			"fillStyle": "hachure",
@@ -24369,7 +24342,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044267,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24421,8 +24394,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 954974226,
+			"version": 23,
+			"versionNonce": 2035605911,
 			"isDeleted": false,
 			"id": "r1yWPM23fmLwKs8m3ixWn",
 			"fillStyle": "hachure",
@@ -24441,7 +24414,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044267,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24503,8 +24476,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 1824358926,
+			"version": 47,
+			"versionNonce": 471131993,
 			"isDeleted": false,
 			"id": "x4-qxNELXcCpB36dCDZjh",
 			"fillStyle": "hachure",
@@ -24523,7 +24496,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044267,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24705,8 +24678,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 1767763410,
+			"version": 19,
+			"versionNonce": 160601783,
 			"isDeleted": false,
 			"id": "FE4YkLc_NiWaJDdtJWdMA",
 			"fillStyle": "hachure",
@@ -24725,7 +24698,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044267,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24767,8 +24740,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 1444810830,
+			"version": 21,
+			"versionNonce": 2140181561,
 			"isDeleted": false,
 			"id": "P8U-HIcHd33hmG_2ZYaUI",
 			"fillStyle": "hachure",
@@ -24787,7 +24760,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24839,8 +24812,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 784622482,
+			"version": 25,
+			"versionNonce": 1855760343,
 			"isDeleted": false,
 			"id": "qVfshgpKW7wn0g_mxh0sJ",
 			"fillStyle": "hachure",
@@ -24859,7 +24832,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24931,8 +24904,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 1490212494,
+			"version": 42,
+			"versionNonce": 1422107929,
 			"isDeleted": false,
 			"id": "V8ZxFqdOnaybDBU69biGv",
 			"fillStyle": "hachure",
@@ -24951,7 +24924,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25108,8 +25081,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 1935024466,
+			"version": 28,
+			"versionNonce": 109548791,
 			"isDeleted": false,
 			"id": "gdNtLQTci1Mrfg8D6kS1G",
 			"fillStyle": "hachure",
@@ -25128,7 +25101,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25215,8 +25188,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 764728526,
+			"version": 33,
+			"versionNonce": 924948985,
 			"isDeleted": false,
 			"id": "ESsyc4B7f3pWNRldKT5wT",
 			"fillStyle": "hachure",
@@ -25235,7 +25208,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25347,8 +25320,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 1114253074,
+			"version": 31,
+			"versionNonce": 2027413015,
 			"isDeleted": false,
 			"id": "9G14pwffuUsfCU13CqScT",
 			"fillStyle": "hachure",
@@ -25367,7 +25340,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25469,8 +25442,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 234687246,
+			"version": 26,
+			"versionNonce": 128840409,
 			"isDeleted": false,
 			"id": "flOgBceSd6XGAwfDSZs7P",
 			"fillStyle": "hachure",
@@ -25489,7 +25462,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25566,8 +25539,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 611808466,
+			"version": 26,
+			"versionNonce": 142738231,
 			"isDeleted": false,
 			"id": "icozTwBMbvVFrYf2SqYWh",
 			"fillStyle": "hachure",
@@ -25586,7 +25559,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25663,8 +25636,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 411334990,
+			"version": 32,
+			"versionNonce": 989605817,
 			"isDeleted": false,
 			"id": "xqZVB9jq4t_R14izBvJjr",
 			"fillStyle": "hachure",
@@ -25683,7 +25656,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25790,8 +25763,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 2064976530,
+			"version": 46,
+			"versionNonce": 636126295,
 			"isDeleted": false,
 			"id": "qra9NbMh4voigNgspvP0F",
 			"fillStyle": "hachure",
@@ -25810,7 +25783,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25987,8 +25960,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 881074062,
+			"version": 44,
+			"versionNonce": 1731186841,
 			"isDeleted": false,
 			"id": "xCsrcZApgG0UukuaVPo06",
 			"fillStyle": "hachure",
@@ -26007,7 +25980,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26174,8 +26147,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 1559881810,
+			"version": 22,
+			"versionNonce": 1088807287,
 			"isDeleted": false,
 			"id": "MyDZUB9L-TSMk6715yFMJ",
 			"fillStyle": "hachure",
@@ -26194,7 +26167,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26251,8 +26224,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 1983184334,
+			"version": 26,
+			"versionNonce": 301749625,
 			"isDeleted": false,
 			"id": "JShqGjLtqBOrIMjnK5YGO",
 			"fillStyle": "hachure",
@@ -26271,7 +26244,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26348,8 +26321,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 1912409618,
+			"version": 24,
+			"versionNonce": 1522047639,
 			"isDeleted": false,
 			"id": "j0R6ehgI2aUDbE6NpUiSM",
 			"fillStyle": "hachure",
@@ -26368,7 +26341,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083394,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26435,8 +26408,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 45093902,
+			"version": 95,
+			"versionNonce": 1051016793,
 			"isDeleted": false,
 			"id": "6XCpvwbyY_b8UOWS8OBWJ",
 			"fillStyle": "hachure",
@@ -26455,7 +26428,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044268,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26872,8 +26845,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 1326808018,
+			"version": 33,
+			"versionNonce": 1477914551,
 			"isDeleted": false,
 			"id": "hI5FnbN0kiSQAYin_yDz7",
 			"fillStyle": "hachure",
@@ -26892,7 +26865,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27004,8 +26977,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 1945002574,
+			"version": 25,
+			"versionNonce": 1006504761,
 			"isDeleted": false,
 			"id": "iqtV0L5vdFQgaT9pdMoyH",
 			"fillStyle": "hachure",
@@ -27024,7 +26997,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27096,8 +27069,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 1381642642,
+			"version": 30,
+			"versionNonce": 321265879,
 			"isDeleted": false,
 			"id": "QRCbIE81bXg2hlgYdqecD",
 			"fillStyle": "hachure",
@@ -27116,7 +27089,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27213,8 +27186,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 1019799694,
+			"version": 18,
+			"versionNonce": 845823001,
 			"isDeleted": false,
 			"id": "hzGTg6kcT7d2qXmw0uB0H",
 			"fillStyle": "hachure",
@@ -27233,7 +27206,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27270,8 +27243,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 2130849618,
+			"version": 19,
+			"versionNonce": 762965495,
 			"isDeleted": false,
 			"id": "0bRoVpZlSrXUY2xxiGtw6",
 			"fillStyle": "hachure",
@@ -27290,7 +27263,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27332,8 +27305,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 217622222,
+			"version": 39,
+			"versionNonce": 1910329593,
 			"isDeleted": false,
 			"id": "MG-0n7-ryJuzGmoPQcaPF",
 			"fillStyle": "hachure",
@@ -27352,7 +27325,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27494,8 +27467,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 1499755794,
+			"version": 28,
+			"versionNonce": 571938583,
 			"isDeleted": false,
 			"id": "PjGcALKn-qU_dMb_N6gTx",
 			"fillStyle": "hachure",
@@ -27514,7 +27487,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27596,8 +27569,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 890674446,
+			"version": 39,
+			"versionNonce": 2145044953,
 			"isDeleted": false,
 			"id": "6sIFIga7cm23y_kl-zHDB",
 			"fillStyle": "hachure",
@@ -27616,7 +27589,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27758,8 +27731,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 1123549906,
+			"version": 20,
+			"versionNonce": 393354295,
 			"isDeleted": false,
 			"id": "_J2Ni0XFGwhu1FxHqvKgm",
 			"fillStyle": "hachure",
@@ -27778,7 +27751,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27820,8 +27793,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 177982286,
+			"version": 40,
+			"versionNonce": 1702241977,
 			"isDeleted": false,
 			"id": "hpp_ZxsUFwN-7RYuL2Zak",
 			"fillStyle": "hachure",
@@ -27840,7 +27813,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27987,8 +27960,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 1448335506,
+			"version": 49,
+			"versionNonce": 1903131991,
 			"isDeleted": false,
 			"id": "Aa_rd1-lI1-cBh141Qy07",
 			"fillStyle": "hachure",
@@ -28007,7 +27980,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28199,8 +28172,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 1273049486,
+			"version": 32,
+			"versionNonce": 1028843417,
 			"isDeleted": false,
 			"id": "-trqxughVM1g7bRslJG8b",
 			"fillStyle": "hachure",
@@ -28219,7 +28192,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28326,8 +28299,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1127151186,
+			"version": 29,
+			"versionNonce": 593738359,
 			"isDeleted": false,
 			"id": "A9KiLj8WbbHHbTHQis_TK",
 			"fillStyle": "hachure",
@@ -28346,7 +28319,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044270,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28438,8 +28411,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 69193678,
+			"version": 29,
+			"versionNonce": 27561081,
 			"isDeleted": false,
 			"id": "cIynLL-cnvulf0Q5FgluX",
 			"fillStyle": "hachure",
@@ -28458,7 +28431,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044270,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28545,8 +28518,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 710958098,
+			"version": 34,
+			"versionNonce": 1108562839,
 			"isDeleted": false,
 			"id": "A91QFhvU6VUJi9UlnJPaC",
 			"fillStyle": "hachure",
@@ -28565,7 +28538,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044270,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28682,8 +28655,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 78,
-			"versionNonce": 1869653518,
+			"version": 79,
+			"versionNonce": 439260505,
 			"isDeleted": false,
 			"id": "u_Is12YkuIOhrQcW4l1Ip",
 			"fillStyle": "hachure",
@@ -28702,7 +28675,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044270,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29044,8 +29017,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 2044660178,
+			"version": 18,
+			"versionNonce": 1437780151,
 			"isDeleted": false,
 			"id": "lHW8Ok71GM3bpfv38Ohpv",
 			"fillStyle": "hachure",
@@ -29064,7 +29037,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044270,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29096,8 +29069,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 1590473806,
+			"version": 42,
+			"versionNonce": 709132857,
 			"isDeleted": false,
 			"id": "m8pvapaxxa2K4zfgjyh5x",
 			"fillStyle": "hachure",
@@ -29116,7 +29089,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044270,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29273,8 +29246,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1220673426,
+			"version": 23,
+			"versionNonce": 1810274775,
 			"isDeleted": false,
 			"id": "1kCaqtHRnMjQxg3w67o0P",
 			"fillStyle": "hachure",
@@ -29293,7 +29266,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044270,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29355,8 +29328,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 470612622,
+			"version": 18,
+			"versionNonce": 516543257,
 			"isDeleted": false,
 			"id": "qURxy4bqc_7RJYM9xG6ef",
 			"fillStyle": "hachure",
@@ -29375,7 +29348,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044270,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29407,8 +29380,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 859848018,
+			"version": 29,
+			"versionNonce": 1774405367,
 			"isDeleted": false,
 			"id": "27JszEcRwnEOFW3rRgiVJ",
 			"fillStyle": "hachure",
@@ -29427,7 +29400,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044270,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29519,8 +29492,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 1307211982,
+			"version": 40,
+			"versionNonce": 2083653625,
 			"isDeleted": false,
 			"id": "jCefKvi1X_rVH2q2uZMKK",
 			"fillStyle": "hachure",
@@ -29539,7 +29512,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044270,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29686,8 +29659,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 917553938,
+			"version": 27,
+			"versionNonce": 499994647,
 			"isDeleted": false,
 			"id": "zSR4AgPZv0C8LS3zfDGpz",
 			"fillStyle": "hachure",
@@ -29706,7 +29679,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044270,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29788,8 +29761,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1543384846,
+			"version": 23,
+			"versionNonce": 1820369113,
 			"isDeleted": false,
 			"id": "LgpXjkeKqSqLBk2yMa9JB",
 			"fillStyle": "hachure",
@@ -29808,7 +29781,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044270,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29865,8 +29838,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 227184850,
+			"version": 25,
+			"versionNonce": 301544759,
 			"isDeleted": false,
 			"id": "fEssVoCNzA6wIevA7IwLz",
 			"fillStyle": "hachure",
@@ -29885,7 +29858,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083395,
+			"updated": 1661687044270,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29952,8 +29925,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 1388387662,
+			"version": 38,
+			"versionNonce": 222895545,
 			"isDeleted": false,
 			"id": "p73E4s44ezXk7hv0v2gY7",
 			"fillStyle": "hachure",
@@ -29972,7 +29945,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044270,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30109,8 +30082,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 191145618,
+			"version": 20,
+			"versionNonce": 497776215,
 			"isDeleted": false,
 			"id": "vB6V0evals6ve1RnTyaZJ",
 			"fillStyle": "hachure",
@@ -30129,7 +30102,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044271,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30171,8 +30144,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 1200374670,
+			"version": 40,
+			"versionNonce": 2108620441,
 			"isDeleted": false,
 			"id": "bBR0JVgfRtLtScQRD-g0Q",
 			"fillStyle": "hachure",
@@ -30191,7 +30164,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044271,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30338,8 +30311,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 2029388882,
+			"version": 34,
+			"versionNonce": 934843255,
 			"isDeleted": false,
 			"id": "6b42F_n5Dw0VlaKGN32mf",
 			"fillStyle": "hachure",
@@ -30358,7 +30331,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044271,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30475,8 +30448,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 1016635854,
+			"version": 18,
+			"versionNonce": 744866681,
 			"isDeleted": false,
 			"id": "ULAmBJz5uEDLAEAmIqOft",
 			"fillStyle": "hachure",
@@ -30495,7 +30468,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044271,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30532,8 +30505,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 1880467986,
+			"version": 20,
+			"versionNonce": 140840087,
 			"isDeleted": false,
 			"id": "FuY7V-Zs9DsVc_hF6aJFM",
 			"fillStyle": "hachure",
@@ -30552,7 +30525,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044271,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30599,8 +30572,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 83834894,
+			"version": 27,
+			"versionNonce": 1706093657,
 			"isDeleted": false,
 			"id": "Dsc3wBXQPsYje2VBHZeW7",
 			"fillStyle": "hachure",
@@ -30619,7 +30592,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044271,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30701,8 +30674,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 934975442,
+			"version": 29,
+			"versionNonce": 996499895,
 			"isDeleted": false,
 			"id": "7oQ48F5F4P2_ObxYo8g6G",
 			"fillStyle": "hachure",
@@ -30721,7 +30694,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044271,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30813,8 +30786,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 683214414,
+			"version": 20,
+			"versionNonce": 560199993,
 			"isDeleted": false,
 			"id": "johLNqe7yzleq3ZmmNV9l",
 			"fillStyle": "hachure",
@@ -30833,7 +30806,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044271,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30875,8 +30848,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 536595858,
+			"version": 27,
+			"versionNonce": 299766487,
 			"isDeleted": false,
 			"id": "Z3npFN4Xl9keSrumcXJoA",
 			"fillStyle": "hachure",
@@ -30895,7 +30868,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044271,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30977,8 +30950,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 1218382990,
+			"version": 28,
+			"versionNonce": 283273753,
 			"isDeleted": false,
 			"id": "tQ3zUzxRFLle9syqfCH3r",
 			"fillStyle": "hachure",
@@ -30997,7 +30970,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044271,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31084,8 +31057,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 1578126162,
+			"version": 19,
+			"versionNonce": 878944247,
 			"isDeleted": false,
 			"id": "wgJRfM4dTMsF23x9z7mC8",
 			"fillStyle": "hachure",
@@ -31104,7 +31077,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044271,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31146,8 +31119,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 40520398,
+			"version": 40,
+			"versionNonce": 1830797049,
 			"isDeleted": false,
 			"id": "KQLhStBXQgwHpAtFJj-rT",
 			"fillStyle": "hachure",
@@ -31166,7 +31139,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044271,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31313,8 +31286,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 1750012178,
+			"version": 19,
+			"versionNonce": 1157269783,
 			"isDeleted": false,
 			"id": "MXXcKqlxtggN5CADl8SkN",
 			"fillStyle": "hachure",
@@ -31333,7 +31306,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044271,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31370,8 +31343,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 1421066510,
+			"version": 21,
+			"versionNonce": 77559769,
 			"isDeleted": false,
 			"id": "VvQLTk7QRElF6MzED3xYG",
 			"fillStyle": "hachure",
@@ -31390,7 +31363,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044271,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31442,8 +31415,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 1378819794,
+			"version": 37,
+			"versionNonce": 823610935,
 			"isDeleted": false,
 			"id": "9D5WbaZDi0FwFQB0IJKMS",
 			"fillStyle": "hachure",
@@ -31462,7 +31435,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044272,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31594,8 +31567,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 49573710,
+			"version": 22,
+			"versionNonce": 158667961,
 			"isDeleted": false,
 			"id": "bH5acMDBVfDkH0D0suVxj",
 			"fillStyle": "hachure",
@@ -31614,7 +31587,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044272,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31666,8 +31639,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 675771538,
+			"version": 28,
+			"versionNonce": 1134456663,
 			"isDeleted": false,
 			"id": "TdkHbg71l1z0Wp_2hKupj",
 			"fillStyle": "hachure",
@@ -31686,7 +31659,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044272,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31773,8 +31746,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 2038781326,
+			"version": 22,
+			"versionNonce": 524555673,
 			"isDeleted": false,
 			"id": "vR7EoAELDO6PeRdUUqJ6z",
 			"fillStyle": "hachure",
@@ -31793,7 +31766,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044272,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31850,8 +31823,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 1280250450,
+			"version": 26,
+			"versionNonce": 1994681463,
 			"isDeleted": false,
 			"id": "MhHiDALG95aPrSYipTo5E",
 			"fillStyle": "hachure",
@@ -31870,7 +31843,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044272,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31947,8 +31920,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 832533454,
+			"version": 19,
+			"versionNonce": 692058745,
 			"isDeleted": false,
 			"id": "gpUhF2i0c3E5aYyGK96na",
 			"fillStyle": "hachure",
@@ -31967,7 +31940,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044272,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32009,8 +31982,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 1360853010,
+			"version": 30,
+			"versionNonce": 112051607,
 			"isDeleted": false,
 			"id": "3SfeNSNe89i8WX2fCfuLL",
 			"fillStyle": "hachure",
@@ -32029,7 +32002,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044272,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32126,8 +32099,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 358337038,
+			"version": 32,
+			"versionNonce": 1479295833,
 			"isDeleted": false,
 			"id": "cR0QiDY0tdObbeDe_Mvqt",
 			"fillStyle": "hachure",
@@ -32146,7 +32119,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044272,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32253,8 +32226,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 1453860306,
+			"version": 19,
+			"versionNonce": 1110375095,
 			"isDeleted": false,
 			"id": "Pjlt52yJ1P0mFYUYetUMl",
 			"fillStyle": "hachure",
@@ -32273,7 +32246,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044272,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32315,8 +32288,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 1672697934,
+			"version": 26,
+			"versionNonce": 2019323961,
 			"isDeleted": false,
 			"id": "fQVUsPbGO0P-UvLSj2PKF",
 			"fillStyle": "hachure",
@@ -32335,7 +32308,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044272,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32407,8 +32380,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 1711774610,
+			"version": 25,
+			"versionNonce": 504138711,
 			"isDeleted": false,
 			"id": "kpbUPkm4b3HKLgDvnUXTc",
 			"fillStyle": "hachure",
@@ -32427,7 +32400,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083396,
+			"updated": 1661687044272,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32499,8 +32472,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 38,
-			"versionNonce": 343875214,
+			"version": 39,
+			"versionNonce": 2142503193,
 			"isDeleted": false,
 			"id": "azjGr9G98eT1MH18f_jEM",
 			"fillStyle": "hachure",
@@ -32519,7 +32492,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044273,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32661,8 +32634,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 1299339602,
+			"version": 48,
+			"versionNonce": 106625271,
 			"isDeleted": false,
 			"id": "wRONF3Zw5tK5xAUM2nYso",
 			"fillStyle": "hachure",
@@ -32681,7 +32654,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044273,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32868,8 +32841,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 43,
-			"versionNonce": 1014504654,
+			"version": 44,
+			"versionNonce": 1537635833,
 			"isDeleted": false,
 			"id": "l57zdqjUCfnI8Q5zRltOr",
 			"fillStyle": "hachure",
@@ -32888,7 +32861,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044273,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33055,8 +33028,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 2084527890,
+			"version": 23,
+			"versionNonce": 1889452567,
 			"isDeleted": false,
 			"id": "Fg68StnZkBNeXhLWAq5_p",
 			"fillStyle": "hachure",
@@ -33075,7 +33048,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044273,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33137,8 +33110,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1899451150,
+			"version": 27,
+			"versionNonce": 2134331097,
 			"isDeleted": false,
 			"id": "no3dAGWlMLr2EcDbIypT0",
 			"fillStyle": "hachure",
@@ -33157,7 +33130,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044273,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33239,8 +33212,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 1592110290,
+			"version": 24,
+			"versionNonce": 768370487,
 			"isDeleted": false,
 			"id": "SHc9NNN3rYCyGAbLF5Gik",
 			"fillStyle": "hachure",
@@ -33259,7 +33232,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044273,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33326,8 +33299,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 758497614,
+			"version": 22,
+			"versionNonce": 821693369,
 			"isDeleted": false,
 			"id": "-0Ae8nJthl783qP0rAbSj",
 			"fillStyle": "hachure",
@@ -33346,7 +33319,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044273,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33403,8 +33376,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 989610642,
+			"version": 19,
+			"versionNonce": 2085120087,
 			"isDeleted": false,
 			"id": "N8axyadwNU_ZPbdtqLumM",
 			"fillStyle": "hachure",
@@ -33423,7 +33396,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044273,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33460,8 +33433,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 869033870,
+			"version": 36,
+			"versionNonce": 420621465,
 			"isDeleted": false,
 			"id": "HSSc0J5JZ5NHxt3cNF-_W",
 			"fillStyle": "hachure",
@@ -33480,7 +33453,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044273,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33607,8 +33580,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 188358738,
+			"version": 31,
+			"versionNonce": 1508328823,
 			"isDeleted": false,
 			"id": "ycgND6fXn8kFLxey8K5Lr",
 			"fillStyle": "hachure",
@@ -33627,7 +33600,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044273,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33724,8 +33697,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 1966360014,
+			"version": 24,
+			"versionNonce": 255013241,
 			"isDeleted": false,
 			"id": "5SXcBttcx6wTE0jnlwvGk",
 			"fillStyle": "hachure",
@@ -33744,7 +33717,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044273,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33806,8 +33779,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 1534477842,
+			"version": 29,
+			"versionNonce": 367885975,
 			"isDeleted": false,
 			"id": "g0ItnnMZZLRIhklRgHO2L",
 			"fillStyle": "hachure",
@@ -33826,7 +33799,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044273,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33918,8 +33891,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 1921408014,
+			"version": 21,
+			"versionNonce": 681613913,
 			"isDeleted": false,
 			"id": "lru2U27H7256be5iPQtVR",
 			"fillStyle": "hachure",
@@ -33938,7 +33911,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044273,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33990,8 +33963,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 614970322,
+			"version": 27,
+			"versionNonce": 588223415,
 			"isDeleted": false,
 			"id": "RkG_2sMG_wW8DvR9ZX9UE",
 			"fillStyle": "hachure",
@@ -34010,7 +33983,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044274,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34087,8 +34060,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 565946958,
+			"version": 36,
+			"versionNonce": 103671609,
 			"isDeleted": false,
 			"id": "1piptCfVdjheiBKu7fG87",
 			"fillStyle": "hachure",
@@ -34107,7 +34080,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044274,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34234,8 +34207,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 686123410,
+			"version": 29,
+			"versionNonce": 695338199,
 			"isDeleted": false,
 			"id": "T31c1dtGroVBqdBoAI-B4",
 			"fillStyle": "hachure",
@@ -34254,7 +34227,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044274,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34346,8 +34319,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 1370304654,
+			"version": 30,
+			"versionNonce": 1648269337,
 			"isDeleted": false,
 			"id": "r_Gw-xPLwwWvz4eUHsxAo",
 			"fillStyle": "hachure",
@@ -34366,7 +34339,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044274,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34458,8 +34431,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 1332111186,
+			"version": 24,
+			"versionNonce": 1487491575,
 			"isDeleted": false,
 			"id": "UEgH-BSLVKOe8hsmsmpsO",
 			"fillStyle": "hachure",
@@ -34478,7 +34451,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044274,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34545,8 +34518,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 236187342,
+			"version": 19,
+			"versionNonce": 1590045945,
 			"isDeleted": false,
 			"id": "M5iMJ2c9iJ_iu8fV0ktqJ",
 			"fillStyle": "hachure",
@@ -34565,7 +34538,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044274,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34607,8 +34580,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 8498450,
+			"version": 18,
+			"versionNonce": 2042231575,
 			"isDeleted": false,
 			"id": "lFEFI6PdrfMnTI2BcD9OP",
 			"fillStyle": "hachure",
@@ -34627,7 +34600,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044274,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34659,8 +34632,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 59303182,
+			"version": 29,
+			"versionNonce": 323495385,
 			"isDeleted": false,
 			"id": "Jg1pMlN_0JV8Efdtn3u0j",
 			"fillStyle": "hachure",
@@ -34679,7 +34652,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044274,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34771,8 +34744,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 28195538,
+			"version": 29,
+			"versionNonce": 1092124727,
 			"isDeleted": false,
 			"id": "FVKhvWxoGyVCdX40zmb5Q",
 			"fillStyle": "hachure",
@@ -34791,7 +34764,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044274,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34878,8 +34851,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 1669665614,
+			"version": 25,
+			"versionNonce": 1524105913,
 			"isDeleted": false,
 			"id": "dHqcuRuohgsN2X1K-2sGf",
 			"fillStyle": "hachure",
@@ -34898,7 +34871,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044274,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34970,8 +34943,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1367543954,
+			"version": 27,
+			"versionNonce": 1621713239,
 			"isDeleted": false,
 			"id": "9kg7GHbZW1e7EpASxuNuW",
 			"fillStyle": "hachure",
@@ -34990,7 +34963,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044274,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35067,8 +35040,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 1214347662,
+			"version": 25,
+			"versionNonce": 1645822873,
 			"isDeleted": false,
 			"id": "31WU29DlFBWo_8WHrL1V_",
 			"fillStyle": "hachure",
@@ -35087,7 +35060,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044274,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35159,8 +35132,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 62336594,
+			"version": 30,
+			"versionNonce": 1505828471,
 			"isDeleted": false,
 			"id": "aAVsr62eGW7nEWvqZu6G-",
 			"fillStyle": "hachure",
@@ -35179,7 +35152,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044274,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35276,8 +35249,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 425138126,
+			"version": 23,
+			"versionNonce": 1967089785,
 			"isDeleted": false,
 			"id": "FFJw7DhdgGmQG1OIyRTyt",
 			"fillStyle": "hachure",
@@ -35296,7 +35269,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083397,
+			"updated": 1661687044274,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35358,8 +35331,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 488739858,
+			"version": 24,
+			"versionNonce": 254031767,
 			"isDeleted": false,
 			"id": "pr2_sME8fLjHQ5ugEypEF",
 			"fillStyle": "hachure",
@@ -35378,7 +35351,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044275,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35440,8 +35413,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 27,
-			"versionNonce": 1853812238,
+			"version": 28,
+			"versionNonce": 235794777,
 			"isDeleted": false,
 			"id": "Qhhl5U6Qkp1TZq5cWUsbH",
 			"fillStyle": "hachure",
@@ -35460,7 +35433,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044275,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35547,8 +35520,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1874411986,
+			"version": 35,
+			"versionNonce": 386346167,
 			"isDeleted": false,
 			"id": "Jw21kORFsWy4PYUtzPLas",
 			"fillStyle": "hachure",
@@ -35567,7 +35540,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044275,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35689,8 +35662,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 1959918670,
+			"version": 19,
+			"versionNonce": 567828025,
 			"isDeleted": false,
 			"id": "RuWvFUCVtOjHE5Wm9XbuP",
 			"fillStyle": "hachure",
@@ -35709,7 +35682,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044275,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35751,8 +35724,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 1989490578,
+			"version": 21,
+			"versionNonce": 1292795351,
 			"isDeleted": false,
 			"id": "b-OkupolIFuQryt9cPb2V",
 			"fillStyle": "hachure",
@@ -35771,7 +35744,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044275,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35823,8 +35796,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 1378435726,
+			"version": 32,
+			"versionNonce": 797060889,
 			"isDeleted": false,
 			"id": "3oxNc7R7cKMVwE6LWSYDC",
 			"fillStyle": "hachure",
@@ -35843,7 +35816,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044275,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35950,8 +35923,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 837580114,
+			"version": 26,
+			"versionNonce": 609135351,
 			"isDeleted": false,
 			"id": "h1QFnK3sneEPMzOXOZKxB",
 			"fillStyle": "hachure",
@@ -35970,7 +35943,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044275,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36042,8 +36015,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 18,
-			"versionNonce": 155041998,
+			"version": 19,
+			"versionNonce": 226419705,
 			"isDeleted": false,
 			"id": "2-K8IcAfTeggZ-Y6aflGI",
 			"fillStyle": "hachure",
@@ -36062,7 +36035,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044275,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36104,8 +36077,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 28,
-			"versionNonce": 51772178,
+			"version": 29,
+			"versionNonce": 961295383,
 			"isDeleted": false,
 			"id": "qm9iJzW_246N3FrzF6LQ0",
 			"fillStyle": "hachure",
@@ -36124,7 +36097,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044275,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36216,8 +36189,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 1571321614,
+			"version": 27,
+			"versionNonce": 2010250457,
 			"isDeleted": false,
 			"id": "Y8xxcvunoZOIbZU0T9kmO",
 			"fillStyle": "hachure",
@@ -36236,7 +36209,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044275,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36318,8 +36291,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 143182034,
+			"version": 23,
+			"versionNonce": 603691319,
 			"isDeleted": false,
 			"id": "mwkb8YPRRWixpcbTX_EBf",
 			"fillStyle": "hachure",
@@ -36338,7 +36311,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044275,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36400,8 +36373,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 937583950,
+			"version": 30,
+			"versionNonce": 1578039737,
 			"isDeleted": false,
 			"id": "SrvfuIEeIWLmjYuI_KkNB",
 			"fillStyle": "hachure",
@@ -36420,7 +36393,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044275,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36517,8 +36490,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 2044452498,
+			"version": 22,
+			"versionNonce": 163666519,
 			"isDeleted": false,
 			"id": "wERFvh1pVw1wrcKhMmrDm",
 			"fillStyle": "hachure",
@@ -36537,7 +36510,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044275,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36589,8 +36562,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 155487118,
+			"version": 32,
+			"versionNonce": 1901681305,
 			"isDeleted": false,
 			"id": "6mCaRE2aEWhDEC4MP2_hD",
 			"fillStyle": "hachure",
@@ -36609,7 +36582,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044275,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36716,8 +36689,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 63323218,
+			"version": 50,
+			"versionNonce": 1869739895,
 			"isDeleted": false,
 			"id": "YEsGgDNwxIurpURVJPBul",
 			"fillStyle": "hachure",
@@ -36736,7 +36709,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044276,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36933,8 +36906,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 805824974,
+			"version": 30,
+			"versionNonce": 1919197049,
 			"isDeleted": false,
 			"id": "LYOYWR-ZyBHzn8UkCpTvH",
 			"fillStyle": "hachure",
@@ -36953,7 +36926,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044276,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37045,8 +37018,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 25,
-			"versionNonce": 606003730,
+			"version": 26,
+			"versionNonce": 1263661207,
 			"isDeleted": false,
 			"id": "wFKOTTFU2NfRW8byftNvG",
 			"fillStyle": "hachure",
@@ -37065,7 +37038,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044276,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37142,8 +37115,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 1531281422,
+			"version": 22,
+			"versionNonce": 1064585305,
 			"isDeleted": false,
 			"id": "2Q_0U75nCl0aAQif7wgIj",
 			"fillStyle": "hachure",
@@ -37162,7 +37135,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044276,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37219,8 +37192,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 98357202,
+			"version": 58,
+			"versionNonce": 1461044663,
 			"isDeleted": false,
 			"id": "X50RQ9N9wdN_PWMDdF8fk",
 			"fillStyle": "hachure",
@@ -37239,7 +37212,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044276,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37476,8 +37449,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 1861635662,
+			"version": 18,
+			"versionNonce": 576443705,
 			"isDeleted": false,
 			"id": "Y5Clh_4XV1i8UaFiLE0Oq",
 			"fillStyle": "hachure",
@@ -37496,7 +37469,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044276,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37528,8 +37501,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 29,
-			"versionNonce": 1561789842,
+			"version": 30,
+			"versionNonce": 568456919,
 			"isDeleted": false,
 			"id": "EBFGBgN4018vhSI6DGddg",
 			"fillStyle": "hachure",
@@ -37548,7 +37521,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044276,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37645,8 +37618,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 1744000142,
+			"version": 72,
+			"versionNonce": 1585366553,
 			"isDeleted": false,
 			"id": "LDPNvs1N3fGSQd-wVfjYl",
 			"fillStyle": "hachure",
@@ -37665,7 +37638,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044276,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37972,8 +37945,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "rectangle",
-			"version": 26,
-			"versionNonce": 1124369234,
+			"version": 27,
+			"versionNonce": 1649083383,
 			"isDeleted": false,
 			"id": "cLwJN4lg3-O-dLGbRGirw",
 			"fillStyle": "hachure",
@@ -37992,14 +37965,14 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044276,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 287,
-			"versionNonce": 1073058510,
+			"version": 288,
+			"versionNonce": 2127600377,
 			"isDeleted": false,
 			"id": "EOXWeRx-4l9L6evXaRyZm",
 			"fillStyle": "hachure",
@@ -38018,14 +37991,14 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044276,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 113,
-			"versionNonce": 301746450,
+			"version": 114,
+			"versionNonce": 139816215,
 			"isDeleted": false,
 			"id": "YsUYcFgj2Es3ABNZ_p4xP",
 			"fillStyle": "hachure",
@@ -38044,7 +38017,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044276,
 			"link": null,
 			"locked": true,
 			"status": "pending",
@@ -38056,8 +38029,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "image",
-			"version": 113,
-			"versionNonce": 1368787214,
+			"version": 114,
+			"versionNonce": 1674892249,
 			"isDeleted": false,
 			"id": "sckQkd5kCWezDaeD8rQjL",
 			"fillStyle": "hachure",
@@ -38076,7 +38049,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044276,
 			"link": null,
 			"locked": true,
 			"status": "pending",
@@ -38088,8 +38061,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 1098208978,
+			"version": 124,
+			"versionNonce": 259371575,
 			"isDeleted": false,
 			"id": "-b-xP94_2bHh4TpESw1TG",
 			"fillStyle": "hachure",
@@ -38108,7 +38081,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083398,
+			"updated": 1661687044276,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38280,8 +38253,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 1011726158,
+			"version": 99,
+			"versionNonce": 295628985,
 			"isDeleted": false,
 			"id": "vwbymIEibdGX4Y_Vxwr1m",
 			"fillStyle": "hachure",
@@ -38300,7 +38273,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044277,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38347,8 +38320,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 1107733650,
+			"version": 99,
+			"versionNonce": 277893975,
 			"isDeleted": false,
 			"id": "J6Oi0AkzfCvO7TWdiJWIt",
 			"fillStyle": "hachure",
@@ -38367,7 +38340,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044277,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38414,8 +38387,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 1215667598,
+			"version": 122,
+			"versionNonce": 1037201817,
 			"isDeleted": false,
 			"id": "85Rkkd5cioR4b-79_yDok",
 			"fillStyle": "hachure",
@@ -38434,7 +38407,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044277,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38596,8 +38569,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1499941458,
+			"version": 107,
+			"versionNonce": 335138935,
 			"isDeleted": false,
 			"id": "zJ58F174K4BAi4ijRkGLc",
 			"fillStyle": "hachure",
@@ -38616,7 +38589,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044277,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38703,8 +38676,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 1262926798,
+			"version": 99,
+			"versionNonce": 497211001,
 			"isDeleted": false,
 			"id": "1YrALkdd9TISE3TOL18je",
 			"fillStyle": "hachure",
@@ -38723,7 +38696,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044277,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38770,8 +38743,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 244,
-			"versionNonce": 2121150482,
+			"version": 245,
+			"versionNonce": 594979223,
 			"isDeleted": false,
 			"id": "cyMeEHv9Y7PnhqzwDF9FH",
 			"fillStyle": "hachure",
@@ -38790,7 +38763,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044277,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39567,8 +39540,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 149,
-			"versionNonce": 182063630,
+			"version": 150,
+			"versionNonce": 1943248729,
 			"isDeleted": false,
 			"id": "DRyTrXIK2ssN4z7W99z-6",
 			"fillStyle": "hachure",
@@ -39587,7 +39560,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044277,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39889,8 +39862,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 890396114,
+			"version": 101,
+			"versionNonce": 473652919,
 			"isDeleted": false,
 			"id": "xd10zpnC0bHCw9TWfbGbk",
 			"fillStyle": "hachure",
@@ -39909,7 +39882,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044277,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39966,8 +39939,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 573087822,
+			"version": 107,
+			"versionNonce": 1589136441,
 			"isDeleted": false,
 			"id": "ZPKfKxMfgMqFYs0Xo6NhK",
 			"fillStyle": "hachure",
@@ -39986,7 +39959,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044277,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40073,8 +40046,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1785385874,
+			"version": 106,
+			"versionNonce": 1089236951,
 			"isDeleted": false,
 			"id": "jIENPEAF6l4EmZwB1f6pj",
 			"fillStyle": "hachure",
@@ -40093,7 +40066,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044277,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40175,8 +40148,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 1695245966,
+			"version": 108,
+			"versionNonce": 1714707737,
 			"isDeleted": false,
 			"id": "tM0ufHUEYwHU-5yZHbR9o",
 			"fillStyle": "hachure",
@@ -40195,7 +40168,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044277,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40287,8 +40260,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1353617746,
+			"version": 106,
+			"versionNonce": 194927863,
 			"isDeleted": false,
 			"id": "D8tVid3L3aJt9zz-R83xR",
 			"fillStyle": "hachure",
@@ -40307,7 +40280,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044277,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40389,8 +40362,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1144743118,
+			"version": 102,
+			"versionNonce": 1237012985,
 			"isDeleted": false,
 			"id": "ritX3qGpm5Hm9fyl21L-7",
 			"fillStyle": "hachure",
@@ -40409,7 +40382,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044277,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40471,8 +40444,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 993302290,
+			"version": 117,
+			"versionNonce": 1070966295,
 			"isDeleted": false,
 			"id": "fRbocUqU24q58rtMKP87t",
 			"fillStyle": "hachure",
@@ -40491,7 +40464,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044278,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40628,8 +40601,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 827431694,
+			"version": 94,
+			"versionNonce": 240167641,
 			"isDeleted": false,
 			"id": "qYq4gMkLlvj0mpDWQH7rZ",
 			"fillStyle": "hachure",
@@ -40648,7 +40621,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044278,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40670,8 +40643,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 2054415570,
+			"version": 112,
+			"versionNonce": 1015466807,
 			"isDeleted": false,
 			"id": "BxZWUENEO57xzuumzVpDi",
 			"fillStyle": "hachure",
@@ -40690,7 +40663,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044278,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40802,8 +40775,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 163,
-			"versionNonce": 46598478,
+			"version": 164,
+			"versionNonce": 1283975097,
 			"isDeleted": false,
 			"id": "lbeyLp9_gX3QN89OgVl8A",
 			"fillStyle": "hachure",
@@ -40822,7 +40795,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044278,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41194,8 +41167,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 939752082,
+			"version": 118,
+			"versionNonce": 236342359,
 			"isDeleted": false,
 			"id": "JZgeiEUA2W9AJE7Ge1Id-",
 			"fillStyle": "hachure",
@@ -41214,7 +41187,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044278,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41356,8 +41329,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 1475653518,
+			"version": 104,
+			"versionNonce": 1048873113,
 			"isDeleted": false,
 			"id": "4wb1IGguWyrjANFpZ6tjH",
 			"fillStyle": "hachure",
@@ -41376,7 +41349,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044278,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41448,8 +41421,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1385846866,
+			"version": 100,
+			"versionNonce": 1079552375,
 			"isDeleted": false,
 			"id": "CtQC_X3TuCf3z6fUp6Uwl",
 			"fillStyle": "hachure",
@@ -41468,7 +41441,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044278,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41515,8 +41488,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 2098433486,
+			"version": 117,
+			"versionNonce": 234491257,
 			"isDeleted": false,
 			"id": "cy5eTc0srPmZs0C-OuGAq",
 			"fillStyle": "hachure",
@@ -41535,7 +41508,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044278,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41672,8 +41645,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 123,
-			"versionNonce": 974093842,
+			"version": 124,
+			"versionNonce": 1888641687,
 			"isDeleted": false,
 			"id": "Nl87SOwBkoAgyFXpCY9PA",
 			"fillStyle": "hachure",
@@ -41692,7 +41665,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044278,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41864,8 +41837,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 1329374222,
+			"version": 114,
+			"versionNonce": 1647048281,
 			"isDeleted": false,
 			"id": "57CWJ17CauLJB2xsgNNr1",
 			"fillStyle": "hachure",
@@ -41884,7 +41857,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044278,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42006,8 +41979,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1264184274,
+			"version": 100,
+			"versionNonce": 527955895,
 			"isDeleted": false,
 			"id": "f5ER3AlKIVOrBplGhtIt1",
 			"fillStyle": "hachure",
@@ -42026,7 +41999,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044278,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42078,8 +42051,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 543748686,
+			"version": 101,
+			"versionNonce": 770556729,
 			"isDeleted": false,
 			"id": "zq053JWRvS_K32ZXdhdTW",
 			"fillStyle": "hachure",
@@ -42098,7 +42071,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044278,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42155,8 +42128,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 747676050,
+			"version": 117,
+			"versionNonce": 1127082199,
 			"isDeleted": false,
 			"id": "IT0viDsjnNAaaESWozetu",
 			"fillStyle": "hachure",
@@ -42175,7 +42148,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083399,
+			"updated": 1661687044278,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42312,8 +42285,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 460421262,
+			"version": 118,
+			"versionNonce": 1034089497,
 			"isDeleted": false,
 			"id": "FTlz-m8pv3qKQRjpS__gF",
 			"fillStyle": "hachure",
@@ -42332,7 +42305,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044278,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42474,8 +42447,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 686464850,
+			"version": 108,
+			"versionNonce": 424195575,
 			"isDeleted": false,
 			"id": "YQyuwBUH7FsdV7yB40lhS",
 			"fillStyle": "hachure",
@@ -42494,7 +42467,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044279,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42586,8 +42559,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 672085710,
+			"version": 108,
+			"versionNonce": 88017145,
 			"isDeleted": false,
 			"id": "sQAIzX9VQEw4H_MQIVhF1",
 			"fillStyle": "hachure",
@@ -42606,7 +42579,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044279,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42698,8 +42671,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 213837074,
+			"version": 102,
+			"versionNonce": 952950551,
 			"isDeleted": false,
 			"id": "YzYUM13ApE1N_qLuBnXpq",
 			"fillStyle": "hachure",
@@ -42718,7 +42691,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044279,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42780,8 +42753,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 1322986766,
+			"version": 98,
+			"versionNonce": 776307161,
 			"isDeleted": false,
 			"id": "5UAscf0rvxQEOokvPVcFd",
 			"fillStyle": "hachure",
@@ -42800,7 +42773,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044279,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42837,8 +42810,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 25457362,
+			"version": 110,
+			"versionNonce": 1680794679,
 			"isDeleted": false,
 			"id": "hMMlEs2fttlwG_7jJqk38",
 			"fillStyle": "hachure",
@@ -42857,7 +42830,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044279,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42959,8 +42932,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 125,
-			"versionNonce": 491674446,
+			"version": 126,
+			"versionNonce": 1707728569,
 			"isDeleted": false,
 			"id": "KDY2OLH5-1WGyW5QTcS5R",
 			"fillStyle": "hachure",
@@ -42979,7 +42952,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044279,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43161,8 +43134,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 1775388818,
+			"version": 117,
+			"versionNonce": 458442071,
 			"isDeleted": false,
 			"id": "ryHGOkxPSv5sP8820b5fK",
 			"fillStyle": "hachure",
@@ -43181,7 +43154,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044279,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43318,8 +43291,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 163692942,
+			"version": 100,
+			"versionNonce": 1785700249,
 			"isDeleted": false,
 			"id": "aT-lCp0Y6U1BuoYWFSLHq",
 			"fillStyle": "hachure",
@@ -43338,7 +43311,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044279,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43390,8 +43363,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1029662290,
+			"version": 100,
+			"versionNonce": 1838056055,
 			"isDeleted": false,
 			"id": "W4mx1GfbwpBVhuhf0oOhA",
 			"fillStyle": "hachure",
@@ -43410,7 +43383,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044279,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43462,8 +43435,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 1466851278,
+			"version": 117,
+			"versionNonce": 1516913785,
 			"isDeleted": false,
 			"id": "d_zWnxxd6nWHPu8vDGIm0",
 			"fillStyle": "hachure",
@@ -43482,7 +43455,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044279,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43619,8 +43592,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 1694682130,
+			"version": 117,
+			"versionNonce": 195369879,
 			"isDeleted": false,
 			"id": "8sChAfcvU5CWLqn7Zu7OD",
 			"fillStyle": "hachure",
@@ -43639,7 +43612,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044279,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43776,8 +43749,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 216,
-			"versionNonce": 2053977614,
+			"version": 217,
+			"versionNonce": 1098730841,
 			"isDeleted": false,
 			"id": "kHPOIgLBCXAs2sHh5ao2c",
 			"fillStyle": "hachure",
@@ -43796,7 +43769,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044279,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44433,8 +44406,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 380860882,
+			"version": 113,
+			"versionNonce": 432771255,
 			"isDeleted": false,
 			"id": "nXo7xDey-NCfYkipCiRNv",
 			"fillStyle": "hachure",
@@ -44453,7 +44426,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044279,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44570,8 +44543,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 2075608142,
+			"version": 103,
+			"versionNonce": 1727806009,
 			"isDeleted": false,
 			"id": "3wQW1WYHvawoO6XQrPYS5",
 			"fillStyle": "hachure",
@@ -44590,7 +44563,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044279,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44657,8 +44630,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 831025042,
+			"version": 97,
+			"versionNonce": 1101423063,
 			"isDeleted": false,
 			"id": "DnB7gNmKWayt58u-sE2ke",
 			"fillStyle": "hachure",
@@ -44677,7 +44650,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044280,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44709,8 +44682,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 1562741390,
+			"version": 110,
+			"versionNonce": 1540000537,
 			"isDeleted": false,
 			"id": "7ohq8Rq3lw86mrN1-Rb2X",
 			"fillStyle": "hachure",
@@ -44729,7 +44702,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044280,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44831,8 +44804,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 431533394,
+			"version": 122,
+			"versionNonce": 71962359,
 			"isDeleted": false,
 			"id": "d7jmBxfKWeR0XULlAxlUu",
 			"fillStyle": "hachure",
@@ -44851,7 +44824,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044280,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45013,8 +44986,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 2104559822,
+			"version": 96,
+			"versionNonce": 1213972473,
 			"isDeleted": false,
 			"id": "RbCjwXKm_JXTHLeGdqGj9",
 			"fillStyle": "hachure",
@@ -45033,7 +45006,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044280,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45065,8 +45038,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 345715474,
+			"version": 100,
+			"versionNonce": 1278941207,
 			"isDeleted": false,
 			"id": "z5DV71UowbZhEISeEEA6K",
 			"fillStyle": "hachure",
@@ -45085,7 +45058,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044280,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45137,8 +45110,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 114,
-			"versionNonce": 2083700494,
+			"version": 115,
+			"versionNonce": 2058574041,
 			"isDeleted": false,
 			"id": "Wp6ba_GY6SzLPu-M-OQdM",
 			"fillStyle": "hachure",
@@ -45157,7 +45130,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044280,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45284,8 +45257,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 614924498,
+			"version": 111,
+			"versionNonce": 1064172855,
 			"isDeleted": false,
 			"id": "_PI5h7IzcMoDpfR5jFbQL",
 			"fillStyle": "hachure",
@@ -45304,7 +45277,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044280,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45411,8 +45384,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 501460302,
+			"version": 110,
+			"versionNonce": 879023545,
 			"isDeleted": false,
 			"id": "m6yQCXMHMfzkOkI5YDV5y",
 			"fillStyle": "hachure",
@@ -45431,7 +45404,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044280,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45533,8 +45506,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 1702041234,
+			"version": 111,
+			"versionNonce": 1363623511,
 			"isDeleted": false,
 			"id": "GduCzUCCV89XmDKUAfD1h",
 			"fillStyle": "hachure",
@@ -45553,7 +45526,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044280,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45660,8 +45633,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 803001230,
+			"version": 109,
+			"versionNonce": 949204633,
 			"isDeleted": false,
 			"id": "Wk42DdcyC52MWRdarwmHN",
 			"fillStyle": "hachure",
@@ -45680,7 +45653,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044280,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45777,8 +45750,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 1740010578,
+			"version": 118,
+			"versionNonce": 345725815,
 			"isDeleted": false,
 			"id": "sJDW7LDtr-ZMEoshi2Bz3",
 			"fillStyle": "hachure",
@@ -45797,7 +45770,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044280,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45939,8 +45912,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 1817653710,
+			"version": 96,
+			"versionNonce": 435387257,
 			"isDeleted": false,
 			"id": "bEKAtKNr1YlByXcjrowxl",
 			"fillStyle": "hachure",
@@ -45959,7 +45932,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083400,
+			"updated": 1661687044280,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45986,8 +45959,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 222829074,
+			"version": 107,
+			"versionNonce": 1303303319,
 			"isDeleted": false,
 			"id": "DDNrgelj3Ib9KswXyhp5R",
 			"fillStyle": "hachure",
@@ -46006,7 +45979,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044280,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46093,8 +46066,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 1584121870,
+			"version": 117,
+			"versionNonce": 1221043289,
 			"isDeleted": false,
 			"id": "vQfi6moRJU_KXIWWUWPky",
 			"fillStyle": "hachure",
@@ -46113,7 +46086,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044280,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46250,8 +46223,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 124,
-			"versionNonce": 1696532434,
+			"version": 125,
+			"versionNonce": 1144400311,
 			"isDeleted": false,
 			"id": "bvapUfYjO7HXHKNOBT4x4",
 			"fillStyle": "hachure",
@@ -46270,7 +46243,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46447,8 +46420,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1175688782,
+			"version": 107,
+			"versionNonce": 1625534777,
 			"isDeleted": false,
 			"id": "VG2NsDEH_Ei3sjBUnpc5Y",
 			"fillStyle": "hachure",
@@ -46467,7 +46440,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46554,8 +46527,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 124,
-			"versionNonce": 122830226,
+			"version": 125,
+			"versionNonce": 1431689943,
 			"isDeleted": false,
 			"id": "irQH36oT9Kt8VcK-BDYc8",
 			"fillStyle": "hachure",
@@ -46574,7 +46547,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46751,8 +46724,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 2082970766,
+			"version": 98,
+			"versionNonce": 933962265,
 			"isDeleted": false,
 			"id": "977eiuPSmrZc-DHdz57kx",
 			"fillStyle": "hachure",
@@ -46771,7 +46744,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46808,8 +46781,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 1897446226,
+			"version": 113,
+			"versionNonce": 1168271351,
 			"isDeleted": false,
 			"id": "ATu0F3aC5BsgGqrs2ViFc",
 			"fillStyle": "hachure",
@@ -46828,7 +46801,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46945,8 +46918,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 1449188046,
+			"version": 105,
+			"versionNonce": 705787641,
 			"isDeleted": false,
 			"id": "05Q88HXqwVTGC6TX5vREq",
 			"fillStyle": "hachure",
@@ -46965,7 +46938,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47042,8 +47015,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 135,
-			"versionNonce": 1623818514,
+			"version": 136,
+			"versionNonce": 1394626839,
 			"isDeleted": false,
 			"id": "CdLzzFiZnO8ka41bztylz",
 			"fillStyle": "hachure",
@@ -47062,7 +47035,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47294,8 +47267,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 190337294,
+			"version": 118,
+			"versionNonce": 714747865,
 			"isDeleted": false,
 			"id": "kYJ3me-oUjwgFaxj2-2r_",
 			"fillStyle": "hachure",
@@ -47314,7 +47287,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47456,8 +47429,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 836472530,
+			"version": 105,
+			"versionNonce": 121902647,
 			"isDeleted": false,
 			"id": "AETEReI85fmtCoafHgBoc",
 			"fillStyle": "hachure",
@@ -47476,7 +47449,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47553,8 +47526,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 377945934,
+			"version": 99,
+			"versionNonce": 257477817,
 			"isDeleted": false,
 			"id": "nxryHjz9P8f1HV5j1S5HN",
 			"fillStyle": "hachure",
@@ -47573,7 +47546,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47620,8 +47593,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 954590354,
+			"version": 99,
+			"versionNonce": 1223833431,
 			"isDeleted": false,
 			"id": "12iQ7YEJ7N-F6thtAzDRr",
 			"fillStyle": "hachure",
@@ -47640,7 +47613,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47682,8 +47655,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 114,
-			"versionNonce": 474342798,
+			"version": 115,
+			"versionNonce": 535874969,
 			"isDeleted": false,
 			"id": "mNqIzlyD7Lpf-9nYu9oYL",
 			"fillStyle": "hachure",
@@ -47702,7 +47675,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -47829,8 +47802,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 530547282,
+			"version": 120,
+			"versionNonce": 780088439,
 			"isDeleted": false,
 			"id": "KtMoGMoH44FkdeGfMtOKk",
 			"fillStyle": "hachure",
@@ -47849,7 +47822,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48001,8 +47974,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 1305347022,
+			"version": 120,
+			"versionNonce": 1670754937,
 			"isDeleted": false,
 			"id": "qhROADVhT4RK75u8CInhX",
 			"fillStyle": "hachure",
@@ -48021,7 +47994,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48173,8 +48146,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 1088382994,
+			"version": 117,
+			"versionNonce": 263163287,
 			"isDeleted": false,
 			"id": "QnQ2KfKXHVPz8ZVU5HuIF",
 			"fillStyle": "hachure",
@@ -48193,7 +48166,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044281,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48330,8 +48303,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 1295538702,
+			"version": 119,
+			"versionNonce": 789248857,
 			"isDeleted": false,
 			"id": "oJ6WInjvIlf-32QZxJ9lE",
 			"fillStyle": "hachure",
@@ -48350,7 +48323,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044282,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48497,8 +48470,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 77370834,
+			"version": 99,
+			"versionNonce": 1471660727,
 			"isDeleted": false,
 			"id": "2QHAmZmX93zK3lP9Z7X1i",
 			"fillStyle": "hachure",
@@ -48517,7 +48490,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044282,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48564,8 +48537,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 293464142,
+			"version": 99,
+			"versionNonce": 1923360825,
 			"isDeleted": false,
 			"id": "JXtVXzLHuHqCEU5RABd99",
 			"fillStyle": "hachure",
@@ -48584,7 +48557,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044282,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -48631,8 +48604,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 1005456274,
+			"version": 231,
+			"versionNonce": 389829591,
 			"isDeleted": false,
 			"id": "U03kvW0S60-dJHXeBM8GQ",
 			"fillStyle": "hachure",
@@ -48651,7 +48624,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044282,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49358,8 +49331,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 1249357454,
+			"version": 118,
+			"versionNonce": 1212463385,
 			"isDeleted": false,
 			"id": "9SKoZLjGS5Ci8im1tnU4i",
 			"fillStyle": "hachure",
@@ -49378,7 +49351,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044282,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49520,8 +49493,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 2097858898,
+			"version": 110,
+			"versionNonce": 1448198391,
 			"isDeleted": false,
 			"id": "n9Rqh0GTQxUhxMKmgdew0",
 			"fillStyle": "hachure",
@@ -49540,7 +49513,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044282,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49642,8 +49615,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 1155443918,
+			"version": 112,
+			"versionNonce": 1096822265,
 			"isDeleted": false,
 			"id": "C0oRSZOUD7hEk-b6TOU1z",
 			"fillStyle": "hachure",
@@ -49662,7 +49635,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044282,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49774,8 +49747,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 2135543570,
+			"version": 113,
+			"versionNonce": 645696023,
 			"isDeleted": false,
 			"id": "g3AVDIJVg1fNBJArsaIgY",
 			"fillStyle": "hachure",
@@ -49794,7 +49767,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044282,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -49906,8 +49879,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 141,
-			"versionNonce": 1313596174,
+			"version": 142,
+			"versionNonce": 1962542809,
 			"isDeleted": false,
 			"id": "0TdxT8hcQ_stHswIDhhYI",
 			"fillStyle": "hachure",
@@ -49926,7 +49899,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083401,
+			"updated": 1661687044282,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50188,8 +50161,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1998724306,
+			"version": 102,
+			"versionNonce": 1957769015,
 			"isDeleted": false,
 			"id": "Z_Pksix9e9yP_vml1tEcy",
 			"fillStyle": "hachure",
@@ -50208,7 +50181,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044282,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50270,8 +50243,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 423121230,
+			"version": 108,
+			"versionNonce": 1302709177,
 			"isDeleted": false,
 			"id": "q2v3tF1jydSifTfZn7hBP",
 			"fillStyle": "hachure",
@@ -50290,7 +50263,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044282,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50382,8 +50355,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 1915400850,
+			"version": 105,
+			"versionNonce": 458502231,
 			"isDeleted": false,
 			"id": "RMFwADgST5MQeoW9IZJ5S",
 			"fillStyle": "hachure",
@@ -50402,7 +50375,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044282,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50479,8 +50452,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 553449358,
+			"version": 120,
+			"versionNonce": 394716313,
 			"isDeleted": false,
 			"id": "TJMkN_QCtDBGr67K3J6eQ",
 			"fillStyle": "hachure",
@@ -50499,7 +50472,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044282,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50651,8 +50624,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 154,
-			"versionNonce": 857378898,
+			"version": 155,
+			"versionNonce": 876219767,
 			"isDeleted": false,
 			"id": "ra_JFn54rEeCu2SQejp9r",
 			"fillStyle": "hachure",
@@ -50671,7 +50644,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044282,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -50998,8 +50971,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 124,
-			"versionNonce": 231921102,
+			"version": 125,
+			"versionNonce": 1313925497,
 			"isDeleted": false,
 			"id": "FYAZ4lseJB4LJbhcyXBVV",
 			"fillStyle": "hachure",
@@ -51018,7 +50991,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51195,8 +51168,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 165,
-			"versionNonce": 231257618,
+			"version": 166,
+			"versionNonce": 715605655,
 			"isDeleted": false,
 			"id": "wrWfx12fBE-BsYZYaIxiH",
 			"fillStyle": "hachure",
@@ -51215,7 +51188,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51597,8 +51570,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 416476174,
+			"version": 120,
+			"versionNonce": 726094425,
 			"isDeleted": false,
 			"id": "S31H80w2QfGXNMkWDmHc2",
 			"fillStyle": "hachure",
@@ -51617,7 +51590,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51769,8 +51742,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 1126966226,
+			"version": 97,
+			"versionNonce": 223370167,
 			"isDeleted": false,
 			"id": "OpiXqObFnLNqndGw43SVf",
 			"fillStyle": "hachure",
@@ -51789,7 +51762,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51826,8 +51799,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 1878407758,
+			"version": 98,
+			"versionNonce": 1933418297,
 			"isDeleted": false,
 			"id": "1BRIGpV95YG3YU4MAnZE3",
 			"fillStyle": "hachure",
@@ -51846,7 +51819,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -51888,8 +51861,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 114,
-			"versionNonce": 1566300562,
+			"version": 115,
+			"versionNonce": 542756055,
 			"isDeleted": false,
 			"id": "bh3UOvdqjsQXImAg5ojgj",
 			"fillStyle": "hachure",
@@ -51908,7 +51881,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52035,8 +52008,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 437633166,
+			"version": 104,
+			"versionNonce": 77025305,
 			"isDeleted": false,
 			"id": "VdaM8wHyha6FPEVeYZtWd",
 			"fillStyle": "hachure",
@@ -52055,7 +52028,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52127,8 +52100,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 193910610,
+			"version": 104,
+			"versionNonce": 794302967,
 			"isDeleted": false,
 			"id": "oagMqfhyx9vweaOpsXdir",
 			"fillStyle": "hachure",
@@ -52147,7 +52120,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52219,8 +52192,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1525317326,
+			"version": 102,
+			"versionNonce": 625468665,
 			"isDeleted": false,
 			"id": "KAIGgs2Bk7vqUB-35dBZ3",
 			"fillStyle": "hachure",
@@ -52239,7 +52212,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52301,8 +52274,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 2115771666,
+			"version": 108,
+			"versionNonce": 525320983,
 			"isDeleted": false,
 			"id": "vk-XuYfL6a0krd4jHIExz",
 			"fillStyle": "hachure",
@@ -52321,7 +52294,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52413,8 +52386,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 386757902,
+			"version": 109,
+			"versionNonce": 282254809,
 			"isDeleted": false,
 			"id": "gWn3IEkyA_D6oWdjYnfMM",
 			"fillStyle": "hachure",
@@ -52433,7 +52406,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52530,8 +52503,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 125,
-			"versionNonce": 1115335378,
+			"version": 126,
+			"versionNonce": 1085622327,
 			"isDeleted": false,
 			"id": "0FYtVWsw6sbcMiySPOe6k",
 			"fillStyle": "hachure",
@@ -52550,7 +52523,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52732,8 +52705,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 938976078,
+			"version": 98,
+			"versionNonce": 1179368121,
 			"isDeleted": false,
 			"id": "iBnm97PmU_VJ-7oZgAz17",
 			"fillStyle": "hachure",
@@ -52752,7 +52725,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52789,8 +52762,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 524386450,
+			"version": 118,
+			"versionNonce": 1634543959,
 			"isDeleted": false,
 			"id": "thquVsAhXKOkuxaOOOZsG",
 			"fillStyle": "hachure",
@@ -52809,7 +52782,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -52951,8 +52924,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 268568974,
+			"version": 108,
+			"versionNonce": 374733721,
 			"isDeleted": false,
 			"id": "HXKJfQcIwV4a8QI0RMNX3",
 			"fillStyle": "hachure",
@@ -52971,7 +52944,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044283,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53063,8 +53036,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 1881644626,
+			"version": 120,
+			"versionNonce": 516679287,
 			"isDeleted": false,
 			"id": "UxAPuLl3jpb--iuYReCFZ",
 			"fillStyle": "hachure",
@@ -53083,7 +53056,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53235,8 +53208,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 1046849486,
+			"version": 109,
+			"versionNonce": 1898258553,
 			"isDeleted": false,
 			"id": "xABipmB8eYkqQWVD-RiaQ",
 			"fillStyle": "hachure",
@@ -53255,7 +53228,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53347,8 +53320,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 33817618,
+			"version": 108,
+			"versionNonce": 2006318999,
 			"isDeleted": false,
 			"id": "7GrcWWFObTvjk54Dj7OBb",
 			"fillStyle": "hachure",
@@ -53367,7 +53340,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53459,8 +53432,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 322665998,
+			"version": 117,
+			"versionNonce": 1954326873,
 			"isDeleted": false,
 			"id": "ZIrmZJJI2ALxQyrEyV6Tt",
 			"fillStyle": "hachure",
@@ -53479,7 +53452,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53616,8 +53589,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1858974162,
+			"version": 107,
+			"versionNonce": 503313591,
 			"isDeleted": false,
 			"id": "lQiG5Td4gbdfp67q6Z45C",
 			"fillStyle": "hachure",
@@ -53636,7 +53609,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53723,8 +53696,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 1937542222,
+			"version": 109,
+			"versionNonce": 967841337,
 			"isDeleted": false,
 			"id": "1mLsuCICPkT5PqHUt7aKq",
 			"fillStyle": "hachure",
@@ -53743,7 +53716,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53840,8 +53813,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 2040244114,
+			"version": 109,
+			"versionNonce": 162416087,
 			"isDeleted": false,
 			"id": "T991PO-Kp66scItoaZ9nw",
 			"fillStyle": "hachure",
@@ -53860,7 +53833,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083402,
+			"updated": 1661687044284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -53957,8 +53930,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1023529614,
+			"version": 106,
+			"versionNonce": 1671620377,
 			"isDeleted": false,
 			"id": "pHYRokwxOh8HLOvih0wEm",
 			"fillStyle": "hachure",
@@ -53977,7 +53950,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54054,8 +54027,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 1789191506,
+			"version": 112,
+			"versionNonce": 1236628215,
 			"isDeleted": false,
 			"id": "1YV_N3L3HBrSFLumfSBCQ",
 			"fillStyle": "hachure",
@@ -54074,7 +54047,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54186,8 +54159,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 150,
-			"versionNonce": 713314510,
+			"version": 151,
+			"versionNonce": 1825086457,
 			"isDeleted": false,
 			"id": "Gx_kMtA9aidBKmwJvZNNp",
 			"fillStyle": "hachure",
@@ -54206,7 +54179,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54513,8 +54486,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 1799383826,
+			"version": 98,
+			"versionNonce": 379190295,
 			"isDeleted": false,
 			"id": "rwJ_F6LUlVBeDq-LQtEAA",
 			"fillStyle": "hachure",
@@ -54533,7 +54506,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54575,8 +54548,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 933037838,
+			"version": 119,
+			"versionNonce": 891598041,
 			"isDeleted": false,
 			"id": "c_NaQ8AwQI26mPz1055mE",
 			"fillStyle": "hachure",
@@ -54595,7 +54568,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54742,8 +54715,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 1642412242,
+			"version": 104,
+			"versionNonce": 609247543,
 			"isDeleted": false,
 			"id": "jihrpjCEWZClgw9E5eB0c",
 			"fillStyle": "hachure",
@@ -54762,7 +54735,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54834,8 +54807,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 80016718,
+			"version": 99,
+			"versionNonce": 1347072441,
 			"isDeleted": false,
 			"id": "7UacbVHm85oa0trXae2t6",
 			"fillStyle": "hachure",
@@ -54854,7 +54827,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54901,8 +54874,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1311395474,
+			"version": 101,
+			"versionNonce": 876421719,
 			"isDeleted": false,
 			"id": "Bx4xEwfb1SvOxs9U_kXvT",
 			"fillStyle": "hachure",
@@ -54921,7 +54894,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044285,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -54973,8 +54946,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 995433358,
+			"version": 106,
+			"versionNonce": 324932249,
 			"isDeleted": false,
 			"id": "uM7U3qWWCEOKrq_o3z_cJ",
 			"fillStyle": "hachure",
@@ -54993,7 +54966,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044285,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55075,8 +55048,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 617000018,
+			"version": 97,
+			"versionNonce": 1731510135,
 			"isDeleted": false,
 			"id": "jBiN4Gk-Y_9xtTQz-3Az-",
 			"fillStyle": "hachure",
@@ -55095,7 +55068,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044285,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55132,8 +55105,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 98,
-			"versionNonce": 1904638414,
+			"version": 99,
+			"versionNonce": 1662146425,
 			"isDeleted": false,
 			"id": "2e1BIgyJczsUrXuBZgsx2",
 			"fillStyle": "hachure",
@@ -55152,7 +55125,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044285,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55199,8 +55172,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 730944018,
+			"version": 96,
+			"versionNonce": 1333508247,
 			"isDeleted": false,
 			"id": "LT7huBUHG-z8_pkvD3rC0",
 			"fillStyle": "hachure",
@@ -55219,7 +55192,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044285,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55251,8 +55224,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 242356238,
+			"version": 114,
+			"versionNonce": 1101725785,
 			"isDeleted": false,
 			"id": "UC5--_4X1Pec10zOFmmVQ",
 			"fillStyle": "hachure",
@@ -55271,7 +55244,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044285,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55393,8 +55366,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 1434533842,
+			"version": 120,
+			"versionNonce": 1120308663,
 			"isDeleted": false,
 			"id": "PDDVzjnZce-uloZng8Psr",
 			"fillStyle": "hachure",
@@ -55413,7 +55386,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044285,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55565,8 +55538,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 772857422,
+			"version": 104,
+			"versionNonce": 486247737,
 			"isDeleted": false,
 			"id": "pxOG_QjNkRUpi0WhrmoL4",
 			"fillStyle": "hachure",
@@ -55585,7 +55558,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044285,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55657,8 +55630,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 514684306,
+			"version": 109,
+			"versionNonce": 1815723735,
 			"isDeleted": false,
 			"id": "x_YhUf9P8xyZTMRTlyV_A",
 			"fillStyle": "hachure",
@@ -55677,7 +55650,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044285,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55774,8 +55747,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 87811214,
+			"version": 105,
+			"versionNonce": 1550286361,
 			"isDeleted": false,
 			"id": "pnASGphF9FkejJOYtbWgc",
 			"fillStyle": "hachure",
@@ -55794,7 +55767,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044285,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55871,8 +55844,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1749873490,
+			"version": 101,
+			"versionNonce": 510249975,
 			"isDeleted": false,
 			"id": "AchSJ2Qy1zCXe50LC9nyY",
 			"fillStyle": "hachure",
@@ -55891,7 +55864,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044285,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -55948,8 +55921,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 1168909006,
+			"version": 113,
+			"versionNonce": 786584313,
 			"isDeleted": false,
 			"id": "vDqFLpFmpqi1-N1dC8VG6",
 			"fillStyle": "hachure",
@@ -55968,7 +55941,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044285,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56085,8 +56058,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 1421261074,
+			"version": 114,
+			"versionNonce": 1700476183,
 			"isDeleted": false,
 			"id": "325QRLUbyTjG5JZEAIc6_",
 			"fillStyle": "hachure",
@@ -56105,7 +56078,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044285,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56227,8 +56200,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 33200398,
+			"version": 102,
+			"versionNonce": 418352089,
 			"isDeleted": false,
 			"id": "N6LiNQGmEL02mm_55XdLM",
 			"fillStyle": "hachure",
@@ -56247,7 +56220,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044285,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56304,8 +56277,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 593610450,
+			"version": 112,
+			"versionNonce": 1484945975,
 			"isDeleted": false,
 			"id": "_qHThqq7AEddVX0yUU9ag",
 			"fillStyle": "hachure",
@@ -56324,7 +56297,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56436,8 +56409,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 295716686,
+			"version": 107,
+			"versionNonce": 1117956281,
 			"isDeleted": false,
 			"id": "rEIl22D8-B-alSckHx3OC",
 			"fillStyle": "hachure",
@@ -56456,7 +56429,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56543,8 +56516,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 216341650,
+			"version": 102,
+			"versionNonce": 751049559,
 			"isDeleted": false,
 			"id": "WLbVvbS0CslqrHcQQM-32",
 			"fillStyle": "hachure",
@@ -56563,7 +56536,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56625,8 +56598,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1962290574,
+			"version": 107,
+			"versionNonce": 94316953,
 			"isDeleted": false,
 			"id": "TP1e_SsGI-dhhxI5NJMD1",
 			"fillStyle": "hachure",
@@ -56645,7 +56618,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -56732,8 +56705,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 174,
-			"versionNonce": 519551570,
+			"version": 175,
+			"versionNonce": 108304503,
 			"isDeleted": false,
 			"id": "yn15DSq7XagfUkn01zMSh",
 			"fillStyle": "hachure",
@@ -56752,7 +56725,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083403,
+			"updated": 1661687044286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57174,8 +57147,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 120,
-			"versionNonce": 959794126,
+			"version": 121,
+			"versionNonce": 991465081,
 			"isDeleted": false,
 			"id": "_X5HNEbK21g1b4cRwvOr2",
 			"fillStyle": "hachure",
@@ -57194,7 +57167,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57351,8 +57324,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 410034194,
+			"version": 96,
+			"versionNonce": 190345623,
 			"isDeleted": false,
 			"id": "DXLuXEsH3zSq2e5eumks0",
 			"fillStyle": "hachure",
@@ -57371,7 +57344,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57403,8 +57376,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 1551278606,
+			"version": 97,
+			"versionNonce": 1238521689,
 			"isDeleted": false,
 			"id": "m_VV-RdT0FErxTwWGdUKt",
 			"fillStyle": "hachure",
@@ -57423,7 +57396,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57460,8 +57433,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 1162268114,
+			"version": 114,
+			"versionNonce": 883173047,
 			"isDeleted": false,
 			"id": "npsUy8URkobWyLDSbLErC",
 			"fillStyle": "hachure",
@@ -57480,7 +57453,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57602,8 +57575,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 833826894,
+			"version": 102,
+			"versionNonce": 1948255289,
 			"isDeleted": false,
 			"id": "_R9aysVifhzlaRrK3qVSW",
 			"fillStyle": "hachure",
@@ -57622,7 +57595,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57684,8 +57657,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 1519469458,
+			"version": 116,
+			"versionNonce": 1627142103,
 			"isDeleted": false,
 			"id": "-saGuNO4ZKLH2KLpxxOpH",
 			"fillStyle": "hachure",
@@ -57704,7 +57677,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57836,8 +57809,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1153693326,
+			"version": 102,
+			"versionNonce": 1709511961,
 			"isDeleted": false,
 			"id": "EQHauvnuG2RaEEaKMB6WE",
 			"fillStyle": "hachure",
@@ -57856,7 +57829,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -57913,8 +57886,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 1384579410,
+			"version": 112,
+			"versionNonce": 645211383,
 			"isDeleted": false,
 			"id": "DzOFr5hrqzuLq1hIfdvwF",
 			"fillStyle": "hachure",
@@ -57933,7 +57906,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58045,8 +58018,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1046607054,
+			"version": 107,
+			"versionNonce": 43321849,
 			"isDeleted": false,
 			"id": "Qwx2Z1BQCuGFgilZgw23T",
 			"fillStyle": "hachure",
@@ -58065,7 +58038,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58152,8 +58125,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1216284434,
+			"version": 100,
+			"versionNonce": 1687383575,
 			"isDeleted": false,
 			"id": "VTxgMbyNUelb_e8RsgZ1K",
 			"fillStyle": "hachure",
@@ -58172,7 +58145,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58224,8 +58197,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 1210460942,
+			"version": 103,
+			"versionNonce": 1932747481,
 			"isDeleted": false,
 			"id": "YnzD52sBtU9FgItFKTQL2",
 			"fillStyle": "hachure",
@@ -58244,7 +58217,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58306,8 +58279,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1425036498,
+			"version": 107,
+			"versionNonce": 374051639,
 			"isDeleted": false,
 			"id": "HGnPNqG-c4VjvWghYsjJE",
 			"fillStyle": "hachure",
@@ -58326,7 +58299,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58413,8 +58386,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1888065870,
+			"version": 107,
+			"versionNonce": 1951637433,
 			"isDeleted": false,
 			"id": "vabs_ij-gWvYYPQxEgV0X",
 			"fillStyle": "hachure",
@@ -58433,7 +58406,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58520,8 +58493,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 1769073298,
+			"version": 97,
+			"versionNonce": 1677857879,
 			"isDeleted": false,
 			"id": "7JIfDdOvT5zq2RyThpKtH",
 			"fillStyle": "hachure",
@@ -58540,7 +58513,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58577,8 +58550,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 249905038,
+			"version": 114,
+			"versionNonce": 1679376537,
 			"isDeleted": false,
 			"id": "CwL6NXBuYYEYn7X7Bdl_5",
 			"fillStyle": "hachure",
@@ -58597,7 +58570,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -58719,8 +58692,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 201,
-			"versionNonce": 750438482,
+			"version": 202,
+			"versionNonce": 1972072823,
 			"isDeleted": false,
 			"id": "EMp-Sz-zBE86l6aNhY3Ok",
 			"fillStyle": "hachure",
@@ -58739,7 +58712,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59301,8 +59274,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 661790158,
+			"version": 106,
+			"versionNonce": 272090489,
 			"isDeleted": false,
 			"id": "w7GnhA8uV1zktsw62k6zu",
 			"fillStyle": "hachure",
@@ -59321,7 +59294,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59403,8 +59376,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1453452818,
+			"version": 100,
+			"versionNonce": 70003351,
 			"isDeleted": false,
 			"id": "jPoQKTPKsIzrHEOhxg6Mi",
 			"fillStyle": "hachure",
@@ -59423,7 +59396,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59475,8 +59448,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 1330197518,
+			"version": 104,
+			"versionNonce": 1139977817,
 			"isDeleted": false,
 			"id": "obHOy00SQYAJAe3vSIazp",
 			"fillStyle": "hachure",
@@ -59495,7 +59468,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59562,8 +59535,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 203316178,
+			"version": 106,
+			"versionNonce": 748208055,
 			"isDeleted": false,
 			"id": "BI3BM0ffovspGS2XqzzFI",
 			"fillStyle": "hachure",
@@ -59582,7 +59555,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59664,8 +59637,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 274956878,
+			"version": 98,
+			"versionNonce": 371030841,
 			"isDeleted": false,
 			"id": "XNHQCSKlaFikHfXKm26gZ",
 			"fillStyle": "hachure",
@@ -59684,7 +59657,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59726,8 +59699,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 994513298,
+			"version": 100,
+			"versionNonce": 16101591,
 			"isDeleted": false,
 			"id": "M115dL8Tkap_jrv4jrVmu",
 			"fillStyle": "hachure",
@@ -59746,7 +59719,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59798,8 +59771,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1301940366,
+			"version": 101,
+			"versionNonce": 1998302233,
 			"isDeleted": false,
 			"id": "CLiVjxqcWdEGxSR52pyOA",
 			"fillStyle": "hachure",
@@ -59818,7 +59791,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59875,8 +59848,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 2001932114,
+			"version": 105,
+			"versionNonce": 1524071927,
 			"isDeleted": false,
 			"id": "_CGTIdSFXrDuteVaTwa6z",
 			"fillStyle": "hachure",
@@ -59895,7 +59868,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -59972,8 +59945,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 648398542,
+			"version": 108,
+			"versionNonce": 2128658681,
 			"isDeleted": false,
 			"id": "zEZ1wVuG7HF77UkuGSulb",
 			"fillStyle": "hachure",
@@ -59992,7 +59965,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044287,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60084,8 +60057,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1419334930,
+			"version": 102,
+			"versionNonce": 1833084695,
 			"isDeleted": false,
 			"id": "aNQp1zYitEJIm9CW9yGgN",
 			"fillStyle": "hachure",
@@ -60104,7 +60077,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60166,8 +60139,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 1545583886,
+			"version": 119,
+			"versionNonce": 2062563801,
 			"isDeleted": false,
 			"id": "PqC6kpf1otx4x97o68kSW",
 			"fillStyle": "hachure",
@@ -60186,7 +60159,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083404,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60333,8 +60306,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 1150345938,
+			"version": 97,
+			"versionNonce": 380349495,
 			"isDeleted": false,
 			"id": "Vq2kPwBbG4n_PxE02OuNr",
 			"fillStyle": "hachure",
@@ -60353,7 +60326,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60390,8 +60363,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 864086862,
+			"version": 97,
+			"versionNonce": 1012766393,
 			"isDeleted": false,
 			"id": "7ZgkmiaRsvNMArjO5e8G0",
 			"fillStyle": "hachure",
@@ -60410,7 +60383,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60447,8 +60420,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 1909504146,
+			"version": 111,
+			"versionNonce": 1928793431,
 			"isDeleted": false,
 			"id": "NK0lKtpy70a7UVWdsBxyw",
 			"fillStyle": "hachure",
@@ -60467,7 +60440,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60574,8 +60547,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 114,
-			"versionNonce": 1528975758,
+			"version": 115,
+			"versionNonce": 634148761,
 			"isDeleted": false,
 			"id": "MP2dQO4VdpzD1-Qrcat5u",
 			"fillStyle": "hachure",
@@ -60594,7 +60567,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60721,8 +60694,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 470799954,
+			"version": 106,
+			"versionNonce": 762923639,
 			"isDeleted": false,
 			"id": "u8rD5ahnUbHurOi2zFrB-",
 			"fillStyle": "hachure",
@@ -60741,7 +60714,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60818,8 +60791,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 1312616398,
+			"version": 107,
+			"versionNonce": 2037382265,
 			"isDeleted": false,
 			"id": "L2QdytxcNBrTI8Zb_pigU",
 			"fillStyle": "hachure",
@@ -60838,7 +60811,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -60925,8 +60898,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 1948597266,
+			"version": 102,
+			"versionNonce": 318170007,
 			"isDeleted": false,
 			"id": "l9adVVP7PNTAaE6BKgunU",
 			"fillStyle": "hachure",
@@ -60945,7 +60918,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61007,8 +60980,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 954844686,
+			"version": 101,
+			"versionNonce": 1728841049,
 			"isDeleted": false,
 			"id": "vv7YwPFUHdS4m1mrKX8TR",
 			"fillStyle": "hachure",
@@ -61027,7 +61000,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61084,8 +61057,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 2013784530,
+			"version": 120,
+			"versionNonce": 1671714999,
 			"isDeleted": false,
 			"id": "sGV4ZLFzA91iP0Ij-COiG",
 			"fillStyle": "hachure",
@@ -61104,7 +61077,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61256,8 +61229,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1545720910,
+			"version": 106,
+			"versionNonce": 1509159481,
 			"isDeleted": false,
 			"id": "Z3oK5TCt-oawA8fjlzx_u",
 			"fillStyle": "hachure",
@@ -61276,7 +61249,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61358,8 +61331,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 1322180498,
+			"version": 98,
+			"versionNonce": 1696999895,
 			"isDeleted": false,
 			"id": "f_A3AgHDO5uQMaA3jW1rT",
 			"fillStyle": "hachure",
@@ -61378,7 +61351,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61420,8 +61393,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 1908284046,
+			"version": 112,
+			"versionNonce": 118178585,
 			"isDeleted": false,
 			"id": "q8YSHd8z1SO6dAuMDx5bf",
 			"fillStyle": "hachure",
@@ -61440,7 +61413,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61552,8 +61525,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 168,
-			"versionNonce": 615587154,
+			"version": 169,
+			"versionNonce": 881907447,
 			"isDeleted": false,
 			"id": "grt1pKU0it9oSBkvm9et4",
 			"fillStyle": "hachure",
@@ -61572,7 +61545,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -61969,8 +61942,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 276273358,
+			"version": 119,
+			"versionNonce": 986019833,
 			"isDeleted": false,
 			"id": "Iol3U4cWqvNcn9V6ofhml",
 			"fillStyle": "hachure",
@@ -61989,7 +61962,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044288,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62136,8 +62109,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 114,
-			"versionNonce": 117809938,
+			"version": 115,
+			"versionNonce": 1483268119,
 			"isDeleted": false,
 			"id": "c56hvLzcDVbqBD0hYRA6F",
 			"fillStyle": "hachure",
@@ -62156,7 +62129,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62283,8 +62256,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 266817294,
+			"version": 101,
+			"versionNonce": 1730547929,
 			"isDeleted": false,
 			"id": "HoLPgj_D77_upnzgFTPxn",
 			"fillStyle": "hachure",
@@ -62303,7 +62276,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62355,8 +62328,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1078161618,
+			"version": 101,
+			"versionNonce": 312657207,
 			"isDeleted": false,
 			"id": "XAUKlgxZgOVBPZAhDOHA8",
 			"fillStyle": "hachure",
@@ -62375,7 +62348,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62432,8 +62405,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1820736846,
+			"version": 101,
+			"versionNonce": 1908444601,
 			"isDeleted": false,
 			"id": "ROEhI3AAN8CMzgF8be5yy",
 			"fillStyle": "hachure",
@@ -62452,7 +62425,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62509,8 +62482,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 872515218,
+			"version": 103,
+			"versionNonce": 1923286615,
 			"isDeleted": false,
 			"id": "A_54uE0eTR6F_WwtwXJqq",
 			"fillStyle": "hachure",
@@ -62529,7 +62502,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62596,8 +62569,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 115,
-			"versionNonce": 732783502,
+			"version": 116,
+			"versionNonce": 1102605977,
 			"isDeleted": false,
 			"id": "hJ5TUy15rPZgSFs9e3zVG",
 			"fillStyle": "hachure",
@@ -62616,7 +62589,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62748,8 +62721,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 989258834,
+			"version": 105,
+			"versionNonce": 658383735,
 			"isDeleted": false,
 			"id": "ypL8Qit-yFO4LMJMH050z",
 			"fillStyle": "hachure",
@@ -62768,7 +62741,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62845,8 +62818,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 1066779086,
+			"version": 98,
+			"versionNonce": 230765433,
 			"isDeleted": false,
 			"id": "JByjU5Kil-YhxYVmhYsxs",
 			"fillStyle": "hachure",
@@ -62865,7 +62838,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -62902,8 +62875,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 2130348562,
+			"version": 109,
+			"versionNonce": 280534167,
 			"isDeleted": false,
 			"id": "3OJQvH66EbplsDuoFDykc",
 			"fillStyle": "hachure",
@@ -62922,7 +62895,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63019,8 +62992,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 1800951822,
+			"version": 94,
+			"versionNonce": 1780374617,
 			"isDeleted": false,
 			"id": "xItIR1IzQ1MsaIQzQSoF8",
 			"fillStyle": "hachure",
@@ -63039,7 +63012,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63058,8 +63031,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "rectangle",
-			"version": 124,
-			"versionNonce": 1459845074,
+			"version": 125,
+			"versionNonce": 315027895,
 			"isDeleted": false,
 			"id": "RRtLLL_uJbTM577EPHok_",
 			"fillStyle": "hachure",
@@ -63078,14 +63051,14 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 354,
-			"versionNonce": 653141582,
+			"version": 355,
+			"versionNonce": 379808057,
 			"isDeleted": false,
 			"id": "MaNfM6CDFQmJRHdfln-iB",
 			"fillStyle": "hachure",
@@ -63104,14 +63077,14 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083405,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 146,
-			"versionNonce": 589868434,
+			"version": 147,
+			"versionNonce": 646816471,
 			"isDeleted": false,
 			"id": "00vXhEtj2P0aXtzc2qD2s",
 			"fillStyle": "hachure",
@@ -63130,7 +63103,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": true,
 			"status": "pending",
@@ -63142,8 +63115,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 53488782,
+			"version": 105,
+			"versionNonce": 213113369,
 			"isDeleted": false,
 			"id": "1jp136idGPj--yG_SLbs6",
 			"fillStyle": "hachure",
@@ -63162,7 +63135,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -63279,8 +63252,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 681651026,
+			"version": 93,
+			"versionNonce": 748761079,
 			"isDeleted": false,
 			"id": "JoVlvCeZ--OTC4-XmuUN3",
 			"fillStyle": "hachure",
@@ -63299,7 +63272,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -63356,8 +63329,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "line",
-			"version": 105,
-			"versionNonce": 232221390,
+			"version": 106,
+			"versionNonce": 1296248569,
 			"isDeleted": false,
 			"id": "qpiNuuAvijn5zjMrC-8sa",
 			"fillStyle": "hachure",
@@ -63376,7 +63349,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044289,
 			"link": null,
 			"locked": true,
 			"startBinding": null,
@@ -63397,8 +63370,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "ellipse",
-			"version": 92,
-			"versionNonce": 1841557778,
+			"version": 93,
+			"versionNonce": 2131106071,
 			"isDeleted": false,
 			"id": "FLT_VL-niJpyjXxgoIF1Q",
 			"fillStyle": "hachure",
@@ -63417,14 +63390,14 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 897376526,
+			"version": 106,
+			"versionNonce": 1859446745,
 			"isDeleted": false,
 			"id": "o9QxjOcCwxxWXVgK4Rjkq",
 			"fillStyle": "hachure",
@@ -63443,7 +63416,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -63565,8 +63538,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 139,
-			"versionNonce": 369622738,
+			"version": 140,
+			"versionNonce": 1127276087,
 			"isDeleted": false,
 			"id": "cz3Wx0b6yeXqRJwA1XTQz",
 			"fillStyle": "hachure",
@@ -63585,7 +63558,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -63877,8 +63850,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 117,
-			"versionNonce": 765038414,
+			"version": 118,
+			"versionNonce": 1803322553,
 			"isDeleted": false,
 			"id": "HQaPDsTSo9nZ98Mr9aCi3",
 			"fillStyle": "hachure",
@@ -63897,7 +63870,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -64079,8 +64052,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 1040471186,
+			"version": 93,
+			"versionNonce": 2080767831,
 			"isDeleted": false,
 			"id": "FBoj7tpgNXAhK7aFfv717",
 			"fillStyle": "hachure",
@@ -64099,7 +64072,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -64156,8 +64129,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 1384543630,
+			"version": 103,
+			"versionNonce": 786269593,
 			"isDeleted": false,
 			"id": "iWSmH6xXTHEo1t-dRbrQ5",
 			"fillStyle": "hachure",
@@ -64176,7 +64149,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -64288,8 +64261,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 1466954322,
+			"version": 96,
+			"versionNonce": 1541012599,
 			"isDeleted": false,
 			"id": "qrMIUhtM4QzRnLkt7kKPZ",
 			"fillStyle": "hachure",
@@ -64308,7 +64281,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -64385,8 +64358,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 226268110,
+			"version": 112,
+			"versionNonce": 1680566905,
 			"isDeleted": false,
 			"id": "tLaQkOCxVQxEa7S5jWM5z",
 			"fillStyle": "hachure",
@@ -64405,7 +64378,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -64557,8 +64530,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 86104082,
+			"version": 120,
+			"versionNonce": 1450268055,
 			"isDeleted": false,
 			"id": "CfDOLqVSUCRjFanKosfns",
 			"fillStyle": "hachure",
@@ -64577,7 +64550,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -64774,8 +64747,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 949283342,
+			"version": 93,
+			"versionNonce": 69841753,
 			"isDeleted": false,
 			"id": "C1FeP2-lNerila7GYRYt-",
 			"fillStyle": "hachure",
@@ -64794,7 +64767,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -64856,8 +64829,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 1997604306,
+			"version": 108,
+			"versionNonce": 1929415351,
 			"isDeleted": false,
 			"id": "ZVz6IaL3KouLoNy5zClb0",
 			"fillStyle": "hachure",
@@ -64876,7 +64849,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -65008,8 +64981,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 46692430,
+			"version": 120,
+			"versionNonce": 590078009,
 			"isDeleted": false,
 			"id": "FIYF1bFLftEnxwY12cM8Y",
 			"fillStyle": "hachure",
@@ -65028,7 +65001,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -65225,8 +65198,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 1179941778,
+			"version": 90,
+			"versionNonce": 1579949015,
 			"isDeleted": false,
 			"id": "XeHpibnzuozbH1FPYizhZ",
 			"fillStyle": "hachure",
@@ -65245,7 +65218,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -65292,8 +65265,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 1408253582,
+			"version": 90,
+			"versionNonce": 2132111641,
 			"isDeleted": false,
 			"id": "Z8x2dX-pqqV2CktvtpeSE",
 			"fillStyle": "hachure",
@@ -65312,7 +65285,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -65359,8 +65332,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 1361262930,
+			"version": 103,
+			"versionNonce": 1007192311,
 			"isDeleted": false,
 			"id": "AxQ1ATbCsZh-oiwfovXnY",
 			"fillStyle": "hachure",
@@ -65379,7 +65352,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -65491,8 +65464,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 818232526,
+			"version": 113,
+			"versionNonce": 1297737209,
 			"isDeleted": false,
 			"id": "y8mllHjpfFe-NrtBKkVee",
 			"fillStyle": "hachure",
@@ -65511,7 +65484,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -65673,8 +65646,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 383008530,
+			"version": 102,
+			"versionNonce": 974803479,
 			"isDeleted": false,
 			"id": "tWYP9d0Xoq8eMDxcCeGK_",
 			"fillStyle": "hachure",
@@ -65693,7 +65666,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044290,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -65800,8 +65773,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 518025998,
+			"version": 119,
+			"versionNonce": 1224523481,
 			"isDeleted": false,
 			"id": "4GKd6xl4b7K3hZYuWPE66",
 			"fillStyle": "hachure",
@@ -65820,7 +65793,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -66012,8 +65985,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 333352146,
+			"version": 95,
+			"versionNonce": 1633023799,
 			"isDeleted": false,
 			"id": "sS3Xww6KOXCZoT0K4WeOj",
 			"fillStyle": "hachure",
@@ -66032,7 +66005,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -66104,8 +66077,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 146465102,
+			"version": 110,
+			"versionNonce": 9534393,
 			"isDeleted": false,
 			"id": "RC5PPaHLw2ygfalBOF1Je",
 			"fillStyle": "hachure",
@@ -66124,7 +66097,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -66266,8 +66239,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 500769426,
+			"version": 120,
+			"versionNonce": 673183831,
 			"isDeleted": false,
 			"id": "DxCdebPuGAPUH3qc7J1nD",
 			"fillStyle": "hachure",
@@ -66286,7 +66259,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -66483,8 +66456,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 565020558,
+			"version": 93,
+			"versionNonce": 1681628313,
 			"isDeleted": false,
 			"id": "6YuXcsNp9H-riEuF4-X_v",
 			"fillStyle": "hachure",
@@ -66503,7 +66476,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -66560,8 +66533,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 87,
-			"versionNonce": 1065025618,
+			"version": 88,
+			"versionNonce": 1145886071,
 			"isDeleted": false,
 			"id": "8TsQwao_8u4refbUJ29wC",
 			"fillStyle": "hachure",
@@ -66580,7 +66553,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083406,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -66617,8 +66590,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 1240557006,
+			"version": 103,
+			"versionNonce": 330211705,
 			"isDeleted": false,
 			"id": "1TVsvzNBw35zOUsy3RCPC",
 			"fillStyle": "hachure",
@@ -66637,7 +66610,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -66749,8 +66722,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 345712146,
+			"version": 93,
+			"versionNonce": 1025576599,
 			"isDeleted": false,
 			"id": "wF_PEPNtlGh1qcdEIwcv1",
 			"fillStyle": "hachure",
@@ -66769,7 +66742,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -66831,8 +66804,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1923054606,
+			"version": 106,
+			"versionNonce": 1814956633,
 			"isDeleted": false,
 			"id": "m40_3zS6V0j8a5mf7HJTV",
 			"fillStyle": "hachure",
@@ -66851,7 +66824,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -66978,8 +66951,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 640717778,
+			"version": 91,
+			"versionNonce": 1028727735,
 			"isDeleted": false,
 			"id": "ZQGOptnSDXdEUwoQi32pH",
 			"fillStyle": "hachure",
@@ -66998,7 +66971,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -67045,8 +67018,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 28363342,
+			"version": 112,
+			"versionNonce": 1452103481,
 			"isDeleted": false,
 			"id": "PNnnySCvslQA17nMH4MUj",
 			"fillStyle": "hachure",
@@ -67065,7 +67038,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -67217,8 +67190,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 1179797906,
+			"version": 89,
+			"versionNonce": 620860631,
 			"isDeleted": false,
 			"id": "JyczSYv9Zy2xN_Ba54Aio",
 			"fillStyle": "hachure",
@@ -67237,7 +67210,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -67279,8 +67252,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 88,
-			"versionNonce": 905859214,
+			"version": 89,
+			"versionNonce": 1429211161,
 			"isDeleted": false,
 			"id": "SqyUQthdzuFJp5GMDgHZk",
 			"fillStyle": "hachure",
@@ -67299,7 +67272,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -67341,8 +67314,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 1815562066,
+			"version": 104,
+			"versionNonce": 1539760631,
 			"isDeleted": false,
 			"id": "PWjX9GLOxDhKE2NtB-iHk",
 			"fillStyle": "hachure",
@@ -67361,7 +67334,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -67473,8 +67446,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 93,
-			"versionNonce": 188813006,
+			"version": 94,
+			"versionNonce": 1376361721,
 			"isDeleted": false,
 			"id": "TRnX4hCIUVEfiYuQCyVSQ",
 			"fillStyle": "hachure",
@@ -67493,7 +67466,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -67555,8 +67528,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 272010514,
+			"version": 110,
+			"versionNonce": 1655016215,
 			"isDeleted": false,
 			"id": "80MHsSwQmv1rvyHyXJjz4",
 			"fillStyle": "hachure",
@@ -67575,7 +67548,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -67717,8 +67690,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 504497422,
+			"version": 105,
+			"versionNonce": 748525017,
 			"isDeleted": false,
 			"id": "gXGLBTkV3Mo02_epTwKjR",
 			"fillStyle": "hachure",
@@ -67737,7 +67710,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044291,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -67859,8 +67832,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 130489042,
+			"version": 91,
+			"versionNonce": 638718007,
 			"isDeleted": false,
 			"id": "q-P-TOZsXv14An5eo7X8I",
 			"fillStyle": "hachure",
@@ -67879,7 +67852,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -67931,8 +67904,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 89,
-			"versionNonce": 267006798,
+			"version": 90,
+			"versionNonce": 134181561,
 			"isDeleted": false,
 			"id": "5OZLrpTPpItdkVa-6c8Vw",
 			"fillStyle": "hachure",
@@ -67951,7 +67924,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -67998,8 +67971,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 1635774610,
+			"version": 112,
+			"versionNonce": 267448663,
 			"isDeleted": false,
 			"id": "v_wBQ9yK-iMzhJm1H0hXj",
 			"fillStyle": "hachure",
@@ -68018,7 +67991,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -68175,8 +68148,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 1797429646,
+			"version": 100,
+			"versionNonce": 1490203545,
 			"isDeleted": false,
 			"id": "kUVzNS1Y8Od5ueMf7Pg9H",
 			"fillStyle": "hachure",
@@ -68195,7 +68168,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -68292,8 +68265,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 1092095570,
+			"version": 110,
+			"versionNonce": 1503047287,
 			"isDeleted": false,
 			"id": "2sdhJdp4WlYg0wgTCLcri",
 			"fillStyle": "hachure",
@@ -68312,7 +68285,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -68459,8 +68432,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 116668366,
+			"version": 95,
+			"versionNonce": 860543097,
 			"isDeleted": false,
 			"id": "Zh95_GioBXB5JLGWInZyT",
 			"fillStyle": "hachure",
@@ -68479,7 +68452,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -68546,8 +68519,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 104,
-			"versionNonce": 996570130,
+			"version": 105,
+			"versionNonce": 499632023,
 			"isDeleted": false,
 			"id": "j6rAxMjQIRhdiKOvFIh6c",
 			"fillStyle": "hachure",
@@ -68566,7 +68539,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -68688,8 +68661,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1803030030,
+			"version": 101,
+			"versionNonce": 1496015193,
 			"isDeleted": false,
 			"id": "Jb2y_APSY4RIf2oGy8Qzc",
 			"fillStyle": "hachure",
@@ -68708,7 +68681,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -68810,8 +68783,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 99,
-			"versionNonce": 845291986,
+			"version": 100,
+			"versionNonce": 716750007,
 			"isDeleted": false,
 			"id": "CSLa03XnFMNPuTGbdXUit",
 			"fillStyle": "hachure",
@@ -68830,7 +68803,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -68927,8 +68900,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 131,
-			"versionNonce": 900144206,
+			"version": 132,
+			"versionNonce": 130534969,
 			"isDeleted": false,
 			"id": "sM2AvVVUYWDJqzt6vS-H5",
 			"fillStyle": "hachure",
@@ -68947,7 +68920,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -69204,8 +69177,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 824317842,
+			"version": 95,
+			"versionNonce": 336465367,
 			"isDeleted": false,
 			"id": "1YXsDY690OkzNA8JZ69T6",
 			"fillStyle": "hachure",
@@ -69224,7 +69197,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -69296,8 +69269,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "freedraw",
-			"version": 96,
-			"versionNonce": 2069521038,
+			"version": 97,
+			"versionNonce": 100900633,
 			"isDeleted": false,
 			"id": "gkPRuERytDkVZyRe3-OMC",
 			"fillStyle": "hachure",
@@ -69316,7 +69289,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": true,
 			"points": [
@@ -69398,8 +69371,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "rectangle",
-			"version": 536,
-			"versionNonce": 1205687634,
+			"version": 537,
+			"versionNonce": 81541879,
 			"isDeleted": false,
 			"id": "-Av3N3AEfhVnBHSSQEJuQ",
 			"fillStyle": "hachure",
@@ -69418,14 +69391,14 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 604,
-			"versionNonce": 793436366,
+			"version": 605,
+			"versionNonce": 1917998073,
 			"isDeleted": false,
 			"id": "cp5yQpBLn_1uKVccjADCC",
 			"fillStyle": "hachure",
@@ -69444,14 +69417,14 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 66,
-			"versionNonce": 1743444754,
+			"version": 67,
+			"versionNonce": 1369949207,
 			"isDeleted": false,
 			"id": "b1sozGjOHe5b8ssybeJmk",
 			"fillStyle": "hachure",
@@ -69470,7 +69443,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": true,
 			"status": "pending",
@@ -69482,8 +69455,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "image",
-			"version": 37,
-			"versionNonce": 85038862,
+			"version": 38,
+			"versionNonce": 1354198233,
 			"isDeleted": false,
 			"id": "SLd3ou4mTBzAJDbWVxUfH",
 			"fillStyle": "hachure",
@@ -69502,7 +69475,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616083407,
+			"updated": 1661687044292,
 			"link": null,
 			"locked": true,
 			"status": "pending",
@@ -69514,8 +69487,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "rectangle",
-			"version": 697,
-			"versionNonce": 1069656274,
+			"version": 698,
+			"versionNonce": 1248143671,
 			"isDeleted": false,
 			"id": "EhdZw6B4eufEZoUIW_-oL",
 			"fillStyle": "hachure",
@@ -69534,14 +69507,14 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616108084,
+			"updated": 1661687044293,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 758,
-			"versionNonce": 1735378830,
+			"version": 759,
+			"versionNonce": 1489398201,
 			"isDeleted": false,
 			"id": "dd_x1wc9x4KR4S-of9DWG",
 			"fillStyle": "hachure",
@@ -69560,14 +69533,14 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1661616368568,
+			"updated": 1661687044293,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "image",
-			"version": 34,
-			"versionNonce": 874125970,
+			"version": 35,
+			"versionNonce": 1282992727,
 			"isDeleted": false,
 			"id": "KBxjMLNzRfh9coXZdyVtB",
 			"fillStyle": "hachure",
@@ -69586,7 +69559,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616400711,
+			"updated": 1661687044293,
 			"link": null,
 			"locked": true,
 			"status": "pending",
@@ -69598,8 +69571,8 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 		},
 		{
 			"type": "image",
-			"version": 35,
-			"versionNonce": 1175981966,
+			"version": 36,
+			"versionNonce": 61000345,
 			"isDeleted": false,
 			"id": "KxijwYaiNTcdnHSD6xyjo",
 			"fillStyle": "hachure",
@@ -69618,7 +69591,7 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661616400711,
+			"updated": 1661687044293,
 			"link": null,
 			"locked": true,
 			"status": "pending",
@@ -69629,79 +69602,92 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			]
 		},
 		{
-			"text": "(ii) State the significance of the force F for the motion of the ball in the bowl.\n\n\n\n\n(b) The ball moves in a circular path of radius 14 cm. For this radius, the angle theta is 28⁰.\n\nCalculate the speed of the ball.\nspeed\n.….........\n**********\n[1]\n.ms-¹ [3]",
-			"fontSize": 24,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 386,
-			"id": "pN6ZnTqf",
-			"type": "text",
-			"x": 1151.1666666666667,
-			"y": 5013.3725490196075,
-			"width": 1128,
-			"height": 395,
+			"id": "n9X7sBrt2VGP7jtdyDHkk",
+			"type": "freedraw",
+			"x": 1271.0476190476186,
+			"y": -712.614439324117,
+			"width": 1.9354838709678006,
+			"height": 29.677419354838776,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"strokeSharpness": "sharp",
-			"seed": 61372,
-			"version": 2,
-			"versionNonce": 1251203406,
-			"updated": 1661616340753,
-			"isDeleted": true,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": null,
-			"originalText": "(ii) State the significance of the force F for the motion of the ball in the bowl.\n\n\n\n\n(b) The ball moves in a circular path of radius 14 cm. For this radius, the angle theta is 28⁰.\n\nCalculate the speed of the ball.\nspeed\n.….........\n**********\n[1]\n.ms-¹ [3]",
-			"rawText": "(ii) State the significance of the force F for the motion of the ball in the bowl.\n\n\n\n\n(b) The ball moves in a circular path of radius 14 cm. For this radius, the angle theta is 28⁰.\n\nCalculate the speed of the ball.\nspeed\n.….........\n**********\n[1]\n.ms-¹ [3]"
-		},
-		{
-			"type": "image",
-			"version": 32,
-			"versionNonce": 753127246,
-			"isDeleted": true,
-			"id": "9yRc943nWb0ZBWfi7DESD",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": 1100,
-			"y": 4120,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 1025.9999999999998,
-			"height": 605.205882352941,
-			"seed": 643436494,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1661616366121,
+			"seed": 536029881,
+			"version": 10,
+			"versionNonce": 1814943191,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687065346,
 			"link": null,
 			"locked": false,
-			"status": "pending",
-			"fileId": "eb7bf260023a265d32e87745ad18c4c02d1abb2a",
-			"scale": [
-				1,
-				1
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					1.2903225806451246
+				],
+				[
+					0.645161290322676,
+					9.0322580645161
+				],
+				[
+					0.645161290322676,
+					15.48387096774195
+				],
+				[
+					0,
+					19.354838709677438
+				],
+				[
+					-0.645161290322676,
+					23.870967741935488
+				],
+				[
+					0,
+					25.806451612903174
+				],
+				[
+					1.2903225806451246,
+					29.677419354838776
+				],
+				[
+					1.2903225806451246,
+					29.677419354838776
+				]
+			],
+			"pressures": [
+				0,
+				0.059432800859212875,
+				0.062022194266319275,
+				0.06436498463153839,
+				0.06510481238365173,
+				0.06448828428983688,
+				0.05104808881878853,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				1.2903225806451246,
+				29.677419354838776
 			]
 		},
 		{
-			"id": "HTyIOceN9m37k7ONKRNkZ",
+			"id": "dghtgNRKw6gEbHkEnBwEx",
 			"type": "freedraw",
-			"x": 6912.987012987012,
-			"y": 391.6007461567265,
-			"width": 150,
-			"height": 210,
+			"x": 1284.5960061443927,
+			"y": -701.0015360983106,
+			"width": 10.967741935483673,
+			"height": 12.903225806451587,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -69709,15 +69695,15 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
-			"opacity": 20,
+			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 264957390,
+			"seed": 379868953,
 			"version": 16,
-			"versionNonce": 1493304914,
-			"isDeleted": true,
+			"versionNonce": 707350231,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661616544194,
+			"updated": 1661687065749,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -69726,474 +69712,87 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					-10,
-					-60
+					3.870967741935374,
+					4.5161290322581635
 				],
 				[
-					0,
-					-90
+					3.870967741935374,
+					8.387096774193537
 				],
 				[
-					30,
-					-110
+					1.9354838709678006,
+					10.9677419354839
 				],
 				[
-					80,
-					-40
+					-0.645161290322676,
+					12.258064516129025
 				],
 				[
-					30,
-					70
+					-3.2258064516129252,
+					12.903225806451587
 				],
 				[
-					0,
-					100
+					-5.8064516129031745,
+					11.612903225806463
 				],
 				[
-					-10,
-					100
+					-7.096774193548299,
+					10.322580645161338
 				],
 				[
-					0,
-					100
+					-7.096774193548299,
+					7.096774193548413
 				],
 				[
-					40,
-					100
+					-5.8064516129031745,
+					4.5161290322581635
 				],
 				[
-					110,
-					100
+					-3.870967741935374,
+					1.2903225806452383
 				],
 				[
-					140,
-					90
+					-1.2903225806451246,
+					0.6451612903225623
 				],
 				[
-					140,
-					90
-				]
-			],
-			"pressures": [
-				0,
-				0.0694204717874527,
-				0.07484587281942368,
-				0.07632552087306976,
-				0.0758323073387146,
-				0.07681874185800552,
-				0.07805179059505463,
-				0.08581997454166412,
-				0.09568434208631516,
-				0.09667077660560608,
-				0.062022194266319275,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				140,
-				90
-			]
-		},
-		{
-			"id": "fxzvfXJkfI8jVFB8Cvaph",
-			"type": "freedraw",
-			"x": 6812.987012987012,
-			"y": 431.6007461567265,
-			"width": 170,
-			"height": 210,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 885374926,
-			"version": 12,
-			"versionNonce": 1617257422,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661616547674,
-			"link": null,
-			"locked": false,
-			"points": [
+					0.645161290322676,
+					0.6451612903225623
+				],
 				[
 					0,
 					0
-				],
-				[
-					50,
-					-40
-				],
-				[
-					110,
-					-10
-				],
-				[
-					120,
-					70
-				],
-				[
-					40,
-					170
-				],
-				[
-					100,
-					170
-				],
-				[
-					140,
-					170
-				],
-				[
-					170,
-					160
-				],
-				[
-					170,
-					160
 				]
 			],
 			"pressures": [
 				0,
-				0.1080147996544838,
-				0.11097410321235657,
-				0.11233045905828476,
-				0.2351417988538742,
-				0.24623921513557434,
-				0.09963008761405945,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				170,
-				160
-			]
-		},
-		{
-			"id": "pT7I35QzK7_whvC6ffW7I",
-			"type": "freedraw",
-			"x": 6752.987012987012,
-			"y": 401.6007461567265,
-			"width": 250,
-			"height": 180,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 921575182,
-			"version": 8,
-			"versionNonce": 1307445266,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661616547674,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					150,
-					30
-				],
-				[
-					250,
-					90
-				],
-				[
-					250,
-					150
-				],
-				[
-					190,
-					180
-				]
-			],
-			"pressures": [
-				0,
-				0.07546239346265793,
-				0.08286066353321075,
-				0.08446362614631653,
-				0.08779285103082657
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": null
-		},
-		{
-			"id": "yb7dB27sAUnSl4cJnP6ag",
-			"type": "freedraw",
-			"x": 6812.987012987012,
-			"y": 371.6007461567265,
-			"width": 190,
-			"height": 180,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 335128530,
-			"version": 14,
-			"versionNonce": 1440987662,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661616547674,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					190,
-					70
-				],
-				[
-					180,
-					80
-				],
-				[
-					150,
-					100
-				],
-				[
-					130,
-					100
-				],
-				[
-					130,
-					110
-				],
-				[
-					140,
-					110
-				],
-				[
-					160,
-					140
-				],
-				[
-					170,
-					160
-				],
-				[
-					160,
-					180
-				],
-				[
-					160,
-					180
-				]
-			],
-			"pressures": [
-				0,
-				0.062145497649908066,
-				0.062022194266319275,
-				0.062268804758787155,
-				0.062268804758787155,
-				0.062268804758787155,
-				0.062268804758787155,
-				0.0628853291273117,
-				0.062022194266319275,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				160,
-				180
-			]
-		},
-		{
-			"id": "fR6XDsd_DrLZB7Ai6V8vi",
-			"type": "freedraw",
-			"x": 3610.987012987013,
-			"y": 1277.6007461567265,
-			"width": 54,
-			"height": 50,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 920073682,
-			"version": 29,
-			"versionNonce": 842022478,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661616558482,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-2,
-					-6
-				],
-				[
-					0,
-					-8
-				],
-				[
-					4,
-					-10
-				],
-				[
-					10,
-					-6
-				],
-				[
-					16,
-					-2
-				],
-				[
-					20,
-					6
-				],
-				[
-					24,
-					14
-				],
-				[
-					24,
-					22
-				],
-				[
-					20,
-					30
-				],
-				[
-					16,
-					36
-				],
-				[
-					8,
-					40
-				],
-				[
-					0,
-					40
-				],
-				[
-					-4,
-					38
-				],
-				[
-					-10,
-					34
-				],
-				[
-					-12,
-					30
-				],
-				[
-					-12,
-					26
-				],
-				[
-					-8,
-					22
-				],
-				[
-					2,
-					22
-				],
-				[
-					10,
-					24
-				],
-				[
-					18,
-					28
-				],
-				[
-					26,
-					32
-				],
-				[
-					32,
-					36
-				],
-				[
-					38,
-					38
-				],
-				[
-					42,
-					38
-				],
-				[
-					42,
-					38
-				]
-			],
-			"pressures": [
-				0,
-				0.10961775481700897,
-				0.12096177786588669,
-				0.12355117499828339,
-				0.12318126112222672,
+				0.05228113383054733,
+				0.05178791657090187,
+				0.052404437214136124,
+				0.05745992437005043,
+				0.07090011984109879,
+				0.10123304277658463,
+				0.11837238073348999,
 				0.12281134724617004,
-				0.12182490527629852,
-				0.11861898750066757,
-				0.11997533589601517,
-				0.12108507752418518,
-				0.1220715194940567,
-				0.12651048600673676,
-				0.13514180481433868,
-				0.15018495917320251,
-				0.18273736536502838,
-				0.21122071146965027,
-				0.22441430389881134,
-				0.2262638658285141,
-				0.22392109036445618,
-				0.22022195160388947,
-				0.21541306376457214,
-				0.19297164678573608,
-				0.11849568784236908,
-				0.03403205797076225,
+				0.12281134724617004,
+				0.09753391146659851,
+				0.008261405862867832,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				42,
-				38
+				0.645161290322676,
+				0.6451612903225623
 			]
 		},
 		{
-			"id": "aSBVVUzb19fUXXJ1ifBd6",
+			"id": "wJ8G09mO0RSzVv8pTaypD",
 			"type": "freedraw",
-			"x": 3582.987012987013,
-			"y": 1331.6007461567265,
-			"width": 118,
-			"height": 12,
+			"x": 1295.5637480798766,
+			"y": -691.3241167434719,
+			"width": 2.5806451612904766,
+			"height": 1.9354838709678006,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -70201,15 +69800,15 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
-			"opacity": 20,
+			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1464166798,
-			"version": 17,
-			"versionNonce": 2141323790,
-			"isDeleted": true,
+			"seed": 1660481049,
+			"version": 13,
+			"versionNonce": 1888470873,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661616560082,
+			"updated": 1661687066428,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70218,86 +69817,991 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					-2,
+					0.645161290322676,
+					0.645161290322676
+				],
+				[
+					0.645161290322676,
+					1.2903225806452383
+				],
+				[
+					-0.645161290322676,
+					1.9354838709678006
+				],
+				[
+					-1.2903225806451246,
+					1.2903225806452383
+				],
+				[
+					-1.9354838709678006,
+					1.2903225806452383
+				],
+				[
+					-1.9354838709678006,
+					0.645161290322676
+				],
+				[
+					-1.2903225806451246,
 					0
 				],
 				[
-					2,
-					-2
-				],
-				[
-					14,
-					-2
-				],
-				[
-					30,
-					-2
-				],
-				[
-					54,
+					-0.645161290322676,
 					0
 				],
 				[
-					76,
-					2
+					0.645161290322676,
+					0
 				],
 				[
-					92,
-					2
-				],
-				[
-					106,
-					4
-				],
-				[
-					114,
-					4
-				],
-				[
-					116,
-					4
-				],
-				[
-					114,
-					8
-				],
-				[
-					110,
-					10
-				],
-				[
-					110,
-					10
+					0,
+					0
 				]
 			],
 			"pressures": [
 				0,
-				0.08372379839420319,
-				0.10628852993249893,
-				0.10838471353054047,
-				0.1080147996544838,
-				0.10887792706489563,
-				0.11368680745363235,
-				0.11713933199644089,
-				0.11738594621419907,
-				0.11504315584897995,
-				0.10739827156066895,
-				0.0360049307346344,
+				0.05536374822258949,
+				0.055856965482234955,
+				0.06263871490955353,
+				0.07669543474912643,
+				0.09297163784503937,
+				0.09580764174461365,
+				0.09272503107786179,
+				0.06720098853111267,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				110,
-				10
+				0.645161290322676,
+				0
 			]
 		},
 		{
-			"id": "ERvxUoJ5S1NjnuArrQkXO",
+			"id": "lMI0sMhHYvU6O6jwQkR1X",
 			"type": "freedraw",
-			"x": 3550.987012987013,
-			"y": 1303.6007461567265,
-			"width": 22,
+			"x": 1303.95084485407,
+			"y": -704.872503840246,
+			"width": 9.0322580645161,
+			"height": 18.70967741935476,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1991620279,
+			"version": 20,
+			"versionNonce": 1959599129,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687067094,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.8709677419356012,
+					-0.6451612903225623
+				],
+				[
+					7.7419354838712025,
+					1.2903225806451246
+				],
+				[
+					7.7419354838712025,
+					4.51612903225805
+				],
+				[
+					5.806451612903402,
+					6.4516129032258505
+				],
+				[
+					3.2258064516129252,
+					7.741935483870975
+				],
+				[
+					1.9354838709678006,
+					8.387096774193651
+				],
+				[
+					1.9354838709678006,
+					9.0322580645161
+				],
+				[
+					3.8709677419356012,
+					9.677419354838776
+				],
+				[
+					5.806451612903402,
+					10.322580645161338
+				],
+				[
+					7.0967741935485265,
+					10.9677419354839
+				],
+				[
+					9.0322580645161,
+					12.903225806451701
+				],
+				[
+					9.0322580645161,
+					14.193548387096826
+				],
+				[
+					8.387096774193651,
+					16.129032258064512
+				],
+				[
+					6.4516129032258505,
+					17.41935483870975
+				],
+				[
+					4.51612903225805,
+					18.0645161290322
+				],
+				[
+					1.9354838709678006,
+					17.41935483870975
+				],
+				[
+					0.645161290322676,
+					16.774193548387075
+				],
+				[
+					0.645161290322676,
+					16.774193548387075
+				]
+			],
+			"pressures": [
+				0,
+				0.07250308245420456,
+				0.07928483188152313,
+				0.0822441428899765,
+				0.08310727775096893,
+				0.0834771916270256,
+				0.08397040516138077,
+				0.08532675355672836,
+				0.09531442821025848,
+				0.1080147996544838,
+				0.11898890137672424,
+				0.13144266605377197,
+				0.13662146031856537,
+				0.14303329586982727,
+				0.1453760862350464,
+				0.12774352729320526,
+				0.0090012326836586,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				0.645161290322676,
+				16.774193548387075
+			]
+		},
+		{
+			"id": "DurEJo1T1dU4CC4ZWhiwN",
+			"type": "freedraw",
+			"x": 1322.0153609831025,
+			"y": -695.1950844854073,
+			"width": 9.677419354838548,
+			"height": 9.0322580645161,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1597312503,
+			"version": 6,
+			"versionNonce": 1816463033,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687068108,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					4.51612903225805,
+					4.51612903225805
+				],
+				[
+					7.741935483870975,
+					7.741935483870975
+				],
+				[
+					9.677419354838548,
+					9.0322580645161
+				],
+				[
+					9.677419354838548,
+					9.0322580645161
+				]
+			],
+			"pressures": [
+				0,
+				0.04586929827928543,
+				0.03945745900273323,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				9.677419354838548,
+				9.0322580645161
+			]
+		},
+		{
+			"id": "rv14bNqHprjFqAQrUDefN",
+			"type": "freedraw",
+			"x": 1331.692780337941,
+			"y": -694.5499231950847,
+			"width": 7.096774193548299,
+			"height": 10.322580645161338,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 729718103,
+			"version": 6,
+			"versionNonce": 753497433,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687068362,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.9354838709675732,
+					2.580645161290363
+				],
+				[
+					-4.51612903225805,
+					6.451612903225737
+				],
+				[
+					-7.096774193548299,
+					10.322580645161338
+				],
+				[
+					-7.096774193548299,
+					10.322580645161338
+				]
+			],
+			"pressures": [
+				0,
+				0.06054253876209259,
+				0.056473489850759506,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-7.096774193548299,
+				10.322580645161338
+			]
+		},
+		{
+			"id": "TIaXmUBgccJSl5dHo73GZ",
+			"type": "freedraw",
+			"x": 1350.402457757296,
+			"y": -700.356374807988,
+			"width": 17.41935483870975,
+			"height": 24.51612903225805,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 144042167,
+			"version": 30,
+			"versionNonce": 941021817,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687069851,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					1.2903225806451246
+				],
+				[
+					-1.2903225806451246,
+					6.4516129032258505
+				],
+				[
+					-3.2258064516129252,
+					12.903225806451701
+				],
+				[
+					-4.51612903225805,
+					16.774193548387075
+				],
+				[
+					-5.1612903225804985,
+					18.709677419354875
+				],
+				[
+					-5.8064516129031745,
+					20.645161290322676
+				],
+				[
+					-5.8064516129031745,
+					21.290322580645125
+				],
+				[
+					-6.4516129032258505,
+					20.645161290322676
+				],
+				[
+					-6.4516129032258505,
+					20
+				],
+				[
+					-5.8064516129031745,
+					18.064516129032313
+				],
+				[
+					-5.1612903225804985,
+					14.838709677419388
+				],
+				[
+					-3.2258064516129252,
+					10.322580645161338
+				],
+				[
+					-1.9354838709678006,
+					5.161290322580726
+				],
+				[
+					0.645161290322676,
+					0.645161290322676
+				],
+				[
+					2.5806451612902492,
+					-1.935483870967687
+				],
+				[
+					4.51612903225805,
+					-3.2258064516129252
+				],
+				[
+					5.8064516129031745,
+					-1.2903225806451246
+				],
+				[
+					7.096774193548299,
+					1.2903225806451246
+				],
+				[
+					7.096774193548299,
+					5.161290322580726
+				],
+				[
+					6.4516129032258505,
+					8.387096774193651
+				],
+				[
+					5.8064516129031745,
+					10.9677419354839
+				],
+				[
+					5.8064516129031745,
+					13.54838709677415
+				],
+				[
+					5.8064516129031745,
+					15.48387096774195
+				],
+				[
+					7.096774193548299,
+					16.129032258064626
+				],
+				[
+					7.741935483870975,
+					16.774193548387075
+				],
+				[
+					9.0322580645161,
+					16.774193548387075
+				],
+				[
+					10.9677419354839,
+					15.48387096774195
+				],
+				[
+					10.9677419354839,
+					15.48387096774195
+				]
+			],
+			"pressures": [
+				0,
+				0.05166461318731308,
+				0.052651047706604004,
+				0.053390875458717346,
+				0.053144264966249466,
+				0.053144264966249466,
+				0.053390875458717346,
+				0.05819975212216377,
+				0.0951911211013794,
+				0.10172626376152039,
+				0.10332922637462616,
+				0.10369914025068283,
+				0.10345252603292465,
+				0.10308261215686798,
+				0.10271269828081131,
+				0.10234278440475464,
+				0.10184957087039948,
+				0.1016029566526413,
+				0.10135634988546371,
+				0.10209617763757706,
+				0.10221948474645615,
+				0.10184957087039948,
+				0.10123304277658463,
+				0.10123304277658463,
+				0.09975338727235794,
+				0.08532675355672836,
+				0.05178791657090187,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				10.9677419354839,
+				15.48387096774195
+			]
+		},
+		{
+			"id": "Jxu7uYNo7D7pFpktzHQQZ",
+			"type": "freedraw",
+			"x": 1341.3701996927798,
+			"y": -698.4208909370202,
+			"width": 26.45161290322585,
+			"height": 3.2258064516129252,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 490005911,
+			"version": 11,
+			"versionNonce": 736069431,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687070195,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.645161290322676
+				],
+				[
+					2.5806451612902492,
+					-0.645161290322676
+				],
+				[
+					7.096774193548299,
+					-1.2903225806451246
+				],
+				[
+					13.54838709677415,
+					-1.2903225806451246
+				],
+				[
+					20,
+					-1.9354838709678006
+				],
+				[
+					24.51612903225805,
+					-2.580645161290363
+				],
+				[
+					26.45161290322585,
+					-3.2258064516129252
+				],
+				[
+					26.45161290322585,
+					-2.580645161290363
+				],
+				[
+					26.45161290322585,
+					-2.580645161290363
+				]
+			],
+			"pressures": [
+				0,
+				0.07385943084955215,
+				0.08076448738574982,
+				0.0822441428899765,
+				0.08310727775096893,
+				0.08261405676603317,
+				0.07077682018280029,
+				0.000863131950609386,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				26.45161290322585,
+				-2.580645161290363
+			]
+		},
+		{
+			"id": "npGxfHXP3OeTJPzbj14UV",
+			"type": "freedraw",
+			"x": 1336.2089093701993,
+			"y": -678.4208909370202,
+			"width": 55.48387096774172,
+			"height": 2.580645161290363,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 690547641,
+			"version": 13,
+			"versionNonce": 1582107897,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687070854,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.9354838709675732,
+					-0.645161290322676
+				],
+				[
+					9.677419354838548,
+					-1.2903225806451246
+				],
+				[
+					19.999999999999773,
+					-1.2903225806451246
+				],
+				[
+					32.2580645161288,
+					-1.2903225806451246
+				],
+				[
+					43.2258064516127,
+					-1.9354838709678006
+				],
+				[
+					49.67741935483855,
+					-1.9354838709678006
+				],
+				[
+					53.54838709677415,
+					-2.580645161290363
+				],
+				[
+					55.48387096774172,
+					-1.9354838709678006
+				],
+				[
+					54.1935483870966,
+					-1.2903225806451246
+				],
+				[
+					50.96774193548367,
+					0
+				],
+				[
+					50.96774193548367,
+					0
+				]
+			],
+			"pressures": [
+				0,
+				0.07620222121477127,
+				0.07817509025335312,
+				0.08076448738574982,
+				0.0898890271782875,
+				0.10098643600940704,
+				0.10567200928926468,
+				0.10628852993249893,
+				0.09445129334926605,
+				0.03760789334774017,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				50.96774193548367,
+				0
+			]
+		},
+		{
+			"id": "vfm7tV3Hg1Ew_B2WLVm09",
+			"type": "freedraw",
+			"x": 1349.7572964669735,
+			"y": -670.6789554531492,
+			"width": 1.9354838709678006,
+			"height": 24.51612903225805,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1116805911,
+			"version": 9,
+			"versionNonce": 594237335,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687071530,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.645161290322676,
+					7.741935483870975
+				],
+				[
+					-1.9354838709678006,
+					14.838709677419274
+				],
+				[
+					-1.9354838709678006,
+					20
+				],
+				[
+					-1.290322580645352,
+					23.225806451612925
+				],
+				[
+					-0.645161290322676,
+					24.51612903225805
+				],
+				[
+					0,
+					24.51612903225805
+				],
+				[
+					0,
+					24.51612903225805
+				]
+			],
+			"pressures": [
+				0,
+				0.05536374822258949,
+				0.056226879358291626,
+				0.056720100343227386,
+				0.050061650574207306,
+				0.006658446509391069,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				0,
+				24.51612903225805
+			]
+		},
+		{
+			"id": "iA2C9PX6Yew5n3KAND3Df",
+			"type": "freedraw",
+			"x": 1357.4992319508442,
+			"y": -664.2273425499234,
+			"width": 13.54838709677415,
+			"height": 23.870967741935488,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 847597977,
+			"version": 26,
+			"versionNonce": 570676727,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687073724,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					4.51612903225805,
+					-1.9354838709678006
+				],
+				[
+					8.387096774193651,
+					-0.645161290322676
+				],
+				[
+					8.387096774193651,
+					1.9354838709675732
+				],
+				[
+					6.4516129032258505,
+					5.8064516129031745
+				],
+				[
+					3.8709677419356012,
+					9.0322580645161
+				],
+				[
+					2.5806451612904766,
+					12.258064516129025
+				],
+				[
+					1.9354838709678006,
+					14.193548387096598
+				],
+				[
+					1.9354838709678006,
+					16.1290322580644
+				],
+				[
+					3.2258064516131526,
+					17.419354838709523
+				],
+				[
+					4.51612903225805,
+					18.0645161290322
+				],
+				[
+					6.4516129032258505,
+					18.0645161290322
+				],
+				[
+					7.7419354838712025,
+					17.419354838709523
+				],
+				[
+					7.7419354838712025,
+					15.483870967741836
+				],
+				[
+					5.806451612903402,
+					12.903225806451474
+				],
+				[
+					2.5806451612904766,
+					8.387096774193424
+				],
+				[
+					-1.2903225806451246,
+					3.870967741935374
+				],
+				[
+					-3.870967741935374,
+					0
+				],
+				[
+					-4.51612903225805,
+					-2.5806451612904766
+				],
+				[
+					-5.1612903225804985,
+					-4.5161290322581635
+				],
+				[
+					-4.51612903225805,
+					-5.806451612903288
+				],
+				[
+					-1.9354838709675732,
+					-5.161290322580726
+				],
+				[
+					2.5806451612904766,
+					-3.2258064516129252
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0,
+				0.05992601811885834,
+				0.059062886983156204,
+				0.058816276490688324,
+				0.059432800859212875,
+				0.05980271100997925,
+				0.06004932150244713,
+				0.06066584587097168,
+				0.0628853291273117,
+				0.06473489850759506,
+				0.0654747262597084,
+				0.06609124690294266,
+				0.06646116077899933,
+				0.06658446043729782,
+				0.06646116077899933,
+				0.06596793979406357,
+				0.06609124690294266,
+				0.07237977534532547,
+				0.08027126640081406,
+				0.08668310940265656,
+				0.08754623681306839,
+				0.0680641159415245,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				2.5806451612904766,
+				-3.2258064516129252
+			]
+		},
+		{
+			"id": "UJXH28GnAIvGA6WL0DApj",
+			"type": "freedraw",
+			"x": 1374.918586789554,
+			"y": -654.5499231950848,
+			"width": 9.0322580645161,
+			"height": 7.741935483870975,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1363536121,
+			"version": 10,
+			"versionNonce": 460077975,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687074024,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-4.51612903225805,
+					1.2903225806452383
+				],
+				[
+					-7.741935483870975,
+					-0.6451612903224486
+				],
+				[
+					-9.0322580645161,
+					-2.5806451612902492
+				],
+				[
+					-8.387096774193651,
+					-4.51612903225805
+				],
+				[
+					-7.096774193548299,
+					-5.8064516129031745
+				],
+				[
+					-5.1612903225804985,
+					-6.451612903225737
+				],
+				[
+					-1.2903225806451246,
+					-5.1612903225804985
+				],
+				[
+					-1.2903225806451246,
+					-5.1612903225804985
+				]
+			],
+			"pressures": [
+				0,
+				0.06596793979406357,
+				0.11541306972503662,
+				0.16041924059391022,
+				0.17546239495277405,
+				0.16732428967952728,
+				0.08569666743278503,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-1.2903225806451246,
+				-5.1612903225804985
+			]
+		},
+		{
+			"id": "LHJNYLWoAIyh9CMULxT4Y",
+			"type": "freedraw",
+			"x": 1398.7895545314896,
+			"y": -679.0660522273429,
+			"width": 5.8064516129031745,
 			"height": 0,
 			"angle": 0,
 			"strokeColor": "#1864ab",
@@ -70306,15 +70810,15 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
-			"opacity": 20,
+			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1451290258,
-			"version": 8,
-			"versionNonce": 1157721554,
-			"isDeleted": true,
+			"seed": 1295527257,
+			"version": 7,
+			"versionNonce": 2005049337,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661616560082,
+			"updated": 1661687074992,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70323,122 +70827,47 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					4,
+					0.6451612903224486,
 					0
 				],
 				[
-					12,
+					1.9354838709675732,
 					0
 				],
 				[
-					22,
+					3.870967741935374,
 					0
 				],
 				[
-					22,
+					5.8064516129031745,
+					0
+				],
+				[
+					5.8064516129031745,
 					0
 				]
 			],
 			"pressures": [
 				0,
-				0.06646116077899933,
-				0.0628853291273117,
+				0.06387176364660263,
+				0.06436498463153839,
+				0.03760789334774017,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				22,
+				5.8064516129031745,
 				0
 			]
 		},
 		{
-			"id": "LfF_REAtNfB0rok_EV887",
+			"id": "SiRMEwjXqTC9opMip-2Mr",
 			"type": "freedraw",
-			"x": 3520.987012987013,
-			"y": 1287.6007461567265,
-			"width": 26,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1991513490,
-			"version": 12,
-			"versionNonce": 410161230,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661616560082,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					8,
-					0
-				],
-				[
-					14,
-					0
-				],
-				[
-					18,
-					4
-				],
-				[
-					24,
-					6
-				],
-				[
-					26,
-					8
-				],
-				[
-					26,
-					10
-				],
-				[
-					26,
-					12
-				],
-				[
-					26,
-					12
-				]
-			],
-			"pressures": [
-				0,
-				0.04845869168639183,
-				0.04895191267132759,
-				0.050308261066675186,
-				0.05117139220237732,
-				0.05129469931125641,
-				0.05104808881878853,
-				0.022441430017352104,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				26,
-				12
-			]
-		},
-		{
-			"id": "87CcdHjk4vaTyX88R63cU",
-			"type": "freedraw",
-			"x": 3021.6536796536784,
-			"y": 1322.9340794900597,
-			"width": 6.66666666666697,
-			"height": 45.33333333333326,
+			"x": 1399.434715821812,
+			"y": -673.9047619047622,
+			"width": 7.096774193548299,
+			"height": 0,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -70449,12 +70878,12 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1240982418,
-			"version": 11,
-			"versionNonce": 339030610,
-			"isDeleted": true,
+			"seed": 796014615,
+			"version": 6,
+			"versionNonce": 849778329,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661617314055,
+			"updated": 1661687075198,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70463,62 +70892,42 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					1.333333333333485,
-					1.3333333333332575
+					1.2903225806451246,
+					0
 				],
 				[
-					2.66666666666697,
-					10.666666666666742
+					3.8709677419356012,
+					0
 				],
 				[
-					5.333333333333485,
-					20
+					7.096774193548299,
+					0
 				],
 				[
-					5.333333333333485,
-					28
-				],
-				[
-					6.66666666666697,
-					34.66666666666674
-				],
-				[
-					5.333333333333485,
-					40
-				],
-				[
-					5.333333333333485,
-					45.33333333333326
-				],
-				[
-					5.333333333333485,
-					45.33333333333326
+					7.096774193548299,
+					0
 				]
 			],
 			"pressures": [
 				0,
-				0.07336621731519699,
-				0.08199753612279892,
-				0.08372379839420319,
-				0.08397040516138077,
-				0.0822441428899765,
-				0.06707768142223358,
+				0.08027126640081406,
+				0.0604192353785038,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				5.333333333333485,
-				45.33333333333326
+				7.096774193548299,
+				0
 			]
 		},
 		{
-			"id": "IonamYBymEDKnr8cj_lsG",
+			"id": "rHkwmZIQQ3NZjo5cX7y6U",
 			"type": "freedraw",
-			"x": 3056.3203463203454,
-			"y": 1330.9340794900597,
-			"width": 21.33333333333303,
-			"height": 34.666666666666515,
+			"x": 1380.0798771121347,
+			"y": -670.0337941628267,
+			"width": 45.806451612903174,
+			"height": 28.387096774193537,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -70529,12 +70938,12 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 134047826,
-			"version": 25,
-			"versionNonce": 1521177550,
-			"isDeleted": true,
+			"seed": 564558711,
+			"version": 9,
+			"versionNonce": 1679656951,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661617314055,
+			"updated": 1661687076355,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -70543,632 +70952,1402 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					8,
-					-2.6666666666667425
+					-3.2258064516129252,
+					0.6451612903225623
 				],
 				[
-					8,
-					-4
+					-16.129032258064626,
+					9.0322580645161
 				],
 				[
-					5.33333333333303,
-					-5.3333333333332575
+					-29.677419354838776,
+					17.419354838709637
 				],
 				[
-					0,
-					-5.3333333333332575
+					-37.41935483870975,
+					23.22580645161281
 				],
 				[
-					-5.333333333333485,
-					-4
+					-42.58064516129048,
+					27.096774193548413
 				],
 				[
-					-9.333333333333485,
-					-1.3333333333332575
+					-45.806451612903174,
+					28.387096774193537
 				],
 				[
-					-10.66666666666697,
-					2.6666666666667425
-				],
-				[
-					-12,
-					6.6666666666667425
-				],
-				[
-					-12,
-					9.333333333333258
-				],
-				[
-					-12,
-					12
-				],
-				[
-					-9.333333333333485,
-					12
-				],
-				[
-					-5.333333333333485,
-					12
-				],
-				[
-					0,
-					12
-				],
-				[
-					4,
-					13.333333333333258
-				],
-				[
-					8,
-					16
-				],
-				[
-					9.33333333333303,
-					20
-				],
-				[
-					8,
-					24
-				],
-				[
-					4,
-					28
-				],
-				[
-					-2.66666666666697,
-					29.333333333333258
-				],
-				[
-					-10.66666666666697,
-					28
-				],
-				[
-					-12,
-					24
-				],
-				[
-					-12,
-					24
+					-45.806451612903174,
+					28.387096774193537
 				]
 			],
 			"pressures": [
 				0,
-				0.08779285103082657,
-				0.09297163784503937,
-				0.09321825206279755,
-				0.09346485882997513,
-				0.09420468658208847,
-				0.09617755562067032,
-				0.09741060435771942,
-				0.09815043210983276,
-				0.09876695275306702,
-				0.10061652213335037,
-				0.10258939862251282,
-				0.10345252603292465,
-				0.10332922637462616,
-				0.1028360053896904,
-				0.10271269828081131,
-				0.1028360053896904,
-				0.10320591926574707,
-				0.10320591926574707,
-				0.10295931249856949,
-				0.053390875458717346,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-12,
-				24
-			]
-		},
-		{
-			"id": "msvylfF__6g43pIv15gG7",
-			"type": "freedraw",
-			"x": 3082.987012987012,
-			"y": 1322.9340794900597,
-			"width": 14.666666666666515,
-			"height": 9.333333333333258,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1694743890,
-			"version": 14,
-			"versionNonce": 2000623634,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					6.666666666666515,
-					2.6666666666667425
-				],
-				[
-					5.333333333333485,
-					6.6666666666667425
-				],
-				[
-					-1.333333333333485,
-					9.333333333333258
-				],
-				[
-					-5.333333333333485,
-					8
-				],
-				[
-					-6.666666666666515,
-					6.6666666666667425
-				],
-				[
-					-8,
-					4
-				],
-				[
-					-6.666666666666515,
-					1.3333333333332575
-				],
-				[
-					-5.333333333333485,
-					0
-				],
-				[
-					-1.333333333333485,
-					0
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.05215783044695854,
-				0.05437731370329857,
-				0.07620222121477127,
-				0.10554870218038559,
-				0.13427866995334625,
-				0.14586929976940155,
-				0.13933415710926056,
-				0.06917385756969452,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-1.333333333333485,
-				0
-			]
-		},
-		{
-			"id": "jXya4N0OumThTR3C1kKAS",
-			"type": "freedraw",
-			"x": 3214.987012987012,
-			"y": 1330.9340794900597,
-			"width": 17.333333333333485,
-			"height": 1.3333333333332575,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1972209230,
-			"version": 8,
-			"versionNonce": 1911269902,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					5.333333333333485,
-					0
-				],
-				[
-					12,
-					-1.3333333333332575
-				],
-				[
-					14.666666666666515,
-					-1.3333333333332575
-				],
-				[
-					17.333333333333485,
-					-1.3333333333332575
-				],
-				[
-					17.333333333333485,
-					-1.3333333333332575
-				]
-			],
-			"pressures": [
-				0,
-				0.053390875458717346,
-				0.053637485951185226,
-				0.03834771737456322,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				17.333333333333485,
-				-1.3333333333332575
-			]
-		},
-		{
-			"id": "PSn1fsk1Fk4cr6cqeh8m9",
-			"type": "freedraw",
-			"x": 3225.6536796536784,
-			"y": 1321.6007461567265,
-			"width": 1.3333333333330302,
-			"height": 18.666666666666515,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1301454546,
-			"version": 11,
-			"versionNonce": 864437714,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					1.3333333333332575
-				],
-				[
-					0,
-					2.666666666666515
-				],
-				[
-					0,
-					6.666666666666515
-				],
-				[
-					0,
-					9.333333333333258
-				],
-				[
-					-1.3333333333330302,
-					13.333333333333258
-				],
-				[
-					-1.3333333333330302,
-					16
-				],
-				[
-					-1.3333333333330302,
-					18.666666666666515
-				],
-				[
-					-1.3333333333330302,
-					18.666666666666515
-				]
-			],
-			"pressures": [
-				0,
-				0.05819975212216377,
-				0.06362515687942505,
-				0.06670776754617691,
-				0.06781750917434692,
-				0.06744759529829025,
-				0.043403204530477524,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-1.3333333333330302,
-				18.666666666666515
-			]
-		},
-		{
-			"id": "9CnDBdpJMzy6PhHBnaGyM",
-			"type": "freedraw",
-			"x": 3241.6536796536784,
-			"y": 1322.9340794900597,
-			"width": 20,
-			"height": 21.333333333333258,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1396382610,
-			"version": 25,
-			"versionNonce": 1665611854,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					5.333333333333485,
-					-1.3333333333332575
-				],
-				[
-					8,
-					-2.6666666666667425
-				],
-				[
-					8,
-					-5.3333333333332575
-				],
-				[
-					8,
-					-6.6666666666667425
-				],
-				[
-					8,
-					-8
-				],
-				[
-					8,
-					-5.3333333333332575
-				],
-				[
-					8,
-					-1.3333333333332575
-				],
-				[
-					8,
-					2.6666666666667425
-				],
-				[
-					8,
-					5.3333333333332575
-				],
-				[
-					8,
-					8
-				],
-				[
-					8,
-					9.333333333333258
-				],
-				[
-					6.66666666666697,
-					12
-				],
-				[
-					5.333333333333485,
-					12
-				],
-				[
-					2.66666666666697,
-					13.333333333333258
-				],
-				[
-					1.333333333333485,
-					13.333333333333258
-				],
-				[
-					4,
-					12
-				],
-				[
-					6.66666666666697,
-					12
-				],
-				[
-					12,
-					12
-				],
-				[
-					16,
-					12
-				],
-				[
-					18.66666666666697,
-					12
-				],
-				[
-					20,
-					10.666666666666742
-				],
-				[
-					20,
-					10.666666666666742
-				]
-			],
-			"pressures": [
-				0,
-				0.0642416775226593,
-				0.07274968922138214,
-				0.0745992586016655,
-				0.07496917247772217,
-				0.07496917247772217,
-				0.07435265183448792,
-				0.07521578669548035,
-				0.07607891410589218,
-				0.07632552087306976,
-				0.07657213509082794,
-				0.07644882798194885,
-				0.07644882798194885,
-				0.07657213509082794,
-				0.0771886557340622,
-				0.07829839736223221,
-				0.10246609151363373,
-				0.1028360053896904,
-				0.0988902598619461,
-				0.07237977534532547,
-				0.009617756120860577,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				20,
-				10.666666666666742
-			]
-		},
-		{
-			"id": "M5eo-GFWLKb4fb77K4B2_",
-			"type": "freedraw",
-			"x": 3208.3203463203454,
-			"y": 1345.6007461567265,
-			"width": 62.666666666666515,
-			"height": 2.6666666666667425,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 2104922258,
-			"version": 18,
-			"versionNonce": 1109506962,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.666666666666515,
-					0
-				],
-				[
-					9.33333333333303,
-					-1.333333333333485
-				],
-				[
-					17.33333333333303,
-					-2.6666666666667425
-				],
-				[
-					25.33333333333303,
-					-2.6666666666667425
-				],
-				[
-					33.33333333333303,
-					-2.6666666666667425
-				],
-				[
-					40,
-					-2.6666666666667425
-				],
-				[
-					49.33333333333303,
-					-2.6666666666667425
-				],
-				[
-					53.33333333333303,
-					-2.6666666666667425
-				],
-				[
-					58.666666666666515,
-					-2.6666666666667425
-				],
-				[
-					61.33333333333303,
-					-2.6666666666667425
-				],
-				[
-					62.666666666666515,
-					-2.6666666666667425
-				],
-				[
-					62.666666666666515,
-					-1.333333333333485
-				],
-				[
-					61.33333333333303,
-					-1.333333333333485
-				],
-				[
-					58.666666666666515,
-					0
-				],
-				[
-					58.666666666666515,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.08076448738574982,
-				0.08409371227025986,
-				0.08545006066560745,
-				0.0860665813088417,
-				0.08643649518489838,
+				0.07348951697349548,
 				0.08680640906095505,
-				0.08766954392194748,
-				0.08902589231729507,
-				0.0926017239689827,
-				0.09457460045814514,
-				0.09445129334926605,
-				0.08877928555011749,
+				0.08939580619335175,
+				0.08495683968067169,
+				0.02367447502911091,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-45.806451612903174,
+				28.387096774193537
+			]
+		},
+		{
+			"id": "EiUbAaSicYvJ7dGsj34PF",
+			"type": "freedraw",
+			"x": 1328.466973886328,
+			"y": -706.8079877112137,
+			"width": 65.1612903225805,
+			"height": 34.83870967741939,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 155699577,
+			"version": 8,
+			"versionNonce": 1670593015,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687082948,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-12.903225806451474,
+					7.096774193548413
+				],
+				[
+					-29.67741935483855,
+					15.483870967741836
+				],
+				[
+					-42.58064516129025,
+					23.22580645161281
+				],
+				[
+					-55.48387096774172,
+					30.322580645161224
+				],
+				[
+					-65.1612903225805,
+					34.83870967741939
+				],
+				[
+					-65.1612903225805,
+					34.83870967741939
+				]
+			],
+			"pressures": [
+				0,
+				0.044389642775058746,
+				0.043896425515413284,
+				0.04266337677836418,
+				0.04229346662759781,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-65.1612903225805,
+				34.83870967741939
+			]
+		},
+		{
+			"id": "XzyIaLipAmgwjgUOUK_dt",
+			"type": "freedraw",
+			"x": 1427.176651305683,
+			"y": -683.5821812596009,
+			"width": 20,
+			"height": 21.935483870967687,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1036961017,
+			"version": 18,
+			"versionNonce": 894508055,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687085362,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.645161290322676,
+					-2.5806451612902492
+				],
+				[
+					4.51612903225805,
+					-3.2258064516129252
+				],
+				[
+					9.0322580645161,
+					-0.6451612903224486
+				],
+				[
+					10.9677419354839,
+					3.2258064516129252
+				],
+				[
+					11.612903225806576,
+					6.4516129032258505
+				],
+				[
+					10.9677419354839,
+					10.322580645161338
+				],
+				[
+					8.387096774193424,
+					14.193548387096826
+				],
+				[
+					-3.2258064516129252,
+					16.774193548387075
+				],
+				[
+					-6.4516129032258505,
+					14.193548387096826
+				],
+				[
+					-8.387096774193424,
+					10.322580645161338
+				],
+				[
+					-8.387096774193424,
+					5.806451612903288
+				],
+				[
+					-7.096774193548299,
+					1.2903225806452383
+				],
+				[
+					-5.161290322580726,
+					-1.2903225806451246
+				],
+				[
+					-1.9354838709678006,
+					-3.870967741935374
+				],
+				[
+					3.870967741935374,
+					-5.161290322580612
+				],
+				[
+					3.870967741935374,
+					-5.161290322580612
+				]
+			],
+			"pressures": [
+				0,
+				0.05869297310709953,
+				0.05967940762639046,
+				0.05869297310709953,
+				0.05795314535498619,
+				0.05795314535498619,
+				0.058939579874277115,
+				0.05980271100997925,
+				0.08409371227025986,
+				0.0924784243106842,
+				0.09395807981491089,
+				0.09469790011644363,
+				0.09556103497743607,
+				0.09494451433420181,
+				0.0718865618109703,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				3.870967741935374,
+				-5.161290322580612
+			]
+		},
+		{
+			"id": "_XMkLr0GiGh83YyZOsz4S",
+			"type": "freedraw",
+			"x": 1444.5960061443927,
+			"y": -673.2596006144396,
+			"width": 2.5806451612902492,
+			"height": 3.8709677419354875,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1492096217,
+			"version": 9,
+			"versionNonce": 956686425,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687085715,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.9354838709678006,
+					-2.580645161290363
+				],
+				[
+					-1.2903225806451246,
+					-3.8709677419354875
+				],
+				[
+					0,
+					-3.8709677419354875
+				],
+				[
+					0.6451612903224486,
+					-3.2258064516129252
+				],
+				[
+					0.6451612903224486,
+					-2.580645161290363
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0,
+				0.05104808881878853,
+				0.052774351090192795,
+				0.05166461318731308,
+				0.01356350164860487,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				0.6451612903224486,
+				-2.580645161290363
+			]
+		},
+		{
+			"id": "IIWMTFo_hM8hwlZW1WZbn",
+			"type": "freedraw",
+			"x": 1449.7572964669732,
+			"y": -681.6466973886331,
+			"width": 12.258064516129025,
+			"height": 27.096774193548413,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 722054583,
+			"version": 24,
+			"versionNonce": 893272793,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687086413,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.2258064516129252,
+					-1.2903225806451246
+				],
+				[
+					4.51612903225805,
+					-3.8709677419354875
+				],
+				[
+					3.8709677419356012,
+					-7.741935483870975
+				],
+				[
+					3.2258064516129252,
+					-10.322580645161224
+				],
+				[
+					3.2258064516129252,
+					-10.9677419354839
+				],
+				[
+					3.2258064516129252,
+					-8.387096774193537
+				],
+				[
+					3.2258064516129252,
+					-4.51612903225805
+				],
+				[
+					3.8709677419356012,
+					0.6451612903225623
+				],
+				[
+					5.161290322580726,
+					4.51612903225805
+				],
+				[
+					5.8064516129031745,
+					8.387096774193537
+				],
+				[
+					5.8064516129031745,
+					12.258064516129025
+				],
+				[
+					5.161290322580726,
+					14.838709677419274
+				],
+				[
+					3.8709677419356012,
+					16.129032258064512
+				],
+				[
+					1.9354838709678006,
+					16.129032258064512
+				],
+				[
+					0.645161290322676,
+					16.129032258064512
+				],
+				[
+					0.645161290322676,
+					15.48387096774195
+				],
+				[
+					1.2903225806451246,
+					14.838709677419274
+				],
+				[
+					3.2258064516129252,
+					14.193548387096826
+				],
+				[
+					6.4516129032258505,
+					12.903225806451587
+				],
+				[
+					9.032258064516327,
+					12.258064516129025
+				],
+				[
+					12.258064516129025,
+					10.9677419354839
+				],
+				[
+					12.258064516129025,
+					10.9677419354839
+				]
+			],
+			"pressures": [
+				0,
+				0.05733662098646164,
+				0.059062886983156204,
+				0.059432800859212875,
+				0.06128236651420593,
+				0.062392108142375946,
+				0.06436498463153839,
+				0.06510481238365173,
+				0.06522811204195023,
+				0.0654747262597084,
+				0.06621454656124115,
+				0.06646116077899933,
+				0.06658446043729782,
+				0.06621454656124115,
+				0.06633785367012024,
+				0.06670776754617691,
+				0.06720098853111267,
+				0.06720098853111267,
+				0.06732428818941116,
+				0.06017262488603592,
+				0.027990136295557022,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				12.258064516129025,
+				10.9677419354839
+			]
+		},
+		{
+			"id": "o3ceetHGRrRkxxE5_cWZq",
+			"type": "freedraw",
+			"x": 1458.1443932411669,
+			"y": -688.098310291859,
+			"width": 12.903225806451474,
+			"height": 23.870967741935374,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1994306359,
+			"version": 16,
+			"versionNonce": 1545279961,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687086764,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.870967741935374,
+					-1.935483870967687
+				],
+				[
+					6.451612903225623,
+					-2.5806451612902492
+				],
+				[
+					10.322580645161224,
+					-1.935483870967687
+				],
+				[
+					12.903225806451474,
+					-1.2903225806451246
+				],
+				[
+					12.903225806451474,
+					0.645161290322676
+				],
+				[
+					12.258064516129025,
+					3.8709677419356012
+				],
+				[
+					10.967741935483673,
+					7.741935483870975
+				],
+				[
+					10.322580645161224,
+					10.9677419354839
+				],
+				[
+					9.0322580645161,
+					14.838709677419388
+				],
+				[
+					9.0322580645161,
+					17.41935483870975
+				],
+				[
+					8.387096774193424,
+					19.354838709677438
+				],
+				[
+					9.0322580645161,
+					20.645161290322676
+				],
+				[
+					9.677419354838776,
+					21.290322580645125
+				],
+				[
+					9.677419354838776,
+					21.290322580645125
+				]
+			],
+			"pressures": [
+				0,
+				0.05252774432301521,
+				0.052404437214136124,
+				0.052774351090192795,
+				0.05252774432301521,
+				0.052404437214136124,
+				0.05462392047047615,
+				0.05832305923104286,
+				0.06140567362308502,
+				0.06350184977054596,
+				0.0642416775226593,
+				0.06313193589448929,
+				0.027866831049323082,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				9.677419354838776,
+				21.290322580645125
+			]
+		},
+		{
+			"id": "rszie72AqE8ZoLifdlnA-",
+			"type": "freedraw",
+			"x": 1465.2411674347152,
+			"y": -675.84024577573,
+			"width": 7.741935483870975,
+			"height": 0.6451612903225623,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1511967799,
+			"version": 6,
+			"versionNonce": 872864889,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687086956,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.5806451612904766,
+					-0.6451612903225623
+				],
+				[
+					5.161290322580726,
+					-0.6451612903225623
+				],
+				[
+					7.741935483870975,
+					-0.6451612903225623
+				],
+				[
+					7.741935483870975,
+					-0.6451612903225623
+				]
+			],
+			"pressures": [
+				0,
+				0.046732429414987564,
+				0.03292231634259224,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				7.741935483870975,
+				-0.6451612903225623
+			]
+		},
+		{
+			"id": "kHatr7mH2wxElLGwRDR7x",
+			"type": "freedraw",
+			"x": 1480.0798771121345,
+			"y": -683.5821812596007,
+			"width": 13.54838709677415,
+			"height": 19.354838709677324,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 431883159,
+			"version": 17,
+			"versionNonce": 106937495,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687124268,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.1612903225804985,
+					2.5806451612902492
+				],
+				[
+					9.0322580645161,
+					10.9677419354839
+				],
+				[
+					9.677419354838548,
+					14.838709677419274
+				],
+				[
+					9.0322580645161,
+					18.0645161290322
+				],
+				[
+					7.741935483870748,
+					19.354838709677324
+				],
+				[
+					5.8064516129031745,
+					18.709677419354875
+				],
+				[
+					4.51612903225805,
+					18.0645161290322
+				],
+				[
+					3.870967741935374,
+					15.48387096774195
+				],
+				[
+					3.870967741935374,
+					12.258064516129025
+				],
+				[
+					4.51612903225805,
+					9.0322580645161
+				],
+				[
+					6.4516129032258505,
+					5.161290322580612
+				],
+				[
+					9.0322580645161,
+					2.5806451612902492
+				],
+				[
+					11.612903225806349,
+					1.935483870967687
+				],
+				[
+					13.54838709677415,
+					3.2258064516129252
+				],
+				[
+					13.54838709677415,
+					3.2258064516129252
+				]
+			],
+			"pressures": [
+				0,
+				0.07151664793491364,
+				0.04352651163935661,
+				0.023181257769465446,
+				0.026633786037564278,
+				0.05154130607843399,
+				0.08520345389842987,
+				0.1373612880706787,
+				0.22441430389881134,
+				0.31418001651763916,
+				0.32996299862861633,
+				0.2651048004627228,
+				0.13662146031856537,
+				0.03563501685857773,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				13.54838709677415,
+				3.2258064516129252
+			]
+		},
+		{
+			"id": "F1SS07WkrOz1w6DCzVdk0",
+			"type": "freedraw",
+			"x": 1498.789554531489,
+			"y": -674.5499231950846,
+			"width": 21.290322580645125,
+			"height": 37.41935483870964,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1576615001,
+			"version": 42,
+			"versionNonce": 889532471,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687125136,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.5806451612902492,
+					0.6451612903225623
+				],
+				[
+					-4.51612903225805,
+					1.9354838709678006
+				],
+				[
+					-5.1612903225804985,
+					3.8709677419354875
+				],
+				[
+					-3.225806451612698,
+					7.741935483870975
+				],
+				[
+					-0.6451612903224486,
+					7.096774193548299
+				],
+				[
+					1.9354838709678006,
+					3.2258064516129252
+				],
+				[
+					2.5806451612904766,
+					0.6451612903225623
+				],
+				[
+					2.5806451612904766,
+					0
+				],
+				[
+					1.9354838709678006,
+					0.6451612903225623
+				],
+				[
+					1.9354838709678006,
+					2.5806451612902492
+				],
+				[
+					1.9354838709678006,
+					5.161290322580612
+				],
+				[
+					3.2258064516129252,
+					7.096774193548299
+				],
+				[
+					4.51612903225805,
+					8.387096774193537
+				],
+				[
+					6.4516129032258505,
+					9.0322580645161
+				],
+				[
+					9.0322580645161,
+					9.0322580645161
+				],
+				[
+					10.322580645161452,
+					7.741935483870975
+				],
+				[
+					11.612903225806576,
+					7.096774193548299
+				],
+				[
+					11.612903225806576,
+					5.161290322580612
+				],
+				[
+					10.322580645161452,
+					4.51612903225805
+				],
+				[
+					9.677419354838776,
+					5.161290322580612
+				],
+				[
+					9.0322580645161,
+					6.4516129032258505
+				],
+				[
+					8.387096774193651,
+					7.741935483870975
+				],
+				[
+					9.0322580645161,
+					9.0322580645161
+				],
+				[
+					10.322580645161452,
+					10.322580645161224
+				],
+				[
+					11.612903225806576,
+					10.322580645161224
+				],
+				[
+					12.903225806451701,
+					9.677419354838776
+				],
+				[
+					14.193548387096826,
+					8.387096774193537
+				],
+				[
+					14.838709677419502,
+					5.161290322580612
+				],
+				[
+					14.193548387096826,
+					-2.5806451612902492
+				],
+				[
+					12.903225806451701,
+					-10.322580645161224
+				],
+				[
+					11.612903225806576,
+					-18.709677419354875
+				],
+				[
+					10.322580645161452,
+					-24.51612903225805
+				],
+				[
+					9.677419354838776,
+					-27.096774193548413
+				],
+				[
+					9.0322580645161,
+					-23.225806451612925
+				],
+				[
+					9.677419354838776,
+					-16.129032258064512
+				],
+				[
+					10.322580645161452,
+					-7.741935483870975
+				],
+				[
+					11.612903225806576,
+					-1.2903225806451246
+				],
+				[
+					13.54838709677415,
+					3.2258064516129252
+				],
+				[
+					16.129032258064626,
+					6.4516129032258505
+				],
+				[
+					16.129032258064626,
+					6.4516129032258505
+				]
+			],
+			"pressures": [
+				0,
+				0.06880394369363785,
+				0.07731196284294128,
+				0.08323057740926743,
+				0.09938348084688187,
+				0.12675708532333374,
+				0.1310727447271347,
+				0.1284833550453186,
+				0.1261405646800995,
+				0.12527742981910706,
+				0.12268804013729095,
+				0.10776818543672562,
+				0.09556103497743607,
+				0.09198520332574844,
+				0.09050554782152176,
+				0.09112206846475601,
+				0.09321825206279755,
+				0.09741060435771942,
+				0.09950678050518036,
+				0.09938348084688187,
+				0.09963008761405945,
+				0.10012330114841461,
+				0.10073982924222946,
+				0.10382243990898132,
+				0.11516646295785904,
+				0.13181257247924805,
+				0.15265104174613953,
+				0.1734895259141922,
+				0.18717633187770844,
+				0.19482120871543884,
+				0.1939580738544464,
+				0.20480887591838837,
+				0.2403205931186676,
+				0.26670777797698975,
+				0.3061652183532715,
+				0.3226880431175232,
+				0.3163995146751404,
+				0.18964241445064545,
+				0.08039457350969315,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				16.129032258064626,
+				6.4516129032258505
+			]
+		},
+		{
+			"id": "fhGry77ZLya4Gf2EM5Jb5",
+			"type": "freedraw",
+			"x": 1413.6282642089088,
+			"y": -700.3563748079878,
+			"width": 143.2258064516127,
+			"height": 53.54838709677415,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 689602679,
+			"version": 76,
+			"versionNonce": 1925863129,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687132685,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.6451612903225623
+				],
+				[
+					0,
+					6.4516129032258505
+				],
+				[
+					0,
+					14.838709677419274
+				],
+				[
+					0,
+					24.51612903225805
+				],
+				[
+					0,
+					29.677419354838662
+				],
+				[
+					0.6451612903224486,
+					36.12903225806451
+				],
+				[
+					0.6451612903224486,
+					41.93548387096769
+				],
+				[
+					0.6451612903224486,
+					45.806451612903174
+				],
+				[
+					0.6451612903224486,
+					49.0322580645161
+				],
+				[
+					0.6451612903224486,
+					50.9677419354839
+				],
+				[
+					0,
+					52.258064516129025
+				],
+				[
+					0,
+					52.90322580645159
+				],
+				[
+					0.6451612903224486,
+					53.54838709677415
+				],
+				[
+					1.9354838709675732,
+					52.90322580645159
+				],
+				[
+					3.870967741935374,
+					51.61290322580635
+				],
+				[
+					7.096774193548299,
+					50.322580645161224
+				],
+				[
+					11.612903225806349,
+					49.0322580645161
+				],
+				[
+					16.1290322580644,
+					47.741935483870975
+				],
+				[
+					21.290322580645125,
+					46.45161290322585
+				],
+				[
+					27.0967741935483,
+					45.16129032258061
+				],
+				[
+					32.90322580645147,
+					44.51612903225805
+				],
+				[
+					38.0645161290322,
+					43.870967741935374
+				],
+				[
+					42.58064516129025,
+					43.870967741935374
+				],
+				[
+					47.0967741935483,
+					43.870967741935374
+				],
+				[
+					50.96774193548367,
+					44.51612903225805
+				],
+				[
+					54.1935483870966,
+					44.51612903225805
+				],
+				[
+					58.0645161290322,
+					44.51612903225805
+				],
+				[
+					61.290322580645125,
+					44.51612903225805
+				],
+				[
+					64.51612903225782,
+					43.870967741935374
+				],
+				[
+					67.0967741935483,
+					43.870967741935374
+				],
+				[
+					70.32258064516122,
+					43.870967741935374
+				],
+				[
+					72.90322580645147,
+					43.870967741935374
+				],
+				[
+					76.77419354838707,
+					43.870967741935374
+				],
+				[
+					80.64516129032245,
+					43.870967741935374
+				],
+				[
+					85.80645161290317,
+					44.51612903225805
+				],
+				[
+					90.32258064516122,
+					44.51612903225805
+				],
+				[
+					93.54838709677392,
+					45.16129032258061
+				],
+				[
+					97.41935483870952,
+					45.16129032258061
+				],
+				[
+					101.29032258064512,
+					45.16129032258061
+				],
+				[
+					104.51612903225782,
+					45.806451612903174
+				],
+				[
+					107.0967741935483,
+					45.806451612903174
+				],
+				[
+					109.03225806451587,
+					45.806451612903174
+				],
+				[
+					110.32258064516122,
+					45.806451612903174
+				],
+				[
+					112.25806451612902,
+					45.806451612903174
+				],
+				[
+					112.90322580645147,
+					45.16129032258061
+				],
+				[
+					113.54838709677392,
+					43.870967741935374
+				],
+				[
+					114.83870967741927,
+					42.58064516129025
+				],
+				[
+					114.83870967741927,
+					41.290322580645125
+				],
+				[
+					115.48387096774172,
+					39.354838709677324
+				],
+				[
+					115.48387096774172,
+					36.12903225806451
+				],
+				[
+					114.1935483870966,
+					33.54838709677415
+				],
+				[
+					112.25806451612902,
+					28.387096774193537
+				],
+				[
+					110.32258064516122,
+					23.225806451612925
+				],
+				[
+					107.74193548387075,
+					17.419354838709637
+				],
+				[
+					106.45161290322562,
+					13.54838709677415
+				],
+				[
+					105.1612903225805,
+					10.322580645161224
+				],
+				[
+					104.51612903225782,
+					8.387096774193537
+				],
+				[
+					103.2258064516127,
+					5.8064516129031745
+				],
+				[
+					102.58064516129025,
+					4.51612903225805
+				],
+				[
+					101.93548387096757,
+					3.8709677419354875
+				],
+				[
+					99.99999999999977,
+					3.2258064516129252
+				],
+				[
+					96.1290322580644,
+					3.2258064516129252
+				],
+				[
+					88.38709677419342,
+					3.2258064516129252
+				],
+				[
+					75.48387096774172,
+					1.9354838709678006
+				],
+				[
+					54.838709677419274,
+					0.6451612903225623
+				],
+				[
+					37.41935483870952,
+					0.6451612903225623
+				],
+				[
+					19.999999999999773,
+					0.6451612903225623
+				],
+				[
+					3.870967741935374,
+					0.6451612903225623
+				],
+				[
+					-9.677419354838776,
+					0.6451612903225623
+				],
+				[
+					-19.35483870967755,
+					0.6451612903225623
+				],
+				[
+					-24.51612903225805,
+					1.2903225806451246
+				],
+				[
+					-27.741935483870975,
+					1.9354838709678006
+				],
+				[
+					-26.45161290322585,
+					1.9354838709678006
+				],
+				[
+					-26.45161290322585,
+					1.9354838709678006
+				]
+			],
+			"pressures": [
+				0,
+				0.05092478543519974,
+				0.06128236651420593,
+				0.06880394369363785,
+				0.08002465963363647,
+				0.08310727775096893,
+				0.08668310940265656,
+				0.08816276490688324,
+				0.08828606456518173,
+				0.08828606456518173,
+				0.08853267878293991,
+				0.08890259265899658,
+				0.08914919942617416,
+				0.08951911330223083,
+				0.0951911211013794,
+				0.09593094885349274,
+				0.09667077660560608,
+				0.09741060435771942,
+				0.09778051823377609,
+				0.09790382534265518,
+				0.09827373921871185,
+				0.09802712500095367,
+				0.09753391146659851,
+				0.09691738337278366,
+				0.09630086272954941,
+				0.09568434208631516,
+				0.09556103497743607,
+				0.09605425596237183,
+				0.0964241698384285,
+				0.0964241698384285,
+				0.09704069048166275,
+				0.09753391146659851,
+				0.09753391146659851,
+				0.097657211124897,
+				0.097657211124897,
+				0.09667077660560608,
+				0.09728729724884033,
+				0.09704069048166275,
+				0.09667077660560608,
+				0.09605425596237183,
+				0.09543772786855698,
+				0.09556103497743607,
+				0.09580764174461365,
+				0.09926017373800278,
+				0.1196054220199585,
+				0.13070283830165863,
+				0.13970406353473663,
+				0.14118371903896332,
+				0.1414303332567215,
+				0.14315660297870636,
+				0.1427866816520691,
+				0.14204685389995575,
+				0.14192354679107666,
+				0.14155364036560059,
+				0.14118371903896332,
+				0.14056719839572906,
+				0.1399506777524948,
+				0.13945746421813965,
+				0.13933415710926056,
+				0.1389642357826233,
+				0.13859432935714722,
+				0.13859432935714722,
+				0.13847102224826813,
+				0.13797780871391296,
+				0.136128231883049,
+				0.1373612880706787,
+				0.13945746421813965,
+				0.1376078873872757,
+				0.1387176364660263,
+				0.13945746421813965,
+				0.13316892087459564,
+				0.10591861605644226,
 				0.02712700329720974,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				58.666666666666515,
-				0
+				-26.45161290322585,
+				1.9354838709678006
 			]
 		},
 		{
-			"id": "ZaaVu8qpa39nQK15mqscp",
+			"id": "IUR-Zz0m5gNKXT5GLG33f",
 			"type": "freedraw",
-			"x": 3234.987012987012,
-			"y": 1362.9340794900597,
-			"width": 18.66666666666697,
-			"height": 26.666666666666515,
+			"x": 2111.047619047618,
+			"y": -590.0337941628266,
+			"width": 25.1612903225805,
+			"height": 25.806451612903174,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -71179,582 +72358,12 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1003031438,
-			"version": 31,
-			"versionNonce": 915865230,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.333333333333485,
-					0
-				],
-				[
-					4,
-					-1.3333333333332575
-				],
-				[
-					5.333333333333485,
-					-1.3333333333332575
-				],
-				[
-					6.666666666666515,
-					-2.6666666666667425
-				],
-				[
-					8,
-					-4
-				],
-				[
-					8,
-					-6.6666666666667425
-				],
-				[
-					8,
-					-8
-				],
-				[
-					8,
-					-9.333333333333258
-				],
-				[
-					8,
-					-6.6666666666667425
-				],
-				[
-					8,
-					-2.6666666666667425
-				],
-				[
-					8,
-					0
-				],
-				[
-					8,
-					4
-				],
-				[
-					8,
-					9.333333333333258
-				],
-				[
-					8,
-					10.666666666666742
-				],
-				[
-					8,
-					14.666666666666742
-				],
-				[
-					6.666666666666515,
-					16
-				],
-				[
-					4,
-					17.333333333333258
-				],
-				[
-					1.333333333333485,
-					17.333333333333258
-				],
-				[
-					0,
-					17.333333333333258
-				],
-				[
-					-1.333333333333485,
-					17.333333333333258
-				],
-				[
-					0,
-					17.333333333333258
-				],
-				[
-					1.333333333333485,
-					17.333333333333258
-				],
-				[
-					6.666666666666515,
-					16
-				],
-				[
-					9.333333333333485,
-					16
-				],
-				[
-					12,
-					16
-				],
-				[
-					16,
-					16
-				],
-				[
-					17.333333333333485,
-					14.666666666666742
-				],
-				[
-					17.333333333333485,
-					14.666666666666742
-				]
-			],
-			"pressures": [
-				0,
-				0.06732428818941116,
-				0.08335388451814651,
-				0.08717632293701172,
-				0.09025894105434418,
-				0.09186189621686935,
-				0.09235511720180511,
-				0.09358816593885422,
-				0.09531442821025848,
-				0.09667077660560608,
-				0.09802712500095367,
-				0.09913686662912369,
-				0.10000000149011612,
-				0.1002466082572937,
-				0.1002466082572937,
-				0.10000000149011612,
-				0.09975338727235794,
-				0.09987669438123703,
-				0.10012330114841461,
-				0.10061652213335037,
-				0.11676941812038422,
-				0.13723798096179962,
-				0.1463625133037567,
-				0.149198517203331,
-				0.14821209013462067,
-				0.12046855688095093,
-				0.0398273728787899,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				17.333333333333485,
-				14.666666666666742
-			]
-		},
-		{
-			"id": "i3awursNFCb3t8TNazjFc",
-			"type": "freedraw",
-			"x": 3124.3203463203454,
-			"y": 1345.6007461567265,
-			"width": 40,
-			"height": 25.333333333333258,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1390119246,
-			"version": 39,
-			"versionNonce": 1632139602,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					9.33333333333303,
-					0
-				],
-				[
-					20,
-					-1.333333333333485
-				],
-				[
-					28,
-					-1.333333333333485
-				],
-				[
-					32,
-					-1.333333333333485
-				],
-				[
-					36,
-					-1.333333333333485
-				],
-				[
-					37.33333333333303,
-					-1.333333333333485
-				],
-				[
-					38.666666666666515,
-					-1.333333333333485
-				],
-				[
-					40,
-					-1.333333333333485
-				],
-				[
-					40,
-					-2.6666666666667425
-				],
-				[
-					40,
-					-4
-				],
-				[
-					40,
-					-5.333333333333485
-				],
-				[
-					38.666666666666515,
-					-6.6666666666667425
-				],
-				[
-					37.33333333333303,
-					-8
-				],
-				[
-					34.666666666666515,
-					-10.666666666666742
-				],
-				[
-					32,
-					-12
-				],
-				[
-					30.666666666666515,
-					-13.333333333333485
-				],
-				[
-					29.33333333333303,
-					-14.666666666666742
-				],
-				[
-					28,
-					-14.666666666666742
-				],
-				[
-					28,
-					-13.333333333333485
-				],
-				[
-					29.33333333333303,
-					-12
-				],
-				[
-					32,
-					-9.333333333333485
-				],
-				[
-					34.666666666666515,
-					-8
-				],
-				[
-					36,
-					-5.333333333333485
-				],
-				[
-					38.666666666666515,
-					-4
-				],
-				[
-					38.666666666666515,
-					-2.6666666666667425
-				],
-				[
-					37.33333333333303,
-					0
-				],
-				[
-					36,
-					2.666666666666515
-				],
-				[
-					33.33333333333303,
-					4
-				],
-				[
-					32,
-					6.666666666666515
-				],
-				[
-					29.33333333333303,
-					8
-				],
-				[
-					28,
-					8
-				],
-				[
-					28,
-					9.333333333333258
-				],
-				[
-					26.666666666666515,
-					9.333333333333258
-				],
-				[
-					25.33333333333303,
-					10.666666666666515
-				],
-				[
-					24,
-					10.666666666666515
-				],
-				[
-					24,
-					10.666666666666515
-				]
-			],
-			"pressures": [
-				0,
-				0.08310727775096893,
-				0.0861898884177208,
-				0.08581997454166412,
-				0.08557336777448654,
-				0.08569666743278503,
-				0.08495683968067169,
-				0.08557336777448654,
-				0.08631319552659988,
-				0.08655980229377747,
-				0.0860665813088417,
-				0.08557336777448654,
-				0.08520345389842987,
-				0.08532675355672836,
-				0.0861898884177208,
-				0.08717632293701172,
-				0.0886559784412384,
-				0.08964242041110992,
-				0.09013563394546509,
-				0.0950678139925003,
-				0.09654746949672699,
-				0.09728729724884033,
-				0.09790382534265518,
-				0.09815043210983276,
-				0.09815043210983276,
-				0.09790382534265518,
-				0.09827373921871185,
-				0.09950678050518036,
-				0.1016029566526413,
-				0.10579531639814377,
-				0.11294697970151901,
-				0.11948212236166,
-				0.12133169174194336,
-				0.12145499140024185,
-				0.019235512241721153,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24,
-				10.666666666666515
-			]
-		},
-		{
-			"id": "YgNmLUFH_phKnQm2i1Go5",
-			"type": "freedraw",
-			"x": 3056.3203463203454,
-			"y": 1405.6007461567265,
-			"width": 24,
-			"height": 33.33333333333326,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1741703182,
-			"version": 29,
-			"versionNonce": 278133966,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-5.333333333333485,
-					-1.333333333333485
-				],
-				[
-					-14.66666666666697,
-					-2.6666666666667425
-				],
-				[
-					-20,
-					-2.6666666666667425
-				],
-				[
-					-21.333333333333485,
-					-2.6666666666667425
-				],
-				[
-					-21.333333333333485,
-					-1.333333333333485
-				],
-				[
-					-21.333333333333485,
-					1.3333333333332575
-				],
-				[
-					-20,
-					5.3333333333332575
-				],
-				[
-					-18.66666666666697,
-					8
-				],
-				[
-					-18.66666666666697,
-					12
-				],
-				[
-					-18.66666666666697,
-					13.333333333333258
-				],
-				[
-					-17.333333333333485,
-					13.333333333333258
-				],
-				[
-					-16,
-					12
-				],
-				[
-					-12,
-					12
-				],
-				[
-					-6.66666666666697,
-					13.333333333333258
-				],
-				[
-					-2.66666666666697,
-					14.666666666666515
-				],
-				[
-					0,
-					17.333333333333258
-				],
-				[
-					2.666666666666515,
-					20
-				],
-				[
-					2.666666666666515,
-					22.666666666666515
-				],
-				[
-					1.3333333333330302,
-					25.333333333333258
-				],
-				[
-					-1.333333333333485,
-					28
-				],
-				[
-					-6.66666666666697,
-					29.333333333333258
-				],
-				[
-					-12,
-					30.666666666666515
-				],
-				[
-					-17.333333333333485,
-					29.333333333333258
-				],
-				[
-					-18.66666666666697,
-					28
-				],
-				[
-					-20,
-					25.333333333333258
-				],
-				[
-					-20,
-					25.333333333333258
-				]
-			],
-			"pressures": [
-				0,
-				0.05819975212216377,
-				0.06399507075548172,
-				0.07829839736223221,
-				0.09173859655857086,
-				0.10197287052869797,
-				0.11171393096446991,
-				0.12170160561800003,
-				0.12663377821445465,
-				0.13008631765842438,
-				0.19334155321121216,
-				0.9901356101036072,
-				0.9901356101036072,
-				0.9901356101036072,
-				0.9901356101036072,
-				0.9901356101036072,
-				0.9901356101036072,
-				0.9901356101036072,
-				0.9901356101036072,
-				0.9901356101036072,
-				0.9901356101036072,
-				0.9901356101036072,
-				0.5313193798065186,
-				0.15400740504264832,
-				0.023304563015699387,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-20,
-				25.333333333333258
-			]
-		},
-		{
-			"id": "MYH-a9olbHyhpo43VauWb",
-			"type": "freedraw",
-			"x": 3070.987012987012,
-			"y": 1397.6007461567265,
-			"width": 13.33333333333303,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1216444302,
+			"seed": 919461687,
 			"version": 21,
-			"versionNonce": 1884389138,
-			"isDeleted": true,
+			"versionNonce": 1707906679,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661617314055,
+			"updated": 1661687134919,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -71763,427 +72372,112 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					1.333333333333485,
-					0
+					3.2258064516131526,
+					1.2903225806451246
 				],
 				[
-					2.666666666666515,
-					0
+					7.7419354838712025,
+					5.806451612903288
 				],
 				[
-					5.333333333333485,
-					1.3333333333332575
+					9.0322580645161,
+					10.322580645161338
 				],
 				[
-					6.666666666666515,
-					2.666666666666515
+					8.387096774193651,
+					16.129032258064626
 				],
 				[
-					6.666666666666515,
-					4
-				],
-				[
-					5.333333333333485,
-					5.3333333333332575
-				],
-				[
-					2.666666666666515,
-					6.666666666666515
-				],
-				[
-					0,
-					8
-				],
-				[
-					-1.333333333333485,
-					8
-				],
-				[
-					-5.333333333333485,
-					6.666666666666515
-				],
-				[
-					-6.666666666666515,
-					4
-				],
-				[
-					-6.666666666666515,
-					1.3333333333332575
-				],
-				[
-					-6.666666666666515,
-					-1.333333333333485
-				],
-				[
-					-5.333333333333485,
-					-2.6666666666667425
-				],
-				[
-					-2.666666666666515,
-					-4
-				],
-				[
-					1.333333333333485,
-					-2.6666666666667425
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.056473489850759506,
-				0.06263871490955353,
-				0.06596793979406357,
-				0.066831074655056,
-				0.06732428818941116,
-				0.06843402981758118,
-				0.07213316857814789,
-				0.08446362614631653,
-				0.09926017373800278,
-				0.13082614541053772,
-				0.15462392568588257,
-				0.1631319373846054,
-				0.16485820710659027,
-				0.1437731236219406,
-				0.06979038566350937,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				1.333333333333485,
-				-2.6666666666667425
-			]
-		},
-		{
-			"id": "XvdvBOnNoaNOsvdD3dfxH",
-			"type": "freedraw",
-			"x": 3122.987012987012,
-			"y": 1421.6007461567265,
-			"width": 42.666666666666515,
-			"height": 22.666666666666515,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1998585358,
-			"version": 38,
-			"versionNonce": 383202062,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4,
-					0
-				],
-				[
-					10.666666666666515,
-					0
-				],
-				[
-					18.666666666666515,
-					0
-				],
-				[
-					25.333333333333485,
-					0
-				],
-				[
-					30.666666666666515,
-					0
-				],
-				[
-					34.666666666666515,
-					0
-				],
-				[
-					38.666666666666515,
-					0
-				],
-				[
-					40,
-					0
-				],
-				[
-					41.333333333333485,
-					0
-				],
-				[
-					42.666666666666515,
-					0
-				],
-				[
-					41.333333333333485,
-					-1.333333333333485
-				],
-				[
-					40,
-					-4
-				],
-				[
-					38.666666666666515,
-					-5.333333333333485
-				],
-				[
-					36,
-					-8
-				],
-				[
-					33.333333333333485,
-					-9.333333333333485
-				],
-				[
-					32,
-					-10.666666666666742
-				],
-				[
-					30.666666666666515,
-					-12
-				],
-				[
-					29.333333333333485,
-					-12
-				],
-				[
-					30.666666666666515,
-					-12
-				],
-				[
-					32,
-					-10.666666666666742
-				],
-				[
-					34.666666666666515,
-					-8
-				],
-				[
-					37.333333333333485,
-					-6.6666666666667425
-				],
-				[
-					40,
-					-5.333333333333485
-				],
-				[
-					41.333333333333485,
-					-4
-				],
-				[
-					42.666666666666515,
-					-2.6666666666667425
-				],
-				[
-					42.666666666666515,
-					-1.333333333333485
-				],
-				[
-					41.333333333333485,
-					1.3333333333332575
-				],
-				[
-					40,
-					2.666666666666515
-				],
-				[
-					37.333333333333485,
-					5.3333333333332575
-				],
-				[
-					33.333333333333485,
-					6.666666666666515
-				],
-				[
-					30.666666666666515,
-					9.333333333333258
-				],
-				[
-					29.333333333333485,
-					10.666666666666515
-				],
-				[
-					28,
-					10.666666666666515
-				],
-				[
-					29.333333333333485,
-					9.333333333333258
-				],
-				[
-					29.333333333333485,
-					9.333333333333258
-				]
-			],
-			"pressures": [
-				0,
-				0.10073982924222946,
-				0.10123304277658463,
-				0.1014796569943428,
-				0.10184957087039948,
-				0.10184957087039948,
-				0.10209617763757706,
-				0.10197287052869797,
-				0.10184957087039948,
-				0.10172626376152039,
-				0.10209617763757706,
-				0.10369914025068283,
-				0.10431566089391708,
-				0.10641183704137802,
-				0.11171393096446991,
-				0.11344020068645477,
-				0.11516646295785904,
-				0.11837238073348999,
-				0.12663377821445465,
-				0.13329222798347473,
-				0.13477188348770142,
-				0.13514180481433868,
-				0.13514180481433868,
-				0.1350184977054596,
-				0.13464857637882233,
-				0.13452528417110443,
-				0.13452528417110443,
-				0.13452528417110443,
-				0.1350184977054596,
-				0.13649815320968628,
-				0.14167694747447968,
-				0.1580764502286911,
-				0.18076448142528534,
-				0.19173859059810638,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				29.333333333333485,
-				9.333333333333258
-			]
-		},
-		{
-			"id": "xZqK3ZE2F3effTfjyeLkp",
-			"type": "freedraw",
-			"x": 3210.987012987012,
-			"y": 1402.9340794900597,
-			"width": 20,
-			"height": 29.333333333333485,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 55214418,
-			"version": 16,
-			"versionNonce": 1270074578,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					8,
-					-2.6666666666667425
-				],
-				[
-					17.333333333333485,
-					-1.3333333333332575
-				],
-				[
-					20,
-					2.6666666666667425
-				],
-				[
-					18.666666666666515,
-					8
-				],
-				[
-					16,
-					10.666666666666742
-				],
-				[
-					13.333333333333485,
-					14.666666666666742
-				],
-				[
-					10.666666666666515,
-					17.333333333333258
-				],
-				[
-					9.333333333333485,
-					18.666666666666742
-				],
-				[
-					9.333333333333485,
+					5.806451612903402,
 					20
 				],
 				[
-					10.666666666666515,
-					22.666666666666742
+					2.5806451612902492,
+					22.580645161290363
 				],
 				[
-					12,
-					24
+					-1.2903225806448972,
+					23.225806451612925
 				],
 				[
-					14.666666666666515,
-					26.666666666666742
+					-4.51612903225805,
+					23.225806451612925
 				],
 				[
-					14.666666666666515,
-					26.666666666666742
+					-9.0322580645161,
+					21.290322580645125
+				],
+				[
+					-12.258064516128798,
+					18.064516129032313
+				],
+				[
+					-14.193548387096598,
+					14.838709677419388
+				],
+				[
+					-16.1290322580644,
+					8.387096774193651
+				],
+				[
+					-16.1290322580644,
+					3.2258064516129252
+				],
+				[
+					-13.54838709677415,
+					0
+				],
+				[
+					-7.741935483870748,
+					-2.5806451612902492
+				],
+				[
+					-1.9354838709678006,
+					-1.935483870967687
+				],
+				[
+					2.5806451612902492,
+					0
+				],
+				[
+					0,
+					0
 				]
 			],
 			"pressures": [
 				0,
-				0.06473489850759506,
-				0.06621454656124115,
-				0.06658446043729782,
-				0.06855733692646027,
-				0.07237977534532547,
-				0.08680640906095505,
-				0.10320591926574707,
-				0.11109741032123566,
-				0.11639950424432755,
-				0.10752157866954803,
-				0.06917385756969452,
+				0.058569665998220444,
+				0.06596793979406357,
+				0.06929716467857361,
+				0.07102342694997787,
+				0.07213316857814789,
+				0.07657213509082794,
+				0.08421701937913895,
+				0.09605425596237183,
+				0.1284833550453186,
+				0.17546239495277405,
+				0.2337854504585266,
+				0.33501848578453064,
+				0.36461159586906433,
+				0.3393341600894928,
+				0.15339086949825287,
+				0.02688039466738701,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				14.666666666666515,
-				26.666666666666742
+				2.5806451612902492,
+				0
 			]
 		},
 		{
-			"id": "rxzNnAPSstBo60NXfLevz",
+			"id": "X5T3O3ZT3w6vFdDfqJ0oK",
 			"type": "freedraw",
-			"x": 3228.3203463203454,
-			"y": 1440.267412823393,
-			"width": 6.666666666666515,
-			"height": 5.3333333333332575,
+			"x": 2127.821812596005,
+			"y": -571.9692780337942,
+			"width": 3.8709677419356012,
+			"height": 3.2258064516128115,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -72194,12 +72488,12 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 484345998,
-			"version": 15,
-			"versionNonce": 1406771534,
-			"isDeleted": true,
+			"seed": 466055289,
+			"version": 10,
+			"versionNonce": 1999416343,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661617314055,
+			"updated": 1661687135264,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72208,44 +72502,28 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					1.3333333333330302,
-					2.6666666666667425
+					-1.9354838709678006,
+					1.2903225806451246
 				],
 				[
-					-1.333333333333485,
-					4
-				],
-				[
-					-4,
-					2.6666666666667425
-				],
-				[
-					-5.333333333333485,
-					1.333333333333485
-				],
-				[
-					-5.333333333333485,
+					-3.2258064516131526,
 					0
 				],
 				[
-					-4,
-					-1.3333333333332575
+					-3.8709677419356012,
+					-1.2903225806452383
 				],
 				[
-					-1.333333333333485,
-					-1.3333333333332575
+					-3.2258064516131526,
+					-1.935483870967687
 				],
 				[
-					0,
-					0
+					-2.5806451612902492,
+					-1.935483870967687
 				],
 				[
-					0,
-					1.333333333333485
-				],
-				[
-					0,
-					2.6666666666667425
+					-1.9354838709678006,
+					-1.2903225806452383
 				],
 				[
 					0,
@@ -72254,276 +72532,27 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			],
 			"pressures": [
 				0,
-				0.0654747262597084,
-				0.08976572006940842,
-				0.111837238073349,
-				0.13156597316265106,
-				0.14315660297870636,
-				0.1452527791261673,
-				0.14315660297870636,
-				0.12009864300489426,
-				0.05696670711040497,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				2.6666666666667425
-			]
-		},
-		{
-			"id": "2hyfxJjB7SmH2Vl-WNRRd",
-			"type": "freedraw",
-			"x": 3277.6536796536784,
-			"y": 1417.6007461567265,
-			"width": 62.66666666666697,
-			"height": 26.666666666666742,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1568035918,
-			"version": 20,
-			"versionNonce": 688284306,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.66666666666697,
-					0
-				],
-				[
-					9.333333333333485,
-					-1.333333333333485
-				],
-				[
-					18.66666666666697,
-					-4
-				],
-				[
-					28,
-					-6.6666666666667425
-				],
-				[
-					34.66666666666697,
-					-8
-				],
-				[
-					40,
-					-10.666666666666742
-				],
-				[
-					44,
-					-13.333333333333485
-				],
-				[
-					49.333333333333485,
-					-16
-				],
-				[
-					54.66666666666697,
-					-18.666666666666742
-				],
-				[
-					57.333333333333485,
-					-21.333333333333485
-				],
-				[
-					60,
-					-24
-				],
-				[
-					61.333333333333485,
-					-25.333333333333485
-				],
-				[
-					62.66666666666697,
-					-25.333333333333485
-				],
-				[
-					62.66666666666697,
-					-26.666666666666742
-				],
-				[
-					62.66666666666697,
-					-25.333333333333485
-				],
-				[
-					60,
-					-25.333333333333485
-				],
-				[
-					60,
-					-25.333333333333485
-				]
-			],
-			"pressures": [
-				0,
-				0.09926017373800278,
-				0.10505548864603043,
-				0.1066584438085556,
-				0.10776818543672562,
-				0.10850801318883896,
-				0.1092478409409523,
-				0.10974106192588806,
-				0.1106041893362999,
-				0.11220715194940567,
-				0.11356350034475327,
-				0.11528976261615753,
-				0.11615289747714996,
-				0.11602959036827087,
-				0.11516646295785904,
-				0.08803945779800415,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				60,
-				-25.333333333333485
-			]
-		},
-		{
-			"id": "bLZDl0XwGnqrrCxxvL7IP",
-			"type": "freedraw",
-			"x": 3320.3203463203454,
-			"y": 1389.6007461567265,
-			"width": 22.666666666666515,
-			"height": 25.333333333333258,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 115649362,
-			"version": 19,
-			"versionNonce": 452216718,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.666666666666515,
-					-1.333333333333485
-				],
-				[
-					8,
-					-1.333333333333485
-				],
-				[
-					14.666666666666515,
-					-2.6666666666667425
-				],
-				[
-					18.666666666666515,
-					-2.6666666666667425
-				],
-				[
-					21.33333333333303,
-					-2.6666666666667425
-				],
-				[
-					22.666666666666515,
-					-1.333333333333485
-				],
-				[
-					22.666666666666515,
-					0
-				],
-				[
-					21.33333333333303,
-					2.666666666666515
-				],
-				[
-					20,
-					5.3333333333332575
-				],
-				[
-					18.666666666666515,
-					9.333333333333258
-				],
-				[
-					17.33333333333303,
-					12
-				],
-				[
-					16,
-					16
-				],
-				[
-					16,
-					18.666666666666515
-				],
-				[
-					14.666666666666515,
-					21.333333333333258
-				],
-				[
-					14.666666666666515,
-					22.666666666666515
-				],
-				[
-					14.666666666666515,
-					22.666666666666515
-				]
-			],
-			"pressures": [
-				0,
-				0.062392108142375946,
-				0.06263871490955353,
-				0.06313193589448929,
-				0.06362515687942505,
-				0.06374845653772354,
-				0.06522811204195023,
-				0.07274968922138214,
-				0.08520345389842987,
+				0.07040690630674362,
 				0.09395807981491089,
-				0.10702835768461227,
-				0.11159063130617142,
-				0.11344020068645477,
-				0.11356350034475327,
-				0.1131935864686966,
-				0.09864365309476852,
+				0.10061652213335037,
+				0.08927250653505325,
+				0.02712700329720974,
+				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				14.666666666666515,
-				22.666666666666515
+				-1.9354838709678006,
+				-1.2903225806452383
 			]
 		},
 		{
-			"id": "mr4LQT0h1yR6muB_hHtGk",
+			"id": "FrMkq6afVEE6JC7djgS4y",
 			"type": "freedraw",
-			"x": 3294.987012987012,
-			"y": 1394.93407949006,
-			"width": 16,
-			"height": 10.666666666666515,
+			"x": 2138.144393241166,
+			"y": -583.5821812596007,
+			"width": 10.322580645161452,
+			"height": 25.806451612903288,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -72534,12 +72563,12 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 891797266,
-			"version": 22,
-			"versionNonce": 1929396306,
-			"isDeleted": true,
+			"seed": 688564057,
+			"version": 26,
+			"versionNonce": 509107255,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661617314055,
+			"updated": 1661687137473,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72549,116 +72578,266 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 				],
 				[
 					0,
-					-1.333333333333485
+					-0.6451612903225623
+				],
+				[
+					1.290322580645352,
+					-1.2903225806451246
+				],
+				[
+					1.9354838709678006,
+					-3.8709677419354875
+				],
+				[
+					2.580645161290704,
+					-5.8064516129031745
+				],
+				[
+					2.580645161290704,
+					-6.4516129032258505
+				],
+				[
+					2.580645161290704,
+					-7.096774193548413
+				],
+				[
+					2.580645161290704,
+					-6.4516129032258505
+				],
+				[
+					3.2258064516131526,
+					-3.2258064516129252
+				],
+				[
+					3.2258064516131526,
+					0.6451612903225623
+				],
+				[
+					3.8709677419356012,
+					5.8064516129031745
+				],
+				[
+					3.2258064516131526,
+					10.322580645161224
+				],
+				[
+					3.2258064516131526,
+					13.54838709677415
+				],
+				[
+					2.580645161290704,
+					15.48387096774195
+				],
+				[
+					1.9354838709678006,
+					17.419354838709637
+				],
+				[
+					0.6451612903229034,
+					18.0645161290322
 				],
 				[
 					0,
-					-2.6666666666667425
+					18.709677419354875
 				],
 				[
-					1.333333333333485,
-					-4
+					-1.2903225806448972,
+					18.0645161290322
 				],
 				[
-					2.666666666666515,
-					-4
+					-0.6451612903224486,
+					17.419354838709637
 				],
 				[
-					5.333333333333485,
-					-4
+					0.6451612903229034,
+					17.419354838709637
 				],
 				[
-					6.666666666666515,
-					-4
+					3.2258064516131526,
+					16.774193548387075
 				],
 				[
-					9.333333333333485,
-					-4
+					5.161290322580953,
+					16.774193548387075
 				],
 				[
-					9.333333333333485,
-					-1.333333333333485
+					7.096774193548754,
+					16.129032258064512
 				],
 				[
-					8,
-					0
+					9.032258064516554,
+					16.129032258064512
 				],
 				[
-					6.666666666666515,
-					2.666666666666515
-				],
-				[
-					5.333333333333485,
-					4
-				],
-				[
-					4,
-					5.3333333333332575
-				],
-				[
-					4,
-					6.666666666666515
-				],
-				[
-					5.333333333333485,
-					6.666666666666515
-				],
-				[
-					6.666666666666515,
-					6.666666666666515
-				],
-				[
-					10.666666666666515,
-					6.666666666666515
-				],
-				[
-					13.333333333333485,
-					5.3333333333332575
-				],
-				[
-					16,
-					4
-				],
-				[
-					16,
-					4
+					9.032258064516554,
+					16.129032258064512
 				]
 			],
 			"pressures": [
 				0,
-				0.06251541525125504,
+				0.07743526250123978,
+				0.09149198234081268,
+				0.09802712500095367,
+				0.10320591926574707,
+				0.10468557476997375,
+				0.104192353785038,
+				0.1040690541267395,
+				0.10468557476997375,
+				0.10505548864603043,
+				0.10554870218038559,
+				0.10517878830432892,
+				0.10468557476997375,
+				0.10468557476997375,
+				0.10456226766109467,
+				0.10493218153715134,
+				0.1054254025220871,
+				0.10604192316532135,
+				0.10653514415025711,
+				0.10591861605644226,
+				0.10394574701786041,
+				0.06695437431335449,
+				0.002589395735412836,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				9.032258064516554,
+				16.129032258064512
+			]
+		},
+		{
+			"id": "DHv1H0tMExHD7uDCvi1ci",
+			"type": "freedraw",
+			"x": 2151.6927803379403,
+			"y": -587.4531490015362,
+			"width": 10.9677419354839,
+			"height": 23.870967741935374,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1460922041,
+			"version": 19,
+			"versionNonce": 1674886809,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687138592,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.6451612903229034,
+					-0.6451612903225623
+				],
+				[
+					3.8709677419356012,
+					-0.6451612903225623
+				],
+				[
+					7.7419354838712025,
+					-1.2903225806452383
+				],
+				[
+					10.322580645161452,
+					-1.935483870967687
+				],
+				[
+					10.9677419354839,
+					-1.2903225806452383
+				],
+				[
+					10.322580645161452,
+					0.6451612903225623
+				],
+				[
+					9.0322580645161,
+					3.8709677419354875
+				],
+				[
+					7.096774193548754,
+					9.0322580645161
+				],
+				[
+					5.806451612903402,
+					12.258064516129025
+				],
+				[
+					5.161290322580953,
+					15.48387096774195
+				],
+				[
+					4.516129032258505,
+					17.419354838709637
+				],
+				[
+					4.516129032258505,
+					19.354838709677438
+				],
+				[
+					4.516129032258505,
+					20.645161290322562
+				],
+				[
+					4.516129032258505,
+					21.290322580645125
+				],
+				[
+					4.516129032258505,
+					21.935483870967687
+				],
+				[
+					5.161290322580953,
+					21.935483870967687
+				],
+				[
+					5.161290322580953,
+					21.935483870967687
+				]
+			],
+			"pressures": [
+				0,
+				0.06128236651420593,
+				0.06152897700667381,
+				0.06350184977054596,
+				0.06609124690294266,
+				0.06596793979406357,
+				0.06670776754617691,
+				0.06868064403533936,
+				0.06979038566350937,
 				0.07016029953956604,
 				0.07077682018280029,
-				0.07102342694997787,
-				0.0706535130739212,
-				0.07028359919786453,
-				0.06991368532180786,
-				0.06929716467857361,
-				0.06905055791139603,
-				0.0680641159415245,
-				0.06781750917434692,
-				0.06905055791139603,
-				0.0694204717874527,
-				0.07521578669548035,
-				0.07558569312095642,
-				0.07003699243068695,
-				0.018988901749253273,
+				0.07114673405885696,
+				0.07127003371715546,
+				0.07127003371715546,
+				0.06522811204195023,
+				0.02700369991362095,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				16,
-				4
+				5.161290322580953,
+				21.935483870967687
 			]
 		},
 		{
-			"id": "PZ6BxKtHgc3EqsWYyvO9K",
+			"id": "L2swgDVhEBeN7YLyqkSbd",
 			"type": "freedraw",
-			"x": 3304.3203463203454,
-			"y": 1380.2674128233932,
-			"width": 25.33333333333303,
-			"height": 25.333333333333258,
+			"x": 2154.9185867895535,
+			"y": -573.9047619047619,
+			"width": 6.4516129032258505,
+			"height": 1.9354838709678006,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -72669,12 +72848,12 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 36116878,
-			"version": 21,
-			"versionNonce": 1818240462,
-			"isDeleted": true,
+			"seed": 2144260983,
+			"version": 7,
+			"versionNonce": 781996759,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661617314055,
+			"updated": 1661687138816,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72683,107 +72862,47 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					8,
-					1.3333333333332575
+					1.9354838709678006,
+					-0.645161290322676
 				],
 				[
-					12,
-					5.3333333333332575
+					3.8709677419356012,
+					-1.2903225806452383
 				],
 				[
-					13.33333333333303,
-					12
+					5.806451612902947,
+					-1.9354838709678006
 				],
 				[
-					10.666666666666515,
-					16
+					6.4516129032258505,
+					-1.9354838709678006
 				],
 				[
-					8,
-					20
-				],
-				[
-					5.33333333333303,
-					22.666666666666742
-				],
-				[
-					0,
-					25.333333333333258
-				],
-				[
-					-4,
-					25.333333333333258
-				],
-				[
-					-6.66666666666697,
-					24
-				],
-				[
-					-10.66666666666697,
-					20
-				],
-				[
-					-12,
-					17.333333333333258
-				],
-				[
-					-12,
-					12
-				],
-				[
-					-10.66666666666697,
-					6.6666666666667425
-				],
-				[
-					-9.333333333333485,
-					4
-				],
-				[
-					-2.66666666666697,
-					2.6666666666667425
-				],
-				[
-					2.666666666666515,
-					2.6666666666667425
-				],
-				[
-					0,
-					0
+					6.4516129032258505,
+					-1.9354838709678006
 				]
 			],
 			"pressures": [
 				0,
-				0.0475955605506897,
-				0.04845869168639183,
-				0.04845869168639183,
-				0.0488286055624485,
-				0.053390875458717346,
-				0.06066584587097168,
-				0.07533908635377884,
-				0.09297163784503937,
-				0.11430332809686661,
-				0.1569667011499405,
-				0.17669543623924255,
-				0.1875462383031845,
-				0.18840937316417694,
-				0.1801479607820511,
-				0.07805179059505463,
+				0.06646116077899933,
+				0.06732428818941116,
+				0.016152897849678993,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				2.666666666666515,
-				2.6666666666667425
+				6.4516129032258505,
+				-1.9354838709678006
 			]
 		},
 		{
-			"id": "JfxbT1NK7wW6WOxkak4Td",
+			"id": "oH06emoLFDap9fHaqQHHz",
 			"type": "freedraw",
-			"x": 3282.987012987012,
-			"y": 1428.2674128233932,
-			"width": 36,
-			"height": 44,
+			"x": 2170.4024577572955,
+			"y": -573.2596006144395,
+			"width": 9.0322580645161,
+			"height": 10.9677419354839,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -72794,142 +72913,407 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1753423886,
-			"version": 21,
-			"versionNonce": 628647442,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.333333333333485,
-					5.3333333333332575
-				],
-				[
-					2.666666666666515,
-					9.333333333333258
-				],
-				[
-					2.666666666666515,
-					12
-				],
-				[
-					5.333333333333485,
-					16
-				],
-				[
-					6.666666666666515,
-					18.666666666666742
-				],
-				[
-					8,
-					21.333333333333258
-				],
-				[
-					10.666666666666515,
-					24
-				],
-				[
-					12,
-					26.666666666666742
-				],
-				[
-					14.666666666666515,
-					29.333333333333258
-				],
-				[
-					18.666666666666515,
-					33.33333333333326
-				],
-				[
-					20,
-					34.66666666666674
-				],
-				[
-					24,
-					36
-				],
-				[
-					25.333333333333485,
-					37.33333333333326
-				],
-				[
-					28,
-					38.66666666666674
-				],
-				[
-					32,
-					41.33333333333326
-				],
-				[
-					34.666666666666515,
-					42.66666666666674
-				],
-				[
-					36,
-					44
-				],
-				[
-					36,
-					44
-				]
-			],
-			"pressures": [
-				0,
-				0.04525277391076088,
-				0.04907521605491638,
-				0.05080147832632065,
-				0.053144264966249466,
-				0.05437731370329857,
-				0.05561035871505737,
-				0.058569665998220444,
-				0.06029593199491501,
-				0.062022194266319275,
-				0.06337854266166687,
-				0.06448828428983688,
-				0.06633785367012024,
-				0.06670776754617691,
-				0.06670776754617691,
-				0.066831074655056,
-				0.06633785367012024,
-				0.043896425515413284,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				36,
-				44
-			]
-		},
-		{
-			"id": "Ushiqgrtcx4B1nw6E1-Bd",
-			"type": "freedraw",
-			"x": 3321.6536796536784,
-			"y": 1461.6007461567265,
-			"width": 12,
-			"height": 21.333333333333485,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1338050190,
+			"seed": 1445472793,
 			"version": 17,
-			"versionNonce": 1496726542,
-			"isDeleted": true,
+			"versionNonce": 1396293913,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661617314055,
+			"updated": 1661687139727,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.2903225806448972,
+					-0.6451612903224486
+				],
+				[
+					3.225806451612698,
+					1.9354838709678006
+				],
+				[
+					3.8709677419356012,
+					4.51612903225805
+				],
+				[
+					3.225806451612698,
+					7.741935483870975
+				],
+				[
+					1.9354838709678006,
+					9.0322580645161
+				],
+				[
+					1.2903225806448972,
+					9.677419354838776
+				],
+				[
+					0,
+					9.677419354838776
+				],
+				[
+					-1.290322580645352,
+					9.0322580645161
+				],
+				[
+					-1.290322580645352,
+					7.096774193548413
+				],
+				[
+					-0.6451612903224486,
+					5.161290322580726
+				],
+				[
+					0.6451612903224486,
+					2.580645161290363
+				],
+				[
+					2.5806451612902492,
+					0
+				],
+				[
+					4.51612903225805,
+					-1.2903225806451246
+				],
+				[
+					7.741935483870748,
+					-1.2903225806451246
+				],
+				[
+					7.741935483870748,
+					-1.2903225806451246
+				]
+			],
+			"pressures": [
+				0,
+				0.07928483188152313,
+				0.07928483188152313,
+				0.07916153222322464,
+				0.07879161834716797,
+				0.07879161834716797,
+				0.07940813899040222,
+				0.08643649518489838,
+				0.10579531639814377,
+				0.12651048600673676,
+				0.13514180481433868,
+				0.1363748461008072,
+				0.13267570734024048,
+				0.08853267878293991,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				7.741935483870748,
+				-1.2903225806451246
+			]
+		},
+		{
+			"id": "RipBEXwYfJFSqnc6XtAS7",
+			"type": "freedraw",
+			"x": 2183.305683563747,
+			"y": -573.2596006144395,
+			"width": 24.51612903225805,
+			"height": 38.709677419354875,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1729181943,
+			"version": 50,
+			"versionNonce": 777935609,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687140759,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3.8709677419356012,
+					1.9354838709678006
+				],
+				[
+					-5.161290322580953,
+					4.51612903225805
+				],
+				[
+					-5.161290322580953,
+					5.806451612903288
+				],
+				[
+					-5.161290322580953,
+					7.096774193548413
+				],
+				[
+					-3.8709677419356012,
+					7.741935483870975
+				],
+				[
+					-2.580645161290704,
+					7.741935483870975
+				],
+				[
+					-1.290322580645352,
+					7.741935483870975
+				],
+				[
+					0,
+					6.4516129032258505
+				],
+				[
+					0.6451612903224486,
+					5.161290322580726
+				],
+				[
+					1.2903225806448972,
+					3.8709677419356012
+				],
+				[
+					1.2903225806448972,
+					2.580645161290363
+				],
+				[
+					1.2903225806448972,
+					3.2258064516129252
+				],
+				[
+					1.2903225806448972,
+					4.51612903225805
+				],
+				[
+					1.2903225806448972,
+					5.806451612903288
+				],
+				[
+					1.9354838709678006,
+					7.096774193548413
+				],
+				[
+					3.225806451612698,
+					7.741935483870975
+				],
+				[
+					5.1612903225804985,
+					7.741935483870975
+				],
+				[
+					6.451612903225396,
+					7.741935483870975
+				],
+				[
+					8.387096774193196,
+					7.096774193548413
+				],
+				[
+					9.677419354838548,
+					6.4516129032258505
+				],
+				[
+					9.677419354838548,
+					5.161290322580726
+				],
+				[
+					9.0322580645161,
+					3.8709677419356012
+				],
+				[
+					8.387096774193196,
+					2.580645161290363
+				],
+				[
+					7.741935483870748,
+					2.580645161290363
+				],
+				[
+					6.451612903225396,
+					3.8709677419356012
+				],
+				[
+					6.451612903225396,
+					5.161290322580726
+				],
+				[
+					7.096774193548299,
+					8.387096774193651
+				],
+				[
+					9.0322580645161,
+					9.677419354838776
+				],
+				[
+					10.9677419354839,
+					9.677419354838776
+				],
+				[
+					12.258064516128798,
+					9.0322580645161
+				],
+				[
+					13.54838709677415,
+					7.741935483870975
+				],
+				[
+					14.838709677419047,
+					5.806451612903288
+				],
+				[
+					15.48387096774195,
+					1.9354838709678006
+				],
+				[
+					15.48387096774195,
+					-5.161290322580612
+				],
+				[
+					15.48387096774195,
+					-10.322580645161224
+				],
+				[
+					14.193548387096598,
+					-18.0645161290322
+				],
+				[
+					12.903225806451701,
+					-25.1612903225805
+				],
+				[
+					12.903225806451701,
+					-28.387096774193424
+				],
+				[
+					12.258064516128798,
+					-29.0322580645161
+				],
+				[
+					11.612903225806349,
+					-25.1612903225805
+				],
+				[
+					11.612903225806349,
+					-14.838709677419274
+				],
+				[
+					10.9677419354839,
+					-7.096774193548299
+				],
+				[
+					11.612903225806349,
+					0.645161290322676
+				],
+				[
+					13.54838709677415,
+					5.161290322580726
+				],
+				[
+					15.48387096774195,
+					7.096774193548413
+				],
+				[
+					17.419354838709296,
+					8.387096774193651
+				],
+				[
+					19.354838709677097,
+					8.387096774193651
+				],
+				[
+					19.354838709677097,
+					8.387096774193651
+				]
+			],
+			"pressures": [
+				0,
+				0.06054253876209259,
+				0.06091245263814926,
+				0.06115906313061714,
+				0.06152897700667381,
+				0.062268804758787155,
+				0.06263871490955353,
+				0.06325524300336838,
+				0.06374845653772354,
+				0.0642416775226593,
+				0.06436498463153839,
+				0.06399507075548172,
+				0.06128236651420593,
+				0.056103575974702835,
+				0.05092478543519974,
+				0.04796547442674637,
+				0.04734895005822182,
+				0.047472257167100906,
+				0.04784217104315758,
+				0.05154130607843399,
+				0.0565967932343483,
+				0.06251541525125504,
+				0.06621454656124115,
+				0.06658446043729782,
+				0.06609124690294266,
+				0.06596793979406357,
+				0.06596793979406357,
+				0.06646116077899933,
+				0.06695437431335449,
+				0.06781750917434692,
+				0.0681874230504036,
+				0.06843402981758118,
+				0.06917385756969452,
+				0.07361282408237457,
+				0.07953144609928131,
+				0.08076448738574982,
+				0.0808877944946289,
+				0.08076448738574982,
+				0.08175092190504074,
+				0.08261405676603317,
+				0.08717632293701172,
+				0.09038224071264267,
+				0.09075215458869934,
+				0.09112206846475601,
+				0.08951911330223083,
+				0.07472256571054459,
+				0.040567200630903244,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				19.354838709677097,
+				8.387096774193651
+			]
+		},
+		{
+			"id": "KBx0UEHj-SW7G3Drlq_tx",
+			"type": "freedraw",
+			"x": 1426.5314900153599,
+			"y": -506.80798771121397,
+			"width": 7.741935483870975,
+			"height": 35.48387096774189,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 830713111,
+			"version": 19,
+			"versionNonce": 732760887,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687146059,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -72939,90 +73323,895 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 				],
 				[
 					0,
-					2.6666666666667425
-				],
-				[
-					1.333333333333485,
-					5.333333333333485
-				],
-				[
-					2.66666666666697,
-					8
-				],
-				[
-					2.66666666666697,
-					9.333333333333485
-				],
-				[
-					4,
-					12
-				],
-				[
-					2.66666666666697,
-					14.666666666666742
-				],
-				[
-					1.333333333333485,
-					16
+					1.2903225806451246
 				],
 				[
 					0,
-					17.333333333333485
+					3.8709677419354307
 				],
 				[
-					-1.3333333333330302,
-					20
+					-0.6451612903224486,
+					10.322580645161224
 				],
 				[
-					-4,
-					20
+					-0.6451612903224486,
+					15.483870967741893
 				],
 				[
-					-5.33333333333303,
-					21.333333333333485
+					-1.2903225806451246,
+					20.645161290322562
 				],
 				[
-					-6.666666666666515,
-					21.333333333333485
+					-1.2903225806451246,
+					24.51612903225805
 				],
 				[
-					-8,
-					21.333333333333485
+					-1.2903225806451246,
+					28.387096774193537
 				],
 				[
-					-8,
-					21.333333333333485
+					-1.2903225806451246,
+					31.612903225806406
+				],
+				[
+					-0.6451612903224486,
+					34.19354838709671
+				],
+				[
+					0.645161290322676,
+					35.48387096774189
+				],
+				[
+					2.5806451612904766,
+					35.48387096774189
+				],
+				[
+					4.51612903225805,
+					35.48387096774189
+				],
+				[
+					5.806451612903402,
+					34.19354838709671
+				],
+				[
+					6.4516129032258505,
+					32.90322580645159
+				],
+				[
+					4.51612903225805,
+					31.612903225806406
+				],
+				[
+					1.9354838709678006,
+					29.677419354838662
+				],
+				[
+					1.9354838709678006,
+					29.677419354838662
+				]
+			],
+			"pressures": [
+				0,
+				0.062268804758787155,
+				0.07237977534532547,
+				0.08471023291349411,
+				0.09136868268251419,
+				0.09420468658208847,
+				0.09482120722532272,
+				0.09494451433420181,
+				0.09482120722532272,
+				0.09457460045814514,
+				0.09494451433420181,
+				0.09432799369096756,
+				0.08754623681306839,
+				0.07274968922138214,
+				0.05487053096294403,
+				0.019975339993834496,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				1.9354838709678006,
+				29.677419354838662
+			]
+		},
+		{
+			"id": "hkIAhiApgfiEjAioBAWZj",
+			"type": "freedraw",
+			"x": 1417.4992319508438,
+			"y": -481.64669738863336,
+			"width": 15.48387096774195,
+			"height": 5.161290322580669,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2045093817,
+			"version": 10,
+			"versionNonce": 845949143,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687146225,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.2903225806451246,
+					-1.2903225806451815
+				],
+				[
+					-0.6451612903224486,
+					-2.580645161290363
+				],
+				[
+					1.2903225806451246,
+					-3.8709677419354875
+				],
+				[
+					4.51612903225805,
+					-5.161290322580669
+				],
+				[
+					8.387096774193651,
+					-5.161290322580669
+				],
+				[
+					12.258064516129025,
+					-5.161290322580669
+				],
+				[
+					14.193548387096826,
+					-4.51612903225805
+				],
+				[
+					14.193548387096826,
+					-4.51612903225805
+				]
+			],
+			"pressures": [
+				0,
+				0.07521578669548035,
+				0.08655980229377747,
+				0.08828606456518173,
+				0.08816276490688324,
+				0.0720098614692688,
+				0.004069050773978233,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				14.193548387096826,
+				-4.51612903225805
+			]
+		},
+		{
+			"id": "RC6RzPV1pfYqy1rUkGjsa",
+			"type": "freedraw",
+			"x": 1440.7250384024567,
+			"y": -481.64669738863336,
+			"width": 13.54838709677415,
+			"height": 8.387096774193537,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 409515033,
+			"version": 28,
+			"versionNonce": 654120087,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687146807,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3.870967741935374,
+					-0.6451612903225623
+				],
+				[
+					-6.4516129032258505,
+					1.2903225806451246
+				],
+				[
+					-7.096774193548299,
+					2.580645161290306
+				],
+				[
+					-7.096774193548299,
+					4.51612903225805
+				],
+				[
+					-7.096774193548299,
+					5.8064516129031745
+				],
+				[
+					-5.8064516129031745,
+					6.451612903225794
+				],
+				[
+					-4.51612903225805,
+					7.096774193548356
+				],
+				[
+					-3.2258064516129252,
+					7.096774193548356
+				],
+				[
+					-1.2903225806451246,
+					5.8064516129031745
+				],
+				[
+					0,
+					4.51612903225805
+				],
+				[
+					0.645161290322676,
+					3.2258064516129252
+				],
+				[
+					0.645161290322676,
+					1.2903225806451246
+				],
+				[
+					0,
+					0.6451612903225623
+				],
+				[
+					0,
+					1.2903225806451246
+				],
+				[
+					-0.645161290322676,
+					2.580645161290306
+				],
+				[
+					-0.645161290322676,
+					3.8709677419354875
+				],
+				[
+					0,
+					5.8064516129031745
+				],
+				[
+					0.645161290322676,
+					7.096774193548356
+				],
+				[
+					1.2903225806451246,
+					7.741935483870975
+				],
+				[
+					2.5806451612902492,
+					7.741935483870975
+				],
+				[
+					4.51612903225805,
+					7.096774193548356
+				],
+				[
+					5.161290322580726,
+					6.451612903225794
+				],
+				[
+					5.8064516129031745,
+					5.8064516129031745
+				],
+				[
+					5.8064516129031745,
+					5.161290322580612
+				],
+				[
+					6.4516129032258505,
+					5.161290322580612
+				],
+				[
+					6.4516129032258505,
+					5.161290322580612
 				]
 			],
 			"pressures": [
 				0,
 				0.05462392047047615,
-				0.05844636261463165,
-				0.059309493750333786,
-				0.05967940762639046,
-				0.05967940762639046,
-				0.05967940762639046,
-				0.05980271100997925,
-				0.05992601811885834,
-				0.06017262488603592,
-				0.06017262488603592,
-				0.05844636261463165,
-				0.028236744925379753,
+				0.056350186467170715,
+				0.058569665998220444,
+				0.06177558749914169,
+				0.06399507075548172,
+				0.06609124690294266,
+				0.06720098853111267,
+				0.06781750917434692,
+				0.0720098614692688,
+				0.07755856961011887,
+				0.08212083578109741,
+				0.08434031903743744,
+				0.08421701937913895,
+				0.08409371227025986,
+				0.08384710550308228,
+				0.08372379839420319,
+				0.0834771916270256,
+				0.08372379839420319,
+				0.08458693325519562,
+				0.08495683968067169,
+				0.0848335400223732,
+				0.08236744999885559,
+				0.07311960309743881,
+				0.04784217104315758,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				-8,
-				21.333333333333485
+				6.4516129032258505,
+				5.161290322580612
 			]
 		},
 		{
-			"id": "8aw9E9pHk_DuuhBhlDJ2o",
+			"id": "HPAfs8rStgl4YuMWrFlOa",
 			"type": "freedraw",
-			"x": 3272.3203463203454,
-			"y": 1470.93407949006,
-			"width": 18.666666666666515,
+			"x": 1446.5314900153599,
+			"y": -481.0015360983108,
+			"width": 10.9677419354839,
+			"height": 8.387096774193537,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 578643033,
+			"version": 19,
+			"versionNonce": 1709303865,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687147331,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.6451612903225623
+				],
+				[
+					0,
+					0.6451612903225623
+				],
+				[
+					1.290322580645352,
+					5.161290322580612
+				],
+				[
+					1.290322580645352,
+					7.096774193548413
+				],
+				[
+					1.290322580645352,
+					7.741935483870975
+				],
+				[
+					1.9354838709678006,
+					7.096774193548413
+				],
+				[
+					1.9354838709678006,
+					5.806451612903231
+				],
+				[
+					3.2258064516129252,
+					2.580645161290363
+				],
+				[
+					4.51612903225805,
+					1.2903225806451246
+				],
+				[
+					5.806451612903402,
+					0
+				],
+				[
+					8.387096774193651,
+					0
+				],
+				[
+					9.677419354838776,
+					1.2903225806451246
+				],
+				[
+					10.322580645161452,
+					2.580645161290363
+				],
+				[
+					10.9677419354839,
+					4.51612903225805
+				],
+				[
+					10.9677419354839,
+					5.161290322580612
+				],
+				[
+					10.9677419354839,
+					6.451612903225794
+				],
+				[
+					10.9677419354839,
+					6.451612903225794
+				]
+			],
+			"pressures": [
+				0,
+				0.06892725080251694,
+				0.07040690630674362,
+				0.07016029953956604,
+				0.07016029953956604,
+				0.07928483188152313,
+				0.10332922637462616,
+				0.10974106192588806,
+				0.11516646295785904,
+				0.11553637683391571,
+				0.11467324197292328,
+				0.1130702868103981,
+				0.11233045905828476,
+				0.11208384484052658,
+				0.10690505802631378,
+				0.0808877944946289,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				10.9677419354839,
+				6.451612903225794
+			]
+		},
+		{
+			"id": "m3hRXbN7hrrYQp-2x1sW5",
+			"type": "freedraw",
+			"x": 1470.4024577572955,
+			"y": -502.93701996927854,
+			"width": 10.9677419354839,
+			"height": 33.54838709677415,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1337627607,
+			"version": 15,
+			"versionNonce": 777427895,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687149163,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.645161290322676,
+					-2.580645161290306
+				],
+				[
+					-4.51612903225805,
+					0.6451612903226192
+				],
+				[
+					-7.096774193548299,
+					7.096774193548356
+				],
+				[
+					-9.0322580645161,
+					14.193548387096769
+				],
+				[
+					-9.677419354838776,
+					19.35483870967738
+				],
+				[
+					-9.677419354838776,
+					23.22580645161287
+				],
+				[
+					-9.0322580645161,
+					26.451612903225794
+				],
+				[
+					-7.741935483870975,
+					28.387096774193537
+				],
+				[
+					-5.161290322580726,
+					30.32258064516128
+				],
+				[
+					-2.5806451612902492,
+					30.967741935483843
+				],
+				[
+					0,
+					30.967741935483843
+				],
+				[
+					1.2903225806451246,
+					30.32258064516128
+				],
+				[
+					1.2903225806451246,
+					30.32258064516128
+				]
+			],
+			"pressures": [
+				0,
+				0.06498150527477264,
+				0.0732429102063179,
+				0.08495683968067169,
+				0.0926017239689827,
+				0.09358816593885422,
+				0.09395807981491089,
+				0.0938347727060318,
+				0.09395807981491089,
+				0.08680640906095505,
+				0.06436498463153839,
+				0.013686805963516235,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				1.2903225806451246,
+				30.32258064516128
+			]
+		},
+		{
+			"id": "71fUW9jCVYj6n09JmOQOz",
+			"type": "freedraw",
+			"x": 1477.4992319508438,
+			"y": -493.2596006144398,
+			"width": 3.2258064516129252,
+			"height": 27.741935483870975,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2092654393,
+			"version": 18,
+			"versionNonce": 1571587543,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687149759,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.645161290322676,
+					-3.2258064516129252
+				],
+				[
+					0,
+					-6.451612903225794
+				],
+				[
+					0,
+					-9.0322580645161
+				],
+				[
+					0,
+					-9.677419354838719
+				],
+				[
+					0,
+					-8.387096774193537
+				],
+				[
+					0,
+					-6.451612903225794
+				],
+				[
+					0,
+					-0.6451612903225623
+				],
+				[
+					0,
+					4.51612903225805
+				],
+				[
+					0,
+					9.677419354838662
+				],
+				[
+					0.645161290322676,
+					13.54838709677415
+				],
+				[
+					0.645161290322676,
+					16.129032258064512
+				],
+				[
+					1.2903225806451246,
+					17.419354838709637
+				],
+				[
+					1.9354838709678006,
+					18.064516129032256
+				],
+				[
+					2.5806451612902492,
+					18.064516129032256
+				],
+				[
+					3.2258064516129252,
+					18.064516129032256
+				],
+				[
+					3.2258064516129252,
+					18.064516129032256
+				]
+			],
+			"pressures": [
+				0,
+				0.05203452706336975,
+				0.06128236651420593,
+				0.07016029953956604,
+				0.0732429102063179,
+				0.07336621731519699,
+				0.07398273795843124,
+				0.07533908635377884,
+				0.0758323073387146,
+				0.07595560699701309,
+				0.0758323073387146,
+				0.07607891410589218,
+				0.07632552087306976,
+				0.07311960309743881,
+				0.04574599117040634,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				3.2258064516129252,
+				18.064516129032256
+			]
+		},
+		{
+			"id": "LBc2kBnf3-BBCJg2kjGOj",
+			"type": "freedraw",
+			"x": 1482.6605222734245,
+			"y": -488.0983102918592,
+			"width": 8.387096774193424,
+			"height": 9.0322580645161,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 94938905,
+			"version": 18,
+			"versionNonce": 241175543,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687150222,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.9354838709675732,
+					-0.6451612903225623
+				],
+				[
+					4.51612903225805,
+					0
+				],
+				[
+					6.451612903225623,
+					1.9354838709678006
+				],
+				[
+					7.096774193548299,
+					4.51612903225805
+				],
+				[
+					6.451612903225623,
+					6.4516129032258505
+				],
+				[
+					5.8064516129031745,
+					7.741935483870975
+				],
+				[
+					3.870967741935374,
+					8.387096774193537
+				],
+				[
+					1.2903225806451246,
+					8.387096774193537
+				],
+				[
+					-0.645161290322676,
+					7.741935483870975
+				],
+				[
+					-1.2903225806451246,
+					5.806451612903288
+				],
+				[
+					-1.2903225806451246,
+					4.51612903225805
+				],
+				[
+					-0.645161290322676,
+					2.580645161290363
+				],
+				[
+					1.2903225806451246,
+					1.9354838709678006
+				],
+				[
+					3.2258064516129252,
+					1.9354838709678006
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0,
+				0.056103575974702835,
+				0.05795314535498619,
+				0.05795314535498619,
+				0.05795314535498619,
+				0.05795314535498619,
+				0.05795314535498619,
+				0.05844636261463165,
+				0.0642416775226593,
+				0.07644882798194885,
+				0.08581997454166412,
+				0.08791615068912506,
+				0.07817509025335312,
+				0.014919851906597614,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				3.2258064516129252,
+				1.9354838709678006
+			]
+		},
+		{
+			"id": "75XKtK-Yu5Vnl1JdLR47l",
+			"type": "freedraw",
+			"x": 1498.1443932411664,
+			"y": -481.0015360983108,
+			"width": 2.5806451612902492,
+			"height": 2.5806451612902492,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 275780345,
+			"version": 10,
+			"versionNonce": 2036773271,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687150777,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.2903225806451246,
+					1.2903225806451246
+				],
+				[
+					-1.9354838709678006,
+					0.6451612903225623
+				],
+				[
+					-1.9354838709678006,
+					-0.6451612903225623
+				],
+				[
+					-1.9354838709678006,
+					-1.2903225806451246
+				],
+				[
+					-0.645161290322676,
+					-0.6451612903225623
+				],
+				[
+					0.6451612903224486,
+					0
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0,
+				0.046485818922519684,
+				0.059309493750333786,
+				0.066831074655056,
+				0.06658446043729782,
+				0.02083847112953663,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				0.6451612903224486,
+				0
+			]
+		},
+		{
+			"id": "I75Y5jT5DwatZN--Ko_AA",
+			"type": "freedraw",
+			"x": 1501.3701996927794,
+			"y": -496.48540706605274,
+			"width": 11.612903225806349,
 			"height": 20,
 			"angle": 0,
 			"strokeColor": "#1864ab",
@@ -73034,12 +74223,12 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1049041038,
-			"version": 27,
-			"versionNonce": 694539218,
-			"isDeleted": true,
+			"seed": 986191705,
+			"version": 21,
+			"versionNonce": 1138846745,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661617314055,
+			"updated": 1661687151671,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73048,142 +74237,117 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					1.3333333333330302,
-					0
+					2.5806451612902492,
+					-1.2903225806451246
 				],
 				[
-					2.666666666666515,
-					-1.333333333333485
+					7.096774193548299,
+					1.2903225806451815
 				],
 				[
-					4,
-					-2.6666666666667425
+					9.0322580645161,
+					4.51612903225805
 				],
 				[
-					5.33333333333303,
-					-5.333333333333485
+					7.741935483870748,
+					6.4516129032258505
 				],
 				[
-					5.33333333333303,
-					-6.6666666666667425
+					5.1612903225804985,
+					7.741935483870975
 				],
 				[
-					6.666666666666515,
-					-8
+					3.870967741935374,
+					8.387096774193537
 				],
 				[
-					6.666666666666515,
-					-6.6666666666667425
+					3.225806451612698,
+					9.032258064516157
 				],
 				[
-					8,
-					-4
+					3.870967741935374,
+					9.677419354838719
 				],
 				[
-					8,
-					0
+					5.8064516129031745,
+					10.9677419354839
 				],
 				[
-					9.33333333333303,
-					4
+					8.387096774193424,
+					12.258064516129025
 				],
 				[
-					9.33333333333303,
-					6.666666666666515
+					10.322580645161224,
+					14.193548387096826
 				],
 				[
-					8,
-					9.333333333333258
+					11.612903225806349,
+					15.48387096774195
 				],
 				[
-					6.666666666666515,
-					10.666666666666515
+					11.612903225806349,
+					16.774193548387075
 				],
 				[
-					6.666666666666515,
-					12
+					9.677419354838548,
+					18.064516129032313
 				],
 				[
-					5.33333333333303,
-					12
+					7.096774193548299,
+					18.709677419354875
 				],
 				[
-					4,
-					12
+					3.870967741935374,
+					18.709677419354875
 				],
 				[
-					2.666666666666515,
-					12
+					2.5806451612902492,
+					18.064516129032313
 				],
 				[
-					5.33333333333303,
-					12
+					2.5806451612902492,
+					17.419354838709694
 				],
 				[
-					9.33333333333303,
-					12
-				],
-				[
-					12,
-					12
-				],
-				[
-					14.666666666666515,
-					12
-				],
-				[
-					17.33333333333303,
-					12
-				],
-				[
-					18.666666666666515,
-					10.666666666666515
-				],
-				[
-					18.666666666666515,
-					10.666666666666515
+					2.5806451612902492,
+					17.419354838709694
 				]
 			],
 			"pressures": [
 				0,
-				0.08076448738574982,
-				0.0822441428899765,
-				0.08249074965715408,
-				0.08298397064208984,
-				0.08372379839420319,
-				0.08446362614631653,
-				0.08458693325519562,
-				0.08471023291349411,
-				0.08446362614631653,
-				0.08458693325519562,
-				0.08458693325519562,
+				0.06979038566350937,
+				0.0718865618109703,
+				0.07496917247772217,
+				0.07731196284294128,
+				0.07792848348617554,
+				0.07780517637729645,
+				0.07879161834716797,
+				0.08064118027687073,
+				0.08175092190504074,
+				0.08187422901391983,
+				0.08199753612279892,
+				0.08261405676603317,
+				0.0836004912853241,
+				0.08409371227025986,
 				0.08434031903743744,
-				0.08434031903743744,
-				0.08409371227025986,
-				0.08409371227025986,
-				0.08409371227025986,
-				0.08421701937913895,
-				0.08495683968067169,
-				0.0848335400223732,
-				0.08212083578109741,
-				0.06670776754617691,
-				0.02133168838918209,
+				0.074475958943367,
+				0.04352651163935661,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				18.666666666666515,
-				10.666666666666515
+				2.5806451612902492,
+				17.419354838709694
 			]
 		},
 		{
-			"id": "vAgh9tPijbwGj8sHBiirX",
+			"id": "6sLTQmtmofSlaH2qZDd0Y",
 			"type": "freedraw",
-			"x": 3272.3203463203454,
-			"y": 1457.6007461567265,
-			"width": 34.66666666666697,
-			"height": 32,
+			"x": 1512.9831029185857,
+			"y": -502.2918586789559,
+			"width": 10.9677419354839,
+			"height": 29.677419354838662,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -73194,12 +74358,12 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1783157198,
-			"version": 20,
-			"versionNonce": 1735363150,
-			"isDeleted": true,
+			"seed": 1984806391,
+			"version": 11,
+			"versionNonce": 2089100183,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1661617314055,
+			"updated": 1661687152037,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -73208,1197 +74372,627 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					9.33333333333303,
+					3.8709677419356012,
+					3.8709677419354875
+				],
+				[
+					8.387096774193651,
+					10.967741935483843
+				],
+				[
+					10.322580645161224,
+					14.838709677419331
+				],
+				[
+					10.9677419354839,
+					20
+				],
+				[
+					9.677419354838776,
+					23.870967741935488
+				],
+				[
+					7.741935483870975,
+					26.451612903225737
+				],
+				[
+					3.8709677419356012,
+					28.387096774193537
+				],
+				[
+					0.6451612903224486,
+					29.677419354838662
+				],
+				[
+					0.6451612903224486,
+					29.677419354838662
+				]
+			],
+			"pressures": [
+				0,
+				0.05745992437005043,
+				0.06152897700667381,
+				0.06251541525125504,
+				0.0628853291273117,
+				0.06251541525125504,
+				0.061898890882730484,
+				0.03366214409470558,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				0.6451612903224486,
+				29.677419354838662
+			]
+		},
+		{
+			"id": "g-47WA9nYyOvEeM9JiSak",
+			"type": "freedraw",
+			"x": 1533.6282642089081,
+			"y": -486.807987711214,
+			"width": 10.9677419354839,
+			"height": 0.6451612903226192,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1476844695,
+			"version": 8,
+			"versionNonce": 1204875001,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687156069,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
 					0
 				],
 				[
-					17.33333333333303,
+					0.645161290322676,
+					0
+				],
+				[
+					4.51612903225805,
+					0.6451612903226192
+				],
+				[
+					8.387096774193651,
+					0.6451612903226192
+				],
+				[
+					10.322580645161452,
+					0.6451612903226192
+				],
+				[
+					10.9677419354839,
+					0.6451612903226192
+				],
+				[
+					10.9677419354839,
+					0.6451612903226192
+				]
+			],
+			"pressures": [
+				0,
+				0.049815043807029724,
+				0.05067817494273186,
+				0.04229346662759781,
+				0.009371146559715271,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				10.9677419354839,
+				0.6451612903226192
+			]
+		},
+		{
+			"id": "d68JBU_99_VmuNOHXSDil",
+			"type": "freedraw",
+			"x": 1534.9185867895535,
+			"y": -481.64669738863336,
+			"width": 10.322580645161224,
+			"height": 0.6451612903225623,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 221534487,
+			"version": 5,
+			"versionNonce": 61095767,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1661687156348,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					6.4516129032258505,
+					0
+				],
+				[
+					10.322580645161224,
+					-0.6451612903225623
+				],
+				[
+					10.322580645161224,
+					-0.6451612903225623
+				]
+			],
+			"pressures": [
+				0,
+				0.041060417890548706,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				10.322580645161224,
+				-0.6451612903225623
+			]
+		},
+		{
+			"id": "09gnmC813JgvPFPATUns3",
+			"type": "freedraw",
+			"x": 1268.1904761904755,
+			"y": -716.761904761905,
+			"width": 4.761904761904816,
+			"height": 45.71428571428578,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1997634711,
+			"version": 17,
+			"versionNonce": 1146193623,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1661687053123,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					5.714285714285779
+				],
+				[
+					-1.9047619047619264,
+					19.047619047619037
+				],
+				[
+					-2.8571428571428896,
+					27.619047619047706
+				],
+				[
+					-2.8571428571428896,
+					34.285714285714334
+				],
+				[
+					-2.8571428571428896,
+					38.095238095238074
+				],
+				[
+					-3.809523809523853,
+					40.95238095238096
+				],
+				[
+					-3.809523809523853,
+					43.80952380952385
+				],
+				[
+					-4.761904761904816,
+					44.761904761904816
+				],
+				[
+					-4.761904761904816,
+					45.71428571428578
+				],
+				[
+					-4.761904761904816,
+					45.71428571428578
+				]
+			],
+			"pressures": [
+				0,
+				0.1131935864686966,
+				0.12059186398983002,
+				0.12231812626123428,
+				0.12293464690446854,
+				0.12318126112222672,
+				0.12034524977207184,
+				0.09334155172109604,
+				0.022194821387529373,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-4.761904761904816,
+				45.71428571428578
+			]
+		},
+		{
+			"id": "vMYma9wAL36HRUbxKb9Lx",
+			"type": "freedraw",
+			"x": 1278.666666666666,
+			"y": -710.0952380952383,
+			"width": 17.142857142857338,
+			"height": 35.238095238095184,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1110892375,
+			"version": 32,
+			"versionNonce": 143668761,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1661687053123,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					12.380952380952294,
+					0
+				],
+				[
+					14.28571428571422,
+					5.714285714285779
+				],
+				[
+					12.380952380952294,
+					11.428571428571331
+				],
+				[
+					9.523809523809405,
+					18.095238095238074
+				],
+				[
+					6.666666666666515,
+					22.85714285714289
+				],
+				[
+					4.761904761904589,
+					27.619047619047592
+				],
+				[
+					2.8571428571426623,
+					30.476190476190368
+				],
+				[
+					2.8571428571426623,
+					32.380952380952294
+				],
+				[
+					3.8095238095236255,
+					34.28571428571422
+				],
+				[
+					6.666666666666515,
+					34.28571428571422
+				],
+				[
+					8.571428571428442,
+					34.28571428571422
+				],
+				[
+					10.476190476190368,
+					32.380952380952294
+				],
+				[
+					10.476190476190368,
+					31.42857142857133
+				],
+				[
+					9.523809523809405,
+					28.571428571428555
+				],
+				[
+					6.666666666666515,
+					24.761904761904816
+				],
+				[
+					2.8571428571426623,
+					18.095238095238074
+				],
+				[
+					-0.9523809523811906,
+					12.380952380952294
+				],
+				[
+					-2.857142857143117,
+					6.666666666666629
+				],
+				[
+					-2.857142857143117,
+					3.809523809523853
+				],
+				[
+					-2.857142857143117,
+					0.9523809523809632
+				],
+				[
+					-0.9523809523811906,
+					0
+				],
+				[
+					0,
+					-0.9523809523809632
+				],
+				[
+					0.9523809523807358,
+					-0.9523809523809632
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0,
+				0.08249074965715408,
+				0.08791615068912506,
+				0.09062885493040085,
+				0.0926017239689827,
+				0.09605425596237183,
+				0.09975338727235794,
+				0.10209617763757706,
+				0.10493218153715134,
+				0.10826140642166138,
+				0.10875462740659714,
+				0.10850801318883896,
+				0.1080147996544838,
+				0.1066584438085556,
+				0.10579531639814377,
+				0.10505548864603043,
+				0.10579531639814377,
+				0.10579531639814377,
+				0.10579531639814377,
+				0.10567200928926468,
+				0.1040690541267395,
+				0.08754623681306839,
+				0.031935881823301315,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				0.9523809523807358,
+				-0.9523809523809632
+			]
+		},
+		{
+			"id": "N2JHLYSty5FdtWl0K-UwR",
+			"type": "freedraw",
+			"x": 1271.0476190476184,
+			"y": -709.1428571428573,
+			"width": 2.8571428571428896,
+			"height": 35.238095238095184,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 810062839,
+			"version": 12,
+			"versionNonce": 2019218775,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1661687059894,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.9523809523809632
+				],
+				[
+					0,
+					10.476190476190368
+				],
+				[
+					-0.9523809523809632,
+					18.095238095238074
+				],
+				[
+					-0.9523809523809632,
+					23.809523809523853
+				],
+				[
+					0,
+					29.523809523809405
+				],
+				[
+					0.9523809523809632,
+					32.380952380952294
+				],
+				[
+					1.9047619047619264,
+					35.238095238095184
+				],
+				[
+					1.9047619047619264,
+					35.238095238095184
+				]
+			],
+			"pressures": [
+				0,
+				0.07916153222322464,
+				0.08162762224674225,
+				0.08273736387491226,
+				0.08150431513786316,
+				0.06387176364660263,
+				0.04549938440322876,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				1.9047619047619264,
+				35.238095238095184
+			]
+		},
+		{
+			"id": "pNdITBM6Lhrk9TeXMOgHS",
+			"type": "freedraw",
+			"x": 1290.0952380952374,
+			"y": -698.666666666667,
+			"width": 18.095238095238074,
+			"height": 13.333333333333485,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 821705111,
+			"version": 18,
+			"versionNonce": 1869156249,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1661687059894,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.9047619047619264,
+					2.8571428571428896
+				],
+				[
+					2.8571428571428896,
 					6.6666666666667425
 				],
 				[
-					20,
+					0.9523809523809632,
+					9.523809523809632
+				],
+				[
+					-2.8571428571428896,
+					12.380952380952522
+				],
+				[
+					-5.714285714285779,
 					13.333333333333485
 				],
 				[
-					20,
-					18.666666666666742
+					-10.476190476190595,
+					13.333333333333485
 				],
 				[
-					12,
-					30.666666666666742
+					-13.333333333333258,
+					11.428571428571558
 				],
 				[
-					5.33333333333303,
-					32
+					-15.238095238095184,
+					7.619047619047706
 				],
 				[
-					-1.333333333333485,
-					32
+					-13.333333333333258,
+					3.809523809523853
 				],
 				[
-					-6.66666666666697,
-					30.666666666666742
+					-10.476190476190595,
+					0.9523809523809632
 				],
 				[
-					-10.66666666666697,
-					28
+					-7.619047619047706,
+					0
 				],
 				[
-					-13.333333333333485,
-					24
-				],
-				[
-					-14.66666666666697,
-					20
-				],
-				[
-					-12,
-					16
-				],
-				[
-					-8,
-					9.333333333333485
-				],
-				[
-					-2.66666666666697,
-					5.333333333333485
-				],
-				[
-					4,
+					-6.6666666666667425,
 					0
 				],
 				[
 					0,
 					0
-				]
-			],
-			"pressures": [
-				0,
-				0.0514180026948452,
-				0.05215783044695854,
-				0.05215783044695854,
-				0.052651047706604004,
-				0.08384710550308228,
-				0.1066584438085556,
-				0.12392108142375946,
-				0.15622687339782715,
-				0.1954377293586731,
-				0.21824908256530762,
-				0.22515413165092468,
-				0.22663378715515137,
-				0.20653514564037323,
-				0.09741060435771942,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				4,
-				0
-			]
-		},
-		{
-			"id": "_3aA88WexpPHOKq1U7ZVP",
-			"type": "freedraw",
-			"x": 3376.3203463203454,
-			"y": 1373.6007461567265,
-			"width": 14.666666666666515,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 128513490,
-			"version": 8,
-			"versionNonce": 819956114,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.666666666666515,
-					0
-				],
-				[
-					9.33333333333303,
-					0
-				],
-				[
-					13.33333333333303,
-					0
-				],
-				[
-					14.666666666666515,
-					0
-				],
-				[
-					14.666666666666515,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.0924784243106842,
-				0.08520345389842987,
-				0.008508014492690563,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14.666666666666515,
-				0
-			]
-		},
-		{
-			"id": "Q4Q05FqeQH6aw2UBu60XI",
-			"type": "freedraw",
-			"x": 3401.6536796536784,
-			"y": 1364.2674128233932,
-			"width": 18.666666666666515,
-			"height": 14.666666666666515,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1100579598,
-			"version": 23,
-			"versionNonce": 1977946254,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.3333333333332575
-				],
-				[
-					1.333333333333485,
-					-1.3333333333332575
-				],
-				[
-					2.66666666666697,
-					-1.3333333333332575
-				],
-				[
-					4,
-					-1.3333333333332575
-				],
-				[
-					6.66666666666697,
-					0
-				],
-				[
-					8,
-					1.3333333333332575
-				],
-				[
-					8,
-					4
-				],
-				[
-					6.66666666666697,
-					6.6666666666667425
-				],
-				[
-					6.66666666666697,
-					8
-				],
-				[
-					4,
-					9.333333333333258
-				],
-				[
-					2.66666666666697,
-					10.666666666666742
-				],
-				[
-					0,
-					12
-				],
-				[
-					-1.3333333333330302,
-					13.333333333333258
-				],
-				[
-					0,
-					13.333333333333258
-				],
-				[
-					1.333333333333485,
-					13.333333333333258
-				],
-				[
-					5.333333333333485,
-					13.333333333333258
-				],
-				[
-					9.333333333333485,
-					13.333333333333258
-				],
-				[
-					13.333333333333485,
-					13.333333333333258
-				],
-				[
-					17.333333333333485,
-					13.333333333333258
-				],
-				[
-					17.333333333333485,
-					13.333333333333258
-				]
-			],
-			"pressures": [
-				0,
-				0.059432800859212875,
-				0.05992601811885834,
-				0.05980271100997925,
-				0.05967940762639046,
-				0.059556104242801666,
-				0.059556104242801666,
-				0.059186190366744995,
-				0.059062886983156204,
-				0.058939579874277115,
-				0.059556104242801666,
-				0.06313193589448929,
-				0.06621454656124115,
-				0.07003699243068695,
-				0.08791615068912506,
-				0.08914919942617416,
-				0.08939580619335175,
-				0.08902589231729507,
-				0.08532675355672836,
-				0.055856965482234955,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				17.333333333333485,
-				13.333333333333258
-			]
-		},
-		{
-			"id": "Rc6q7cUffEFCEXqgAYdf4",
-			"type": "freedraw",
-			"x": 3377.6536796536784,
-			"y": 1384.2674128233932,
-			"width": 54.66666666666697,
-			"height": 2.6666666666667425,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1366771662,
-			"version": 20,
-			"versionNonce": 320636754,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.333333333333485,
-					0
-				],
-				[
-					4,
-					0
-				],
-				[
-					10.66666666666697,
-					1.3333333333332575
-				],
-				[
-					16,
-					1.3333333333332575
-				],
-				[
-					21.333333333333485,
-					1.3333333333332575
-				],
-				[
-					25.333333333333485,
-					1.3333333333332575
-				],
-				[
-					29.333333333333485,
-					1.3333333333332575
-				],
-				[
-					33.333333333333485,
-					1.3333333333332575
-				],
-				[
-					37.333333333333485,
-					1.3333333333332575
-				],
-				[
-					41.333333333333485,
-					1.3333333333332575
-				],
-				[
-					46.66666666666697,
-					1.3333333333332575
-				],
-				[
-					49.333333333333485,
-					1.3333333333332575
-				],
-				[
-					53.333333333333485,
-					1.3333333333332575
-				],
-				[
-					54.66666666666697,
-					1.3333333333332575
-				],
-				[
-					53.333333333333485,
-					1.3333333333332575
-				],
-				[
-					50.66666666666697,
-					2.6666666666667425
-				],
-				[
-					50.66666666666697,
-					2.6666666666667425
-				]
-			],
-			"pressures": [
-				0,
-				0.06954377144575119,
-				0.07102342694997787,
-				0.07176325470209122,
-				0.0720098614692688,
-				0.07225647568702698,
-				0.07250308245420456,
-				0.07262638956308365,
-				0.07274968922138214,
-				0.07274968922138214,
-				0.07274968922138214,
-				0.07299630343914032,
-				0.07311960309743881,
-				0.07311960309743881,
-				0.07262638956308365,
-				0.05758323147892952,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				50.66666666666697,
-				2.6666666666667425
-			]
-		},
-		{
-			"id": "zN_ZXljmH7OJyhgNfRW21",
-			"type": "freedraw",
-			"x": 3405.6536796536784,
-			"y": 1390.93407949006,
-			"width": 16,
-			"height": 25.333333333333485,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 695050194,
-			"version": 29,
-			"versionNonce": 542101198,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.333333333333485
-				],
-				[
-					-2.666666666666515,
-					0
-				],
-				[
-					-5.33333333333303,
-					2.666666666666515
-				],
-				[
-					-8,
-					6.666666666666515
-				],
-				[
-					-10.666666666666515,
-					9.333333333333258
-				],
-				[
-					-12,
-					13.333333333333258
-				],
-				[
-					-13.33333333333303,
-					16
-				],
-				[
-					-13.33333333333303,
-					18.666666666666515
-				],
-				[
-					-12,
-					21.333333333333258
-				],
-				[
-					-10.666666666666515,
-					22.666666666666515
-				],
-				[
-					-8,
-					24
-				],
-				[
-					-5.33333333333303,
-					22.666666666666515
-				],
-				[
-					-2.666666666666515,
-					22.666666666666515
-				],
-				[
-					0,
-					20
-				],
-				[
-					2.66666666666697,
-					18.666666666666515
-				],
-				[
-					2.66666666666697,
-					16
-				],
-				[
-					2.66666666666697,
-					14.666666666666515
-				],
-				[
-					1.333333333333485,
-					13.333333333333258
-				],
-				[
-					1.333333333333485,
-					12
-				],
-				[
-					-1.3333333333330302,
-					12
-				],
-				[
-					-5.33333333333303,
-					13.333333333333258
-				],
-				[
-					-6.666666666666515,
-					16
-				],
-				[
-					-9.33333333333303,
-					17.333333333333258
-				],
-				[
-					-10.666666666666515,
-					20
-				],
-				[
-					-12,
-					21.333333333333258
-				],
-				[
-					-12,
-					21.333333333333258
-				]
-			],
-			"pressures": [
-				0,
-				0.0604192353785038,
-				0.07484587281942368,
-				0.09235511720180511,
-				0.10172626376152039,
-				0.10579531639814377,
-				0.1080147996544838,
-				0.11035758256912231,
-				0.11257706582546234,
-				0.11467324197292328,
-				0.11664611846208572,
-				0.11763255298137665,
-				0.11775586009025574,
-				0.11849568784236908,
-				0.11849568784236908,
-				0.11849568784236908,
-				0.11898890137672424,
-				0.11861898750066757,
-				0.11812577396631241,
-				0.11787915974855423,
-				0.11639950424432755,
-				0.1156596764922142,
-				0.11738594621419907,
-				0.10394574701786041,
-				0.03526510298252106,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-12,
-				21.333333333333258
-			]
-		},
-		{
-			"id": "posFC0IFpSkcyWLiaXaEf",
-			"type": "freedraw",
-			"x": 3365.6536796536784,
-			"y": 1466.93407949006,
-			"width": 13.333333333333485,
-			"height": 2.666666666666515,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1233070162,
-			"version": 9,
-			"versionNonce": 678677778,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.333333333333485,
-					1.3333333333332575
-				],
-				[
-					5.333333333333485,
-					1.3333333333332575
-				],
-				[
-					9.333333333333485,
-					2.666666666666515
-				],
-				[
-					12,
-					2.666666666666515
-				],
-				[
-					13.333333333333485,
-					1.3333333333332575
-				],
-				[
-					13.333333333333485,
-					1.3333333333332575
-				]
-			],
-			"pressures": [
-				0,
-				0.06707768142223358,
-				0.06868064403533936,
-				0.06855733692646027,
-				0.04944512993097305,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				13.333333333333485,
-				1.3333333333332575
-			]
-		},
-		{
-			"id": "MNIk1SPZj7PQLbIX33_SS",
-			"type": "freedraw",
-			"x": 3388.3203463203454,
-			"y": 1458.93407949006,
-			"width": 21.33333333333303,
-			"height": 26.666666666666742,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1592225618,
-			"version": 32,
-			"versionNonce": 591971598,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.3333333333330302,
-					1.3333333333332575
-				],
-				[
-					2.666666666666515,
-					1.3333333333332575
-				],
-				[
-					4,
-					1.3333333333332575
-				],
-				[
-					5.33333333333303,
-					1.3333333333332575
-				],
-				[
-					6.666666666666515,
-					0
-				],
-				[
-					6.666666666666515,
-					-2.6666666666667425
-				],
-				[
-					6.666666666666515,
-					-5.333333333333485
-				],
-				[
-					6.666666666666515,
-					-6.6666666666667425
-				],
-				[
-					6.666666666666515,
-					-5.333333333333485
-				],
-				[
-					6.666666666666515,
-					-2.6666666666667425
-				],
-				[
-					6.666666666666515,
-					0
-				],
-				[
-					6.666666666666515,
-					4
-				],
-				[
-					8,
-					8
-				],
-				[
-					8,
-					12
-				],
-				[
-					8,
-					16
-				],
-				[
-					8,
-					17.333333333333258
-				],
-				[
-					8,
-					18.666666666666515
-				],
-				[
-					6.666666666666515,
-					20
-				],
-				[
-					5.33333333333303,
-					20
-				],
-				[
-					4,
-					18.666666666666515
-				],
-				[
-					2.666666666666515,
-					18.666666666666515
-				],
-				[
-					5.33333333333303,
-					18.666666666666515
-				],
-				[
-					9.33333333333303,
-					17.333333333333258
-				],
-				[
-					13.33333333333303,
-					17.333333333333258
-				],
-				[
-					16,
-					17.333333333333258
-				],
-				[
-					18.666666666666515,
-					17.333333333333258
-				],
-				[
-					20,
-					17.333333333333258
-				],
-				[
-					21.33333333333303,
-					17.333333333333258
-				],
-				[
-					21.33333333333303,
-					17.333333333333258
 				]
 			],
 			"pressures": [
 				0,
 				0.05252774432301521,
-				0.056226879358291626,
-				0.058569665998220444,
-				0.06177558749914169,
-				0.06387176364660263,
-				0.06350184977054596,
-				0.06399507075548172,
-				0.06473489850759506,
-				0.07003699243068695,
-				0.07336621731519699,
-				0.07607891410589218,
-				0.07780517637729645,
-				0.07817509025335312,
-				0.0784217044711113,
-				0.07854500412940979,
-				0.07854500412940979,
-				0.0784217044711113,
-				0.07829839736223221,
-				0.07817509025335312,
-				0.07866831123828888,
-				0.07879161834716797,
-				0.09568434208631516,
-				0.09580764174461365,
-				0.09580764174461365,
-				0.09531442821025848,
-				0.0912453755736351,
-				0.07213316857814789,
-				0.0014796546893194318,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				21.33333333333303,
-				17.333333333333258
-			]
-		},
-		{
-			"id": "iG4yg3_lQQKDzCFZ9PfI7",
-			"type": "freedraw",
-			"x": 3354.987012987012,
-			"y": 1481.6007461567265,
-			"width": 74.66666666666652,
-			"height": 2.6666666666667425,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 973458574,
-			"version": 30,
-			"versionNonce": 1004336082,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661616605998,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.666666666666515,
-					1.333333333333485
-				],
-				[
-					5.333333333333485,
-					1.333333333333485
-				],
-				[
-					14.666666666666515,
-					1.333333333333485
-				],
-				[
-					18.666666666666515,
-					1.333333333333485
-				],
-				[
-					21.333333333333485,
-					2.6666666666667425
-				],
-				[
-					26.666666666666515,
-					2.6666666666667425
-				],
-				[
-					29.333333333333485,
-					2.6666666666667425
-				],
-				[
-					30.666666666666515,
-					2.6666666666667425
-				],
-				[
-					34.666666666666515,
-					1.333333333333485
-				],
-				[
-					36,
-					1.333333333333485
-				],
-				[
-					38.666666666666515,
-					1.333333333333485
-				],
-				[
-					41.333333333333485,
-					1.333333333333485
-				],
-				[
-					44,
-					1.333333333333485
-				],
-				[
-					46.666666666666515,
-					1.333333333333485
-				],
-				[
-					49.333333333333485,
-					0
-				],
-				[
-					52,
-					0
-				],
-				[
-					54.666666666666515,
-					0
-				],
-				[
-					57.333333333333485,
-					0
-				],
-				[
-					60,
-					0
-				],
-				[
-					62.666666666666515,
-					0
-				],
-				[
-					65.33333333333348,
-					0
-				],
-				[
-					66.66666666666652,
-					0
-				],
-				[
-					70.66666666666652,
-					0
-				],
-				[
-					74.66666666666652,
-					0
-				],
-				[
-					70.66666666666652,
-					0
-				],
-				[
-					70.66666666666652,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.05844636261463165,
-				0.06522811204195023,
-				0.06979038566350937,
-				0.07127003371715546,
-				0.0720098614692688,
-				0.0732429102063179,
-				0.07373613119125366,
-				0.07422934472560883,
-				0.07509247958660126,
-				0.0758323073387146,
-				0.07632552087306976,
-				0.07669543474912643,
-				0.0771886557340622,
-				0.07768187671899796,
-				0.0784217044711113,
-				0.07879161834716797,
-				0.07891491800546646,
-				0.07903822511434555,
-				0.07916153222322464,
-				0.07916153222322464,
-				0.07928483188152313,
-				0.07940813899040222,
-				0.07940813899040222,
-				0.0732429102063179,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				70.66666666666652,
-				0
-			]
-		},
-		{
-			"id": "Gv1RvwgE2s3in91wyZbD4",
-			"type": "freedraw",
-			"x": 3360.3203463203454,
-			"y": 1486.93407949006,
-			"width": 57.33333333333303,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 863660622,
-			"version": 30,
-			"versionNonce": 1182540306,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661616608146,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					6.666666666666515,
-					0
-				],
-				[
-					12,
-					0
-				],
-				[
-					16,
-					1.3333333333332575
-				],
-				[
-					20,
-					1.3333333333332575
-				],
-				[
-					22.666666666666515,
-					1.3333333333332575
-				],
-				[
-					24,
-					1.3333333333332575
-				],
-				[
-					25.33333333333303,
-					1.3333333333332575
-				],
-				[
-					28,
-					0
-				],
-				[
-					30.666666666666515,
-					0
-				],
-				[
-					32,
-					0
-				],
-				[
-					34.666666666666515,
-					0
-				],
-				[
-					36,
-					0
-				],
-				[
-					38.666666666666515,
-					0
-				],
-				[
-					40,
-					0
-				],
-				[
-					41.33333333333303,
-					-1.333333333333485
-				],
-				[
-					42.666666666666515,
-					-1.333333333333485
-				],
-				[
-					45.33333333333303,
-					-1.333333333333485
-				],
-				[
-					46.666666666666515,
-					-1.333333333333485
-				],
-				[
-					48,
-					-1.333333333333485
-				],
-				[
-					50.666666666666515,
-					-1.333333333333485
-				],
-				[
-					52,
-					-1.333333333333485
-				],
-				[
-					53.33333333333303,
-					-2.6666666666667425
-				],
-				[
-					54.666666666666515,
-					-2.6666666666667425
-				],
-				[
-					56,
-					-2.6666666666667425
-				],
-				[
-					57.33333333333303,
-					-2.6666666666667425
-				],
-				[
-					57.33333333333303,
-					-2.6666666666667425
-				]
-			],
-			"pressures": [
-				0,
-				0.05536374822258949,
-				0.056103575974702835,
-				0.056350186467170715,
-				0.05684340372681618,
-				0.05721331760287285,
-				0.05745992437005043,
-				0.05770653486251831,
-				0.0578298382461071,
-				0.0578298382461071,
 				0.05807644873857498,
-				0.05819975212216377,
-				0.05832305923104286,
-				0.05844636261463165,
-				0.05844636261463165,
-				0.058569665998220444,
-				0.05869297310709953,
-				0.05869297310709953,
-				0.05869297310709953,
-				0.058939579874277115,
-				0.058939579874277115,
-				0.058939579874277115,
-				0.058939579874277115,
-				0.058816276490688324,
-				0.058939579874277115,
-				0.059062886983156204,
+				0.06436498463153839,
+				0.07940813899040222,
+				0.09654746949672699,
+				0.11344020068645477,
+				0.11948212236166,
+				0.12194821238517761,
+				0.11393341422080994,
+				0.07311960309743881,
+				0.014303329400718212,
+				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				57.33333333333303,
-				-2.6666666666667425
+				-6.6666666666667425,
+				0
 			]
 		},
 		{
-			"id": "5CoHj6ALYgTwsvldn53Jp",
+			"id": "A9mToNweOXjl6Mr9hFfBY",
 			"type": "freedraw",
-			"x": 3370.987012987012,
-			"y": 1488.2674128233932,
-			"width": 52,
-			"height": 1.3333333333332575,
+			"x": 1301.5238095238087,
+			"y": -689.1428571428573,
+			"width": 1.9047619047619264,
+			"height": 1.9047619047619264,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -74406,15 +75000,15 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
-			"opacity": 100,
+			"opacity": 20,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 140263438,
-			"version": 25,
-			"versionNonce": 643586770,
+			"seed": 361099927,
+			"version": 11,
+			"versionNonce": 1663308407,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1661617314055,
+			"updated": 1661687059894,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74423,132 +75017,147 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					2.666666666666515,
+					0,
+					0.9523809523809632
+				],
+				[
+					-0.9523809523809632,
+					0.9523809523809632
+				],
+				[
+					-1.9047619047619264,
 					0
 				],
 				[
-					6.666666666666515,
-					-1.3333333333332575
+					-1.9047619047619264,
+					-0.9523809523809632
 				],
 				[
-					10.666666666666515,
-					-1.3333333333332575
-				],
-				[
-					13.333333333333485,
-					-1.3333333333332575
-				],
-				[
-					17.333333333333485,
+					-1.9047619047619264,
 					0
 				],
 				[
-					20,
+					0,
 					0
-				],
-				[
-					22.666666666666515,
-					0
-				],
-				[
-					24,
-					0
-				],
-				[
-					26.666666666666515,
-					0
-				],
-				[
-					29.333333333333485,
-					0
-				],
-				[
-					30.666666666666515,
-					0
-				],
-				[
-					33.333333333333485,
-					0
-				],
-				[
-					34.666666666666515,
-					-1.3333333333332575
-				],
-				[
-					37.333333333333485,
-					-1.3333333333332575
-				],
-				[
-					38.666666666666515,
-					-1.3333333333332575
-				],
-				[
-					41.333333333333485,
-					-1.3333333333332575
-				],
-				[
-					45.333333333333485,
-					-1.3333333333332575
-				],
-				[
-					46.666666666666515,
-					-1.3333333333332575
-				],
-				[
-					49.333333333333485,
-					-1.3333333333332575
-				],
-				[
-					52,
-					-1.3333333333332575
-				],
-				[
-					50.666666666666515,
-					-1.3333333333332575
-				],
-				[
-					50.666666666666515,
-					-1.3333333333332575
 				]
 			],
 			"pressures": [
 				0,
-				0.0462392121553421,
-				0.04870530217885971,
-				0.05043156445026398,
+				0.0694204717874527,
+				0.0808877944946289,
+				0.08273736387491226,
+				0.08298397064208984,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-1.9047619047619264,
+				0
+			]
+		},
+		{
+			"id": "mEoiFNiIAbf-D7sQPFnzV",
+			"type": "freedraw",
+			"x": 1271.6927803379413,
+			"y": -713.9047619047622,
+			"width": 2.5806451612902492,
+			"height": 30.9677419354839,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1588966521,
+			"version": 15,
+			"versionNonce": 421340825,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1661687061637,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.6451612903224486,
+					1.9354838709678006
+				],
+				[
+					0.6451612903224486,
+					7.096774193548413
+				],
+				[
+					0.6451612903224486,
+					12.903225806451587
+				],
+				[
+					0,
+					17.41935483870975
+				],
+				[
+					0.6451612903224486,
+					20
+				],
+				[
+					1.2903225806451246,
+					23.225806451612925
+				],
+				[
+					1.9354838709675732,
+					26.45161290322585
+				],
+				[
+					2.5806451612902492,
+					29.0322580645161
+				],
+				[
+					2.5806451612902492,
+					30.322580645161224
+				],
+				[
+					2.5806451612902492,
+					30.9677419354839
+				],
+				[
+					2.5806451612902492,
+					30.9677419354839
+				]
+			],
+			"pressures": [
+				0,
 				0.05117139220237732,
+				0.05166461318731308,
+				0.05191121995449066,
+				0.05191121995449066,
 				0.05191121995449066,
 				0.05215783044695854,
-				0.052774351090192795,
-				0.053144264966249466,
-				0.053390875458717346,
-				0.053637485951185226,
-				0.0540073998272419,
-				0.05450061708688736,
-				0.05561035871505737,
-				0.056720100343227386,
-				0.05758323147892952,
-				0.05795314535498619,
-				0.05807644873857498,
-				0.05819975212216377,
-				0.05832305923104286,
-				0.058569665998220444,
-				0.013316893018782139,
+				0.05104808881878853,
+				0.045006163418293,
+				0.01060419250279665,
+				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				50.666666666666515,
-				-1.3333333333332575
+				2.5806451612902492,
+				30.9677419354839
 			]
 		},
 		{
-			"id": "J6lb_OhRJuJNMv0JGE5kD",
+			"id": "ykM4tpP5kXPnqJBWq3trp",
 			"type": "freedraw",
-			"x": 3397.6536796536784,
-			"y": 1504.2674128233932,
-			"width": 13.333333333333485,
-			"height": 20,
+			"x": 1269.1121351766508,
+			"y": -704.2273425499234,
+			"width": 9.677419354838776,
+			"height": 33.54838709677415,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -74559,12 +75168,12 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"opacity": 20,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 172514062,
-			"version": 32,
-			"versionNonce": 983069458,
+			"seed": 1872817015,
+			"version": 27,
+			"versionNonce": 1722306009,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1661616611270,
+			"updated": 1661687063697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74573,297 +75182,137 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					0,
-					-1.3333333333332575
+					2.5806451612904766,
+					-1.9354838709678006
 				],
 				[
-					1.333333333333485,
-					-2.6666666666667425
+					3.2258064516129252,
+					-5.806451612903288
 				],
 				[
-					5.333333333333485,
-					-2.6666666666667425
+					3.2258064516129252,
+					-9.677419354838776
 				],
 				[
-					6.66666666666697,
-					-2.6666666666667425
+					2.5806451612904766,
+					-12.258064516129025
 				],
 				[
-					9.333333333333485,
-					-2.6666666666667425
+					2.5806451612904766,
+					-12.903225806451701
 				],
 				[
-					12,
-					-2.6666666666667425
+					2.5806451612904766,
+					-12.258064516129025
 				],
 				[
-					13.333333333333485,
-					-1.3333333333332575
+					3.2258064516129252,
+					-7.0967741935485265
 				],
 				[
-					12,
-					0
+					3.2258064516129252,
+					-1.2903225806452383
 				],
 				[
-					9.333333333333485,
-					1.3333333333332575
+					3.2258064516129252,
+					3.2258064516128115
 				],
 				[
-					8,
-					2.6666666666667425
+					2.5806451612904766,
+					9.677419354838662
 				],
 				[
-					6.66666666666697,
-					2.6666666666667425
+					1.9354838709678006,
+					13.54838709677415
 				],
 				[
-					5.333333333333485,
-					4
+					2.5806451612904766,
+					16.774193548387075
 				],
 				[
-					6.66666666666697,
-					5.3333333333332575
+					2.5806451612904766,
+					19.354838709677324
 				],
 				[
-					9.333333333333485,
-					6.6666666666667425
+					2.5806451612904766,
+					20
 				],
 				[
-					10.66666666666697,
-					8
+					2.5806451612904766,
+					20.64516129032245
 				],
 				[
-					12,
-					9.333333333333258
+					2.5806451612904766,
+					20
 				],
 				[
-					13.333333333333485,
-					12
+					2.5806451612904766,
+					19.354838709677324
 				],
 				[
-					13.333333333333485,
-					13.333333333333258
+					3.8709677419356012,
+					18.70967741935476
 				],
 				[
-					12,
-					14.666666666666742
+					4.51612903225805,
+					18.70967741935476
 				],
 				[
-					10.66666666666697,
-					16
+					7.0967741935485265,
+					18.0645161290322
 				],
 				[
-					6.66666666666697,
-					17.333333333333258
+					8.387096774193651,
+					18.0645161290322
 				],
 				[
-					4,
-					17.333333333333258
+					9.677419354838776,
+					17.419354838709523
 				],
 				[
-					2.66666666666697,
-					17.333333333333258
-				],
-				[
-					1.333333333333485,
-					17.333333333333258
-				],
-				[
-					0,
-					17.333333333333258
-				],
-				[
-					1.333333333333485,
-					16
-				],
-				[
-					1.333333333333485,
-					14.666666666666742
-				],
-				[
-					1.333333333333485,
-					14.666666666666742
+					9.677419354838776,
+					17.419354838709523
 				]
 			],
 			"pressures": [
 				0,
-				0.06411837041378021,
-				0.06510481238365173,
-				0.06510481238365173,
 				0.0654747262597084,
-				0.0654747262597084,
-				0.06535141915082932,
-				0.06448828428983688,
-				0.06461159139871597,
-				0.06461159139871597,
-				0.06448828428983688,
-				0.06473489850759506,
-				0.06522811204195023,
-				0.07225647568702698,
-				0.07225647568702698,
-				0.07213316857814789,
-				0.07213316857814789,
-				0.07262638956308365,
-				0.07274968922138214,
-				0.07509247958660126,
-				0.08212083578109741,
-				0.08902589231729507,
-				0.0912453755736351,
-				0.09173859655857086,
-				0.09186189621686935,
-				0.08212083578109741,
-				0.028113439679145813,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				1.333333333333485,
-				14.666666666666742
-			]
-		},
-		{
-			"id": "efZe6WhHicXCz8IOX6ifS",
-			"type": "freedraw",
-			"x": 3396.3203463203454,
-			"y": 1501.6007461567265,
-			"width": 14.666666666666515,
-			"height": 18.666666666666742,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 799637262,
-			"version": 22,
-			"versionNonce": 1078522702,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					5.33333333333303,
-					0
-				],
-				[
-					10.666666666666515,
-					0
-				],
-				[
-					13.33333333333303,
-					1.333333333333485
-				],
-				[
-					14.666666666666515,
-					2.6666666666667425
-				],
-				[
-					13.33333333333303,
-					4
-				],
-				[
-					6.666666666666515,
-					9.333333333333485
-				],
-				[
-					8,
-					10.666666666666742
-				],
-				[
-					10.666666666666515,
-					12
-				],
-				[
-					12,
-					13.333333333333485
-				],
-				[
-					13.33333333333303,
-					14.666666666666742
-				],
-				[
-					13.33333333333303,
-					16
-				],
-				[
-					13.33333333333303,
-					17.333333333333485
-				],
-				[
-					10.666666666666515,
-					17.333333333333485
-				],
-				[
-					8,
-					18.666666666666742
-				],
-				[
-					6.666666666666515,
-					18.666666666666742
-				],
-				[
-					4,
-					18.666666666666742
-				],
-				[
-					2.666666666666515,
-					18.666666666666742
-				],
-				[
-					2.666666666666515,
-					17.333333333333485
-				],
-				[
-					2.666666666666515,
-					17.333333333333485
-				]
-			],
-			"pressures": [
-				0,
-				0.04932182654738426,
-				0.050308261066675186,
-				0.05043156445026398,
-				0.050308261066675186,
-				0.049815043807029724,
-				0.0578298382461071,
-				0.06917385756969452,
-				0.06917385756969452,
-				0.06917385756969452,
-				0.06905055791139603,
 				0.06892725080251694,
-				0.06929716467857361,
-				0.07016029953956604,
-				0.07127003371715546,
-				0.07151664793491364,
-				0.07127003371715546,
-				0.061898890882730484,
-				0.0033292232546955347,
+				0.07028359919786453,
+				0.07176325470209122,
+				0.07262638956308365,
+				0.07435265183448792,
+				0.07977805286645889,
+				0.08409371227025986,
+				0.08692971616983414,
+				0.08902589231729507,
+				0.08964242041110992,
+				0.09025894105434418,
+				0.0912453755736351,
+				0.09112206846475601,
+				0.09050554782152176,
+				0.09075215458869934,
+				0.09099876880645752,
+				0.090012326836586,
+				0.08964242041110992,
+				0.07546239346265793,
+				0.031196054071187973,
+				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				2.666666666666515,
-				17.333333333333485
+				9.677419354838776,
+				17.419354838709523
 			]
 		},
 		{
-			"id": "rKCt4j6eI8lgpkjxryYrM",
+			"id": "zeij-byFq2SdKLHHYyoZQ",
 			"type": "freedraw",
-			"x": 3446.987012987012,
-			"y": 1381.6007461567265,
-			"width": 13.333333333333485,
-			"height": 2.6666666666667425,
+			"x": 1284.5960061443927,
+			"y": -697.7757296466976,
+			"width": 9.0322580645161,
+			"height": 9.677419354838662,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -74874,12 +75323,12 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"opacity": 20,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 644137554,
-			"version": 9,
-			"versionNonce": 815779922,
+			"seed": 2140380665,
+			"version": 18,
+			"versionNonce": 1898895415,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1661616616859,
+			"updated": 1661687063697,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74888,47 +75337,87 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					5.333333333333485,
-					1.333333333333485
+					3.870967741935374,
+					1.935483870967687
 				],
 				[
-					9.333333333333485,
-					1.333333333333485
+					4.51612903225805,
+					4.51612903225805
 				],
 				[
-					12,
-					2.6666666666667425
+					3.870967741935374,
+					7.096774193548413
 				],
 				[
-					13.333333333333485,
-					2.6666666666667425
+					2.5806451612902492,
+					8.387096774193537
 				],
 				[
-					13.333333333333485,
-					2.6666666666667425
+					0.645161290322676,
+					9.0322580645161
+				],
+				[
+					-1.9354838709678006,
+					9.0322580645161
+				],
+				[
+					-3.2258064516129252,
+					8.387096774193537
+				],
+				[
+					-4.51612903225805,
+					6.451612903225737
+				],
+				[
+					-4.51612903225805,
+					3.2258064516129252
+				],
+				[
+					-3.870967741935374,
+					1.2903225806452383
+				],
+				[
+					-1.2903225806451246,
+					-0.6451612903225623
+				],
+				[
+					0.645161290322676,
+					-0.6451612903225623
+				],
+				[
+					0,
+					0
 				]
 			],
 			"pressures": [
 				0,
-				0.04463625326752663,
-				0.04451294615864754,
-				0.02429099939763546,
+				0.08051788061857224,
+				0.08138100802898407,
+				0.08125770837068558,
+				0.08125770837068558,
+				0.08199753612279892,
+				0.09038224071264267,
+				0.1028360053896904,
+				0.11528976261615753,
+				0.12355117499828339,
+				0.11800246685743332,
+				0.03057953156530857,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				13.333333333333485,
-				2.6666666666667425
+				0.645161290322676,
+				-0.6451612903225623
 			]
 		},
 		{
-			"id": "bCv00gO_OnhRAReXjLO4X",
+			"id": "c_d7PeehCSggp7mIqT0-i",
 			"type": "freedraw",
-			"x": 3450.987012987012,
-			"y": 1396.2674128233932,
-			"width": 10.666666666666515,
-			"height": 0,
+			"x": 1356.8540706605218,
+			"y": -669.3886328725041,
+			"width": 12.903225806451474,
+			"height": 18.709677419354875,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -74939,12 +75428,212 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"opacity": 20,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1126067854,
+			"seed": 491311449,
+			"version": 28,
+			"versionNonce": 333411159,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1661687072766,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.1612903225804985,
+					-1.2903225806451246
+				],
+				[
+					9.0322580645161,
+					0
+				],
+				[
+					10.322580645161224,
+					1.9354838709678006
+				],
+				[
+					9.0322580645161,
+					5.8064516129031745
+				],
+				[
+					5.8064516129031745,
+					9.0322580645161
+				],
+				[
+					2.5806451612902492,
+					12.258064516129025
+				],
+				[
+					0.6451612903224486,
+					14.193548387096826
+				],
+				[
+					-0.645161290322676,
+					16.129032258064512
+				],
+				[
+					-1.2903225806451246,
+					16.774193548387075
+				],
+				[
+					-0.645161290322676,
+					16.774193548387075
+				],
+				[
+					0.6451612903224486,
+					15.48387096774195
+				],
+				[
+					1.2903225806451246,
+					14.838709677419274
+				],
+				[
+					1.2903225806451246,
+					12.903225806451587
+				],
+				[
+					-0.645161290322676,
+					10.322580645161224
+				],
+				[
+					-1.2903225806451246,
+					8.387096774193537
+				],
+				[
+					-2.5806451612902492,
+					4.51612903225805
+				],
+				[
+					-2.5806451612902492,
+					1.2903225806451246
+				],
+				[
+					-1.9354838709678006,
+					-0.6451612903225623
+				],
+				[
+					-1.2903225806451246,
+					-1.9354838709678006
+				],
+				[
+					0,
+					-1.9354838709678006
+				],
+				[
+					1.2903225806451246,
+					-1.2903225806451246
+				],
+				[
+					4.51612903225805,
+					1.9354838709678006
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0,
+				0.07595560699701309,
+				0.08471023291349411,
+				0.08643649518489838,
+				0.08791615068912506,
+				0.08914919942617416,
+				0.09025894105434418,
+				0.0926017239689827,
+				0.09543772786855698,
+				0.10505548864603043,
+				0.12392108142375946,
+				0.12453760951757431,
+				0.12453760951757431,
+				0.12379778176546097,
+				0.12318126112222672,
+				0.12293464690446854,
+				0.12244143337011337,
+				0.12293464690446854,
+				0.12305795401334763,
+				0.12318126112222672,
+				0.12096177786588669,
+				0.09728729724884033,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				4.51612903225805,
+				1.9354838709678006
+			]
+		},
+		{
+			"id": "6PhOEFD5de3D9E25Y-2Xe",
+			"type": "freedraw",
+			"x": 1323.3056835637476,
+			"y": -706.1628264208912,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 475551481,
+			"version": 5,
+			"versionNonce": 1627607127,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1661687080584,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
+			"id": "tX4C2s3CJLQqx2NzB35vz",
+			"type": "freedraw",
+			"x": 1325.2411674347154,
+			"y": -708.098310291859,
+			"width": 3.870967741935374,
+			"height": 0.645161290322676,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1500984887,
 			"version": 9,
-			"versionNonce": 104961486,
+			"versionNonce": 534365337,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1661616616859,
+			"updated": 1661687080584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -74953,201 +75642,16 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					8,
+					1.2903225806451246,
 					0
 				],
 				[
-					9.333333333333485,
-					0
+					2.5806451612902492,
+					0.645161290322676
 				],
 				[
-					10.666666666666515,
-					0
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.04488286003470421,
-				0.02441430278122425,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				10.666666666666515,
-				0
-			]
-		},
-		{
-			"id": "V7xwnR0s0n1Jr0Sw9KwMX",
-			"type": "freedraw",
-			"x": 3441.6536796536784,
-			"y": 1384.2674128233932,
-			"width": 16,
-			"height": 2.6666666666667425,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 681965074,
-			"version": 8,
-			"versionNonce": 2070753426,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					5.333333333333485,
-					1.3333333333332575
-				],
-				[
-					9.333333333333485,
-					1.3333333333332575
-				],
-				[
-					13.333333333333485,
-					2.6666666666667425
-				],
-				[
-					16,
-					2.6666666666667425
-				],
-				[
-					16,
-					2.6666666666667425
-				]
-			],
-			"pressures": [
-				0,
-				0.049568433314561844,
-				0.04969174042344093,
-				0.04771886393427849,
-				0.03390875458717346,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				16,
-				2.6666666666667425
-			]
-		},
-		{
-			"id": "8sCeC5taEAFdqBh7t0pM6",
-			"type": "freedraw",
-			"x": 3446.987012987012,
-			"y": 1393.6007461567265,
-			"width": 10.666666666666515,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1173962446,
-			"version": 8,
-			"versionNonce": 564746638,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4,
-					0
-				],
-				[
-					6.666666666666515,
-					0
-				],
-				[
-					10.666666666666515,
-					0
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.04475955665111542,
-				0.040320590138435364,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				10.666666666666515,
-				0
-			]
-		},
-		{
-			"id": "9RA6VYutphXhULMysFYAx",
-			"type": "freedraw",
-			"x": 3498.987012987012,
-			"y": 1372.2674128233932,
-			"width": 4,
-			"height": 1.3333333333332575,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 611114578,
-			"version": 8,
-			"versionNonce": 727535186,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4,
-					0
-				],
-				[
-					4,
-					-1.3333333333332575
-				],
-				[
-					2.666666666666515,
-					0
+					3.870967741935374,
+					0.645161290322676
 				],
 				[
 					0,
@@ -75157,23 +75661,23 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"pressures": [
 				0,
 				0.050554871559143066,
-				0.0514180026948452,
+				0.031812578439712524,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				2.666666666666515,
-				0
+				3.870967741935374,
+				0.645161290322676
 			]
 		},
 		{
-			"id": "34B9hSo8Fw2Vy9GHaxVBW",
+			"id": "KN_oq2uWu1S9gHc4cu2B_",
 			"type": "freedraw",
-			"x": 3474.987012987012,
-			"y": 1384.2674128233932,
-			"width": 10.666666666666515,
-			"height": 0,
+			"x": 1324.5960061443927,
+			"y": -706.8079877112137,
+			"width": 3.870967741935374,
+			"height": 0.6451612903225623,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -75181,15 +75685,15 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
-			"opacity": 100,
+			"opacity": 20,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 807965326,
-			"version": 9,
-			"versionNonce": 1050867662,
+			"seed": 2030426969,
+			"version": 10,
+			"versionNonce": 923086199,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1661617314055,
+			"updated": 1661687080584,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75198,19 +75702,19 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					4,
+					1.9354838709678006,
 					0
 				],
 				[
-					8,
+					2.5806451612902492,
+					-0.6451612903225623
+				],
+				[
+					3.2258064516129252,
 					0
 				],
 				[
-					9.333333333333485,
-					0
-				],
-				[
-					10.666666666666515,
+					3.870967741935374,
 					0
 				],
 				[
@@ -75220,190 +75724,25 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			],
 			"pressures": [
 				0,
-				0.053144264966249466,
-				0.05351417884230614,
-				0.04833538830280304,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				10.666666666666515,
-				0
-			]
-		},
-		{
-			"id": "oIgtS3aeQRIvpS4XaD7N8",
-			"type": "freedraw",
-			"x": 3492.3203463203454,
-			"y": 1372.2674128233932,
-			"width": 20,
-			"height": 20,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 85711758,
-			"version": 28,
-			"versionNonce": 721662994,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1661617314055,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.666666666666515,
-					0
-				],
-				[
-					4,
-					0
-				],
-				[
-					6.666666666666515,
-					-1.3333333333332575
-				],
-				[
-					8,
-					-1.3333333333332575
-				],
-				[
-					8,
-					-4
-				],
-				[
-					8,
-					-5.3333333333332575
-				],
-				[
-					8,
-					-8
-				],
-				[
-					8,
-					-6.6666666666667425
-				],
-				[
-					8,
-					-4
-				],
-				[
-					9.33333333333303,
-					0
-				],
-				[
-					9.33333333333303,
-					4
-				],
-				[
-					10.666666666666515,
-					6.6666666666667425
-				],
-				[
-					10.666666666666515,
-					10.666666666666742
-				],
-				[
-					10.666666666666515,
-					12
-				],
-				[
-					9.33333333333303,
-					12
-				],
-				[
-					8,
-					12
-				],
-				[
-					6.666666666666515,
-					12
-				],
-				[
-					5.33333333333303,
-					10.666666666666742
-				],
-				[
-					6.666666666666515,
-					10.666666666666742
-				],
-				[
-					9.33333333333303,
-					10.666666666666742
-				],
-				[
-					12,
-					10.666666666666742
-				],
-				[
-					16,
-					12
-				],
-				[
-					18.666666666666515,
-					12
-				],
-				[
-					20,
-					10.666666666666742
-				],
-				[
-					20,
-					10.666666666666742
-				]
-			],
-			"pressures": [
-				0,
-				0.05487053096294403,
-				0.05832305923104286,
-				0.06029593199491501,
-				0.06066584587097168,
-				0.06103575974702835,
-				0.06140567362308502,
-				0.0630086287856102,
-				0.06707768142223358,
+				0.06510481238365173,
 				0.06781750917434692,
-				0.06855733692646027,
-				0.06880394369363785,
-				0.06880394369363785,
-				0.06917385756969452,
-				0.06880394369363785,
-				0.06855733692646027,
-				0.06855733692646027,
-				0.06868064403533936,
-				0.0694204717874527,
-				0.07879161834716797,
-				0.07891491800546646,
-				0.07854500412940979,
-				0.0770653486251831,
-				0.0628853291273117,
+				0.0681874230504036,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				20,
-				10.666666666666742
+				3.870967741935374,
+				0
 			]
 		},
 		{
-			"id": "gwio8myfDtBBpX3YjM8tN",
+			"id": "wYTk5lMIsNgr_kSBdekFK",
 			"type": "freedraw",
-			"x": 3476.3203463203454,
-			"y": 1396.2674128233932,
-			"width": 50.666666666666515,
-			"height": 4,
+			"x": 1554.9185867895537,
+			"y": -694.5499231950846,
+			"width": 3.2258064516129252,
+			"height": 34.193548387096826,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -75411,15 +75750,15 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
-			"opacity": 100,
+			"opacity": 20,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 654067474,
-			"version": 14,
-			"versionNonce": 1062129166,
+			"seed": 1833849529,
+			"version": 35,
+			"versionNonce": 1113506201,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1661617314055,
+			"updated": 1661687128938,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75428,77 +75767,177 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					13.33333333333303,
-					0
+					0,
+					0.6451612903225623
 				],
 				[
-					24,
-					-1.3333333333332575
+					0,
+					1.2903225806451246
 				],
 				[
-					32,
-					-2.6666666666667425
+					0,
+					3.2258064516129252
 				],
 				[
-					37.33333333333303,
-					-2.6666666666667425
+					0,
+					5.8064516129031745
 				],
 				[
-					44,
-					-1.3333333333332575
+					0.645161290322676,
+					7.741935483870975
 				],
 				[
-					48,
-					-1.3333333333332575
+					0.645161290322676,
+					9.0322580645161
 				],
 				[
-					50.666666666666515,
-					0
+					1.2903225806451246,
+					10.9677419354839
 				],
 				[
-					49.33333333333303,
-					1.3333333333332575
+					1.2903225806451246,
+					11.612903225806463
 				],
 				[
-					48,
-					1.3333333333332575
+					1.2903225806451246,
+					13.54838709677415
 				],
 				[
-					45.33333333333303,
-					1.3333333333332575
+					1.9354838709675732,
+					15.48387096774195
 				],
 				[
-					45.33333333333303,
-					1.3333333333332575
+					1.9354838709675732,
+					16.774193548387075
+				],
+				[
+					1.9354838709675732,
+					18.0645161290322
+				],
+				[
+					1.9354838709675732,
+					19.354838709677438
+				],
+				[
+					1.9354838709675732,
+					20.645161290322562
+				],
+				[
+					1.9354838709675732,
+					21.9354838709678
+				],
+				[
+					2.5806451612902492,
+					23.225806451612925
+				],
+				[
+					2.5806451612902492,
+					23.870967741935488
+				],
+				[
+					2.5806451612902492,
+					25.161290322580612
+				],
+				[
+					2.5806451612902492,
+					25.806451612903174
+				],
+				[
+					2.5806451612902492,
+					27.0967741935483
+				],
+				[
+					2.5806451612902492,
+					27.741935483870975
+				],
+				[
+					2.5806451612902492,
+					28.387096774193537
+				],
+				[
+					3.2258064516129252,
+					29.0322580645161
+				],
+				[
+					3.2258064516129252,
+					30.322580645161224
+				],
+				[
+					3.2258064516129252,
+					30.9677419354839
+				],
+				[
+					3.2258064516129252,
+					31.612903225806463
+				],
+				[
+					3.2258064516129252,
+					32.258064516129025
+				],
+				[
+					2.5806451612902492,
+					32.90322580645159
+				],
+				[
+					2.5806451612902492,
+					33.54838709677415
+				],
+				[
+					3.2258064516129252,
+					34.193548387096826
+				],
+				[
+					3.2258064516129252,
+					34.193548387096826
 				]
 			],
 			"pressures": [
 				0,
+				0.06325524300336838,
+				0.06646116077899933,
 				0.06868064403533936,
+				0.07016029953956604,
+				0.07077682018280029,
+				0.07102342694997787,
+				0.07163994759321213,
+				0.07163994759321213,
+				0.0718865618109703,
+				0.0720098614692688,
+				0.07213316857814789,
+				0.07237977534532547,
 				0.07262638956308365,
+				0.07274968922138214,
+				0.07287299633026123,
+				0.07299630343914032,
+				0.07311960309743881,
 				0.07361282408237457,
-				0.07435265183448792,
-				0.074475958943367,
-				0.074475958943367,
+				0.07373613119125366,
 				0.07398273795843124,
-				0.05043156445026398,
-				0.0019728729967027903,
+				0.0745992586016655,
+				0.07546239346265793,
+				0.07632552087306976,
+				0.0771886557340622,
+				0.07780517637729645,
+				0.07829839736223221,
+				0.07829839736223221,
+				0.07817509025335312,
+				0.04475955665111542,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				45.33333333333303,
-				1.3333333333332575
+				3.2258064516129252,
+				34.193548387096826
 			]
 		},
 		{
-			"id": "AxUCGChKaetDo4audg1xW",
+			"id": "y14dBgROPT6jYKGI5szhQ",
 			"type": "freedraw",
-			"x": 3498.987012987012,
-			"y": 1406.93407949006,
-			"width": 14.666666666666515,
-			"height": 17.333333333333485,
+			"x": 2131.047619047618,
+			"y": -584.2273425499233,
+			"width": 11.612903225806349,
+			"height": 17.419354838709637,
 			"angle": 0,
 			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
@@ -75506,15 +75945,15 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
-			"opacity": 100,
+			"opacity": 20,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 411093134,
-			"version": 23,
-			"versionNonce": 1012359634,
+			"seed": 1616184537,
+			"version": 24,
+			"versionNonce": 191046039,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1661617314055,
+			"updated": 1661687136542,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -75523,113 +75962,228 @@ e0a8ba9237d33c0574f0f59af513266a73df060d: [[Physics/A2/attatchments/attatchments
 					0
 				],
 				[
-					8,
-					-1.333333333333485
+					0.6451612903224486,
+					-0.6451612903225623
 				],
 				[
-					13.333333333333485,
-					0
+					3.8709677419356012,
+					-1.935483870967687
 				],
 				[
-					14.666666666666515,
-					0
+					5.806451612903402,
+					-2.580645161290363
 				],
 				[
-					13.333333333333485,
-					2.666666666666515
+					9.677419354839003,
+					-3.2258064516129252
 				],
 				[
-					12,
-					4
+					10.9677419354839,
+					-3.8709677419354875
 				],
 				[
-					8,
-					5.3333333333332575
+					11.612903225806349,
+					-3.8709677419354875
 				],
 				[
-					6.666666666666515,
-					6.666666666666515
+					11.612903225806349,
+					-3.2258064516129252
 				],
 				[
-					5.333333333333485,
-					6.666666666666515
+					11.612903225806349,
+					-1.935483870967687
 				],
 				[
-					4,
-					6.666666666666515
+					10.322580645161452,
+					0.6451612903225623
 				],
 				[
-					5.333333333333485,
-					8
+					9.677419354839003,
+					3.2258064516128115
 				],
 				[
-					8,
-					9.333333333333258
+					9.677419354839003,
+					5.161290322580612
 				],
 				[
-					10.666666666666515,
-					10.666666666666515
+					9.0322580645161,
+					7.096774193548413
 				],
 				[
-					13.333333333333485,
-					12
+					9.0322580645161,
+					8.387096774193537
 				],
 				[
-					13.333333333333485,
-					14.666666666666515
+					9.0322580645161,
+					9.677419354838662
 				],
 				[
-					10.666666666666515,
-					16
+					9.0322580645161,
+					10.967741935483787
 				],
 				[
-					8,
-					16
+					9.677419354839003,
+					11.612903225806463
 				],
 				[
-					5.333333333333485,
-					16
+					9.677419354839003,
+					12.903225806451587
 				],
 				[
-					2.666666666666515,
-					16
+					10.322580645161452,
+					13.54838709677415
 				],
 				[
-					2.666666666666515,
-					14.666666666666515
+					10.9677419354839,
+					13.54838709677415
 				],
 				[
-					2.666666666666515,
-					14.666666666666515
+					10.9677419354839,
+					13.54838709677415
 				]
 			],
 			"pressures": [
 				0,
-				0.0552404448390007,
-				0.05684340372681618,
-				0.05684340372681618,
-				0.056720100343227386,
-				0.0565967932343483,
-				0.056473489850759506,
-				0.056473489850759506,
-				0.058569665998220444,
-				0.06485819816589355,
-				0.07817509025335312,
-				0.07928483188152313,
-				0.07928483188152313,
-				0.07953144609928131,
-				0.07977805286645889,
-				0.0796547457575798,
-				0.07953144609928131,
-				0.07891491800546646,
-				0.07928483188152313,
-				0.017385942861437798,
+				0.07755856961011887,
+				0.08113440126180649,
+				0.08310727775096893,
+				0.0912453755736351,
+				0.09654746949672699,
+				0.09950678050518036,
+				0.10000000149011612,
+				0.1016029566526413,
+				0.10369914025068283,
+				0.10604192316532135,
+				0.10850801318883896,
+				0.10986436158418655,
+				0.1104808896780014,
+				0.10974106192588806,
+				0.11072749644517899,
+				0.11109741032123566,
+				0.1106041893362999,
+				0.10702835768461227,
+				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				2.666666666666515,
-				14.666666666666515
+				10.9677419354839,
+				13.54838709677415
+			]
+		},
+		{
+			"id": "z8PAo1_nlcQ9t1S9ByQmB",
+			"type": "freedraw",
+			"x": 1540.7250384024567,
+			"y": -488.0983102918592,
+			"width": 8.387096774193424,
+			"height": 1.2903225806451246,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1417790809,
+			"version": 8,
+			"versionNonce": 1263821687,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1661687154872,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					4.51612903225805,
+					-0.6451612903225623
+				],
+				[
+					7.096774193548299,
+					-1.2903225806451246
+				],
+				[
+					8.387096774193424,
+					-1.2903225806451246
+				],
+				[
+					8.387096774193424,
+					-1.2903225806451246
+				]
+			],
+			"pressures": [
+				0,
+				0.05154130607843399,
+				0.0022194820921868086,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				8.387096774193424,
+				-1.2903225806451246
+			]
+		},
+		{
+			"id": "XIxCqi4qw2bZvGB7Fcj5A",
+			"type": "freedraw",
+			"x": 1541.3701996927794,
+			"y": -482.93701996927854,
+			"width": 7.741935483870748,
+			"height": 1.2903225806451815,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 789788665,
+			"version": 7,
+			"versionNonce": 221180793,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1661687154872,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.5806451612902492,
+					-0.6451612903226192
+				],
+				[
+					7.741935483870748,
+					-1.2903225806451815
+				],
+				[
+					7.741935483870748,
+					-1.2903225806451815
+				]
+			],
+			"pressures": [
+				0,
+				0.07016029953956604,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				7.741935483870748,
+				-1.2903225806451815
 			]
 		}
 	],
