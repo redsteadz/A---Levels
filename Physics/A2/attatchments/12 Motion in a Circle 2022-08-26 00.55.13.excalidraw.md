@@ -25,30 +25,30 @@ always acts perpendicular to the
 	"source": "https://excalidraw.com",
 	"elements": [
 		{
-			"id": "IFJgexAT",
 			"type": "rectangle",
-			"x": 209.58663373969193,
-			"y": -449.76404151404165,
-			"width": 704.2129074625038,
-			"height": 586.8768220015437,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 38,
+			"versionNonce": 929073615,
+			"isDeleted": false,
+			"id": "IFJgexAT",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"strokeSharpness": "sharp",
+			"angle": 0,
+			"x": 209.58663373969193,
+			"y": -449.76404151404165,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 704.2129074625038,
+			"height": 586.8768220015437,
 			"seed": 15101,
-			"version": 38,
-			"versionNonce": 929073615,
-			"updated": 1661460967379,
-			"isDeleted": false,
 			"groupIds": [
 				"QV7HWQ6L"
 			],
+			"strokeSharpness": "sharp",
 			"boundElements": [],
+			"updated": 1661460967379,
 			"link": null,
 			"locked": false
 		},
@@ -635,8 +635,8 @@ always acts perpendicular to the
 		},
 		{
 			"type": "line",
-			"version": 1040,
-			"versionNonce": 250619425,
+			"version": 1128,
+			"versionNonce": 940800718,
 			"isDeleted": false,
 			"id": "-Pqz6eZs0-HF10NO_Ft5o",
 			"fillStyle": "hachure",
@@ -645,12 +645,12 @@ always acts perpendicular to the
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0.07128554348199678,
-			"x": 237.48500152350272,
-			"y": 136.99082249596358,
+			"x": 236.00820910049478,
+			"y": 135.57521641277623,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
-			"width": 331.67141288914394,
-			"height": 449.94183919069917,
+			"width": 293.44852714692456,
+			"height": 407.1106270243241,
 			"seed": 1853595503,
 			"groupIds": [
 				"pXfPCCPS8-vdvbzIVFI17",
@@ -662,7 +662,7 @@ always acts perpendicular to the
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1661460967380,
+			"updated": 1661610865716,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -676,8 +676,8 @@ always acts perpendicular to the
 					0
 				],
 				[
-					331.67141288914394,
-					-449.94183919069917
+					293.44852714692456,
+					-407.1106270243241
 				]
 			]
 		},

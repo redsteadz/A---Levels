@@ -54,5 +54,14 @@
       "key": "ArrowRight"
     }
   ],
-  "editor:focus-bottom": []
+  "editor:focus-bottom": [],
+  "obsidian-excalidraw-plugin:Downloaded/OCR - Optical Character Recognition": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ]
 }

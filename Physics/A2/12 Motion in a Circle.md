@@ -36,12 +36,12 @@ ___
 	- Object in need of a **Centripetal Force**
 - ![[Physics/A2/attatchments/12 Motion in a Circle 2022-08-26 00.55.13.excalidraw.md#^area=IFJgexAT]]
 **Centripetal Acceleration (a)**
-- $a=\frac{v^2}{r} = \omega^2r$
+- $$a=\frac{v^2}{r} = \omega^2r$$
 	- V - the linear speed
 	- r - radius
 	- $\omega$ angular speed
 - **Newtons Second Law** : F = ma we can derive Centripetal Force
-	- $F= \frac{mv^2}{r}= m \omega^2r$
+	- $$F= \frac{mv^2}{r}= m \omega^2r$$
 ___
 
 # <center> ==Summary==  </center>
@@ -57,6 +57,8 @@ ___
 ```ad-note
 title: Past Paper Questions
 [[Circular Motion.pdf]]
+## Solved:
+![[Physics/A2/attatchments/12 Motion in a Circle 2022-08-27 19.31.22.excalidraw]]
 ```
 
 ```ad-info
