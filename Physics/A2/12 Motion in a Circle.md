@@ -58,7 +58,7 @@ ___
 title: Past Paper Questions
 [[Circular Motion.pdf]]
 ## Solved:
-![[Physics/A2/attatchments/12 Motion in a Circle 2022-08-27 19.31.22.excalidraw]]
+![[Physics/A2/attatchments/12 Motion in a Circle PMT Past Paper.excalidraw.md#^area=L-6BWZytHxe4RHYh1JLHN]]
 ```
 
 ```ad-info

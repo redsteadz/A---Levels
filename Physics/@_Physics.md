@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Not Done
 
-- [ ] **13 Gravitational Fields**
 - [ ] **14 Temperature**
 - [ ] **15 Ideal Gas**
 - [ ] **16 Thermodynamics**
@@ -23,7 +22,7 @@ kanban-plugin: basic
 
 ## Learn Concepts off
 
-- [ ] **12 Motion in a Circle** [[Physics/A2/12 Motion in a Circle]]
+- [ ] **13 Gravitational Fields**
 
 
 ## Make Notes
@@ -32,6 +31,7 @@ kanban-plugin: basic
 
 ## Do Past Paper
 
+- [ ] **12 Motion in a Circle** [[Physics/A2/12 Motion in a Circle]]    PMT - Done.
 
 
 ## Rate
