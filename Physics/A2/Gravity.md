@@ -38,6 +38,11 @@ A point mass is the Point  at which the Mass is **equally** distributed around i
 - Planets Orbitting other planets are due to this force, Centripetal and Centrifugal force is just a force that is allowing circular motion, Whether that be tension or, Here in this case **gravity**
 ![[Physics/A2/attatchments/Gravity 2022-08-30 16.08.53.excalidraw.md#^area=FItsYw6jAJLc01B7pvSuq]]
 - The Moon has a centripetal force of ~$1.88 = 2*10^{20}$  
+
+**Geostationary Objects** As the name implies, These objects are geologically in stationary position, Basically they orbit with the same velocity and In the same direction as the earth
+- Hence remaining above the same point of Earth no matter what time
+![[Physics/A2/attatchments/Gravity 2022-08-30 20.30.55.excalidraw]]
+
 ___
 
 # <center> ==Summary==  </center>
