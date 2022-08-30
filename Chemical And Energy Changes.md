@@ -1,0 +1,1 @@
+![[attatchments/Chemical And Energy Changes 2022-08-30 17.01.30.excalidraw]]
