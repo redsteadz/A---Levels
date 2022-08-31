@@ -1,0 +1,1 @@
+![[attatchments/New Doc 2022-08-31 12.15.30.excalidraw]]
