@@ -17,7 +17,7 @@ kanban-plugin: basic
 ## Learn Concepts off
 
 - [ ] **31 Halogen Compounds** [[Chemistry/A2/Organic Chemistry/31 Halogen Compounds]] @{2022-08-24}
-- [ ] **32 Hydroxy Compounds** [[Chemistry/A2/Organic Chemistry/Hydroxy Compounds]] @{2022-08-28}
+- [ ] **32 Hydroxy Compounds** [[Chemistry/A2/Organic Chemistry/32 Hydroxy Compounds]] @{2022-08-28}
 
 
 ## Make Notes

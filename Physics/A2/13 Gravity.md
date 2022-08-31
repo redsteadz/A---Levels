@@ -43,6 +43,27 @@ A point mass is the Point  at which the Mass is **equally** distributed around i
 - Hence remaining above the same point of Earth no matter what time
 ![[Physics/A2/attatchments/Gravity 2022-08-30 20.30.55.excalidraw]]
 
+**Further Equation Derivation**
+![[Physics/A2/attatchments/13 Gravity 2022-08-31 16.15.17.excalidraw]]
+
+### 13.3 Gravitational Field of a Point Mass
+- Relative to an incredibly large mass (earth), your Center of Radius and Mass is considered **insignifant**
+- $$ 
+\begin{align*}
+m_em_o \approx M_{e}\\
+(r_e+r_o) \approx R_e
+\end{align*}
+$$   Hence, The gravitational field strength can be calculated by
+$$ \begin{align*}
+F=\frac{GMm}{r^2}\\\\
+ g  = \frac{F}{m} \\
+F  = gm\\
+g = \frac{GM}{r^2}
+
+\end{align*}
+$$
+- This is the reason why for small changes in height from the earth still means *approx* the same g
+
 ___
 
 # <center> ==Summary==  </center>
