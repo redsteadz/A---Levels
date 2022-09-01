@@ -53,9 +53,13 @@ A point mass is the Point  at which the Mass is **equally** distributed around i
 m_em_o \approx M_{e}\\
 (r_e+r_o) \approx R_e
 \end{align*}
-$$   Hence, The gravitational field strength can be calculated by
-$$ \begin{align*}
-F=\frac{GMm}{r^2}\\\\
+$$
+
+Hence it can be used to get Gravitational strength
+
+$$
+\begin{align*}
+F=\frac{GMm}{r^2}\\
  g  = \frac{F}{m} \\
 F  = gm\\
 g = \frac{GM}{r^2}
