@@ -1,0 +1,1 @@
+![[attatchments/Momentum 2022-09-01 17.06.19.excalidraw]]
