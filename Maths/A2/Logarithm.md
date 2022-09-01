@@ -1,0 +1,1 @@
+![[Maths/A2/attatchments/Logarithm 2022-09-01 17.15.10.excalidraw]]
