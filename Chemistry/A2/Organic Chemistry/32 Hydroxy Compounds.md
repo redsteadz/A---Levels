@@ -7,14 +7,12 @@ ___
 
 ## 32.2 Phenol
 1. recall the reactions (reagents and conditions) by which phenol can be produced:
-(a) reaction of phenylamine with HNO₂ or NaNO₂ and dilute acid below 10 °C to produce the diazoni
-salt; further warming of the diazonium salt with H₂O to give phenol
+(a) reaction of phenylamine with HNO₂ or NaNO₂ and dilute acid below 10 °C to produce the diazoni salt; further warming of the diazonium salt with H₂O to give phenol
 2. recall the chemistry of phenol, as exemplified by the following reactions:
 (a) with bases, for example NaOH(aq) to produce sodium phenoxide
 (b) with Na(s) to produce sodium phenoxide and H₂(g)
 (c) in NaOH(aq) with diazonium salts, to give azo compounds
-(d) nitration of the aromatic ring with dilute HNO3(aq) at room temperature to give a mixture of
-2-nitrophenol and 4-nitrophenol
+(d) nitration of the aromatic ring with dilute HNO3(aq) at room temperature to give a mixture of 2-nitrophenol and 4-nitrophenol
 (e) bromination of the aromatic ring with Br₂(aq) to form 2,4,6-tribromophenol
 3. explain the acidity of phenol
 4. describe and explain the relative acidities of water, phenol and ethanol
@@ -37,7 +35,8 @@ ___
 		- **Base and Heat**
 		- Base to Deprotonate(Taking a proton) the phenol, making it a better Nucleophile (Pehnoxide Ion)
 		- ![[Chemistry/A2/Organic Chemistry/attatchments/Hydroxy Compounds Acyl Chloride + Phenol.excalidraw]]
-
+## Phenol Reactions
+![[Chemistry/A2/Organic Chemistry/attatchments/32 Hydroxy Compounds 2022-09-01 19.38.51.excalidraw]]
 ___
 
 # <center> ==Summary==  </center>
