@@ -68,6 +68,34 @@ g = \frac{GM}{r^2}
 $$
 - This is the reason why for small changes in height from the earth still means *approx* the same g
 
+
+### 13.4 Gravitational Potential
+- The work done per unit mass in bringing a test mass from infinity to a defined point
+$$
+\phi = -\frac{GM}{r}
+$$
+If presumed, Infinity to be an infinitely, large value whilst 0 being nothing, Than r could be represented by
+![[Physics/A2/attatchments/13 Gravity 2022-09-02 21.25.36.excalidraw.md#^area=CiRpClDqxcq7mNXSVoE75]]
+**The Facts**
+![[Physics/A2/attatchments/13 Gravity 2022-09-02 21.37.14.excalidraw.md#^area=SDIfukzhL1kcAtJRmKO_i]]
+- g = 0, when r = $\infty$; 
+- Attractive force, so as r decreases
+	- **Positive** work done, when moving from r = $\infty$ to the point
+		- Closer to the planet, its gravitational potential becomes smaller (More negative)
+		- As mass moves away from planet, g.p becomes larger (more positive)
+- **Basically, as g.p must *increase* to become 0, it's original value would be negative!** 
+- ![[Physics/A2/attatchments/Meteor example.png]]
+#### Gp to Gpe
+$$\begin{align*}
+G.P.E = \phi*m\\
+G.P.E = -\frac{GMm}{r}
+\end{align*}$$
+Change in GPE can be shown as:
+$$\Delta G.P.E = -\frac{GMm}{r_{2}} - (-\frac{GMm}{r_{1}})$$
+$$\Delta G.P.E = GMm (\frac{1}{r_{1}} - \frac{1}{r_2})$$
+
+Ab iske sawal kro chup chaap <3
+
 ___
 
 # <center> ==Summary==  </center>
