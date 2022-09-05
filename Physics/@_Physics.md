@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Not Done
 
-- [ ] **14 Temperature**
 - [ ] **15 Ideal Gas**
 - [ ] **16 Thermodynamics**
 - [ ] **17 Oscillations**
@@ -22,11 +21,12 @@ kanban-plugin: basic
 
 ## Learn Concepts off
 
-- [ ] **13 Gravitational Fields**
+- [ ] **14 Temperature**
 
 
 ## Make Notes
 
+- [ ] **13 Gravitational Fields**<br>[[Physics/A2/13 Gravity]] @{2022-09-02}
 
 
 ## Do Past Paper
