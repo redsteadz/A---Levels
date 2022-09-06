@@ -1,0 +1,1 @@
+![[Physics/A2/attatchments/13 Gravity PP 2022-09-06 16.57.47.excalidraw]]

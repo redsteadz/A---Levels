@@ -111,8 +111,11 @@ ___
 ```ad-note
 title: Past Paper Questions
 
+[[Physics/A2/attatchments/gravitation_qp 1.pdf]]
+[[Physics/A2/attatchments/gravitation_ms.pdf]]
 
-
+**Solved:**
+[[Physics/A2/13 Gravity PP]]
 ```
 ```ad-info
 title:SaveMyExams
