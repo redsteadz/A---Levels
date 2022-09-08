@@ -12,5 +12,6 @@
     "downscalePercent": 100
   },
   "newLinkFormat": "absolute",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "fileSortOrder": "byModifiedTime"
 }
