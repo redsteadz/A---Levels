@@ -13,3 +13,4 @@
 
 Max Percentage after A* in A levels is
 91% - Shiz.
+![[attatchments/Highlights for Chemistry_Syllabus(ALVL) 2022-09-11 18.17.04.excalidraw]]
