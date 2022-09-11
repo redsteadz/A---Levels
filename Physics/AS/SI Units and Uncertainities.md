@@ -7,7 +7,7 @@ A
 D
 ### Q3
 ![[Physics/AS/attatchments/WhatsApp Image 2022-09-11 at 12.46.04 PM.jpeg]]
-B
+B![[Physics/AS/attatchments/SI Units and Uncertainities 2022-09-11 19.30.42.excalidraw]]
 # P2
 ### Q1
 ![[Physics/AS/attatchments/WhatsApp Image 2022-09-11 at 6.50.14 PM.jpeg]]
