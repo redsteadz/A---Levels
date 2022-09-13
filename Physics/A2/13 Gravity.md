@@ -21,7 +21,7 @@ ___
 # <center> ==Notes==  </center>
 ___
 ### 13.1:
-- Gravitational Field is an example of a field of force (An area where a non contact force is applied)
+- Gravitational Field is an example of Mass experiences a force
 - $$g = \frac{F}{m}$$
 	- Gravitational Field can be defined as force per unit mass
 
