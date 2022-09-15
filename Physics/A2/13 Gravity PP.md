@@ -47,6 +47,7 @@
 ### Q19
 ![[Physics/A2/attatchments/13 Gravity PP 2022-09-13 21.41.39.excalidraw]]
 ### Q20
+![[Physics/A2/attatchments/13 Gravity PP 2022-09-15 21.39.46.excalidraw]]
 ### Q21
 ### Q22
 ### Q23
