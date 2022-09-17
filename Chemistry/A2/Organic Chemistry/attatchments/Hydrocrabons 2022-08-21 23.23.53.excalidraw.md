@@ -34932,7 +34932,7 @@ tags: [excalidraw]
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#f1f3f5",
+		"viewBackgroundColor": "#f8f9fa",
 		"currentItemStrokeColor": "#c92a2a",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
