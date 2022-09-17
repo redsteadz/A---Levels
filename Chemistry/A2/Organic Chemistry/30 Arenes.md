@@ -27,7 +27,7 @@ acid
 #### Kekule's Structure
 - A planar, Cyclic structure with alternating double and single bonds
 
-**The Problems:**
+The Problems:
 - 3 double bonds should promote addition reactions - It doesn't in reality
 	- Substitution reaction is preferred
 - The alt bonding pattern would promote irregular shape like **C-C = 0.154nm C=C 0.134nm** :
