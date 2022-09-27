@@ -25,6 +25,9 @@
   "zoomToFitMaxLevel": 2,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
+  "parseTODO": false,
+  "todo": "☐",
+  "done": "🗹",
   "hoverPreviewWithoutCTRL": false,
   "linkOpacity": 1,
   "openInAdjacentPane": false,
@@ -37,7 +40,7 @@
   "iframelyAllowed": true,
   "pngExportScale": 5,
   "exportWithTheme": true,
-  "exportWithBackground": false,
+  "exportWithBackground": true,
   "exportPaddingSVG": 5,
   "keepInSync": true,
   "autoexportSVG": false,
@@ -20920,7 +20923,7 @@
     }
   },
   "defaultTrayMode": true,
-  "previousRelease": "1.7.20",
+  "previousRelease": "1.7.22",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"

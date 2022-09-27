@@ -18665,7 +18665,7 @@ var index = {
 var isomorphic_git_default = index;
 
 // src/main.ts
-var import_obsidian22 = __toModule(require("obsidian"));
+var import_obsidian23 = __toModule(require("obsidian"));
 
 // src/promiseQueue.ts
 init_polyfill_buffer();
@@ -18695,6 +18695,496 @@ var import_obsidian7 = __toModule(require("obsidian"));
 
 // src/isomorphicGit.ts
 init_polyfill_buffer();
+
+// node_modules/diff/lib/index.mjs
+init_polyfill_buffer();
+function Diff() {
+}
+Diff.prototype = {
+  diff: function diff(oldString, newString) {
+    var options = arguments.length > 2 && arguments[2] !== void 0 ? arguments[2] : {};
+    var callback = options.callback;
+    if (typeof options === "function") {
+      callback = options;
+      options = {};
+    }
+    this.options = options;
+    var self3 = this;
+    function done(value) {
+      if (callback) {
+        setTimeout(function() {
+          callback(void 0, value);
+        }, 0);
+        return true;
+      } else {
+        return value;
+      }
+    }
+    oldString = this.castInput(oldString);
+    newString = this.castInput(newString);
+    oldString = this.removeEmpty(this.tokenize(oldString));
+    newString = this.removeEmpty(this.tokenize(newString));
+    var newLen = newString.length, oldLen = oldString.length;
+    var editLength = 1;
+    var maxEditLength = newLen + oldLen;
+    if (options.maxEditLength) {
+      maxEditLength = Math.min(maxEditLength, options.maxEditLength);
+    }
+    var bestPath = [{
+      newPos: -1,
+      components: []
+    }];
+    var oldPos = this.extractCommon(bestPath[0], newString, oldString, 0);
+    if (bestPath[0].newPos + 1 >= newLen && oldPos + 1 >= oldLen) {
+      return done([{
+        value: this.join(newString),
+        count: newString.length
+      }]);
+    }
+    function execEditLength() {
+      for (var diagonalPath = -1 * editLength; diagonalPath <= editLength; diagonalPath += 2) {
+        var basePath = void 0;
+        var addPath = bestPath[diagonalPath - 1], removePath = bestPath[diagonalPath + 1], _oldPos = (removePath ? removePath.newPos : 0) - diagonalPath;
+        if (addPath) {
+          bestPath[diagonalPath - 1] = void 0;
+        }
+        var canAdd = addPath && addPath.newPos + 1 < newLen, canRemove = removePath && 0 <= _oldPos && _oldPos < oldLen;
+        if (!canAdd && !canRemove) {
+          bestPath[diagonalPath] = void 0;
+          continue;
+        }
+        if (!canAdd || canRemove && addPath.newPos < removePath.newPos) {
+          basePath = clonePath(removePath);
+          self3.pushComponent(basePath.components, void 0, true);
+        } else {
+          basePath = addPath;
+          basePath.newPos++;
+          self3.pushComponent(basePath.components, true, void 0);
+        }
+        _oldPos = self3.extractCommon(basePath, newString, oldString, diagonalPath);
+        if (basePath.newPos + 1 >= newLen && _oldPos + 1 >= oldLen) {
+          return done(buildValues(self3, basePath.components, newString, oldString, self3.useLongestToken));
+        } else {
+          bestPath[diagonalPath] = basePath;
+        }
+      }
+      editLength++;
+    }
+    if (callback) {
+      (function exec() {
+        setTimeout(function() {
+          if (editLength > maxEditLength) {
+            return callback();
+          }
+          if (!execEditLength()) {
+            exec();
+          }
+        }, 0);
+      })();
+    } else {
+      while (editLength <= maxEditLength) {
+        var ret = execEditLength();
+        if (ret) {
+          return ret;
+        }
+      }
+    }
+  },
+  pushComponent: function pushComponent(components, added, removed) {
+    var last2 = components[components.length - 1];
+    if (last2 && last2.added === added && last2.removed === removed) {
+      components[components.length - 1] = {
+        count: last2.count + 1,
+        added,
+        removed
+      };
+    } else {
+      components.push({
+        count: 1,
+        added,
+        removed
+      });
+    }
+  },
+  extractCommon: function extractCommon(basePath, newString, oldString, diagonalPath) {
+    var newLen = newString.length, oldLen = oldString.length, newPos = basePath.newPos, oldPos = newPos - diagonalPath, commonCount = 0;
+    while (newPos + 1 < newLen && oldPos + 1 < oldLen && this.equals(newString[newPos + 1], oldString[oldPos + 1])) {
+      newPos++;
+      oldPos++;
+      commonCount++;
+    }
+    if (commonCount) {
+      basePath.components.push({
+        count: commonCount
+      });
+    }
+    basePath.newPos = newPos;
+    return oldPos;
+  },
+  equals: function equals(left, right) {
+    if (this.options.comparator) {
+      return this.options.comparator(left, right);
+    } else {
+      return left === right || this.options.ignoreCase && left.toLowerCase() === right.toLowerCase();
+    }
+  },
+  removeEmpty: function removeEmpty(array) {
+    var ret = [];
+    for (var i = 0; i < array.length; i++) {
+      if (array[i]) {
+        ret.push(array[i]);
+      }
+    }
+    return ret;
+  },
+  castInput: function castInput(value) {
+    return value;
+  },
+  tokenize: function tokenize(value) {
+    return value.split("");
+  },
+  join: function join2(chars) {
+    return chars.join("");
+  }
+};
+function buildValues(diff2, components, newString, oldString, useLongestToken) {
+  var componentPos = 0, componentLen = components.length, newPos = 0, oldPos = 0;
+  for (; componentPos < componentLen; componentPos++) {
+    var component = components[componentPos];
+    if (!component.removed) {
+      if (!component.added && useLongestToken) {
+        var value = newString.slice(newPos, newPos + component.count);
+        value = value.map(function(value2, i) {
+          var oldValue = oldString[oldPos + i];
+          return oldValue.length > value2.length ? oldValue : value2;
+        });
+        component.value = diff2.join(value);
+      } else {
+        component.value = diff2.join(newString.slice(newPos, newPos + component.count));
+      }
+      newPos += component.count;
+      if (!component.added) {
+        oldPos += component.count;
+      }
+    } else {
+      component.value = diff2.join(oldString.slice(oldPos, oldPos + component.count));
+      oldPos += component.count;
+      if (componentPos && components[componentPos - 1].added) {
+        var tmp = components[componentPos - 1];
+        components[componentPos - 1] = components[componentPos];
+        components[componentPos] = tmp;
+      }
+    }
+  }
+  var lastComponent = components[componentLen - 1];
+  if (componentLen > 1 && typeof lastComponent.value === "string" && (lastComponent.added || lastComponent.removed) && diff2.equals("", lastComponent.value)) {
+    components[componentLen - 2].value += lastComponent.value;
+    components.pop();
+  }
+  return components;
+}
+function clonePath(path2) {
+  return {
+    newPos: path2.newPos,
+    components: path2.components.slice(0)
+  };
+}
+var characterDiff = new Diff();
+function diffChars(oldStr, newStr, options) {
+  return characterDiff.diff(oldStr, newStr, options);
+}
+var extendedWordChars = /^[A-Za-z\xC0-\u02C6\u02C8-\u02D7\u02DE-\u02FF\u1E00-\u1EFF]+$/;
+var reWhitespace = /\S/;
+var wordDiff = new Diff();
+wordDiff.equals = function(left, right) {
+  if (this.options.ignoreCase) {
+    left = left.toLowerCase();
+    right = right.toLowerCase();
+  }
+  return left === right || this.options.ignoreWhitespace && !reWhitespace.test(left) && !reWhitespace.test(right);
+};
+wordDiff.tokenize = function(value) {
+  var tokens = value.split(/([^\S\r\n]+|[()[\]{}'"\r\n]|\b)/);
+  for (var i = 0; i < tokens.length - 1; i++) {
+    if (!tokens[i + 1] && tokens[i + 2] && extendedWordChars.test(tokens[i]) && extendedWordChars.test(tokens[i + 2])) {
+      tokens[i] += tokens[i + 2];
+      tokens.splice(i + 1, 2);
+      i--;
+    }
+  }
+  return tokens;
+};
+function diffWordsWithSpace(oldStr, newStr, options) {
+  return wordDiff.diff(oldStr, newStr, options);
+}
+var lineDiff = new Diff();
+lineDiff.tokenize = function(value) {
+  var retLines = [], linesAndNewlines = value.split(/(\n|\r\n)/);
+  if (!linesAndNewlines[linesAndNewlines.length - 1]) {
+    linesAndNewlines.pop();
+  }
+  for (var i = 0; i < linesAndNewlines.length; i++) {
+    var line = linesAndNewlines[i];
+    if (i % 2 && !this.options.newlineIsToken) {
+      retLines[retLines.length - 1] += line;
+    } else {
+      if (this.options.ignoreWhitespace) {
+        line = line.trim();
+      }
+      retLines.push(line);
+    }
+  }
+  return retLines;
+};
+function diffLines(oldStr, newStr, callback) {
+  return lineDiff.diff(oldStr, newStr, callback);
+}
+var sentenceDiff = new Diff();
+sentenceDiff.tokenize = function(value) {
+  return value.split(/(\S.+?[.!?])(?=\s+|$)/);
+};
+var cssDiff = new Diff();
+cssDiff.tokenize = function(value) {
+  return value.split(/([{}:;,]|\s+)/);
+};
+function _typeof(obj) {
+  "@babel/helpers - typeof";
+  if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") {
+    _typeof = function(obj2) {
+      return typeof obj2;
+    };
+  } else {
+    _typeof = function(obj2) {
+      return obj2 && typeof Symbol === "function" && obj2.constructor === Symbol && obj2 !== Symbol.prototype ? "symbol" : typeof obj2;
+    };
+  }
+  return _typeof(obj);
+}
+function _toConsumableArray(arr) {
+  return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread();
+}
+function _arrayWithoutHoles(arr) {
+  if (Array.isArray(arr))
+    return _arrayLikeToArray(arr);
+}
+function _iterableToArray(iter) {
+  if (typeof Symbol !== "undefined" && Symbol.iterator in Object(iter))
+    return Array.from(iter);
+}
+function _unsupportedIterableToArray(o, minLen) {
+  if (!o)
+    return;
+  if (typeof o === "string")
+    return _arrayLikeToArray(o, minLen);
+  var n = Object.prototype.toString.call(o).slice(8, -1);
+  if (n === "Object" && o.constructor)
+    n = o.constructor.name;
+  if (n === "Map" || n === "Set")
+    return Array.from(o);
+  if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n))
+    return _arrayLikeToArray(o, minLen);
+}
+function _arrayLikeToArray(arr, len) {
+  if (len == null || len > arr.length)
+    len = arr.length;
+  for (var i = 0, arr2 = new Array(len); i < len; i++)
+    arr2[i] = arr[i];
+  return arr2;
+}
+function _nonIterableSpread() {
+  throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+}
+var objectPrototypeToString = Object.prototype.toString;
+var jsonDiff = new Diff();
+jsonDiff.useLongestToken = true;
+jsonDiff.tokenize = lineDiff.tokenize;
+jsonDiff.castInput = function(value) {
+  var _this$options = this.options, undefinedReplacement = _this$options.undefinedReplacement, _this$options$stringi = _this$options.stringifyReplacer, stringifyReplacer = _this$options$stringi === void 0 ? function(k, v) {
+    return typeof v === "undefined" ? undefinedReplacement : v;
+  } : _this$options$stringi;
+  return typeof value === "string" ? value : JSON.stringify(canonicalize(value, null, null, stringifyReplacer), stringifyReplacer, "  ");
+};
+jsonDiff.equals = function(left, right) {
+  return Diff.prototype.equals.call(jsonDiff, left.replace(/,([\r\n])/g, "$1"), right.replace(/,([\r\n])/g, "$1"));
+};
+function canonicalize(obj, stack, replacementStack, replacer, key2) {
+  stack = stack || [];
+  replacementStack = replacementStack || [];
+  if (replacer) {
+    obj = replacer(key2, obj);
+  }
+  var i;
+  for (i = 0; i < stack.length; i += 1) {
+    if (stack[i] === obj) {
+      return replacementStack[i];
+    }
+  }
+  var canonicalizedObj;
+  if (objectPrototypeToString.call(obj) === "[object Array]") {
+    stack.push(obj);
+    canonicalizedObj = new Array(obj.length);
+    replacementStack.push(canonicalizedObj);
+    for (i = 0; i < obj.length; i += 1) {
+      canonicalizedObj[i] = canonicalize(obj[i], stack, replacementStack, replacer, key2);
+    }
+    stack.pop();
+    replacementStack.pop();
+    return canonicalizedObj;
+  }
+  if (obj && obj.toJSON) {
+    obj = obj.toJSON();
+  }
+  if (_typeof(obj) === "object" && obj !== null) {
+    stack.push(obj);
+    canonicalizedObj = {};
+    replacementStack.push(canonicalizedObj);
+    var sortedKeys = [], _key;
+    for (_key in obj) {
+      if (obj.hasOwnProperty(_key)) {
+        sortedKeys.push(_key);
+      }
+    }
+    sortedKeys.sort();
+    for (i = 0; i < sortedKeys.length; i += 1) {
+      _key = sortedKeys[i];
+      canonicalizedObj[_key] = canonicalize(obj[_key], stack, replacementStack, replacer, _key);
+    }
+    stack.pop();
+    replacementStack.pop();
+  } else {
+    canonicalizedObj = obj;
+  }
+  return canonicalizedObj;
+}
+var arrayDiff = new Diff();
+arrayDiff.tokenize = function(value) {
+  return value.slice();
+};
+arrayDiff.join = arrayDiff.removeEmpty = function(value) {
+  return value;
+};
+function structuredPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, newHeader, options) {
+  if (!options) {
+    options = {};
+  }
+  if (typeof options.context === "undefined") {
+    options.context = 4;
+  }
+  var diff2 = diffLines(oldStr, newStr, options);
+  if (!diff2) {
+    return;
+  }
+  diff2.push({
+    value: "",
+    lines: []
+  });
+  function contextLines(lines) {
+    return lines.map(function(entry) {
+      return " " + entry;
+    });
+  }
+  var hunks = [];
+  var oldRangeStart = 0, newRangeStart = 0, curRange = [], oldLine = 1, newLine = 1;
+  var _loop = function _loop2(i2) {
+    var current = diff2[i2], lines = current.lines || current.value.replace(/\n$/, "").split("\n");
+    current.lines = lines;
+    if (current.added || current.removed) {
+      var _curRange;
+      if (!oldRangeStart) {
+        var prev = diff2[i2 - 1];
+        oldRangeStart = oldLine;
+        newRangeStart = newLine;
+        if (prev) {
+          curRange = options.context > 0 ? contextLines(prev.lines.slice(-options.context)) : [];
+          oldRangeStart -= curRange.length;
+          newRangeStart -= curRange.length;
+        }
+      }
+      (_curRange = curRange).push.apply(_curRange, _toConsumableArray(lines.map(function(entry) {
+        return (current.added ? "+" : "-") + entry;
+      })));
+      if (current.added) {
+        newLine += lines.length;
+      } else {
+        oldLine += lines.length;
+      }
+    } else {
+      if (oldRangeStart) {
+        if (lines.length <= options.context * 2 && i2 < diff2.length - 2) {
+          var _curRange2;
+          (_curRange2 = curRange).push.apply(_curRange2, _toConsumableArray(contextLines(lines)));
+        } else {
+          var _curRange3;
+          var contextSize = Math.min(lines.length, options.context);
+          (_curRange3 = curRange).push.apply(_curRange3, _toConsumableArray(contextLines(lines.slice(0, contextSize))));
+          var hunk = {
+            oldStart: oldRangeStart,
+            oldLines: oldLine - oldRangeStart + contextSize,
+            newStart: newRangeStart,
+            newLines: newLine - newRangeStart + contextSize,
+            lines: curRange
+          };
+          if (i2 >= diff2.length - 2 && lines.length <= options.context) {
+            var oldEOFNewline = /\n$/.test(oldStr);
+            var newEOFNewline = /\n$/.test(newStr);
+            var noNlBeforeAdds = lines.length == 0 && curRange.length > hunk.oldLines;
+            if (!oldEOFNewline && noNlBeforeAdds && oldStr.length > 0) {
+              curRange.splice(hunk.oldLines, 0, "\\ No newline at end of file");
+            }
+            if (!oldEOFNewline && !noNlBeforeAdds || !newEOFNewline) {
+              curRange.push("\\ No newline at end of file");
+            }
+          }
+          hunks.push(hunk);
+          oldRangeStart = 0;
+          newRangeStart = 0;
+          curRange = [];
+        }
+      }
+      oldLine += lines.length;
+      newLine += lines.length;
+    }
+  };
+  for (var i = 0; i < diff2.length; i++) {
+    _loop(i);
+  }
+  return {
+    oldFileName,
+    newFileName,
+    oldHeader,
+    newHeader,
+    hunks
+  };
+}
+function formatPatch(diff2) {
+  var ret = [];
+  if (diff2.oldFileName == diff2.newFileName) {
+    ret.push("Index: " + diff2.oldFileName);
+  }
+  ret.push("===================================================================");
+  ret.push("--- " + diff2.oldFileName + (typeof diff2.oldHeader === "undefined" ? "" : "	" + diff2.oldHeader));
+  ret.push("+++ " + diff2.newFileName + (typeof diff2.newHeader === "undefined" ? "" : "	" + diff2.newHeader));
+  for (var i = 0; i < diff2.hunks.length; i++) {
+    var hunk = diff2.hunks[i];
+    if (hunk.oldLines === 0) {
+      hunk.oldStart -= 1;
+    }
+    if (hunk.newLines === 0) {
+      hunk.newStart -= 1;
+    }
+    ret.push("@@ -" + hunk.oldStart + "," + hunk.oldLines + " +" + hunk.newStart + "," + hunk.newLines + " @@");
+    ret.push.apply(ret, hunk.lines);
+  }
+  return ret.join("\n") + "\n";
+}
+function createTwoFilesPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, newHeader, options) {
+  return formatPatch(structuredPatch(oldFileName, newFileName, oldStr, newStr, oldHeader, newHeader, options));
+}
+function createPatch(fileName, oldStr, newStr, oldHeader, newHeader, options) {
+  return createTwoFilesPatch(fileName, fileName, oldStr, newStr, oldHeader, newHeader, options);
+}
+
+// src/isomorphicGit.ts
 var import_obsidian5 = __toModule(require("obsidian"));
 
 // src/gitManager.ts
@@ -18715,7 +19205,7 @@ var GitManager = class {
     return relativeToVault && this.plugin.settings.basePath.length > 0 ? path2.substring(this.plugin.settings.basePath.length + 1) : path2;
   }
   getTreeStructure(children2, beginLength = 0) {
-    let list = [];
+    const list = [];
     children2 = [...children2];
     while (children2.length > 0) {
       const first2 = children2.first();
@@ -18741,7 +19231,7 @@ var GitManager = class {
     let status2;
     if (template.includes("{{numFiles}}")) {
       status2 = await this.status();
-      let numFiles = status2.staged.length;
+      const numFiles = status2.staged.length;
       template = template.replace("{{numFiles}}", String(numFiles));
     }
     if (template.includes("{{hostname}}")) {
@@ -18750,7 +19240,7 @@ var GitManager = class {
     }
     if (template.includes("{{files}}")) {
       status2 = status2 != null ? status2 : await this.status();
-      let changeset = {};
+      const changeset = {};
       status2.staged.forEach((value) => {
         if (value.index in changeset) {
           changeset[value.index].push(value.path);
@@ -18758,14 +19248,14 @@ var GitManager = class {
           changeset[value.index] = [value.path];
         }
       });
-      let chunks = [];
-      for (let [action, files2] of Object.entries(changeset)) {
+      const chunks = [];
+      for (const [action, files2] of Object.entries(changeset)) {
         chunks.push(action + " " + files2.join(" "));
       }
-      let files = chunks.join(", ");
+      const files = chunks.join(", ");
       template = template.replace("{{files}}", files);
     }
-    let moment = window.moment;
+    const moment = window.moment;
     template = template.replace("{{date}}", moment().format(this.plugin.settings.commitDateFormat));
     if (this.plugin.settings.listChangedFilesInMessageBody) {
       template = template + "\n\nAffected files:\n" + (status2 != null ? status2 : await this.status()).staged.map((e) => e.path).join("\n");
@@ -18972,17 +19462,25 @@ var FileType;
 // src/ui/modals/generalModal.ts
 init_polyfill_buffer();
 var import_obsidian3 = __toModule(require("obsidian"));
+var generalModalConfigDefaults = {
+  options: [],
+  placeholder: "",
+  allowEmpty: false,
+  onlySelection: false,
+  initialValue: void 0
+};
 var GeneralModal = class extends import_obsidian3.SuggestModal {
-  constructor(app2, options, placeholder, allowEmpty = false, onlySelection = false) {
-    super(app2);
-    this.options = options;
-    this.allowEmpty = allowEmpty;
-    this.onlySelection = onlySelection;
-    this.resolve = null;
-    this.setPlaceholder(placeholder);
+  constructor(config) {
+    super(app);
+    this.config = { ...generalModalConfigDefaults, ...config };
+    this.setPlaceholder(this.config.placeholder);
   }
   open() {
     super.open();
+    if (this.config.initialValue != void 0) {
+      this.inputEl.value = this.config.initialValue;
+      this.inputEl.dispatchEvent(new Event("input"));
+    }
     return new Promise((resolve) => {
       this.resolve = resolve;
     });
@@ -18990,7 +19488,7 @@ var GeneralModal = class extends import_obsidian3.SuggestModal {
   selectSuggestion(value, evt) {
     if (this.resolve) {
       let res;
-      if (this.allowEmpty && value === " ")
+      if (this.config.allowEmpty && value === " ")
         res = "";
       else if (value === "...")
         res = void 0;
@@ -19005,18 +19503,18 @@ var GeneralModal = class extends import_obsidian3.SuggestModal {
       this.resolve(void 0);
   }
   getSuggestions(query) {
-    if (this.onlySelection) {
-      return this.options;
-    } else if (this.allowEmpty) {
-      return [query.length > 0 ? query : " ", ...this.options];
+    if (this.config.onlySelection) {
+      return this.config.options;
+    } else if (this.config.allowEmpty) {
+      return [query.length > 0 ? query : " ", ...this.config.options];
     } else {
-      return [query.length > 0 ? query : "...", ...this.options];
+      return [query.length > 0 ? query : "...", ...this.config.options];
     }
   }
   renderSuggestion(value, el) {
-    el.innerText = value;
+    el.setText(value);
   }
-  onChooseSuggestion(item, _) {
+  onChooseSuggestion(item, evt) {
   }
 };
 
@@ -19033,12 +19531,15 @@ var worthWalking2 = (filepath, root) => {
     return filepath.startsWith(root);
   }
 };
-function getNewLeaf() {
+function getNewLeaf(event) {
   let leaf;
-  if ((0, import_obsidian4.requireApiVersion)("0.16.0")) {
-    leaf = app.workspace.getLeaf("tab");
+  if (event) {
+    if (event.button === 0 || event.button === 1) {
+      const type = import_obsidian4.Keymap.isModEvent(event);
+      leaf = app.workspace.getLeaf(type);
+    }
   } else {
-    leaf = app.workspace.createLeafInParent(app.workspace.rootSplit, 0);
+    leaf = app.workspace.getLeaf(false);
   }
   return leaf;
 }
@@ -19075,16 +19576,17 @@ var IsomorphicGit = class extends GitManager {
       fs: this.fs,
       dir: this.plugin.settings.basePath,
       onAuth: () => {
+        var _a2;
         return {
           username: this.plugin.settings.username,
-          password: this.plugin.localStorage.getPassword()
+          password: (_a2 = this.plugin.localStorage.getPassword()) != null ? _a2 : void 0
         };
       },
       onAuthFailure: async () => {
         new import_obsidian5.Notice("Authentication failed. Please try with different credentials");
-        const username = await new GeneralModal(app, [], "Specify your username").open();
+        const username = await new GeneralModal({ placeholder: "Specify your username" }).open();
         if (username) {
-          const password = await new GeneralModal(app, [], "Specify your password/personal access token").open();
+          const password = await new GeneralModal({ placeholder: "Specify your password/personal access token" }).open();
           if (password) {
             this.plugin.settings.username = username;
             await this.plugin.saveSettings();
@@ -19347,7 +19849,7 @@ var IsomorphicGit = class extends GitManager {
       const branches = await isomorphic_git_default.listBranches(this.getRepo());
       const remote = (_a2 = await this.getConfig(`branch.${current}.remote`)) != null ? _a2 : "origin";
       const trackingBranch = (_b = await this.getConfig(`branch.${current}.merge`)) == null ? void 0 : _b.split("refs/heads")[1];
-      let tracking = trackingBranch ? remote + trackingBranch : void 0;
+      const tracking = trackingBranch ? remote + trackingBranch : void 0;
       return {
         current,
         tracking,
@@ -19375,6 +19877,25 @@ var IsomorphicGit = class extends GitManager {
       this.plugin.displayError(error);
       throw error;
     }
+  }
+  async createBranch(branch2) {
+    try {
+      await this.wrapFS(isomorphic_git_default.branch({ ...this.getRepo(), ref: branch2, checkout: true }));
+    } catch (error) {
+      this.plugin.displayError(error);
+      throw error;
+    }
+  }
+  async deleteBranch(branch2) {
+    try {
+      await this.wrapFS(isomorphic_git_default.deleteBranch({ ...this.getRepo(), ref: branch2 }));
+    } catch (error) {
+      this.plugin.displayError(error);
+      throw error;
+    }
+  }
+  async branchIsMerged(branch2) {
+    return true;
   }
   async init() {
     try {
@@ -19482,10 +20003,10 @@ var IsomorphicGit = class extends GitManager {
   async getFileChangesCount(commitHash1, commitHash2) {
     return this.walkDifference({ walkers: [isomorphic_git_default.TREE({ ref: commitHash1 }), isomorphic_git_default.TREE({ ref: commitHash2 })] });
   }
-  async walkDifference({ walkers: walker, dir: base }) {
+  async walkDifference({ walkers, dir: base }) {
     const res = await this.wrapFS(isomorphic_git_default.walk({
       ...this.getRepo(),
-      trees: walker,
+      trees: walkers,
       map: async function(filepath, [A, B]) {
         if (!worthWalking2(filepath, base)) {
           return null;
@@ -19594,8 +20115,35 @@ var IsomorphicGit = class extends GitManager {
       throw error;
     }
   }
-  async getDiffString(filePath) {
-    throw new Error("Method not implemented.");
+  async getDiffString(filePath, stagedChanges = false) {
+    const map = async (file, [A]) => {
+      if (filePath == file) {
+        const oid = await A.oid();
+        const contents = await isomorphic_git_default.readBlob({ ...this.getRepo(), oid });
+        return contents.blob;
+      }
+    };
+    const stagedBlob = (await isomorphic_git_default.walk({
+      ...this.getRepo(),
+      trees: [isomorphic_git_default.STAGE()],
+      map
+    })).first();
+    const stagedContent = new TextDecoder().decode(stagedBlob);
+    if (stagedChanges) {
+      const headBlob = await readBlob({ ...this.getRepo(), filepath: filePath, oid: await this.resolveRef("HEAD") });
+      const headContent = new TextDecoder().decode(headBlob.blob);
+      const diff2 = createPatch(filePath, headContent, stagedContent);
+      return diff2;
+    } else {
+      let workdirContent;
+      if (await app.vault.adapter.exists(filePath)) {
+        workdirContent = await app.vault.adapter.read(filePath);
+      } else {
+        workdirContent = "";
+      }
+      const diff2 = createPatch(filePath, stagedContent, workdirContent);
+      return diff2;
+    }
   }
   getFileStatusResult(row) {
     const status2 = this.status_mapping[`${row[this.HEAD]}${row[this.WORKDIR]}${row[this.STAGE]}`];
@@ -20068,7 +20616,7 @@ var init_task_options = __esm2({
 function callTaskParser(parser3, streams) {
   return parser3(streams.stdOut, streams.stdErr);
 }
-function parseStringResponse(result, parsers11, texts, trim = true) {
+function parseStringResponse(result, parsers12, texts, trim = true) {
   asArray(texts).forEach((text2) => {
     for (let lines = toLinesWithContent(text2, trim), i = 0, max = lines.length; i < max; i++) {
       const line = (offset = 0) => {
@@ -20077,7 +20625,7 @@ function parseStringResponse(result, parsers11, texts, trim = true) {
         }
         return lines[i + offset];
       };
-      parsers11.some(({ parse: parse2 }) => parse2(line, result));
+      parsers12.some(({ parse: parse2 }) => parse2(line, result));
     }
   });
   return result;
@@ -22064,7 +22612,7 @@ function versionResponse(major = 0, minor = 0, patch = 0, agent = "", installed 
     installed
   }, "toString", {
     value() {
-      return `${major}.${minor}.${patch}`;
+      return `${this.major}.${this.minor}.${this.patch}`;
     },
     configurable: false,
     enumerable: false
@@ -22079,16 +22627,7 @@ function version_default() {
       return this._runTask({
         commands: ["--version"],
         format: "utf-8",
-        parser(stdOut) {
-          if (stdOut === NOT_INSTALLED) {
-            return notInstalledResponse();
-          }
-          const version2 = /version (\d+)\.(\d+)\.(\d+)(?:\s*\((.+)\))?/.exec(stdOut);
-          if (!version2) {
-            return versionResponse(0, 0, 0, stdOut);
-          }
-          return versionResponse(asNumber(version2[1]), asNumber(version2[2]), asNumber(version2[3]), version2[4] || "");
-        },
+        parser: versionParser,
         onError(result, error, done, fail) {
           if (result.exitCode === -2) {
             return done(Buffer2.from(NOT_INSTALLED));
@@ -22099,11 +22638,26 @@ function version_default() {
     }
   };
 }
+function versionParser(stdOut) {
+  if (stdOut === NOT_INSTALLED) {
+    return notInstalledResponse();
+  }
+  return parseStringResponse(versionResponse(0, 0, 0, stdOut), parsers7, stdOut);
+}
 var NOT_INSTALLED;
+var parsers7;
 var init_version = __esm2({
   "src/lib/tasks/version.ts"() {
     init_utils();
     NOT_INSTALLED = "installed=false";
+    parsers7 = [
+      new LineParser(/version (\d+)\.(\d+)\.(\d+)(?:\s*\((.+)\))?/, (result, [major, minor, patch, agent = ""]) => {
+        Object.assign(result, versionResponse(asNumber(major), asNumber(minor), asNumber(patch), agent));
+      }),
+      new LineParser(/version (\d+)\.(\d+)\.(\D+)(.+)?$/, (result, [major, minor, patch, agent = ""]) => {
+        Object.assign(result, versionResponse(asNumber(major), asNumber(minor), patch, agent));
+      })
+    ];
   }
 });
 var simple_git_api_exports = {};
@@ -22290,7 +22844,7 @@ function hasBranchDeletionError(data, processExitCode) {
 }
 var deleteSuccessRegex;
 var deleteErrorRegex;
-var parsers7;
+var parsers8;
 var parseBranchDeletions;
 var init_parse_branch_delete = __esm2({
   "src/lib/parsers/parse-branch-delete.ts"() {
@@ -22298,7 +22852,7 @@ var init_parse_branch_delete = __esm2({
     init_utils();
     deleteSuccessRegex = /(\S+)\s+\(\S+\s([^)]+)\)/;
     deleteErrorRegex = /^error[^']+'([^']+)'/m;
-    parsers7 = [
+    parsers8 = [
       new LineParser(deleteSuccessRegex, (result, [branch2, hash2]) => {
         const deletion = branchDeletionSuccess(branch2, hash2);
         result.all.push(deletion);
@@ -22312,7 +22866,7 @@ var init_parse_branch_delete = __esm2({
       })
     ];
     parseBranchDeletions = (stdOut, stdErr) => {
-      return parseStringResponse(new BranchDeletionBatch(), parsers7, [stdOut, stdErr]);
+      return parseStringResponse(new BranchDeletionBatch(), parsers8, [stdOut, stdErr]);
     };
   }
 });
@@ -22347,14 +22901,14 @@ function branchStatus(input) {
   return input ? input.charAt(0) : "";
 }
 function parseBranchSummary(stdOut) {
-  return parseStringResponse(new BranchSummaryResult(), parsers8, stdOut);
+  return parseStringResponse(new BranchSummaryResult(), parsers9, stdOut);
 }
-var parsers8;
+var parsers9;
 var init_parse_branch = __esm2({
   "src/lib/parsers/parse-branch.ts"() {
     init_BranchSummary();
     init_utils();
-    parsers8 = [
+    parsers9 = [
       new LineParser(/^([*+]\s)?\((?:HEAD )?detached (?:from|at) (\S+)\)\s+([a-z0-9]+)\s(.*)$/, (result, [current, name, commit2, label]) => {
         result.push(branchStatus(current), true, name, commit2, label);
       }),
@@ -22504,13 +23058,13 @@ function parseFetchResult(stdOut, stdErr) {
     updated: [],
     deleted: []
   };
-  return parseStringResponse(result, parsers9, [stdOut, stdErr]);
+  return parseStringResponse(result, parsers10, [stdOut, stdErr]);
 }
-var parsers9;
+var parsers10;
 var init_parse_fetch = __esm2({
   "src/lib/parsers/parse-fetch.ts"() {
     init_utils();
-    parsers9 = [
+    parsers10 = [
       new LineParser(/From (.+)$/, (result, [remote]) => {
         result.remote = remote;
       }),
@@ -22571,13 +23125,13 @@ var init_fetch = __esm2({
   }
 });
 function parseMoveResult(stdOut) {
-  return parseStringResponse({ moves: [] }, parsers10, stdOut);
+  return parseStringResponse({ moves: [] }, parsers11, stdOut);
 }
-var parsers10;
+var parsers11;
 var init_parse_move = __esm2({
   "src/lib/parsers/parse-move.ts"() {
     init_utils();
-    parsers10 = [
+    parsers11 = [
       new LineParser(/^Renaming (.+) to (.+)$/, (result, [from, to]) => {
         result.moves.push({ from, to });
       })
@@ -23463,12 +24017,7 @@ var SimpleGit = class extends GitManager {
           vault_path: this.getVaultPath(res.path)
         };
       }),
-      conflicted: status2.conflicted.map((e) => this.formatPath({
-        path: e,
-        from: void 0,
-        index: void 0,
-        working_dir: void 0
-      }).path)
+      conflicted: status2.conflicted.map((path2) => this.formatPath({ path: path2 }).path)
     };
   }
   formatPath(path2, renamed = false) {
@@ -23500,20 +24049,20 @@ var SimpleGit = class extends GitManager {
           if (!(args.contains("submodule") && args.contains("foreach")))
             return;
           let body = "";
-          let root = this.app.vault.adapter.getBasePath() + (this.plugin.settings.basePath ? "/" + this.plugin.settings.basePath : "");
+          const root = this.app.vault.adapter.getBasePath() + (this.plugin.settings.basePath ? "/" + this.plugin.settings.basePath : "");
           stdout.on("data", (chunk) => {
             body += chunk.toString("utf8");
           });
           stdout.on("end", async () => {
-            let submods = body.split("\n");
-            submods = submods.map((i) => {
-              let submod = i.match(/'([^']*)'/);
+            const submods = body.split("\n");
+            const strippedSubmods = submods.map((i) => {
+              const submod = i.match(/'([^']*)'/);
               if (submod != void 0) {
                 return root + "/" + submod[1] + import_path.sep;
               }
             });
-            submods.reverse();
-            for (const item of submods) {
+            strippedSubmods.reverse();
+            for (const item of strippedSubmods) {
               if (item != void 0) {
                 await this.git.cwd({ path: item, root: false }).add("-A", (err) => this.onError(err));
                 await this.git.cwd({ path: item, root: false }).commit(await this.formatCommitMessage(message), (err) => this.onError(err));
@@ -23644,8 +24193,8 @@ var SimpleGit = class extends GitManager {
     const status2 = await this.git.status((err) => this.onError(err));
     const branches = await this.git.branch(["--no-color"], (err) => this.onError(err));
     return {
-      current: status2.current,
-      tracking: status2.tracking,
+      current: status2.current || void 0,
+      tracking: status2.tracking || void 0,
       branches: branches.all
     };
   }
@@ -23663,6 +24212,16 @@ var SimpleGit = class extends GitManager {
   }
   async checkout(branch2) {
     await this.git.checkout(branch2, (err) => this.onError(err));
+  }
+  async createBranch(branch2) {
+    await this.git.checkout(["-b", branch2], (err) => this.onError(err));
+  }
+  async deleteBranch(branch2, force) {
+    await this.git.branch([force ? "-D" : "-d", branch2], (err) => this.onError(err));
+  }
+  async branchIsMerged(branch2) {
+    const notMergedBranches = await this.git.branch(["--no-merged"], (err) => this.onError(err));
+    return !notMergedBranches.all.contains(branch2);
   }
   async init() {
     await this.git.init(false, (err) => this.onError(err));
@@ -23692,7 +24251,7 @@ var SimpleGit = class extends GitManager {
     console.log(remote);
     console.log(res);
     const list = [];
-    for (var item in res.branches) {
+    for (const item in res.branches) {
       list.push(res.branches[item].name);
     }
     return list;
@@ -23748,7 +24307,7 @@ var SimpleGit = class extends GitManager {
   }
   onError(error) {
     if (error) {
-      let networkFailure = error.message.contains("Could not resolve host") || error.message.match(/ssh: connect to host .*? port .*?: Operation timed out/);
+      const networkFailure = error.message.contains("Could not resolve host") || error.message.match(/ssh: connect to host .*? port .*?: Operation timed out/);
       if (!networkFailure) {
         this.plugin.displayError(error.message);
         this.plugin.setState(PluginState.idle);
@@ -23766,7 +24325,7 @@ var SimpleGit = class extends GitManager {
 // src/settings.ts
 var ObsidianGitSettingsTab = class extends import_obsidian7.PluginSettingTab {
   display() {
-    let { containerEl } = this;
+    const { containerEl } = this;
     const plugin = this.plugin;
     const commitOrBackup = plugin.settings.differentIntervalCommitAndPush ? "commit" : "backup";
     const gitReady = plugin.gitReady;
@@ -23864,11 +24423,14 @@ var ObsidianGitSettingsTab = class extends import_obsidian7.PluginSettingTab {
         plugin.settings.commitDateFormat = value;
         await plugin.saveSettings();
       }));
-      new import_obsidian7.Setting(containerEl).setName("{{hostname}} placeholder replacement").setDesc("Specify custom hostname for every device.").addText((text2) => text2.setValue(plugin.localStorage.getHostname()).onChange(async (value) => {
-        plugin.localStorage.setHostname(value);
-      }));
+      new import_obsidian7.Setting(containerEl).setName("{{hostname}} placeholder replacement").setDesc("Specify custom hostname for every device.").addText((text2) => {
+        var _a2;
+        return text2.setValue((_a2 = plugin.localStorage.getHostname()) != null ? _a2 : "").onChange(async (value) => {
+          plugin.localStorage.setHostname(value);
+        });
+      });
       new import_obsidian7.Setting(containerEl).setName("Preview commit message").addButton((button) => button.setButtonText("Preview").onClick(async () => {
-        let commitMessagePreview = await plugin.gitManager.formatCommitMessage(plugin.settings.commitMessage);
+        const commitMessagePreview = await plugin.gitManager.formatCommitMessage(plugin.settings.commitMessage);
         new import_obsidian7.Notice(`${commitMessagePreview}`);
       }));
       new import_obsidian7.Setting(containerEl).setName("List filenames affected by commit in the commit body").addToggle((toggle) => toggle.setValue(plugin.settings.listChangedFilesInMessageBody).onChange((value) => {
@@ -23906,18 +24468,6 @@ var ObsidianGitSettingsTab = class extends import_obsidian7.PluginSettingTab {
     }
     containerEl.createEl("br");
     containerEl.createEl("h3", { text: "Miscellaneous" });
-    if (gitReady)
-      new import_obsidian7.Setting(containerEl).setName("Current branch").setDesc("Switch to a different branch").addDropdown(async (dropdown) => {
-        const branchInfo = await plugin.gitManager.branchInfo();
-        for (const branch2 of branchInfo.branches) {
-          dropdown.addOption(branch2, branch2);
-        }
-        dropdown.setValue(branchInfo.current);
-        dropdown.onChange(async (option) => {
-          await plugin.gitManager.checkout(option);
-          new import_obsidian7.Notice(`Checked out to ${option}`);
-        });
-      });
     new import_obsidian7.Setting(containerEl).setName("Automatically refresh Source Control View on file changes").setDesc("On slower machines this may cause lags. If so, just disable this option").addToggle((toggle) => toggle.setValue(plugin.settings.refreshSourceControl).onChange((value) => {
       plugin.settings.refreshSourceControl = value;
       plugin.saveSettings();
@@ -23935,6 +24485,10 @@ var ObsidianGitSettingsTab = class extends import_obsidian7.PluginSettingTab {
       plugin.settings.showStatusBar = value;
       plugin.saveSettings();
     }));
+    new import_obsidian7.Setting(containerEl).setName("Show branch status bar").setDesc("Obsidian must be restarted for the changes to take affect").addToggle((toggle) => toggle.setValue(plugin.settings.showBranchStatusBar).onChange((value) => {
+      plugin.settings.showBranchStatusBar = value;
+      plugin.saveSettings();
+    }));
     new import_obsidian7.Setting(containerEl).setName("Show changes files count in status bar").addToggle((toggle) => toggle.setValue(plugin.settings.changedFilesInStatusBar).onChange((value) => {
       plugin.settings.changedFilesInStatusBar = value;
       plugin.saveSettings();
@@ -23948,7 +24502,8 @@ var ObsidianGitSettingsTab = class extends import_obsidian7.PluginSettingTab {
       }));
     if (plugin.gitManager instanceof SimpleGit)
       new import_obsidian7.Setting(containerEl).setName("Custom Git binary path").addText((cb) => {
-        cb.setValue(plugin.localStorage.getGitPath());
+        var _a2;
+        cb.setValue((_a2 = plugin.localStorage.getGitPath()) != null ? _a2 : "");
         cb.setPlaceholder("git");
         cb.onChange((value) => {
           plugin.localStorage.setGitPath(value);
@@ -24229,7 +24784,8 @@ var DEFAULT_SETTINGS = {
   changedFilesInStatusBar: false,
   username: "",
   showedMobileNotice: false,
-  refreshSourceControlTimer: 7e3
+  refreshSourceControlTimer: 7e3,
+  showBranchStatusBar: true
 };
 var GIT_VIEW_CONFIG = {
   type: "git-view",
@@ -24247,55 +24803,67 @@ init_polyfill_buffer();
 var LocalStorageSettings = class {
   constructor(plugin) {
     this.plugin = plugin;
-    this.prefix = this.plugin.manifest.id;
+    this.prefix = this.plugin.manifest.id + ":";
+  }
+  migrate() {
+    const keys = ["password", "hostname", "conflict", "lastAutoPull", "lastAutoBackup", "lastAutoPush", "gitPath", "pluginDisabled"];
+    for (const key2 of keys) {
+      const old = localStorage.getItem(this.prefix + key2);
+      if (app.loadLocalStorage(this.prefix + key2) == null && old != null) {
+        if (old != null) {
+          app.saveLocalStorage(this.prefix + key2, old);
+          localStorage.removeItem(this.prefix + key2);
+        }
+      }
+    }
   }
   getPassword() {
-    return localStorage.getItem(this.prefix + ":password");
+    return app.loadLocalStorage(this.prefix + "password");
   }
   setPassword(value) {
-    return localStorage.setItem(this.prefix + ":password", value);
+    return app.saveLocalStorage(this.prefix + "password", value);
   }
   getHostname() {
-    return localStorage.getItem(this.prefix + ":hostname");
+    return app.loadLocalStorage(this.prefix + "hostname");
   }
   setHostname(value) {
-    return localStorage.setItem(this.prefix + ":hostname", value);
+    return app.saveLocalStorage(this.prefix + "hostname", value);
   }
   getConflict() {
-    return localStorage.getItem(this.prefix + ":conflict");
+    return app.loadLocalStorage(this.prefix + "conflict");
   }
   setConflict(value) {
-    return localStorage.setItem(this.prefix + ":conflict", value);
+    return app.saveLocalStorage(this.prefix + "conflict", value);
   }
   getLastAutoPull() {
-    return localStorage.getItem(this.prefix + ":lastAutoPull");
+    return app.loadLocalStorage(this.prefix + "lastAutoPull");
   }
   setLastAutoPull(value) {
-    return localStorage.setItem(this.prefix + ":lastAutoPull", value);
+    return app.saveLocalStorage(this.prefix + "lastAutoPull", value);
   }
   getLastAutoBackup() {
-    return localStorage.getItem(this.prefix + ":lastAutoBackup");
+    return app.loadLocalStorage(this.prefix + "lastAutoBackup");
   }
   setLastAutoBackup(value) {
-    return localStorage.setItem(this.prefix + ":lastAutoBackup", value);
+    return app.saveLocalStorage(this.prefix + "lastAutoBackup", value);
   }
   getLastAutoPush() {
-    return localStorage.getItem(this.prefix + ":lastAutoPush");
+    return app.loadLocalStorage(this.prefix + "lastAutoPush");
   }
   setLastAutoPush(value) {
-    return localStorage.setItem(this.prefix + ":lastAutoPush", value);
+    return app.saveLocalStorage(this.prefix + "lastAutoPush", value);
   }
   getGitPath() {
-    return localStorage.getItem(this.prefix + ":gitPath");
+    return app.loadLocalStorage(this.prefix + "gitPath");
   }
   setGitPath(value) {
-    return localStorage.setItem(this.prefix + ":gitPath", value);
+    return app.saveLocalStorage(this.prefix + "gitPath", value);
   }
   getPluginDisabled() {
-    return localStorage.getItem(this.prefix + ":pluginDisabled") == "true";
+    return app.loadLocalStorage(this.prefix + "pluginDisabled") == "true";
   }
   setPluginDisabled(value) {
-    return localStorage.setItem(this.prefix + ":pluginDisabled", `${value}`);
+    return app.saveLocalStorage(this.prefix + "pluginDisabled", `${value}`);
   }
 };
 
@@ -24480,7 +25048,7 @@ function parse(diffInput, config) {
   var combinedMode = /^mode (\d{6}),(\d{6})\.\.(\d{6})/;
   var combinedNewFile = /^new file mode (\d{6})/;
   var combinedDeletedFile = /^deleted file mode (\d{6}),(\d{6})/;
-  var diffLines = diffInput.replace(/\\ No newline at end of file/g, "").replace(/\r\n?/g, "\n").split("\n");
+  var diffLines2 = diffInput.replace(/\\ No newline at end of file/g, "").replace(/\r\n?/g, "\n").split("\n");
   function saveBlock() {
     if (currentBlock !== null && currentFile !== null) {
       currentFile.blocks.push(currentBlock);
@@ -24569,25 +25137,25 @@ function parse(diffInput, config) {
   }
   function existHunkHeader(line, lineIdx) {
     var idx = lineIdx;
-    while (idx < diffLines.length - 3) {
+    while (idx < diffLines2.length - 3) {
       if (line.startsWith("diff")) {
         return false;
       }
-      if (diffLines[idx].startsWith(oldFileNameHeader) && diffLines[idx + 1].startsWith(newFileNameHeader) && diffLines[idx + 2].startsWith(hunkHeaderPrefix)) {
+      if (diffLines2[idx].startsWith(oldFileNameHeader) && diffLines2[idx + 1].startsWith(newFileNameHeader) && diffLines2[idx + 2].startsWith(hunkHeaderPrefix)) {
         return true;
       }
       idx++;
     }
     return false;
   }
-  diffLines.forEach(function(line, lineIndex) {
+  diffLines2.forEach(function(line, lineIndex) {
     if (!line || line.startsWith("*")) {
       return;
     }
     var values;
-    var prevLine = diffLines[lineIndex - 1];
-    var nxtLine = diffLines[lineIndex + 1];
-    var afterNxtLine = diffLines[lineIndex + 2];
+    var prevLine = diffLines2[lineIndex - 1];
+    var nxtLine = diffLines2[lineIndex + 1];
+    var afterNxtLine = diffLines2[lineIndex + 2];
     if (line.startsWith("diff")) {
       startFile();
       var gitDiffStart = /^diff --git "?([a-ciow]\/.+)"? "?([a-ciow]\/.+)"?/;
@@ -24711,337 +25279,6 @@ init_polyfill_buffer();
 
 // node_modules/diff2html/lib-esm/render-utils.js
 init_polyfill_buffer();
-
-// node_modules/diff/lib/index.mjs
-init_polyfill_buffer();
-function Diff() {
-}
-Diff.prototype = {
-  diff: function diff(oldString, newString) {
-    var options = arguments.length > 2 && arguments[2] !== void 0 ? arguments[2] : {};
-    var callback = options.callback;
-    if (typeof options === "function") {
-      callback = options;
-      options = {};
-    }
-    this.options = options;
-    var self3 = this;
-    function done(value) {
-      if (callback) {
-        setTimeout(function() {
-          callback(void 0, value);
-        }, 0);
-        return true;
-      } else {
-        return value;
-      }
-    }
-    oldString = this.castInput(oldString);
-    newString = this.castInput(newString);
-    oldString = this.removeEmpty(this.tokenize(oldString));
-    newString = this.removeEmpty(this.tokenize(newString));
-    var newLen = newString.length, oldLen = oldString.length;
-    var editLength = 1;
-    var maxEditLength = newLen + oldLen;
-    if (options.maxEditLength) {
-      maxEditLength = Math.min(maxEditLength, options.maxEditLength);
-    }
-    var bestPath = [{
-      newPos: -1,
-      components: []
-    }];
-    var oldPos = this.extractCommon(bestPath[0], newString, oldString, 0);
-    if (bestPath[0].newPos + 1 >= newLen && oldPos + 1 >= oldLen) {
-      return done([{
-        value: this.join(newString),
-        count: newString.length
-      }]);
-    }
-    function execEditLength() {
-      for (var diagonalPath = -1 * editLength; diagonalPath <= editLength; diagonalPath += 2) {
-        var basePath = void 0;
-        var addPath = bestPath[diagonalPath - 1], removePath = bestPath[diagonalPath + 1], _oldPos = (removePath ? removePath.newPos : 0) - diagonalPath;
-        if (addPath) {
-          bestPath[diagonalPath - 1] = void 0;
-        }
-        var canAdd = addPath && addPath.newPos + 1 < newLen, canRemove = removePath && 0 <= _oldPos && _oldPos < oldLen;
-        if (!canAdd && !canRemove) {
-          bestPath[diagonalPath] = void 0;
-          continue;
-        }
-        if (!canAdd || canRemove && addPath.newPos < removePath.newPos) {
-          basePath = clonePath(removePath);
-          self3.pushComponent(basePath.components, void 0, true);
-        } else {
-          basePath = addPath;
-          basePath.newPos++;
-          self3.pushComponent(basePath.components, true, void 0);
-        }
-        _oldPos = self3.extractCommon(basePath, newString, oldString, diagonalPath);
-        if (basePath.newPos + 1 >= newLen && _oldPos + 1 >= oldLen) {
-          return done(buildValues(self3, basePath.components, newString, oldString, self3.useLongestToken));
-        } else {
-          bestPath[diagonalPath] = basePath;
-        }
-      }
-      editLength++;
-    }
-    if (callback) {
-      (function exec() {
-        setTimeout(function() {
-          if (editLength > maxEditLength) {
-            return callback();
-          }
-          if (!execEditLength()) {
-            exec();
-          }
-        }, 0);
-      })();
-    } else {
-      while (editLength <= maxEditLength) {
-        var ret = execEditLength();
-        if (ret) {
-          return ret;
-        }
-      }
-    }
-  },
-  pushComponent: function pushComponent(components, added, removed) {
-    var last2 = components[components.length - 1];
-    if (last2 && last2.added === added && last2.removed === removed) {
-      components[components.length - 1] = {
-        count: last2.count + 1,
-        added,
-        removed
-      };
-    } else {
-      components.push({
-        count: 1,
-        added,
-        removed
-      });
-    }
-  },
-  extractCommon: function extractCommon(basePath, newString, oldString, diagonalPath) {
-    var newLen = newString.length, oldLen = oldString.length, newPos = basePath.newPos, oldPos = newPos - diagonalPath, commonCount = 0;
-    while (newPos + 1 < newLen && oldPos + 1 < oldLen && this.equals(newString[newPos + 1], oldString[oldPos + 1])) {
-      newPos++;
-      oldPos++;
-      commonCount++;
-    }
-    if (commonCount) {
-      basePath.components.push({
-        count: commonCount
-      });
-    }
-    basePath.newPos = newPos;
-    return oldPos;
-  },
-  equals: function equals(left, right) {
-    if (this.options.comparator) {
-      return this.options.comparator(left, right);
-    } else {
-      return left === right || this.options.ignoreCase && left.toLowerCase() === right.toLowerCase();
-    }
-  },
-  removeEmpty: function removeEmpty(array) {
-    var ret = [];
-    for (var i = 0; i < array.length; i++) {
-      if (array[i]) {
-        ret.push(array[i]);
-      }
-    }
-    return ret;
-  },
-  castInput: function castInput(value) {
-    return value;
-  },
-  tokenize: function tokenize(value) {
-    return value.split("");
-  },
-  join: function join3(chars) {
-    return chars.join("");
-  }
-};
-function buildValues(diff2, components, newString, oldString, useLongestToken) {
-  var componentPos = 0, componentLen = components.length, newPos = 0, oldPos = 0;
-  for (; componentPos < componentLen; componentPos++) {
-    var component = components[componentPos];
-    if (!component.removed) {
-      if (!component.added && useLongestToken) {
-        var value = newString.slice(newPos, newPos + component.count);
-        value = value.map(function(value2, i) {
-          var oldValue = oldString[oldPos + i];
-          return oldValue.length > value2.length ? oldValue : value2;
-        });
-        component.value = diff2.join(value);
-      } else {
-        component.value = diff2.join(newString.slice(newPos, newPos + component.count));
-      }
-      newPos += component.count;
-      if (!component.added) {
-        oldPos += component.count;
-      }
-    } else {
-      component.value = diff2.join(oldString.slice(oldPos, oldPos + component.count));
-      oldPos += component.count;
-      if (componentPos && components[componentPos - 1].added) {
-        var tmp = components[componentPos - 1];
-        components[componentPos - 1] = components[componentPos];
-        components[componentPos] = tmp;
-      }
-    }
-  }
-  var lastComponent = components[componentLen - 1];
-  if (componentLen > 1 && typeof lastComponent.value === "string" && (lastComponent.added || lastComponent.removed) && diff2.equals("", lastComponent.value)) {
-    components[componentLen - 2].value += lastComponent.value;
-    components.pop();
-  }
-  return components;
-}
-function clonePath(path2) {
-  return {
-    newPos: path2.newPos,
-    components: path2.components.slice(0)
-  };
-}
-var characterDiff = new Diff();
-function diffChars(oldStr, newStr, options) {
-  return characterDiff.diff(oldStr, newStr, options);
-}
-var extendedWordChars = /^[A-Za-z\xC0-\u02C6\u02C8-\u02D7\u02DE-\u02FF\u1E00-\u1EFF]+$/;
-var reWhitespace = /\S/;
-var wordDiff = new Diff();
-wordDiff.equals = function(left, right) {
-  if (this.options.ignoreCase) {
-    left = left.toLowerCase();
-    right = right.toLowerCase();
-  }
-  return left === right || this.options.ignoreWhitespace && !reWhitespace.test(left) && !reWhitespace.test(right);
-};
-wordDiff.tokenize = function(value) {
-  var tokens = value.split(/([^\S\r\n]+|[()[\]{}'"\r\n]|\b)/);
-  for (var i = 0; i < tokens.length - 1; i++) {
-    if (!tokens[i + 1] && tokens[i + 2] && extendedWordChars.test(tokens[i]) && extendedWordChars.test(tokens[i + 2])) {
-      tokens[i] += tokens[i + 2];
-      tokens.splice(i + 1, 2);
-      i--;
-    }
-  }
-  return tokens;
-};
-function diffWordsWithSpace(oldStr, newStr, options) {
-  return wordDiff.diff(oldStr, newStr, options);
-}
-var lineDiff = new Diff();
-lineDiff.tokenize = function(value) {
-  var retLines = [], linesAndNewlines = value.split(/(\n|\r\n)/);
-  if (!linesAndNewlines[linesAndNewlines.length - 1]) {
-    linesAndNewlines.pop();
-  }
-  for (var i = 0; i < linesAndNewlines.length; i++) {
-    var line = linesAndNewlines[i];
-    if (i % 2 && !this.options.newlineIsToken) {
-      retLines[retLines.length - 1] += line;
-    } else {
-      if (this.options.ignoreWhitespace) {
-        line = line.trim();
-      }
-      retLines.push(line);
-    }
-  }
-  return retLines;
-};
-var sentenceDiff = new Diff();
-sentenceDiff.tokenize = function(value) {
-  return value.split(/(\S.+?[.!?])(?=\s+|$)/);
-};
-var cssDiff = new Diff();
-cssDiff.tokenize = function(value) {
-  return value.split(/([{}:;,]|\s+)/);
-};
-function _typeof(obj) {
-  "@babel/helpers - typeof";
-  if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") {
-    _typeof = function(obj2) {
-      return typeof obj2;
-    };
-  } else {
-    _typeof = function(obj2) {
-      return obj2 && typeof Symbol === "function" && obj2.constructor === Symbol && obj2 !== Symbol.prototype ? "symbol" : typeof obj2;
-    };
-  }
-  return _typeof(obj);
-}
-var objectPrototypeToString = Object.prototype.toString;
-var jsonDiff = new Diff();
-jsonDiff.useLongestToken = true;
-jsonDiff.tokenize = lineDiff.tokenize;
-jsonDiff.castInput = function(value) {
-  var _this$options = this.options, undefinedReplacement = _this$options.undefinedReplacement, _this$options$stringi = _this$options.stringifyReplacer, stringifyReplacer = _this$options$stringi === void 0 ? function(k, v) {
-    return typeof v === "undefined" ? undefinedReplacement : v;
-  } : _this$options$stringi;
-  return typeof value === "string" ? value : JSON.stringify(canonicalize(value, null, null, stringifyReplacer), stringifyReplacer, "  ");
-};
-jsonDiff.equals = function(left, right) {
-  return Diff.prototype.equals.call(jsonDiff, left.replace(/,([\r\n])/g, "$1"), right.replace(/,([\r\n])/g, "$1"));
-};
-function canonicalize(obj, stack, replacementStack, replacer, key2) {
-  stack = stack || [];
-  replacementStack = replacementStack || [];
-  if (replacer) {
-    obj = replacer(key2, obj);
-  }
-  var i;
-  for (i = 0; i < stack.length; i += 1) {
-    if (stack[i] === obj) {
-      return replacementStack[i];
-    }
-  }
-  var canonicalizedObj;
-  if (objectPrototypeToString.call(obj) === "[object Array]") {
-    stack.push(obj);
-    canonicalizedObj = new Array(obj.length);
-    replacementStack.push(canonicalizedObj);
-    for (i = 0; i < obj.length; i += 1) {
-      canonicalizedObj[i] = canonicalize(obj[i], stack, replacementStack, replacer, key2);
-    }
-    stack.pop();
-    replacementStack.pop();
-    return canonicalizedObj;
-  }
-  if (obj && obj.toJSON) {
-    obj = obj.toJSON();
-  }
-  if (_typeof(obj) === "object" && obj !== null) {
-    stack.push(obj);
-    canonicalizedObj = {};
-    replacementStack.push(canonicalizedObj);
-    var sortedKeys = [], _key;
-    for (_key in obj) {
-      if (obj.hasOwnProperty(_key)) {
-        sortedKeys.push(_key);
-      }
-    }
-    sortedKeys.sort();
-    for (i = 0; i < sortedKeys.length; i += 1) {
-      _key = sortedKeys[i];
-      canonicalizedObj[_key] = canonicalize(obj[_key], stack, replacementStack, replacer, _key);
-    }
-    stack.pop();
-    replacementStack.pop();
-  } else {
-    canonicalizedObj = obj;
-  }
-  return canonicalizedObj;
-}
-var arrayDiff = new Diff();
-arrayDiff.tokenize = function(value) {
-  return value.slice();
-};
-arrayDiff.join = arrayDiff.removeEmpty = function(value) {
-  return value;
-};
 
 // node_modules/diff2html/lib-esm/rematch.js
 init_polyfill_buffer();
@@ -26234,6 +26471,7 @@ var DiffView = class extends import_obsidian13.ItemView {
     this.plugin = plugin;
     this.gettingDiff = false;
     this.parser = new DOMParser();
+    this.navigation = true;
     addEventListener("git-refresh", this.refresh.bind(this));
   }
   getViewType() {
@@ -26281,10 +26519,41 @@ var DiffView = class extends import_obsidian13.ItemView {
   }
 };
 
-// src/ui/modals/ignoreModal.ts
+// src/ui/modals/branchModal.ts
 init_polyfill_buffer();
 var import_obsidian14 = __toModule(require("obsidian"));
-var IgnoreModal = class extends import_obsidian14.Modal {
+var BranchModal = class extends import_obsidian14.FuzzySuggestModal {
+  constructor(branches) {
+    super(app);
+    this.branches = branches;
+    this.setPlaceholder("Select branch to checkout");
+  }
+  getItems() {
+    return this.branches;
+  }
+  getItemText(item) {
+    return item;
+  }
+  onChooseItem(item, evt) {
+    this.resolve(item);
+  }
+  open() {
+    super.open();
+    return new Promise((resolve) => {
+      this.resolve = resolve;
+    });
+  }
+  async onClose() {
+    await new Promise((resolve) => setTimeout(resolve, 10));
+    if (this.resolve)
+      this.resolve(void 0);
+  }
+};
+
+// src/ui/modals/ignoreModal.ts
+init_polyfill_buffer();
+var import_obsidian15 = __toModule(require("obsidian"));
+var IgnoreModal = class extends import_obsidian15.Modal {
   constructor(app2, content) {
     super(app2);
     this.content = content;
@@ -26297,7 +26566,7 @@ var IgnoreModal = class extends import_obsidian14.Modal {
     });
   }
   onOpen() {
-    let { contentEl, titleEl } = this;
+    const { contentEl, titleEl } = this;
     titleEl.setText("Edit .gitignore");
     const div = contentEl.createDiv();
     const text2 = div.createEl("textarea", {
@@ -26314,7 +26583,7 @@ var IgnoreModal = class extends import_obsidian14.Modal {
     });
   }
   onClose() {
-    let { contentEl } = this;
+    const { contentEl } = this;
     this.resolve(void 0);
     contentEl.empty();
   }
@@ -26322,7 +26591,7 @@ var IgnoreModal = class extends import_obsidian14.Modal {
 
 // src/ui/sidebar/sidebarView.ts
 init_polyfill_buffer();
-var import_obsidian21 = __toModule(require("obsidian"));
+var import_obsidian22 = __toModule(require("obsidian"));
 
 // src/ui/sidebar/gitView.svelte
 init_polyfill_buffer();
@@ -26839,19 +27108,19 @@ function init2(component, options, instance6, create_fragment6, not_equal, props
     root: options.target || parent_component.$$.root
   };
   append_styles2 && append_styles2($$.root);
-  let ready2 = false;
+  let ready = false;
   $$.ctx = instance6 ? instance6(component, options.props || {}, (i, ret, ...rest) => {
     const value = rest.length ? rest[0] : ret;
     if ($$.ctx && not_equal($$.ctx[i], $$.ctx[i] = value)) {
       if (!$$.skip_bound && $$.bound[i])
         $$.bound[i](value);
-      if (ready2)
+      if (ready)
         make_dirty(component, i);
     }
     return ret;
   }) : [];
   $$.update();
-  ready2 = true;
+  ready = true;
   run_all($$.before_update);
   $$.fragment = create_fragment6 ? create_fragment6($$.ctx) : false;
   if (options.target) {
@@ -26937,7 +27206,7 @@ var SvelteComponent = class {
 };
 
 // src/ui/sidebar/gitView.svelte
-var import_obsidian20 = __toModule(require("obsidian"));
+var import_obsidian21 = __toModule(require("obsidian"));
 
 // node_modules/svelte/index.mjs
 init_polyfill_buffer();
@@ -26973,7 +27242,7 @@ function slide(node, { delay: delay2 = 0, duration = 400, easing = cubicOut } = 
 
 // src/ui/sidebar/components/fileComponent.svelte
 init_polyfill_buffer();
-var import_obsidian17 = __toModule(require("obsidian"));
+var import_obsidian18 = __toModule(require("obsidian"));
 
 // node_modules/obsidian-community-lib/dist/index.js
 init_polyfill_buffer();
@@ -26981,7 +27250,7 @@ init_polyfill_buffer();
 // node_modules/obsidian-community-lib/dist/utils.js
 init_polyfill_buffer();
 var feather = __toModule(require_feather());
-var import_obsidian15 = __toModule(require("obsidian"));
+var import_obsidian16 = __toModule(require("obsidian"));
 function hoverPreview(event, view, to) {
   const targetEl = event.target;
   app.workspace.trigger("hover-link", {
@@ -26992,44 +27261,11 @@ function hoverPreview(event, view, to) {
     linktext: to
   });
 }
-async function createNewMDNote(newName, currFilePath = "") {
-  const newFileFolder = app.fileManager.getNewFileParent(currFilePath).path;
-  const newFilePath = (0, import_obsidian15.normalizePath)(`${newFileFolder}${newFileFolder === "/" ? "" : "/"}${addMD(newName)}`);
-  return await app.vault.create(newFilePath, "");
-}
-var addMD = (noteName) => {
-  return noteName.match(/\.MD$|\.md$/m) ? noteName : noteName + ".md";
-};
-async function openOrSwitch(dest, event, options = { createNewFile: true }) {
-  const { workspace } = app;
-  let destFile = app.metadataCache.getFirstLinkpathDest(dest, "");
-  if (!destFile && options.createNewFile) {
-    destFile = await createNewMDNote(dest);
-  } else if (!destFile && !options.createNewFile)
-    return;
-  const leavesWithDestAlreadyOpen = [];
-  workspace.iterateAllLeaves((leaf) => {
-    var _a2;
-    if (leaf.view instanceof import_obsidian15.MarkdownView) {
-      const file = (_a2 = leaf.view) === null || _a2 === void 0 ? void 0 : _a2.file;
-      if (file && file.basename + "." + file.extension === dest) {
-        leavesWithDestAlreadyOpen.push(leaf);
-      }
-    }
-  });
-  if (leavesWithDestAlreadyOpen.length > 0) {
-    workspace.setActiveLeaf(leavesWithDestAlreadyOpen[0]);
-  } else {
-    const mode = app.vault.getConfig("defaultViewMode");
-    const leaf = event.ctrlKey || event.getModifierState("Meta") ? workspace.splitActiveLeaf() : workspace.getUnpinnedLeaf();
-    await leaf.openFile(destFile, { active: true, mode });
-  }
-}
 
 // src/ui/modals/discardModal.ts
 init_polyfill_buffer();
-var import_obsidian16 = __toModule(require("obsidian"));
-var DiscardModal = class extends import_obsidian16.Modal {
+var import_obsidian17 = __toModule(require("obsidian"));
+var DiscardModal = class extends import_obsidian17.Modal {
   constructor(app2, deletion, filename) {
     super(app2);
     this.deletion = deletion;
@@ -27043,7 +27279,7 @@ var DiscardModal = class extends import_obsidian16.Modal {
     });
   }
   onOpen() {
-    let { contentEl, titleEl } = this;
+    const { contentEl, titleEl } = this;
     titleEl.setText(`${this.deletion ? "Delete" : "Discard"} this file?`);
     contentEl.createEl("h4").setText(`Do you really want to ${this.deletion ? "delete" : "discard the changes of"} "${this.filename}"`);
     const div = contentEl.createDiv();
@@ -27063,7 +27299,7 @@ var DiscardModal = class extends import_obsidian16.Modal {
     });
   }
   onClose() {
-    let { contentEl } = this;
+    const { contentEl } = this;
     contentEl.empty();
   }
 };
@@ -27085,9 +27321,12 @@ function create_if_block(ctx) {
     },
     m(target, anchor) {
       insert(target, div, anchor);
-      ctx[12](div);
+      ctx[11](div);
       if (!mounted) {
-        dispose = listen(div, "click", ctx[5]);
+        dispose = [
+          listen(div, "auxclick", ctx[5]),
+          listen(div, "click", ctx[5])
+        ];
         mounted = true;
       }
     },
@@ -27095,16 +27334,17 @@ function create_if_block(ctx) {
     d(detaching) {
       if (detaching)
         detach(div);
-      ctx[12](null);
+      ctx[11](null);
       mounted = false;
-      dispose();
+      run_all(dispose);
     }
   };
 }
 function create_fragment(ctx) {
+  var _a2;
   let main;
   let span0;
-  let t0_value = ctx[0].vault_path.split("/").last().replace(".md", "") + "";
+  let t0_value = ((_a2 = ctx[0].vault_path.split("/").last()) == null ? void 0 : _a2.replace(".md", "")) + "";
   let t0;
   let span0_aria_label_value;
   let t1;
@@ -27166,27 +27406,29 @@ function create_fragment(ctx) {
         if_block.m(div2, null);
       append2(div2, t2);
       append2(div2, div0);
-      ctx[13](div0);
+      ctx[12](div0);
       append2(div2, t3);
       append2(div2, div1);
-      ctx[14](div1);
+      ctx[13](div1);
       append2(div3, t4);
       append2(div3, span1);
       append2(span1, t5);
       if (!mounted) {
         dispose = [
           listen(span0, "click", self2(ctx[7])),
+          listen(span0, "auxclick", self2(ctx[7])),
           listen(div0, "click", ctx[8]),
           listen(div1, "click", ctx[6]),
           listen(main, "mouseover", ctx[4]),
           listen(main, "click", self2(ctx[7])),
-          listen(main, "focus", ctx[11])
+          listen(main, "focus", ctx[10])
         ];
         mounted = true;
       }
     },
     p(ctx2, [dirty]) {
-      if (dirty & 1 && t0_value !== (t0_value = ctx2[0].vault_path.split("/").last().replace(".md", "") + ""))
+      var _a3;
+      if (dirty & 1 && t0_value !== (t0_value = ((_a3 = ctx2[0].vault_path.split("/").last()) == null ? void 0 : _a3.replace(".md", "")) + ""))
         set_data(t0, t0_value);
       if (dirty & 8) {
         attr(span0, "aria-label-position", ctx2[3]);
@@ -27221,8 +27463,8 @@ function create_fragment(ctx) {
         detach(main);
       if (if_block)
         if_block.d();
+      ctx[12](null);
       ctx[13](null);
-      ctx[14](null);
       mounted = false;
       run_all(dispose);
     }
@@ -27233,17 +27475,19 @@ function instance($$self, $$props, $$invalidate) {
   let { change } = $$props;
   let { view } = $$props;
   let { manager } = $$props;
-  let { workspace } = $$props;
   let buttons = [];
-  window.setTimeout(() => buttons.forEach((b) => (0, import_obsidian17.setIcon)(b, b.getAttr("data-icon"), 16)), 0);
+  window.setTimeout(() => buttons.forEach((b) => (0, import_obsidian18.setIcon)(b, b.getAttr("data-icon"), 16)), 0);
   function hover(event) {
     if (!change.path.startsWith(view.app.vault.configDir) || !change.path.startsWith(".")) {
       hoverPreview(event, view, change.vault_path.split("/").last().replace(".md", ""));
     }
   }
   function open(event) {
-    if (!(change.path.startsWith(view.app.vault.configDir) || change.path.startsWith(".") || change.working_dir === "D")) {
-      openOrSwitch(change.vault_path, event);
+    var _a2;
+    const file = view.app.vault.getAbstractFileByPath(change.vault_path);
+    console.log(event);
+    if (file instanceof import_obsidian18.TFile) {
+      (_a2 = getNewLeaf(event)) === null || _a2 === void 0 ? void 0 : _a2.openFile(file);
     }
   }
   function stage() {
@@ -27252,19 +27496,12 @@ function instance($$self, $$props, $$invalidate) {
     });
   }
   function showDiff(event) {
-    const leaf = workspace.getMostRecentLeaf(workspace.rootSplit);
-    if (leaf && !leaf.getViewState().pinned && !(event.ctrlKey || event.getModifierState("Meta"))) {
-      leaf.setViewState({
-        type: DIFF_VIEW_CONFIG.type,
-        state: { file: change.path, staged: false }
-      });
-    } else {
-      getNewLeaf().setViewState({
-        type: DIFF_VIEW_CONFIG.type,
-        active: true,
-        state: { file: change.path, staged: false }
-      });
-    }
+    var _a2;
+    (_a2 = getNewLeaf(event)) === null || _a2 === void 0 ? void 0 : _a2.setViewState({
+      type: DIFF_VIEW_CONFIG.type,
+      active: true,
+      state: { file: change.path, staged: false }
+    });
   }
   function discard() {
     const deleteFile = change.working_dir == "U";
@@ -27310,8 +27547,6 @@ function instance($$self, $$props, $$invalidate) {
       $$invalidate(1, view = $$props2.view);
     if ("manager" in $$props2)
       $$invalidate(9, manager = $$props2.manager);
-    if ("workspace" in $$props2)
-      $$invalidate(10, workspace = $$props2.workspace);
   };
   $$self.$$.update = () => {
     if ($$self.$$.dirty & 2) {
@@ -27330,7 +27565,6 @@ function instance($$self, $$props, $$invalidate) {
     showDiff,
     discard,
     manager,
-    workspace,
     focus_handler,
     div_binding,
     div0_binding,
@@ -27340,26 +27574,22 @@ function instance($$self, $$props, $$invalidate) {
 var FileComponent = class extends SvelteComponent {
   constructor(options) {
     super();
-    init2(this, options, instance, create_fragment, safe_not_equal, {
-      change: 0,
-      view: 1,
-      manager: 9,
-      workspace: 10
-    }, add_css);
+    init2(this, options, instance, create_fragment, safe_not_equal, { change: 0, view: 1, manager: 9 }, add_css);
   }
 };
 var fileComponent_default = FileComponent;
 
 // src/ui/sidebar/components/pulledFileComponent.svelte
 init_polyfill_buffer();
-var import_obsidian18 = __toModule(require("obsidian"));
+var import_obsidian19 = __toModule(require("obsidian"));
 function add_css2(target) {
   append_styles(target, "svelte-1pr4yz5", "main.svelte-1pr4yz5.svelte-1pr4yz5{cursor:pointer;background-color:var(--background-secondary);border-radius:4px;width:98%;display:flex;justify-content:space-between;font-size:0.8rem;margin-bottom:2px}main.svelte-1pr4yz5 .path.svelte-1pr4yz5{color:var(--text-muted);white-space:nowrap;max-width:75%;overflow:hidden;text-overflow:ellipsis}main.svelte-1pr4yz5:hover .path.svelte-1pr4yz5{color:var(--text-normal);transition:all 200ms}main.svelte-1pr4yz5 .tools.svelte-1pr4yz5{display:flex;align-items:center}main.svelte-1pr4yz5 .tools .type.svelte-1pr4yz5{height:16px;width:16px;margin:0;display:flex;align-items:center;justify-content:center}main.svelte-1pr4yz5 .tools .type[data-type=M].svelte-1pr4yz5{color:orange}main.svelte-1pr4yz5 .tools .type[data-type=D].svelte-1pr4yz5{color:red}");
 }
 function create_fragment2(ctx) {
+  var _a2;
   let main;
   let span0;
-  let t0_value = ctx[0].vault_path.split("/").last().replace(".md", "") + "";
+  let t0_value = ((_a2 = ctx[0].vault_path.split("/").last()) == null ? void 0 : _a2.replace(".md", "")) + "";
   let t0;
   let span0_aria_label_value;
   let t1;
@@ -27406,7 +27636,8 @@ function create_fragment2(ctx) {
       }
     },
     p(ctx2, [dirty]) {
-      if (dirty & 1 && t0_value !== (t0_value = ctx2[0].vault_path.split("/").last().replace(".md", "") + ""))
+      var _a3;
+      if (dirty & 1 && t0_value !== (t0_value = ((_a3 = ctx2[0].vault_path.split("/").last()) == null ? void 0 : _a3.replace(".md", "")) + ""))
         set_data(t0, t0_value);
       if (dirty & 2) {
         attr(span0, "aria-label-position", ctx2[1]);
@@ -27440,8 +27671,10 @@ function instance2($$self, $$props, $$invalidate) {
     }
   }
   function open(event) {
-    if (!(change.path.startsWith(view.app.vault.configDir) || change.path.startsWith(".") || change.working_dir === "D")) {
-      openOrSwitch(change.vault_path, event);
+    var _a2;
+    const file = view.app.vault.getAbstractFileByPath(change.vault_path);
+    if (file instanceof import_obsidian19.TFile) {
+      (_a2 = getNewLeaf(event)) === null || _a2 === void 0 ? void 0 : _a2.openFile(file);
     }
   }
   function focus_handler(event) {
@@ -27471,7 +27704,7 @@ var pulledFileComponent_default = PulledFileComponent;
 
 // src/ui/sidebar/components/stagedFileComponent.svelte
 init_polyfill_buffer();
-var import_obsidian19 = __toModule(require("obsidian"));
+var import_obsidian20 = __toModule(require("obsidian"));
 function add_css3(target) {
   append_styles(target, "svelte-15heedx", "main.svelte-15heedx.svelte-15heedx.svelte-15heedx{cursor:pointer;background-color:var(--background-secondary);border-radius:4px;width:98%;display:flex;justify-content:space-between;font-size:0.8rem;margin-bottom:2px}main.svelte-15heedx .path.svelte-15heedx.svelte-15heedx{color:var(--text-muted);white-space:nowrap;max-width:75%;overflow:hidden;text-overflow:ellipsis}main.svelte-15heedx:hover .path.svelte-15heedx.svelte-15heedx{color:var(--text-normal);transition:all 200ms}main.svelte-15heedx .tools.svelte-15heedx.svelte-15heedx{display:flex;align-items:center}main.svelte-15heedx .tools .type.svelte-15heedx.svelte-15heedx{height:16px;width:16px;margin:0;display:flex;align-items:center;justify-content:center}main.svelte-15heedx .tools .type[data-type=M].svelte-15heedx.svelte-15heedx{color:orange}main.svelte-15heedx .tools .type[data-type=D].svelte-15heedx.svelte-15heedx{color:red}main.svelte-15heedx .tools .type[data-type=A].svelte-15heedx.svelte-15heedx{color:yellowgreen}main.svelte-15heedx .tools .type[data-type=R].svelte-15heedx.svelte-15heedx{color:violet}main.svelte-15heedx .tools .buttons.svelte-15heedx.svelte-15heedx{display:flex}main.svelte-15heedx .tools .buttons.svelte-15heedx>.svelte-15heedx{color:var(--text-faint);height:16px;width:16px;margin:0;transition:all 0.2s;border-radius:2px;margin-right:1px}main.svelte-15heedx .tools .buttons.svelte-15heedx>.svelte-15heedx:hover{color:var(--text-normal);background-color:var(--interactive-accent)}");
 }
@@ -27505,9 +27738,10 @@ function create_if_block2(ctx) {
   };
 }
 function create_fragment3(ctx) {
+  var _a2;
   let main;
   let span0;
-  let t0_value = ctx[3].split("/").last().replace(".md", "") + "";
+  let t0_value = ((_a2 = ctx[3].split("/").last()) == null ? void 0 : _a2.replace(".md", "")) + "";
   let t0;
   let span0_aria_label_value;
   let t1;
@@ -27578,7 +27812,8 @@ function create_fragment3(ctx) {
       }
     },
     p(ctx2, [dirty]) {
-      if (dirty & 8 && t0_value !== (t0_value = ctx2[3].split("/").last().replace(".md", "") + ""))
+      var _a3;
+      if (dirty & 8 && t0_value !== (t0_value = ((_a3 = ctx2[3].split("/").last()) == null ? void 0 : _a3.replace(".md", "")) + ""))
         set_data(t0, t0_value);
       if (dirty & 16) {
         attr(span0, "aria-label-position", ctx2[4]);
@@ -27626,33 +27861,26 @@ function instance3($$self, $$props, $$invalidate) {
   let { view } = $$props;
   let { manager } = $$props;
   let buttons = [];
-  window.setTimeout(() => buttons.forEach((b) => (0, import_obsidian19.setIcon)(b, b.getAttr("data-icon"), 16)), 0);
+  window.setTimeout(() => buttons.forEach((b) => (0, import_obsidian20.setIcon)(b, b.getAttr("data-icon"), 16)), 0);
   function hover(event) {
     if (!change.path.startsWith(view.app.vault.configDir) || !change.path.startsWith(".")) {
       hoverPreview(event, view, formattedPath.split("/").last().replace(".md", ""));
     }
   }
   function open(event) {
-    if (!(change.path.startsWith(view.app.vault.configDir) || change.path.startsWith(".") || change.index === "D")) {
-      openOrSwitch(formattedPath, event);
+    var _a2;
+    const file = view.app.vault.getAbstractFileByPath(change.vault_path);
+    if (file instanceof import_obsidian20.TFile) {
+      (_a2 = getNewLeaf(event)) === null || _a2 === void 0 ? void 0 : _a2.openFile(file);
     }
   }
   function showDiff(event) {
-    const workspace = view.app.workspace;
-    const leaf = workspace.getMostRecentLeaf(workspace.rootSplit);
-    if (leaf && !leaf.getViewState().pinned && !(event.ctrlKey || event.getModifierState("Meta"))) {
-      leaf.setViewState({
-        type: DIFF_VIEW_CONFIG.type,
-        state: { file: change.path, staged: true }
-      });
-      workspace.setActiveLeaf(leaf, true, true);
-    } else {
-      getNewLeaf().setViewState({
-        type: DIFF_VIEW_CONFIG.type,
-        active: true,
-        state: { file: change.path, staged: true }
-      });
-    }
+    var _a2;
+    (_a2 = getNewLeaf(event)) === null || _a2 === void 0 ? void 0 : _a2.setViewState({
+      type: DIFF_VIEW_CONFIG.type,
+      active: true,
+      state: { file: change.path, staged: true }
+    });
   }
   function unstage() {
     manager.unstage(change.path, false).finally(() => {
@@ -28033,8 +28261,7 @@ function create_if_block_2(ctx) {
     props: {
       change: ctx[7].statusResult,
       manager: ctx[1].gitManager,
-      view: ctx[2],
-      workspace: ctx[1].app.workspace
+      view: ctx[2]
     }
   });
   return {
@@ -28053,8 +28280,6 @@ function create_if_block_2(ctx) {
         filecomponent_changes.manager = ctx2[1].gitManager;
       if (dirty & 4)
         filecomponent_changes.view = ctx2[2];
-      if (dirty & 2)
-        filecomponent_changes.workspace = ctx2[1].app.workspace;
       filecomponent.$set(filecomponent_changes);
     },
     i(local) {
@@ -28369,7 +28594,7 @@ function create_if_block4(ctx) {
       div2 = element("div");
       div1 = element("div");
       div1.innerHTML = `<div class="tree-item-icon collapse-icon svelte-1f0ksxd" style=""><svg viewBox="0 0 100 100" class="right-triangle svelte-1f0ksxd" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div> 
-            <span>Staged Changes</span>`;
+						<span>Staged Changes</span>`;
       t2 = space();
       span1 = element("span");
       t3 = text(t3_value);
@@ -28381,7 +28606,7 @@ function create_if_block4(ctx) {
       div6 = element("div");
       div5 = element("div");
       div5.innerHTML = `<div class="tree-item-icon collapse-icon svelte-1f0ksxd" style=""><svg viewBox="0 0 100 100" class="right-triangle svelte-1f0ksxd" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div> 
-            <span>Changes</span>`;
+						<span>Changes</span>`;
       t8 = space();
       span3 = element("span");
       t9 = text(t9_value);
@@ -28979,8 +29204,7 @@ function create_each_block_1(ctx) {
     props: {
       change: ctx[34],
       view: ctx[1],
-      manager: ctx[0].gitManager,
-      workspace: ctx[0].app.workspace
+      manager: ctx[0].gitManager
     }
   });
   filecomponent.$on("git-refresh", triggerRefresh);
@@ -29000,8 +29224,6 @@ function create_each_block_1(ctx) {
         filecomponent_changes.view = ctx2[1];
       if (dirty[0] & 1)
         filecomponent_changes.manager = ctx2[0].gitManager;
-      if (dirty[0] & 1)
-        filecomponent_changes.workspace = ctx2[0].app.workspace;
       filecomponent.$set(filecomponent_changes);
     },
     i(local) {
@@ -29038,7 +29260,7 @@ function create_if_block_12(ctx) {
       div2 = element("div");
       div1 = element("div");
       div1.innerHTML = `<div class="tree-item-icon collapse-icon svelte-1f0ksxd" style=""><svg viewBox="0 0 100 100" class="right-triangle svelte-1f0ksxd" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div> 
-              <span>Recently Pulled Changes</span>`;
+							<span>Recently Pulled Changes</span>`;
       t2 = space();
       span1 = element("span");
       t3 = text(t3_value);
@@ -29375,7 +29597,7 @@ function create_fragment5(ctx) {
   let mounted;
   let dispose;
   let if_block0 = ctx[7] && create_if_block_8(ctx);
-  let if_block1 = ctx[5] && create_if_block4(ctx);
+  let if_block1 = ctx[5] && ctx[10] && ctx[9] && create_if_block4(ctx);
   return {
     c() {
       main = element("main");
@@ -29511,10 +29733,10 @@ function create_fragment5(ctx) {
         if_block0.d(1);
         if_block0 = null;
       }
-      if (ctx2[5]) {
+      if (ctx2[5] && ctx2[10] && ctx2[9]) {
         if (if_block1) {
           if_block1.p(ctx2, dirty);
-          if (dirty[0] & 32) {
+          if (dirty[0] & 1568) {
             transition_in(if_block1, 1);
           }
         } else {
@@ -29582,8 +29804,8 @@ function instance5($$self, $$props, $$invalidate) {
   addEventListener("git-view-refresh", refresh);
   plugin.app.workspace.onLayoutReady(() => {
     window.setTimeout(() => {
-      buttons.forEach((btn) => (0, import_obsidian20.setIcon)(btn, btn.getAttr("data-icon"), 16));
-      (0, import_obsidian20.setIcon)(layoutBtn, showTree ? "list" : "folder", 16);
+      buttons.forEach((btn) => (0, import_obsidian21.setIcon)(btn, btn.getAttr("data-icon"), 16));
+      (0, import_obsidian21.setIcon)(layoutBtn, showTree ? "list" : "folder", 16);
     }, 0);
   });
   onDestroy(() => {
@@ -29591,15 +29813,17 @@ function instance5($$self, $$props, $$invalidate) {
   });
   async function commit2() {
     $$invalidate(4, loading = true);
-    if (await plugin.hasTooBigFiles(status2.staged)) {
-      plugin.setState(PluginState.idle);
-      return false;
-    }
-    plugin.gitManager.commit(commitMessage).then(() => {
-      if (commitMessage !== plugin.settings.commitMessage) {
-        $$invalidate(7, commitMessage = "");
+    if (status2) {
+      if (await plugin.hasTooBigFiles(status2.staged)) {
+        plugin.setState(PluginState.idle);
+        return false;
       }
-    }).finally(triggerRefresh);
+      plugin.gitManager.commit(commitMessage).then(() => {
+        if (commitMessage !== plugin.settings.commitMessage) {
+          $$invalidate(7, commitMessage = "");
+        }
+      }).finally(triggerRefresh);
+    }
   }
   async function refresh() {
     if (!plugin.gitReady) {
@@ -29646,9 +29870,7 @@ function instance5($$self, $$props, $$invalidate) {
   }
   function push2() {
     $$invalidate(4, loading = true);
-    if (ready) {
-      plugin.push().finally(triggerRefresh);
-    }
+    plugin.push().finally(triggerRefresh);
   }
   function pull2() {
     $$invalidate(4, loading = true);
@@ -29720,7 +29942,7 @@ function instance5($$self, $$props, $$invalidate) {
       $: {
         if (layoutBtn) {
           layoutBtn.empty();
-          (0, import_obsidian20.setIcon)(layoutBtn, showTree ? "list" : "folder", 16);
+          (0, import_obsidian21.setIcon)(layoutBtn, showTree ? "list" : "folder", 16);
         }
       }
     }
@@ -29770,7 +29992,7 @@ var GitView = class extends SvelteComponent {
 var gitView_default = GitView;
 
 // src/ui/sidebar/sidebarView.ts
-var GitView2 = class extends import_obsidian21.ItemView {
+var GitView2 = class extends import_obsidian22.ItemView {
   constructor(leaf, plugin) {
     super(leaf);
     this.plugin = plugin;
@@ -29800,8 +30022,33 @@ var GitView2 = class extends import_obsidian21.ItemView {
   }
 };
 
+// src/ui/statusBar/branchStatusBar.ts
+init_polyfill_buffer();
+var BranchStatusBar = class {
+  constructor(statusBarEl, plugin) {
+    this.statusBarEl = statusBarEl;
+    this.plugin = plugin;
+    this.statusBarEl.addClass("mod-clickable");
+    this.statusBarEl.onClickEvent((e) => {
+      this.plugin.switchBranch();
+    });
+  }
+  async display() {
+    if (this.plugin.gitReady) {
+      const branchInfo = await this.plugin.gitManager.branchInfo();
+      if (branchInfo.current != void 0) {
+        this.statusBarEl.setText(branchInfo.current);
+      } else {
+        this.statusBarEl.empty();
+      }
+    } else {
+      this.statusBarEl.empty();
+    }
+  }
+};
+
 // src/main.ts
-var ObsidianGit = class extends import_obsidian22.Plugin {
+var ObsidianGit = class extends import_obsidian23.Plugin {
   constructor() {
     super(...arguments);
     this.gitReady = false;
@@ -29832,6 +30079,7 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
   async onload() {
     console.log("loading " + this.manifest.name + " plugin");
     this.localStorage = new LocalStorageSettings(this);
+    this.localStorage.migrate();
     await this.loadSettings();
     this.migrateSettings();
     this.addSettingTab(new ObsidianGitSettingsTab(this.app, this));
@@ -29869,20 +30117,27 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
       id: "open-git-view",
       name: "Open source control view",
       callback: async () => {
-        if (this.app.workspace.getLeavesOfType(GIT_VIEW_CONFIG.type).length === 0) {
+        const leafs = this.app.workspace.getLeavesOfType(GIT_VIEW_CONFIG.type);
+        if (leafs.length === 0) {
           await this.app.workspace.getRightLeaf(false).setViewState({
             type: GIT_VIEW_CONFIG.type
           });
         }
-        this.app.workspace.revealLeaf(this.app.workspace.getLeavesOfType(GIT_VIEW_CONFIG.type).first());
+        this.app.workspace.revealLeaf(leafs.first());
         dispatchEvent(new CustomEvent("git-refresh"));
       }
     });
     this.addCommand({
       id: "open-diff-view",
       name: "Open diff view",
-      editorCallback: async (editor, view) => {
-        getNewLeaf().setViewState({ type: DIFF_VIEW_CONFIG.type, state: { staged: false, file: view.file.path } });
+      checkCallback: (checking) => {
+        var _a2;
+        const file = this.app.workspace.getActiveFile();
+        if (checking) {
+          return file !== null;
+        } else {
+          (_a2 = getNewLeaf()) == null ? void 0 : _a2.setViewState({ type: DIFF_VIEW_CONFIG.type, state: { staged: false, file: file.path } });
+        }
       }
     });
     this.addCommand({
@@ -29906,7 +30161,7 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
       checkCallback: (checking) => {
         const file = app.workspace.getActiveFile();
         if (checking) {
-          return file !== void 0;
+          return file !== null;
         } else {
           app.vault.adapter.append(this.gitManager.getVaultPath(".gitignore"), "\n" + this.gitManager.getPath(file.path, true)).then(() => {
             this.refresh();
@@ -29961,10 +30216,11 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
       id: "stage-current-file",
       name: "Stage current file",
       checkCallback: (checking) => {
+        const file = this.app.workspace.getActiveFile();
         if (checking) {
-          return this.app.workspace.getActiveFile() !== null;
+          return file !== null;
         } else {
-          this.promiseQueue.addTask(() => this.stageCurrentFile());
+          this.promiseQueue.addTask(() => this.stageFile(file));
         }
       }
     });
@@ -29972,10 +30228,11 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
       id: "unstage-current-file",
       name: "Unstage current file",
       checkCallback: (checking) => {
+        const file = this.app.workspace.getActiveFile();
         if (checking) {
-          return this.app.workspace.getActiveFile() !== null;
+          return file !== null;
         } else {
-          this.promiseQueue.addTask(() => this.unstageCurrentFile());
+          this.promiseQueue.addTask(() => this.unstageFile(file));
         }
       }
     });
@@ -29995,16 +30252,16 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
       callback: async () => {
         const repoExists = await this.app.vault.adapter.exists(`${this.settings.basePath}/.git`);
         if (repoExists) {
-          const modal = new GeneralModal(this.app, ["NO", "YES"], "Do you really want to delete the repository (.git directory)? This action cannot be undone.", false, true);
+          const modal = new GeneralModal({ options: ["NO", "YES"], placeholder: "Do you really want to delete the repository (.git directory)? This action cannot be undone.", onlySelection: true });
           const shouldDelete = await modal.open() === "YES";
           if (shouldDelete) {
             await this.app.vault.adapter.rmdir(`${this.settings.basePath}/.git`, true);
-            new import_obsidian22.Notice("Successfully deleted repository. Reloading plugin...");
+            new import_obsidian23.Notice("Successfully deleted repository. Reloading plugin...");
             this.unloadPlugin();
             this.init();
           }
         } else {
-          new import_obsidian22.Notice("No repository found");
+          new import_obsidian23.Notice("No repository found");
         }
       }
     });
@@ -30033,20 +30290,52 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
         new ChangedFilesModal(this, status2.changed).open();
       }
     });
+    this.addCommand({
+      id: "switch-branch",
+      name: "Switch branch",
+      callback: () => {
+        this.switchBranch();
+      }
+    });
+    this.addCommand({
+      id: "create-branch",
+      name: "Create new branch",
+      callback: () => {
+        this.createBranch();
+      }
+    });
+    this.addCommand({
+      id: "delete-branch",
+      name: "Delete branch",
+      callback: () => {
+        this.deleteBranch();
+      }
+    });
     this.registerEvent(this.app.workspace.on("file-menu", (menu, file, source) => {
       this.handleFileMenu(menu, file, source);
     }));
     if (this.settings.showStatusBar) {
-      let statusBarEl = this.addStatusBarItem();
+      const statusBarEl = this.addStatusBarItem();
       this.statusBar = new StatusBar(statusBarEl, this);
-      this.registerInterval(window.setInterval(() => this.statusBar.display(), 1e3));
+      this.registerInterval(window.setInterval(() => {
+        var _a2;
+        return (_a2 = this.statusBar) == null ? void 0 : _a2.display();
+      }, 1e3));
+    }
+    if (import_obsidian23.Platform.isDesktop && this.settings.showBranchStatusBar) {
+      const branchStatusBarEl = this.addStatusBarItem();
+      this.branchBar = new BranchStatusBar(branchStatusBarEl, this);
+      this.registerInterval(window.setInterval(() => {
+        var _a2;
+        return (_a2 = this.branchBar) == null ? void 0 : _a2.display();
+      }, 6e4));
     }
     this.app.workspace.onLayoutReady(() => this.init());
   }
   setRefreshDebouncer() {
     var _a2;
     (_a2 = this.debRefresh) == null ? void 0 : _a2.cancel();
-    this.debRefresh = (0, import_obsidian22.debounce)(() => {
+    this.debRefresh = (0, import_obsidian23.debounce)(() => {
       if (this.settings.refreshSourceControl) {
         this.refresh();
       }
@@ -30054,13 +30343,13 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
   }
   async showNotices() {
     const length = 1e4;
-    if (this.manifest.id === "obsidian-git" && import_obsidian22.Platform.isDesktopApp && !this.settings.showedMobileNotice) {
-      new import_obsidian22.Notice("Obsidian Git is now available on mobile! Please read the plugin's README for more information.", length);
+    if (this.manifest.id === "obsidian-git" && import_obsidian23.Platform.isDesktopApp && !this.settings.showedMobileNotice) {
+      new import_obsidian23.Notice("Obsidian Git is now available on mobile! Please read the plugin's README for more information.", length);
       this.settings.showedMobileNotice = true;
       await this.saveSettings();
     }
     if (this.manifest.id === "obsidian-git-isomorphic") {
-      new import_obsidian22.Notice("Obsidian Git Mobile is now deprecated. Please uninstall it and install Obsidian Git instead.", length);
+      new import_obsidian23.Notice("Obsidian Git Mobile is now deprecated. Please uninstall it and install Obsidian Git instead.", length);
     }
   }
   handleFileMenu(menu, file, source) {
@@ -30075,7 +30364,7 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
     menu.addItem((item) => {
       item.setTitle(`Git: Stage`).setIcon("plus-circle").setSection("action").onClick((_) => {
         this.promiseQueue.addTask(async () => {
-          if (file instanceof import_obsidian22.TFile) {
+          if (file instanceof import_obsidian23.TFile) {
             await this.gitManager.stage(file.path, true);
           } else {
             await this.gitManager.stageAll({ dir: this.gitManager.getPath(file.path, true) });
@@ -30087,7 +30376,7 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
     menu.addItem((item) => {
       item.setTitle(`Git: Unstage`).setIcon("minus-circle").setSection("action").onClick((_) => {
         this.promiseQueue.addTask(async () => {
-          if (file instanceof import_obsidian22.TFile) {
+          if (file instanceof import_obsidian23.TFile) {
             await this.gitManager.unstage(file.path, true);
           } else {
             await this.gitManager.unstageAll({ dir: this.gitManager.getPath(file.path, true) });
@@ -30097,20 +30386,20 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
       });
     });
   }
-  migrateSettings() {
+  async migrateSettings() {
     if (this.settings.mergeOnPull != void 0) {
       this.settings.syncMethod = this.settings.mergeOnPull ? "merge" : "rebase";
       this.settings.mergeOnPull = void 0;
-      return this.saveSettings();
+      await this.saveSettings();
     }
     if (this.settings.autoCommitMessage === void 0) {
       this.settings.autoCommitMessage = this.settings.commitMessage;
-      this.saveSettings();
+      await this.saveSettings();
     }
     if (this.settings.gitPath != void 0) {
       this.localStorage.setGitPath(this.settings.gitPath);
       this.settings.gitPath = void 0;
-      this.saveSettings();
+      await this.saveSettings();
     }
   }
   unloadPlugin() {
@@ -30128,8 +30417,6 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
   }
   async onunload() {
     this.app.workspace.unregisterHoverLinkSource(GIT_VIEW_CONFIG.type);
-    this.app.workspace.detachLeavesOfType(GIT_VIEW_CONFIG.type);
-    this.app.workspace.detachLeavesOfType(DIFF_VIEW_CONFIG.type);
     this.unloadPlugin();
     console.log("unloading " + this.manifest.name + " plugin");
   }
@@ -30161,9 +30448,10 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
     };
   }
   async init() {
+    var _a2;
     this.showNotices();
     try {
-      if (import_obsidian22.Platform.isDesktopApp) {
+      if (import_obsidian23.Platform.isDesktopApp) {
         this.gitManager = new SimpleGit(this);
         await this.gitManager.setGitInstance();
       } else {
@@ -30175,7 +30463,7 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
           this.displayError("Cannot run git command");
           break;
         case "missing-repo":
-          new import_obsidian22.Notice("Can't find a valid git repository. Please create one via the given command or clone an existing repo.");
+          new import_obsidian23.Notice("Can't find a valid git repository. Please create one via the given command or clone an existing repo.");
           break;
         case "valid":
           this.gitReady = true;
@@ -30196,6 +30484,7 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
           this.registerEvent(this.deleteEvent);
           this.registerEvent(this.createEvent);
           this.registerEvent(this.renameEvent);
+          (_a2 = this.branchBar) == null ? void 0 : _a2.display();
           dispatchEvent(new CustomEvent("git-refresh"));
           if (this.settings.autoPullOnBoot) {
             this.promiseQueue.addTask(() => this.pullChangesFromRemote());
@@ -30227,45 +30516,49 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
   }
   async createNewRepo() {
     await this.gitManager.init();
-    new import_obsidian22.Notice("Initialized new repo");
+    new import_obsidian23.Notice("Initialized new repo");
     await this.init();
   }
   async cloneNewRepo() {
-    const modal = new GeneralModal(this.app, [], "Enter remote URL");
+    const modal = new GeneralModal({ placeholder: "Enter remote URL" });
     const url = await modal.open();
     if (url) {
       const confirmOption = "Vault Root";
-      let dir = await new GeneralModal(this.app, [confirmOption], "Enter directory for clone. It needs to be empty or not existent.", this.gitManager instanceof IsomorphicGit).open();
+      let dir = await new GeneralModal({
+        options: [confirmOption],
+        placeholder: "Enter directory for clone. It needs to be empty or not existent.",
+        allowEmpty: this.gitManager instanceof IsomorphicGit
+      }).open();
       if (dir !== void 0) {
         if (dir === confirmOption) {
           dir = ".";
         }
-        dir = (0, import_obsidian22.normalizePath)(dir);
+        dir = (0, import_obsidian23.normalizePath)(dir);
         if (dir === "/") {
           dir = ".";
         }
         if (dir === ".") {
-          const modal2 = new GeneralModal(this.app, ["NO", "YES"], `Does your remote repo contain a ${app.vault.configDir} directory at the root?`, false, true);
+          const modal2 = new GeneralModal({ options: ["NO", "YES"], placeholder: `Does your remote repo contain a ${app.vault.configDir} directory at the root?`, onlySelection: true });
           const containsConflictDir = await modal2.open();
           if (containsConflictDir === void 0) {
-            new import_obsidian22.Notice("Aborted clone");
+            new import_obsidian23.Notice("Aborted clone");
             return;
           } else if (containsConflictDir === "YES") {
             const confirmOption2 = "DELETE ALL YOUR LOCAL CONFIG AND PLUGINS";
-            const modal3 = new GeneralModal(this.app, ["Abort clone", confirmOption2], `To avoid conflicts, the local ${app.vault.configDir} directory needs to be deleted.`, false, true);
+            const modal3 = new GeneralModal({ options: ["Abort clone", confirmOption2], placeholder: `To avoid conflicts, the local ${app.vault.configDir} directory needs to be deleted.`, onlySelection: true });
             const shouldDelete = await modal3.open() === confirmOption2;
             if (shouldDelete) {
               await this.app.vault.adapter.rmdir(app.vault.configDir, true);
             } else {
-              new import_obsidian22.Notice("Aborted clone");
+              new import_obsidian23.Notice("Aborted clone");
               return;
             }
           }
         }
-        new import_obsidian22.Notice(`Cloning new repo into "${dir}"`);
+        new import_obsidian23.Notice(`Cloning new repo into "${dir}"`);
         await this.gitManager.clone(url, dir);
-        new import_obsidian22.Notice("Cloned new repo.");
-        new import_obsidian22.Notice("Please restart Obsidian");
+        new import_obsidian23.Notice("Cloned new repo.");
+        new import_obsidian23.Notice("Please restart Obsidian");
         if (dir && dir !== ".") {
           this.settings.basePath = dir;
           this.saveSettings();
@@ -30300,11 +30593,14 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
   async createBackup(fromAutoBackup, requestCustomMessage = false) {
     if (!await this.isAllInitialized())
       return;
+    if (this.settings.syncMethod == "reset" && this.settings.pullBeforePush) {
+      await this.pull();
+    }
     if (!await this.commit(fromAutoBackup, requestCustomMessage))
       return;
     if (!this.settings.disablePush) {
       if (await this.gitManager.canPush()) {
-        if (this.settings.pullBeforePush) {
+        if (this.settings.syncMethod != "reset" && this.settings.pullBeforePush) {
           await this.pull();
         }
         await this.push();
@@ -30323,21 +30619,23 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
     let unstagedFiles;
     if (this.gitManager instanceof SimpleGit) {
       const file = this.app.vault.getAbstractFileByPath(this.conflictOutputFile);
-      await this.app.vault.delete(file);
+      if (file != null)
+        await this.app.vault.delete(file);
       status2 = await this.updateCachedStatus();
       if (fromAutoBackup && status2.conflicted.length > 0) {
         this.displayError(`Did not commit, because you have ${status2.conflicted.length} conflict ${status2.conflicted.length > 1 ? "files" : "file"}. Please resolve them and commit per command.`);
         this.handleConflict(status2.conflicted);
-        return;
+        return false;
       }
       changedFiles = [...status2.changed, ...status2.staged];
     } else if (fromAutoBackup && hadConflict) {
       this.setState(PluginState.conflicted);
       this.displayError(`Did not commit, because you have conflict files. Please resolve them and commit per command.`);
-      return;
+      return false;
     } else if (hadConflict) {
       const file = this.app.vault.getAbstractFileByPath(this.conflictOutputFile);
-      await this.app.vault.delete(file);
+      if (file != null)
+        await this.app.vault.delete(file);
       status2 = await this.updateCachedStatus();
       changedFiles = [...status2.changed, ...status2.staged];
     } else {
@@ -30356,7 +30654,7 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
       let commitMessage = fromAutoBackup ? this.settings.autoCommitMessage : this.settings.commitMessage;
       if (fromAutoBackup && this.settings.customMessageOnAutoBackup || requestCustomMessage) {
         if (!this.settings.disablePopups && fromAutoBackup) {
-          new import_obsidian22.Notice("Auto backup: Please enter a custom commit message. Leave empty to abort");
+          new import_obsidian23.Notice("Auto backup: Please enter a custom commit message. Leave empty to abort");
         }
         const tempMessage = await new CustomMessageModal(this, true).open();
         if (tempMessage != void 0 && tempMessage != "" && tempMessage != "...") {
@@ -30391,10 +30689,10 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
     const remote = (_a2 = branchInfo.tracking) == null ? void 0 : _a2.split("/")[0];
     if (remote) {
       const remoteUrl = await this.gitManager.getRemoteUrl(remote);
-      if (remoteUrl.includes("github.com")) {
+      if (remoteUrl == null ? void 0 : remoteUrl.includes("github.com")) {
         const tooBigFiles = files.filter((f) => {
           const file = this.app.vault.getAbstractFileByPath(f.vault_path);
-          if (file instanceof import_obsidian22.TFile) {
+          if (file instanceof import_obsidian23.TFile) {
             return file.stat.size >= 1e8;
           }
           return false;
@@ -30446,7 +30744,7 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
     if (!await this.remotesAreSet()) {
       return false;
     }
-    const pulledFiles = await this.gitManager.pull();
+    const pulledFiles = await this.gitManager.pull() || [];
     this.offlineMode = false;
     if (pulledFiles.length > 0) {
       this.displayMessage(`Pulled ${pulledFiles.length} ${pulledFiles.length > 1 ? "files" : "file"} from remote`);
@@ -30454,29 +30752,75 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
     }
     return pulledFiles.length != 0;
   }
-  async stageCurrentFile() {
+  async stageFile(file) {
     if (!await this.isAllInitialized())
       return false;
-    const file = this.app.workspace.getActiveFile();
     await this.gitManager.stage(file.path, true);
     this.displayMessage(`Staged ${file.path}`);
     dispatchEvent(new CustomEvent("git-refresh"));
     this.setState(PluginState.idle);
     return true;
   }
-  async unstageCurrentFile() {
+  async unstageFile(file) {
     if (!await this.isAllInitialized())
       return false;
-    const file = this.app.workspace.getActiveFile();
     await this.gitManager.unstage(file.path, true);
     this.displayMessage(`Unstaged ${file.path}`);
     dispatchEvent(new CustomEvent("git-refresh"));
     this.setState(PluginState.idle);
     return true;
   }
+  async switchBranch() {
+    var _a2;
+    if (!await this.isAllInitialized())
+      return;
+    const branchInfo = await this.gitManager.branchInfo();
+    const selectedBranch = await new BranchModal(branchInfo.branches).open();
+    if (selectedBranch != void 0) {
+      await this.gitManager.checkout(selectedBranch);
+      this.displayMessage(`Switched to ${selectedBranch}`);
+      (_a2 = this.branchBar) == null ? void 0 : _a2.display();
+      return selectedBranch;
+    }
+  }
+  async createBranch() {
+    var _a2;
+    if (!await this.isAllInitialized())
+      return;
+    const newBranch = await new GeneralModal({ placeholder: "Create new branch" }).open();
+    if (newBranch != void 0) {
+      await this.gitManager.createBranch(newBranch);
+      this.displayMessage(`Created new branch ${newBranch}`);
+      (_a2 = this.branchBar) == null ? void 0 : _a2.display();
+      return newBranch;
+    }
+  }
+  async deleteBranch() {
+    var _a2;
+    if (!await this.isAllInitialized())
+      return;
+    const branchInfo = await this.gitManager.branchInfo();
+    if (branchInfo.current)
+      branchInfo.branches.remove(branchInfo.current);
+    const branch2 = await new GeneralModal({ options: branchInfo.branches, placeholder: "Delete branch", onlySelection: true }).open();
+    if (branch2 != void 0) {
+      let force = false;
+      if (!await this.gitManager.branchIsMerged(branch2)) {
+        const forceAnswer = await new GeneralModal({ options: ["YES", "NO"], placeholder: "This branch isn't merged into HEAD. Force delete?", onlySelection: true }).open();
+        if (forceAnswer !== "YES") {
+          return;
+        }
+        force = forceAnswer === "YES";
+      }
+      await this.gitManager.deleteBranch(branch2, force);
+      this.displayMessage(`Deleted branch ${branch2}`);
+      (_a2 = this.branchBar) == null ? void 0 : _a2.display();
+      return branch2;
+    }
+  }
   async remotesAreSet() {
     if (!(await this.gitManager.branchInfo()).tracking) {
-      new import_obsidian22.Notice("No upstream branch is set. Please select one.");
+      new import_obsidian23.Notice("No upstream branch is set. Please select one.");
       const remoteBranch = await this.selectRemoteBranch();
       if (remoteBranch == void 0) {
         this.displayError("Aborted. No upstream-branch is set!", 1e4);
@@ -30496,7 +30840,7 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
         this.doAutoBackup();
       } else {
         this.onFileModifyEventRef = this.app.vault.on("modify", () => this.autoBackupDebouncer());
-        this.autoBackupDebouncer = (0, import_obsidian22.debounce)(() => this.doAutoBackup(), time, true);
+        this.autoBackupDebouncer = (0, import_obsidian23.debounce)(() => this.doAutoBackup(), time, true);
       }
     } else {
       this.timeoutIDBackup = window.setTimeout(() => this.doAutoBackup(), time);
@@ -30572,7 +30916,7 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
         "Please resolve them and commit per command (This file will be deleted before the commit).",
         ...conflicted.map((e) => {
           const file = this.app.vault.getAbstractFileByPath(e);
-          if (file instanceof import_obsidian22.TFile) {
+          if (file instanceof import_obsidian23.TFile) {
             const link = this.app.metadataCache.fileToLinktext(file, "/");
             return `- [[${link}]]`;
           } else {
@@ -30587,10 +30931,14 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
     if (!await this.isAllInitialized())
       return;
     const remotes = await this.gitManager.getRemotes();
-    const nameModal = new GeneralModal(this.app, remotes, "Select or create a new remote by typing its name and selecting it");
+    const nameModal = new GeneralModal({
+      options: remotes,
+      placeholder: "Select or create a new remote by typing its name and selecting it"
+    });
     const remoteName = await nameModal.open();
     if (remoteName) {
-      const urlModal = new GeneralModal(this.app, [], "Enter the remote URL");
+      const oldUrl = await this.gitManager.getRemoteUrl(remoteName);
+      const urlModal = new GeneralModal({ initialValue: oldUrl });
       const remoteURL = await urlModal.open();
       if (remoteURL) {
         await this.gitManager.setRemote(remoteName, remoteURL);
@@ -30607,13 +30955,13 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
         remotes = await this.gitManager.getRemotes();
       }
     }
-    const nameModal = new GeneralModal(this.app, remotes, "Select or create a new remote by typing its name and selecting it");
+    const nameModal = new GeneralModal({ options: remotes, placeholder: "Select or create a new remote by typing its name and selecting it" });
     const remoteName = selectedRemote != null ? selectedRemote : await nameModal.open();
     if (remoteName) {
       this.displayMessage("Fetching remote branches");
       await this.gitManager.fetch(remoteName);
       const branches = await this.gitManager.getRemoteBranches(remoteName);
-      const branchModal = new GeneralModal(this.app, branches, "Select or create a new remote branch by typing its name and selecting it");
+      const branchModal = new GeneralModal({ options: branches, placeholder: "Select or create a new remote branch by typing its name and selecting it" });
       return await branchModal.open();
     }
   }
@@ -30621,7 +30969,7 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
     if (!await this.isAllInitialized())
       return;
     const remotes = await this.gitManager.getRemotes();
-    const nameModal = new GeneralModal(this.app, remotes, "Select a remote");
+    const nameModal = new GeneralModal({ options: remotes, placeholder: "Select a remote" });
     const remoteName = await nameModal.open();
     if (remoteName) {
       this.gitManager.removeRemote(remoteName);
@@ -30645,18 +30993,18 @@ var ObsidianGit = class extends import_obsidian22.Plugin {
     var _a2;
     (_a2 = this.statusBar) == null ? void 0 : _a2.displayMessage(message.toLowerCase(), timeout);
     if (!this.settings.disablePopups) {
-      new import_obsidian22.Notice(message, 5 * 1e3);
+      new import_obsidian23.Notice(message, 5 * 1e3);
     }
     console.log(`git obsidian message: ${message}`);
   }
   displayError(message, timeout = 10 * 1e3) {
     var _a2;
     if (message instanceof Errors.UserCanceledError) {
-      new import_obsidian22.Notice("Aborted");
+      new import_obsidian23.Notice("Aborted");
       return;
     }
     message = message.toString();
-    new import_obsidian22.Notice(message, timeout);
+    new import_obsidian23.Notice(message, timeout);
     console.log(`git obsidian error: ${message}`);
     (_a2 = this.statusBar) == null ? void 0 : _a2.displayMessage(message.toLowerCase(), timeout);
   }
