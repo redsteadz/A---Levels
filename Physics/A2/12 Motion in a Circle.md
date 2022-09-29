@@ -67,4 +67,3 @@ collapse:true
 [[Uniform-Circular-Motion.pdf]]
 [[Physics/A2/attatchments/Notes - Topic 12 Motion in a Circle - CAIE Physics A-level.pdf]]
 ```
-[[2022-08-26]]
