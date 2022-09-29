@@ -66,4 +66,5 @@ title: Resources
 collapse:true
 [[Uniform-Circular-Motion.pdf]]
 [[Physics/A2/attatchments/Notes - Topic 12 Motion in a Circle - CAIE Physics A-level.pdf]]
+[[Physics/A2/attatchments/E Vertical Circles Part 2 1.pdf]]
 ```
