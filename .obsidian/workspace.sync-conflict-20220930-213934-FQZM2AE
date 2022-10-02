@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "10362a670591c93f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f5b06a7bbb11b78",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Power and Efficiency_220920_120349.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10fd6bdd5028d1dc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5a3a9c658867d3a9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "8d6d7080f39cff5b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b2eeaa3f348c4663",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "866ad89a151277b2",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "dc168a5a7468a24a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Power and Efficiency_220920_120349.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "55593a5f3c025852",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Power and Efficiency_220920_120349.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6e06f2ba6d712aab",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Power and Efficiency_220920_120349.pdf"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "0f5b06a7bbb11b78",
+  "lastOpenFiles": [
+    "TeXRefCard.v1.5.pdf",
+    "@ Mega Index.md",
+    "Vim cheatsheet.md",
+    "Pressure.md",
+    "Maths/A2/1.1 Algebra.md",
+    "Chemistry/A2/Organic Chemistry/31 Halogen Compounds.md",
+    "Chemistry/A2/Organic Chemistry/attatchments/30.1 Arenes 2022-08-22 21.41.13.excalidraw.md",
+    "Chemistry/A2/Organic Chemistry/30 Arenes.md",
+    "Physics/A2/13 Gravity PP.md",
+    "Physics/A2/attatchments/13 Gravity PP 2022-09-13 21.41.39.excalidraw.md"
+  ]
+}
