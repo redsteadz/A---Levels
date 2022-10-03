@@ -177775,6 +177775,48 @@ d52dc285032ff481132d41d74dab0479a0fc40d4: [[Maths/A2/attatchments/attatchments/P
 			]
 		},
 		{
+			"id": "o6zJ1j0zUf0vmvL-ORn26",
+			"type": "freedraw",
+			"x": 7812.5811767578125,
+			"y": -2818.8425979157946,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1848503255,
+			"version": 3,
+			"versionNonce": 189815031,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1664729990185,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
 			"id": "CGwcaRWvySGSzvuln4l0F",
 			"type": "freedraw",
 			"x": -807.09765625,
