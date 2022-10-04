@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "ed1e9a7e103598ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "7147afe5c16f1f2c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "New Doc.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9fd146af2d9cd95e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "04cc1d08d4bf7592",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Physics/attatchments/Uniform-Circular-Motion.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d800bfa0fdfd97fe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e993b6e1e7ec8427",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "292f2452e80933dc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "014ef1c55bee2cc9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ba8b8c8da15ec671",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "a6df3ecac9baab5c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9d8b1ae13e8decc0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1d4fca7f3f98f7af",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "9fd146af2d9cd95e",
+  "lastOpenFiles": [
+    "attatchments/Pressure 2022-09-23 16.05.48.excalidraw.md",
+    "New Doc.md",
+    "Pressure.md",
+    "Physics/A2/13 Gravity.md",
+    "Physics/A2/attatchments/Gravity 2022-08-30 20.30.55.excalidraw.md",
+    "Physics/A2/12 Motion in a Circle.md",
+    "Physics/attatchments/Uniform-Circular-Motion.pdf",
+    "attatchments/Reversible Reactions 2022-09-22 12.04.48.excalidraw.md",
+    "Reversible Reactions.md",
+    "attatchments/New Doc 2022-09-27 17.10.54.excalidraw.md"
+  ]
+}
