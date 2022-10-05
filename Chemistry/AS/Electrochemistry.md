@@ -8,6 +8,7 @@
 
 ### Calculation
 In order to calculate the rules need to be followed !
+
 ```ad-note
 title:**Rule 1** In its pure elemental form, an atom has an oxidation number of zero.
 
