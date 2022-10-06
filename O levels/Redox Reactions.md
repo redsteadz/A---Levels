@@ -32,8 +32,7 @@ title:**Rule 5** The sum of the oxidation numbers in a neutral compound is equal
 # The Rules of Oxidation Number
 ![[O levels/attatchments/Redox Reactions 2022-10-05 12.15.03.excalidraw]]
 
-**Redox Reaction** are reactions in which oxidation and reduction happen 
-simultaneosly 
+**Redox Reaction** are reactions in which oxidation and reduction happen simultaneosly 
 
 ## Oxidation
 - In which a substance, Gains Oxygen.
@@ -42,3 +41,5 @@ simultaneosly
 	- ![[O levels/attatchments/Redox Reactions 2022-10-05 12.31.58.excalidraw]]
 	- Gain of Oxidation Number!
 		- ![[O levels/attatchments/Redox Reactions 2022-10-05 12.37.38.excalidraw]]
+**Examples**
+![[O levels/attatchments/Redox Reactions 2022-10-05 17.45.20.excalidraw]]
