@@ -20,3 +20,4 @@ Gases:
 ![[O levels/attatchments/Thermal Physics 2022-10-07 16.36.48.excalidraw]]
 
 ![[O levels/attatchments/Thermal Physics 2022-10-07 16.48.35.excalidraw]]
+![[O levels/attatchments/Thermal Physics 2022-10-11 11.47.43.excalidraw]]
