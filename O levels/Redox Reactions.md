@@ -1,3 +1,4 @@
+
 # Redox Reactions
 ![[O levels/attatchments/Redox Reactions Syllabus.png]]
 
@@ -43,3 +44,30 @@ title:**Rule 5** The sum of the oxidation numbers in a neutral compound is equal
 		- ![[O levels/attatchments/Redox Reactions 2022-10-05 12.37.38.excalidraw]]
 **Examples**
 ![[O levels/attatchments/Redox Reactions 2022-10-05 17.45.20.excalidraw]]
+
+## Reduction
+- Loss of Oxygen
+	- ![[O levels/attatchments/Redox Reactions 2022-10-10 12.05.34.excalidraw]]
+- Gain of Electrons
+	- ![[O levels/attatchments/Redox Reactions 2022-10-10 12.10.31.excalidraw]]
+- **Loss in Oxidation Number**
+	- ![[O levels/attatchments/Redox Reactions 2022-10-10 12.15.23.excalidraw]]
+## Agents
+### Oxidizing Agent
+- A substance, Which oxidizes another AND reduces itself
+- Potassium Mangnate
+| Befor  | After |
+| ------ | ----- |
+| Purple | Brownish      |
+  
+  
+## Reducing Agents
+- A substance, which reduces another AND oxidizes itself
+- Potassium Iodide
+| Before | After |
+| ------ | ----- |
+| Brown  | Colorless      |
+
+
+# Past Papers
+![[O levels/attatchments/Redox Reactions 2022-10-10 12.30.52.excalidraw]]
