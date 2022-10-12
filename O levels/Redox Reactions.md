@@ -71,3 +71,4 @@ title:**Rule 5** The sum of the oxidation numbers in a neutral compound is equal
 
 # Past Papers
 ![[O levels/attatchments/Redox Reactions 2022-10-10 12.30.52.excalidraw]]
+![[O levels/attatchments/Redox Reactions 2022-10-12 17.19.56.excalidraw]]
