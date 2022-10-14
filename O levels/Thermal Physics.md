@@ -21,3 +21,7 @@ Gases:
 
 ![[O levels/attatchments/Thermal Physics 2022-10-07 16.48.35.excalidraw]]
 ![[O levels/attatchments/Thermal Physics 2022-10-11 11.47.43.excalidraw]]
+## Thermal Expansion
+- When a substance expands due to increase in thermal energy is called thermal expansion
+- ![[O levels/attatchments/Thermal Physics 2022-10-13 17.09.48.excalidraw]]
+- ![[O levels/attatchments/Thermal Physics 2022-10-13 17.28.15.excalidraw]]
