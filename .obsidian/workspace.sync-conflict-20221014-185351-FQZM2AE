@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "ed1e9a7e103598ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1ef8d7725c604be",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Physics/A2/13 Gravity PP.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a076b8295afc3d68",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9e2d043538a24ccb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "740337be1de17976",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a78150cf0e0ef1d1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7dee7909699442c9",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "afc0270734551136",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Physics/A2/13 Gravity PP.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "01353137ad73912e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Physics/A2/13 Gravity PP.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4031f6ae56020245",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Physics/A2/13 Gravity PP.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "f1ef8d7725c604be",
+  "lastOpenFiles": [
+    "Chemistry/A2/Chemistry_Syllabus(ALVL).pdf",
+    "Electrolysis Revision Summary.sync-conflict-20220930-213935-FQZM2AE.md",
+    "attatchments/Reversible Reactions 2022-10-03 12.27.00.excalidraw.md",
+    "O levels/Reversible Reactions.md",
+    "O levels/Pressure.md",
+    "O levels/attatchments/Pressure 2022-10-04 11.21.20.excalidraw.md",
+    "attatchments/Pressure 2022-09-23 16.05.48.excalidraw.md",
+    "O levels/attatchments/Chemical And Energy Changes 2022-10-03 16.37.27.excalidraw.md",
+    "O levels/Chemical And Energy Changes.md",
+    "attatchments/Reversible Reactions 2022-09-22 12.04.48.excalidraw.md"
+  ]
+}

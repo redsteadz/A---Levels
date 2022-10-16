@@ -11,40 +11,9 @@
             "id": "afccf7e80d53327c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O levels/Thermal Physics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93cf0d3361c4d757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O levels/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f8cac6d486a1a7ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f09ec10a1a6baede",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "O levels/attatchments/Untitled 2022-10-14 17.13.55.excalidraw.md"
+                "file": "O levels/attatchments/Thermal Physics 2022-10-13 17.28.15.excalidraw.md"
               }
             }
           }
@@ -90,7 +59,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aabc4dd8de0f0f31",
@@ -114,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O levels/attatchments/Untitled 2022-10-14 17.13.55.excalidraw.md",
+                "file": "O levels/attatchments/Thermal Physics 2022-10-13 17.28.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O levels/attatchments/Untitled 2022-10-14 17.13.55.excalidraw.md",
+                "file": "O levels/attatchments/Thermal Physics 2022-10-13 17.28.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O levels/attatchments/Untitled 2022-10-14 17.13.55.excalidraw.md"
+                "file": "O levels/attatchments/Thermal Physics 2022-10-13 17.28.15.excalidraw.md"
               }
             }
           }
@@ -157,17 +127,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f09ec10a1a6baede",
+  "active": "afccf7e80d53327c",
   "lastOpenFiles": [
-    "O levels/Untitled.md",
     "O levels/Thermal Physics.md",
     "O levels/attatchments/Thermal Physics 2022-10-13 17.28.15.excalidraw.md",
+    "O levels/attatchments/Untitled 2022-10-14 17.13.55.excalidraw.md",
+    "O levels/Untitled.md",
     "O levels/attatchments/Thermal Physics 2022-10-13 17.09.48.excalidraw.md",
     "O levels/attatchments/Thermal Physics 2022-10-07 16.14.45.excalidraw.md",
     "O levels/attatchments/Thermal Physics 2022-10-07 16.11.10.excalidraw.md",
     "O levels/Redox Reactions.md",
     "Chemistry/AS/Atomic Bonding.md",
-    "O levels/attatchments/Redox Reactions 2022-10-12 17.19.56.excalidraw.md",
-    "O levels/Pressure.md"
+    "O levels/attatchments/Redox Reactions 2022-10-12 17.19.56.excalidraw.md"
   ]
 }
