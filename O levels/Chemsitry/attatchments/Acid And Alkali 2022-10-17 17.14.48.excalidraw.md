@@ -5412,27 +5412,27 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 			"locked": false
 		},
 		{
-			"id": "dmSTjkkL8Kp84mgFcgBGj",
 			"type": "freedraw",
-			"x": 289.9848258509629,
-			"y": -207.97879933753825,
-			"width": 1.9776419330104318,
-			"height": 4.94404973886833,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 7,
+			"versionNonce": 162671538,
+			"isDeleted": false,
+			"id": "dmSTjkkL8Kp84mgFcgBGj",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 289.9848258509629,
+			"y": -207.97879933753825,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1.9776419330104318,
+			"height": 4.94404973886833,
+			"seed": 2050076274,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2050076274,
-			"version": 7,
-			"versionNonce": 162671538,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1666010105085,
 			"link": null,
 			"locked": false,
@@ -5458,41 +5458,38 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.041307028383016586,
 				0.03353884071111679,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-1.9776419330104318,
-				4.94404973886833
 			]
 		},
 		{
-			"id": "srKk8W2hEH-ujV0Z4eHHw",
 			"type": "freedraw",
-			"x": 290.9736468174681,
-			"y": -208.96762030404346,
-			"width": 4.94404973886833,
-			"height": 11.865713863918188,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 1593611570,
+			"isDeleted": false,
+			"id": "srKk8W2hEH-ujV0Z4eHHw",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 290.9736468174681,
+			"y": -208.96762030404346,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 4.94404973886833,
+			"height": 11.865713863918188,
+			"seed": 1117593710,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1117593710,
-			"version": 20,
-			"versionNonce": 1593611570,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1666010105958,
 			"link": null,
 			"locked": false,
@@ -5574,6 +5571,8 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					9.88809947773666
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.049938347190618515,
@@ -5594,35 +5593,30 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 				0.03366214409470558,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-3.9552287723631707,
-				9.88809947773666
 			]
 		},
 		{
-			"id": "I2ix3X9d6wMHVBWdMrI6K",
 			"type": "freedraw",
-			"x": 322.6155320900307,
-			"y": -229.7325851323643,
-			"width": 23.731427727836376,
-			"height": 51.418029134378344,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 45,
+			"versionNonce": 810149998,
+			"isDeleted": false,
+			"id": "I2ix3X9d6wMHVBWdMrI6K",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 322.6155320900307,
+			"y": -229.7325851323643,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23.731427727836376,
+			"height": 51.418029134378344,
+			"seed": 212340462,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 212340462,
-			"version": 45,
-			"versionNonce": 810149998,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1666010107022,
 			"link": null,
 			"locked": false,
@@ -5804,6 +5798,8 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					-11.865713863918188
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.06621454656124115,
@@ -5849,35 +5845,30 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 				0.02441430278122425,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				20.7649648283209,
-				-11.865713863918188
 			]
 		},
 		{
-			"id": "SSYMEtf5Mx6DntRAxb6xg",
 			"type": "freedraw",
-			"x": 358.212591041299,
-			"y": -219.84451320145644,
-			"width": 13.843273156442137,
-			"height": 13.843328250099773,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 23,
+			"versionNonce": 224471218,
+			"isDeleted": false,
+			"id": "SSYMEtf5Mx6DntRAxb6xg",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 358.212591041299,
+			"y": -219.84451320145644,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 13.843273156442137,
+			"height": 13.843328250099773,
+			"seed": 1073323378,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1073323378,
-			"version": 23,
-			"versionNonce": 224471218,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1666010107520,
 			"link": null,
 			"locked": false,
@@ -5971,6 +5962,8 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					10.876892897412972
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.058569665998220444,
@@ -5994,35 +5987,30 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 				0.008138101547956467,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				7.910457544726228,
-				10.876892897412972
 			]
 		},
 		{
-			"id": "I-B2MTd3df18NClOdyl2U",
 			"type": "freedraw",
-			"x": 385.8992475414984,
-			"y": -240.60947802977728,
-			"width": 14.832094122947296,
-			"height": 38.563549397612576,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 1023359790,
+			"isDeleted": false,
+			"id": "I-B2MTd3df18NClOdyl2U",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 385.8992475414984,
+			"y": -240.60947802977728,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 14.832094122947296,
+			"height": 38.563549397612576,
+			"seed": 1395159918,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1395159918,
-			"version": 15,
-			"versionNonce": 1023359790,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1666010108083,
 			"link": null,
 			"locked": false,
@@ -6084,6 +6072,8 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					37.57472843110736
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.056720100343227386,
@@ -6099,35 +6089,30 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 				0.04303329065442085,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				4.943994645210751,
-				37.57472843110736
 			]
 		},
 		{
-			"id": "hcyyWLv2y0uiuHSAKw-PO",
 			"type": "freedraw",
-			"x": 402.70898359745615,
-			"y": -238.63186364359575,
-			"width": 18.787267801652888,
-			"height": 37.57470088427857,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 38305842,
+			"isDeleted": false,
+			"id": "hcyyWLv2y0uiuHSAKw-PO",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 402.70898359745615,
+			"y": -238.63186364359575,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18.787267801652888,
+			"height": 37.57470088427857,
+			"seed": 34068146,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 34068146,
-			"version": 21,
-			"versionNonce": 38305842,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1666010108527,
 			"link": null,
 			"locked": false,
@@ -6209,6 +6194,8 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.05992601811885834,
@@ -6229,35 +6216,30 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 				0.04549938440322876,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-3.955173678705478,
-				-4.94404973886833
 			]
 		},
 		{
-			"id": "KctZU2FwOu1p0-IfckYsm",
 			"type": "freedraw",
-			"x": 412.5970830751928,
-			"y": -210.945234690225,
-			"width": 5.93281561171591,
-			"height": 14.8321216697762,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 1720404402,
+			"isDeleted": false,
+			"id": "KctZU2FwOu1p0-IfckYsm",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 412.5970830751928,
+			"y": -210.945234690225,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 5.93281561171591,
+			"height": 14.8321216697762,
+			"seed": 77878254,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 77878254,
-			"version": 20,
-			"versionNonce": 1720404402,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1666010109157,
 			"link": null,
 			"locked": false,
@@ -6339,6 +6321,8 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					13.843328250099773
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.058569665998220444,
@@ -6359,35 +6343,30 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 				0.001726263901218772,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-0.988820966505159,
-				13.843328250099773
 			]
 		},
 		{
-			"id": "jFpqVOLd3HlyRSUXXF9EA",
 			"type": "freedraw",
-			"x": 367.1118695525304,
-			"y": -199.0795208263068,
-			"width": 7.910457544726228,
-			"height": 8.899278511231444,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 1715533746,
+			"isDeleted": false,
+			"id": "jFpqVOLd3HlyRSUXXF9EA",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 367.1118695525304,
+			"y": -199.0795208263068,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 7.910457544726228,
+			"height": 8.899278511231444,
+			"seed": 300737134,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 300737134,
-			"version": 16,
-			"versionNonce": 1715533746,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1666010111064,
 			"link": null,
 			"locked": false,
@@ -6453,6 +6432,8 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					6.921664125049858
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.06362515687942505,
@@ -6469,35 +6450,30 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 				0.037484586238861084,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				7.910457544726228,
-				6.921664125049858
 			]
 		},
 		{
-			"id": "gDVe24V68F12snQon7rHD",
 			"type": "freedraw",
-			"x": 449.18301808662375,
-			"y": -201.0571352124884,
-			"width": 1.977641933010318,
-			"height": 9.88807193090787,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 6,
+			"versionNonce": 459209970,
+			"isDeleted": false,
+			"id": "gDVe24V68F12snQon7rHD",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 449.18301808662375,
+			"y": -201.0571352124884,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1.977641933010318,
+			"height": 9.88807193090787,
+			"seed": 1412502638,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1412502638,
-			"version": 6,
-			"versionNonce": 459209970,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1666010112066,
 			"link": null,
 			"locked": false,
@@ -6523,41 +6499,38 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					9.88807193090787
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.06004932150244713,
 				0.028113439679145813,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-1.977641933010318,
-				9.88807193090787
 			]
 		},
 		{
-			"id": "6XCmtqzeqm-A869onXlu2",
 			"type": "freedraw",
-			"x": 475.88085362031813,
-			"y": -231.71019951854583,
-			"width": 51.41802913437823,
-			"height": 73.1718149292044,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 88,
+			"versionNonce": 2146507250,
+			"isDeleted": false,
+			"id": "6XCmtqzeqm-A869onXlu2",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 475.88085362031813,
+			"y": -231.71019951854583,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 51.41802913437823,
+			"height": 73.1718149292044,
+			"seed": 198247214,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 198247214,
-			"version": 88,
-			"versionNonce": 2146507250,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1666010114799,
 			"link": null,
 			"locked": false,
@@ -6911,6 +6884,8 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					24.720193600683956
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.0732429102063179,
@@ -6999,35 +6974,30 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 				0.007274969015270472,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				50.42920816787307,
-				24.720193600683956
 			]
 		},
 		{
-			"id": "jN-M3NigSlNabN3r1y4Qt",
 			"type": "freedraw",
-			"x": 553.0078973218856,
-			"y": -238.63186364359575,
-			"width": 16.80973605595773,
-			"height": 42.5187506231469,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 1715543602,
+			"isDeleted": false,
+			"id": "jN-M3NigSlNabN3r1y4Qt",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 553.0078973218856,
+			"y": -238.63186364359575,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 16.80973605595773,
+			"height": 42.5187506231469,
+			"seed": 112932398,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 112932398,
-			"version": 14,
-			"versionNonce": 1715543602,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1666010115225,
 			"link": null,
 			"locked": false,
@@ -7085,6 +7055,8 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					42.5187506231469
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.06325524300336838,
@@ -7099,35 +7071,30 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 				0.04562268778681755,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-9.88809947773666,
-				42.5187506231469
 			]
 		},
 		{
-			"id": "xr6rp4RFrpZ701nKfb-Vj",
 			"type": "freedraw",
-			"x": 566.8511704783277,
-			"y": -235.665428290909,
-			"width": 23.731372634178797,
-			"height": 37.57472843110736,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 13280366,
+			"isDeleted": false,
+			"id": "xr6rp4RFrpZ701nKfb-Vj",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 566.8511704783277,
+			"y": -235.665428290909,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23.731372634178797,
+			"height": 37.57472843110736,
+			"seed": 1888261614,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1888261614,
-			"version": 21,
-			"versionNonce": 13280366,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1666010115655,
 			"link": null,
 			"locked": false,
@@ -7209,6 +7176,8 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.06350184977054596,
@@ -7229,35 +7198,30 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 				0.028236744925379753,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-0.9888209665050454,
-				6.9216365782211255
 			]
 		},
 		{
-			"id": "WnBj_okbg3tckYrNC-9AR",
 			"type": "freedraw",
-			"x": 582.6720855677804,
-			"y": -197.10190644012522,
-			"width": 6.921636578221069,
-			"height": 14.832149216604932,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 2146531118,
+			"isDeleted": false,
+			"id": "WnBj_okbg3tckYrNC-9AR",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 582.6720855677804,
+			"y": -197.10190644012522,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 6.921636578221069,
+			"height": 14.832149216604932,
+			"seed": 1852166450,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1852166450,
-			"version": 20,
-			"versionNonce": 2146531118,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1666010119461,
 			"link": null,
 			"locked": false,
@@ -7339,6 +7303,8 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					11.865686317089398
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.0808877944946289,
@@ -7359,35 +7325,30 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 				0.0398273728787899,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-1.9775317456951598,
-				11.865686317089398
 			]
 		},
 		{
-			"id": "WyU4q55ovME15A2k66qIg",
 			"type": "freedraw",
-			"x": 307.7833828734258,
-			"y": -185.23622012303582,
-			"width": 223.47067355997615,
-			"height": 22.742606761331217,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 80,
+			"versionNonce": 61831086,
+			"isDeleted": false,
+			"id": "WyU4q55ovME15A2k66qIg",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 307.7833828734258,
+			"y": -185.23622012303582,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 223.47067355997615,
+			"height": 22.742606761331217,
+			"seed": 1632353330,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1632353330,
-			"version": 80,
-			"versionNonce": 61831086,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1666010133234,
 			"link": null,
 			"locked": false,
@@ -7709,6 +7670,8 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					4.944049738868273
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.052774351090192795,
@@ -7789,36 +7752,31 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 				0.0013563501415774226,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				223.47067355997615,
-				4.944049738868273
 			]
 		},
 		{
-			"id": "iSx70rJyOOtvnwejbjMFW",
+			"id": "G_ZF3T4KJqlpUV6i1zkaX",
 			"type": "freedraw",
-			"x": 584.6497275007907,
-			"y": -199.0795208263068,
-			"width": 7.910457544726341,
-			"height": 16.809763602786518,
+			"x": -365.72835804691715,
+			"y": -242.35314941406259,
+			"width": 28.4815673828125,
+			"height": 54.041951497395814,
 			"angle": 0,
-			"strokeColor": "#000000",
+			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
-			"opacity": 20,
+			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1106420082,
-			"version": 18,
-			"versionNonce": 618911918,
-			"isDeleted": true,
+			"seed": 1228661836,
+			"version": 42,
+			"versionNonce": 911348852,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1666010118592,
+			"updated": 1666184170995,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7827,108 +7785,238 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					0
 				],
 				[
-					0.9888209665052727,
-					0.9887934196763695
-				],
-				[
-					1.977641933010318,
-					1.9776143861815854
-				],
-				[
-					1.977641933010318,
-					3.955228772363114
-				],
-				[
-					0.9888209665052727,
-					4.94402219203954
+					0,
+					-0.7303059895833428
 				],
 				[
 					0,
-					5.932843158544699
+					1.4605916341145928
 				],
 				[
-					0,
-					6.921664125049858
+					1.4605916341146212,
+					8.03326416015625
 				],
 				[
-					0.9888209665052727,
-					7.910457544726285
+					3.6514689127604356,
+					17.527119954427093
 				],
 				[
-					2.966462899515591,
-					9.888071930907813
+					5.112060546875,
+					26.290669759114593
 				],
 				[
-					3.955283866020636,
-					12.854507283594558
+					5.842366536458371,
+					34.32393391927084
 				],
 				[
-					4.944104832525909,
-					14.832121669776143
+					5.842366536458371,
+					40.16632080078122
 				],
 				[
-					2.966462899515591,
-					15.820942636281302
+					6.572672526041686,
+					43.81781005859372
 				],
 				[
-					-0.9888209665052727,
-					16.809763602786518
+					6.572672526041686,
+					45.27838134765622
 				],
 				[
-					-2.9663527122004325,
-					16.809763602786518
+					6.572672526041686,
+					43.08750406901041
 				],
 				[
-					-2.9663527122004325,
-					16.809763602786518
+					6.572672526041686,
+					37.97544352213541
+				],
+				[
+					5.112060546875,
+					31.402750651041657
+				],
+				[
+					3.6514689127604356,
+					23.369486490885407
+				],
+				[
+					2.1908772786458712,
+					14.605936686197907
+				],
+				[
+					1.4605916341146212,
+					8.03326416015625
+				],
+				[
+					0.73028564453125,
+					0
+				],
+				[
+					1.4605916341146212,
+					-3.6514892578125
+				],
+				[
+					1.4605916341146212,
+					-5.112080891927093
+				],
+				[
+					2.9211832682291856,
+					-5.112080891927093
+				],
+				[
+					5.112060546875,
+					-2.92120361328125
+				],
+				[
+					8.7635498046875,
+					2.921183268229157
+				],
+				[
+					13.14532470703125,
+					10.954447428385407
+				],
+				[
+					15.336222330729186,
+					16.79681396484375
+				],
+				[
+					18.987711588541686,
+					24.830078125
+				],
+				[
+					21.90889485677087,
+					30.672465006510407
+				],
+				[
+					24.09979248046875,
+					35.05423990885416
+				],
+				[
+					25.56038411458337,
+					36.51483154296872
+				],
+				[
+					27.020975748697936,
+					37.24513753255209
+				],
+				[
+					27.751261393229186,
+					35.78452555338541
+				],
+				[
+					28.4815673828125,
+					32.13305664062497
+				],
+				[
+					27.751261393229186,
+					27.020975748697907
+				],
+				[
+					27.020975748697936,
+					18.987711588541657
+				],
+				[
+					24.830078125,
+					5.112060546875
+				],
+				[
+					23.369486490885436,
+					-2.190897623697907
+				],
+				[
+					21.90889485677087,
+					-8.763570149739593
+				],
+				[
+					22.639200846354186,
+					-8.03326416015625
+				],
+				[
+					23.369486490885436,
+					-5.842386881510407
+				],
+				[
+					25.56038411458337,
+					3.651468912760407
+				],
+				[
+					27.751261393229186,
+					10.224141438802093
+				],
+				[
+					27.751261393229186,
+					10.224141438802093
 				]
 			],
 			"pressures": [
 				0,
-				0.056226879358291626,
-				0.05684340372681618,
-				0.056350186467170715,
-				0.055487051606178284,
-				0.055733662098646164,
-				0.05721331760287285,
-				0.05795314535498619,
-				0.0578298382461071,
-				0.0578298382461071,
-				0.05745992437005043,
-				0.05696670711040497,
-				0.028853267431259155,
+				0.07731196284294128,
+				0.0861898884177208,
+				0.09050554782152176,
+				0.09173859655857086,
+				0.09198520332574844,
+				0.09272503107786179,
+				0.09321825206279755,
+				0.09334155172109604,
+				0.0938347727060318,
+				0.09420468658208847,
+				0.09494451433420181,
+				0.09580764174461365,
+				0.09691738337278366,
+				0.09790382534265518,
+				0.09802712500095367,
+				0.09827373921871185,
+				0.09815043210983276,
+				0.09778051823377609,
+				0.09716399759054184,
+				0.09716399759054184,
+				0.09716399759054184,
+				0.09593094885349274,
+				0.09321825206279755,
+				0.0861898884177208,
+				0.0808877944946289,
+				0.07903822511434555,
+				0.07891491800546646,
+				0.08138100802898407,
+				0.08508014678955078,
+				0.08927250653505325,
+				0.09087546169757843,
+				0.09161528944969177,
+				0.0912453755736351,
+				0.09087546169757843,
+				0.08766954392194748,
+				0.0810110941529274,
+				0.07422934472560883,
+				0.015289765782654285,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				-2.9663527122004325,
-				16.809763602786518
+				27.751261393229186,
+				10.224141438802093
 			]
 		},
 		{
-			"id": "cFcE7SO9wN2-QpbFUoFt6",
+			"id": "ehTOMbxEMUSxuMFeFYcWs",
 			"type": "freedraw",
-			"x": 315.69384041815204,
-			"y": -187.2138345092174,
-			"width": 246.21333541496494,
-			"height": 33.619499658744246,
+			"x": -330.67411813806297,
+			"y": -251.8470255533855,
+			"width": 16.79681396484375,
+			"height": 42.35721842447913,
 			"angle": 0,
-			"strokeColor": "#000000",
+			"strokeColor": "#1864ab",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
-			"opacity": 20,
+			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1265064626,
-			"version": 84,
-			"versionNonce": 134921646,
-			"isDeleted": true,
+			"seed": 517905612,
+			"version": 29,
+			"versionNonce": 1669597132,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1666010131135,
+			"updated": 1666184171596,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7937,420 +8025,365 @@ Bases/Alkali They are proton Acceptors (H+): ^7y33wlQM
 					0
 				],
 				[
-					0,
-					0.988820966505159
+					0.73028564453125,
+					0
 				],
 				[
-					0,
-					1.9776143861815854
+					0.73028564453125,
+					0.7303059895833144
 				],
 				[
-					0.988820966505159,
-					2.9664353526867444
+					1.4605916341145644,
+					3.6514892578125
 				],
 				[
-					0.988820966505159,
-					4.944077285697119
+					2.9211832682291856,
+					13.145345052083314
 				],
 				[
-					1.9776419330104318,
-					5.932843158544699
+					4.38177490234375,
+					21.908915201822907
 				],
 				[
-					2.9664078058580117,
-					7.910485091555074
+					4.38177490234375,
+					27.75128173828125
 				],
 				[
-					4.94404973886833,
-					9.888071930907813
+					5.842366536458314,
+					34.32395426432291
 				],
 				[
-					5.932870705373489,
-					9.888071930907813
+					6.572672526041686,
+					40.896626790364564
 				],
 				[
-					7.910457544726341,
-					10.876892897413029
+					7.302958170572936,
+					42.35721842447913
 				],
 				[
-					9.88809947773666,
-					10.876892897413029
+					8.7635498046875,
+					42.35721842447913
 				],
 				[
-					11.865686317089398,
-					10.876892897413029
+					9.493855794270814,
+					40.166341145833314
 				],
 				[
-					14.83214921660499,
-					10.876892897413029
+					9.493855794270814,
+					36.514851888020814
 				],
 				[
-					16.80973605595773,
-					10.876892897413029
+					9.493855794270814,
+					27.02099609375
 				],
 				[
-					19.77619895547332,
-					10.876892897413029
+					9.493855794270814,
+					20.448323567708314
 				],
 				[
-					20.7649648283209,
-					10.876892897413029
+					9.493855794270814,
+					11.68475341796875
 				],
 				[
-					23.731427727836376,
-					10.876892897413029
+					8.7635498046875,
+					5.842386881510407
 				],
 				[
-					26.697835533694388,
-					10.876892897413029
+					8.7635498046875,
+					3.6514892578125
 				],
 				[
-					27.686656500199547,
-					10.876892897413029
+					8.7635498046875,
+					2.190897623697907
 				],
 				[
-					30.65306430605756,
-					10.876892897413029
+					9.493855794270814,
+					5.112080891927064
 				],
 				[
-					33.61947211191546,
-					10.876892897413029
+					10.954447428385436,
+					11.68475341796875
 				],
 				[
-					35.597114044925775,
-					10.876892897413029
+					12.4150390625,
+					20.448323567708314
 				],
 				[
-					38.563576944441365,
-					10.876892897413029
+					13.145345052083314,
+					27.02099609375
 				],
 				[
-					42.51875062314696,
-					10.876892897413029
+					14.605936686197936,
+					34.32395426432291
 				],
 				[
-					44.496392556157275,
-					10.876892897413029
+					15.336222330729186,
+					36.514851888020814
 				],
 				[
-					48.45156623486275,
-					10.876892897413029
+					16.0665283203125,
+					38.70572916666666
 				],
 				[
-					51.418029134378344,
-					10.876892897413029
+					16.79681396484375,
+					38.70572916666666
 				],
 				[
-					54.384492033893935,
-					11.865713863918188
-				],
-				[
-					58.33966571259941,
-					11.865713863918188
-				],
-				[
-					64.27259151163048,
-					11.865713863918188
-				],
-				[
-					69.21658615684123,
-					11.865713863918188
-				],
-				[
-					75.14940176855714,
-					12.854534830423404
-				],
-				[
-					80.09350660108305,
-					12.854534830423404
-				],
-				[
-					84.04868027978864,
-					13.843300703270984
-				],
-				[
-					87.01514317930412,
-					13.843300703270984
-				],
-				[
-					90.97042704532487,
-					14.832121669776143
-				],
-				[
-					94.92560072403046,
-					15.820942636281359
-				],
-				[
-					97.89206362354594,
-					15.820942636281359
-				],
-				[
-					101.84723730225153,
-					16.809763602786518
-				],
-				[
-					105.80252116827228,
-					17.798584569291677
-				],
-				[
-					109.75769484697776,
-					17.798584569291677
-				],
-				[
-					113.7129787129985,
-					18.787350442139257
-				],
-				[
-					117.66826257901926,
-					19.776171408644473
-				],
-				[
-					121.62343625772473,
-					19.776171408644473
-				],
-				[
-					124.58989915724032,
-					20.76499237514963
-				],
-				[
-					127.55625186944064,
-					21.753813341654848
-				],
-				[
-					131.5115357354614,
-					22.742579214502427
-				],
-				[
-					134.47799863497698,
-					22.742579214502427
-				],
-				[
-					138.43317231368246,
-					23.731400181007587
-				],
-				[
-					142.3884561797032,
-					25.70904211401796
-				],
-				[
-					146.3436298584088,
-					26.69786308052312
-				],
-				[
-					149.31009275792428,
-					27.686628953370757
-				],
-				[
-					153.26526643662987,
-					28.675449919875916
-				],
-				[
-					157.2205503026505,
-					29.664270886381075
-				],
-				[
-					161.17583416867126,
-					30.65309185288629
-				],
-				[
-					165.13100784737685,
-					31.64185772573387
-				],
-				[
-					169.0862917133976,
-					31.64185772573387
-				],
-				[
-					171.06382345909276,
-					32.63067869223903
-				],
-				[
-					175.0191073251134,
-					32.63067869223903
-				],
-				[
-					177.985570224629,
-					33.619499658744246
-				],
-				[
-					179.96310197032415,
-					33.619499658744246
-				],
-				[
-					182.92956486983974,
-					32.63067869223903
-				],
-				[
-					184.90720680285006,
-					32.63067869223903
-				],
-				[
-					186.88484873586037,
-					32.63067869223903
-				],
-				[
-					188.86238048155553,
-					31.64185772573387
-				],
-				[
-					190.84002241456608,
-					30.65309185288629
-				],
-				[
-					192.8176643475764,
-					30.65309185288629
-				],
-				[
-					195.784127247092,
-					29.664270886381075
-				],
-				[
-					198.7504799592922,
-					28.675449919875916
-				],
-				[
-					202.70576382531306,
-					27.686628953370757
-				],
-				[
-					205.67211653751326,
-					26.69786308052312
-				],
-				[
-					208.63857943702885,
-					25.70904211401796
-				],
-				[
-					211.60504233654444,
-					24.720221147512802
-				],
-				[
-					215.56021601524992,
-					23.731400181007587
-				],
-				[
-					218.5266789147655,
-					23.731400181007587
-				],
-				[
-					223.47067355997626,
-					23.731400181007587
-				],
-				[
-					228.41477839250217,
-					23.731400181007587
-				],
-				[
-					233.35877303771292,
-					23.731400181007587
-				],
-				[
-					239.29169883674388,
-					24.720221147512802
-				],
-				[
-					246.21333541496494,
-					25.70904211401796
-				],
-				[
-					246.21333541496494,
-					25.70904211401796
+					16.79681396484375,
+					38.70572916666666
 				]
 			],
 			"pressures": [
 				0,
-				0.050554871559143066,
-				0.05129469931125641,
-				0.05203452706336975,
-				0.052774351090192795,
-				0.053267572075128555,
-				0.05413070321083069,
-				0.0552404448390007,
-				0.056720100343227386,
-				0.058939579874277115,
-				0.05992601811885834,
-				0.06017262488603592,
-				0.06029593199491501,
-				0.0604192353785038,
-				0.06054253876209259,
-				0.0604192353785038,
-				0.06017262488603592,
-				0.06004932150244713,
-				0.05992601811885834,
-				0.05980271100997925,
-				0.06017262488603592,
-				0.06054253876209259,
-				0.06054253876209259,
+				0.06485819816589355,
+				0.06880394369363785,
+				0.07077682018280029,
+				0.07213316857814789,
+				0.0720098614692688,
+				0.07176325470209122,
+				0.07163994759321213,
+				0.06757090240716934,
+				0.06448828428983688,
+				0.06103575974702835,
 				0.06091245263814926,
 				0.06128236651420593,
-				0.06140567362308502,
-				0.061652280390262604,
-				0.06177558749914169,
-				0.061898890882730484,
-				0.061898890882730484,
-				0.06152897700667381,
-				0.06103575974702835,
-				0.06078914925456047,
-				0.06078914925456047,
-				0.06066584587097168,
-				0.06091245263814926,
-				0.06066584587097168,
-				0.06017262488603592,
-				0.05980271100997925,
-				0.059186190366744995,
-				0.05819975212216377,
-				0.05770653486251831,
-				0.0578298382461071,
-				0.05795314535498619,
-				0.05819975212216377,
-				0.05869297310709953,
-				0.059309493750333786,
-				0.059432800859212875,
-				0.059556104242801666,
-				0.059309493750333786,
-				0.059062886983156204,
-				0.059062886983156204,
-				0.059186190366744995,
-				0.059062886983156204,
-				0.058569665998220444,
-				0.0578298382461071,
-				0.05758323147892952,
-				0.05745992437005043,
-				0.05758323147892952,
-				0.05770653486251831,
-				0.0578298382461071,
-				0.0578298382461071,
-				0.05795314535498619,
-				0.058569665998220444,
-				0.058939579874277115,
-				0.05869297310709953,
-				0.05832305923104286,
-				0.05758323147892952,
-				0.05758323147892952,
-				0.05758323147892952,
-				0.05770653486251831,
-				0.05795314535498619,
-				0.05795314535498619,
-				0.0578298382461071,
-				0.05807644873857498,
-				0.05807644873857498,
-				0.056350186467170715,
-				0.04870530217885971,
-				0.025277435779571533,
+				0.05388409271836281,
+				0.04833538830280304,
+				0.056226879358291626,
+				0.0655980259180069,
+				0.0694204717874527,
+				0.07348951697349548,
+				0.07570900022983551,
+				0.07669543474912643,
+				0.07681874185800552,
+				0.07644882798194885,
+				0.07225647568702698,
+				0.06535141915082932,
+				0.03526510298252106,
 				0,
 				0
 			],
 			"simulatePressure": false,
 			"lastCommittedPoint": [
-				246.21333541496494,
-				25.70904211401796
+				16.79681396484375,
+				38.70572916666666
+			]
+		},
+		{
+			"id": "vM_qlYuKOzB389HHdpJ-Y",
+			"type": "freedraw",
+			"x": -326.2923432357192,
+			"y": -228.477518717448,
+			"width": 11.68475341796875,
+			"height": 2.1908976236979356,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 209332980,
+			"version": 8,
+			"versionNonce": 1095483852,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1666184171812,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.7303059895833428
+				],
+				[
+					2.1908976236979356,
+					-1.4605916341145928
+				],
+				[
+					5.842366536458314,
+					-1.4605916341145928
+				],
+				[
+					9.493855794270814,
+					-2.1908976236979356
+				],
+				[
+					11.68475341796875,
+					-1.4605916341145928
+				],
+				[
+					11.68475341796875,
+					-1.4605916341145928
+				]
+			],
+			"pressures": [
+				0,
+				0.07139334082603455,
+				0.07361282408237457,
+				0.0655980259180069,
+				0.0028360048308968544,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				11.68475341796875,
+				-1.4605916341145928
+			]
+		},
+		{
+			"id": "vG1NSBJTC1vVGDXwgZADd",
+			"type": "freedraw",
+			"x": -308.76522328129215,
+			"y": -216.79276529947924,
+			"width": 8.763570149739621,
+			"height": 15.33624267578125,
+			"angle": 0,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 463671540,
+			"version": 22,
+			"versionNonce": 856291660,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1666184172434,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.7303059895833712,
+					0
+				],
+				[
+					1.4605916341146212,
+					0
+				],
+				[
+					2.1908976236979356,
+					0
+				],
+				[
+					4.381795247395871,
+					0
+				],
+				[
+					6.572672526041686,
+					0.73028564453125
+				],
+				[
+					7.302978515625,
+					2.1908772786458144
+				],
+				[
+					8.03326416015625,
+					5.112080891927064
+				],
+				[
+					6.572672526041686,
+					6.572672526041629
+				],
+				[
+					5.842386881510436,
+					7.302958170572879
+				],
+				[
+					5.842386881510436,
+					8.03326416015625
+				],
+				[
+					5.842386881510436,
+					9.493855794270814
+				],
+				[
+					7.302978515625,
+					10.954447428385379
+				],
+				[
+					8.763570149739621,
+					12.415059407552064
+				],
+				[
+					8.763570149739621,
+					13.14532470703125
+				],
+				[
+					8.03326416015625,
+					14.605936686197879
+				],
+				[
+					5.112080891927121,
+					15.33624267578125
+				],
+				[
+					2.1908976236979356,
+					15.33624267578125
+				],
+				[
+					0.7303059895833712,
+					14.605936686197879
+				],
+				[
+					0,
+					14.605936686197879
+				],
+				[
+					0,
+					14.605936686197879
+				]
+			],
+			"pressures": [
+				0,
+				0.06855733692646027,
+				0.07299630343914032,
+				0.0770653486251831,
+				0.08458693325519562,
+				0.08803945779800415,
+				0.08828606456518173,
+				0.0874229371547699,
+				0.08705302327871323,
+				0.08705302327871323,
+				0.08729963004589081,
+				0.08816276490688324,
+				0.0886559784412384,
+				0.08890259265899658,
+				0.0886559784412384,
+				0.08840937167406082,
+				0.08495683968067169,
+				0.0655980259180069,
+				0.025524044409394264,
+				0,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				0,
+				14.605936686197879
 			]
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#000000",
+		"currentItemStrokeColor": "#1864ab",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
