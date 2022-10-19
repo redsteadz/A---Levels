@@ -25,6 +25,7 @@ Gases:
 - When a substance expands due to increase in thermal energy is called thermal expansion
 - ![[O levels/attatchments/Thermal Physics 2022-10-13 17.09.48.excalidraw]]
 - ![[O levels/attatchments/Thermal Physics 2022-10-13 17.28.15.excalidraw]]
+- ![[O levels/Physics/attatchments/Thermal Physics 2022-10-18 17.22.52.excalidraw]]
 ### Units:
 $T(K) = T(C) + 273$
 $T(C) = T(K) -273$
