@@ -8,34 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f05d1486e0ccfc79",
+            "id": "11edebd913429476",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O levels/Chemsitry/Structures and Periodic Table.md",
+                "file": "O levels/Chemsitry/Moles.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "d5a091e452250f84",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e13d20fca6c8bb83",
+            "id": "c4b39d2c78d25081",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Structures and Periodic Table 2022-10-19 20.15.26.excalidraw.md"
+                "file": "O levels/Chemsitry/attatchments/Moles 2022-10-20 19.02.11.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aabc4dd8de0f0f31",
@@ -101,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Structures and Periodic Table 2022-10-19 20.15.26.excalidraw.md",
+                "file": "O levels/Chemsitry/attatchments/Moles 2022-10-20 19.02.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Structures and Periodic Table 2022-10-19 20.15.26.excalidraw.md",
+                "file": "O levels/Chemsitry/attatchments/Moles 2022-10-20 19.02.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Structures and Periodic Table 2022-10-19 20.15.26.excalidraw.md"
+                "file": "O levels/Chemsitry/attatchments/Moles 2022-10-20 19.02.11.excalidraw.md"
               }
             }
           }
@@ -144,17 +140,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e13d20fca6c8bb83",
+  "active": "c4b39d2c78d25081",
   "lastOpenFiles": [
+    "O levels/Chemsitry/Moles.md",
+    "O levels/attatchments/Thermal Physics 2022-10-13 17.28.15.excalidraw.md",
+    "O levels/Physics/attatchments/Thermal Physics 2022-10-20 17.23.14.excalidraw.md",
+    "O levels/Physics/Thermal Physics.md",
     "O levels/Chemsitry/Structures and Periodic Table.md",
+    "O levels/Chemsitry/attatchments/Structures and Periodic Table 2022-10-19 20.15.26.excalidraw.md",
     "O levels/Chemsitry/attatchments/Untitled 1 2022-10-19 18.09.42.excalidraw.md",
     "O levels/Chemsitry/Acid And Alkali.md",
     "O levels/Chemsitry/Untitled 1.md",
-    "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-19 17.15.05.excalidraw.md",
-    "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-17 17.14.48.excalidraw.md",
-    "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-19 17.35.47.excalidraw.md",
-    "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-17 17.22.19.excalidraw.md",
-    "O levels/Chemsitry/Acid And Alkalis.md",
-    "O levels/attatchments/Thermal Physics 2022-10-13 17.28.15.excalidraw.md"
+    "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-19 17.15.05.excalidraw.md"
   ]
 }

@@ -29,3 +29,6 @@ Gases:
 ### Units:
 $T(K) = T(C) + 273$
 $T(C) = T(K) -273$
+
+### Specific Heat Capacity
+![[O levels/Physics/attatchments/Thermal Physics 2022-10-20 17.23.14.excalidraw]]
