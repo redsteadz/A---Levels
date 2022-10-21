@@ -32,3 +32,4 @@ $T(C) = T(K) -273$
 
 ### Specific Heat Capacity
 ![[O levels/Physics/attatchments/Thermal Physics 2022-10-20 17.23.14.excalidraw]]
+![[O levels/Physics/attatchments/Thermal Physics 2022-10-21 16.19.17.excalidraw]]
