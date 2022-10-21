@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "64715f99ce17a247",
+        "id": "e75db1b91eb9eebe",
         "type": "tabs",
         "children": [
           {
-            "id": "11edebd913429476",
+            "id": "3c2e6c8773060786",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O levels/Physics/Thermal Physics.md",
+                "file": "O levels/Chemsitry/Chemistry Overview.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1b8c9becfde4c108",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "79fb3aca77db358b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "O levels/Physics/attatchments/Thermal Physics 2022-10-21 16.19.17.excalidraw.md"
               }
             }
           }
@@ -102,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O levels/Physics/attatchments/Thermal Physics 2022-10-21 16.19.17.excalidraw.md",
+                "file": "O levels/Chemsitry/Chemistry Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O levels/Physics/attatchments/Thermal Physics 2022-10-21 16.19.17.excalidraw.md",
+                "file": "O levels/Chemsitry/Chemistry Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O levels/Physics/attatchments/Thermal Physics 2022-10-21 16.19.17.excalidraw.md"
+                "file": "O levels/Chemsitry/Chemistry Overview.md"
               }
             }
           }
@@ -145,17 +129,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "79fb3aca77db358b",
+  "active": "3c2e6c8773060786",
   "lastOpenFiles": [
+    "O levels/Chemsitry/Group 7 Halides.md",
+    "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.25.57.excalidraw.md",
+    "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.48.01.excalidraw.md",
+    "O levels/Physics/attatchments/Thermal Physics 2022-10-21 16.19.17.excalidraw.md",
     "O levels/Physics/Thermal Physics.md",
     "O levels/attatchments/Thermal Physics 2022-10-07 16.11.10.excalidraw.md",
     "O levels/Physics/attatchments/Thermal Physics 2022-10-20 17.23.14.excalidraw.md",
     "O levels/Chemsitry/Moles.md",
     "O levels/Chemsitry/attatchments/Moles 2022-10-20 19.02.11.excalidraw.md",
-    "O levels/attatchments/Thermal Physics 2022-10-13 17.28.15.excalidraw.md",
-    "O levels/Chemsitry/Structures and Periodic Table.md",
-    "O levels/Chemsitry/attatchments/Structures and Periodic Table 2022-10-19 20.15.26.excalidraw.md",
-    "O levels/Chemsitry/attatchments/Untitled 1 2022-10-19 18.09.42.excalidraw.md",
-    "O levels/Chemsitry/Acid And Alkali.md"
+    "O levels/attatchments/Thermal Physics 2022-10-13 17.28.15.excalidraw.md"
   ]
 }
