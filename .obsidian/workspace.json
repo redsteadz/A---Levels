@@ -4,119 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "c6692fdc74288816",
+        "id": "2a8bfa85d6cbc461",
         "type": "tabs",
+        "dimension": 59.943977591036415,
         "children": [
           {
-            "id": "7d64b04d079cccb5",
+            "id": "80a54979f1c56fd1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Chemistry/A2/Organic Chemistry/attatchments/Hydroxy Compounds AcylChloride+Alcohol.excalidraw.md"
+              }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "482b8610cc8ca037",
+        "type": "tabs",
+        "dimension": 40.056022408963585,
+        "children": [
           {
-            "id": "248352e3a8b42b46",
+            "id": "d15fad12f192fc22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Worksheets.sync-conflict-20220930-213953-QF6W6JX.md",
+                "file": "Chemistry/A2/Organic Chemistry/Nomenclature.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "347835686485c51b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "52200830e5823883",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "912a95f03e4dd044",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a844f16abd651e6d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f5785378d8102027",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e2ebb83ff530b7bd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1177e9b48efd7db4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f4fd91548171c8db",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c689fef7e4eb3027",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "98032b138ad4129d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "02f364d058296974",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 12
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -145,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sync-conflict",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,12 +76,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 743.5110321044922
+    "width": 566.0110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "aabc4dd8de0f0f31",
@@ -183,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chemistry/A2/Organic Chemistry/attatchments/Hydroxy Compounds AcylChloride+Alcohol.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chemistry/A2/Organic Chemistry/attatchments/Hydroxy Compounds AcylChloride+Alcohol.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chemistry/A2/Organic Chemistry/attatchments/Hydroxy Compounds AcylChloride+Alcohol.excalidraw.md"
+              }
             }
           }
         ]
@@ -222,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "02f364d058296974",
+  "active": "80a54979f1c56fd1",
   "lastOpenFiles": [
+    "Chemistry/A2/Organic Chemistry/Nomenclature.md",
+    "Chemistry/A2/Organic Chemistry/attatchments/Hydroxy Compounds AcylChloride+Alcohol.excalidraw.md",
+    "Chemistry/A2/Organic Chemistry/32 Hydroxy Compounds.md",
+    "Maths/Worksheets.sync-conflict-20220930-213953-QF6W6JX.md",
+    "Excalidraw/Scripts/Downloaded/OCR - Optical Character Recognition.sync-conflict-20220930-213959-QF6W6JX.md",
     "@anki/Physics_Universal.sync-conflict-20220930-213957-QF6W6JX.md",
     "attatchments/Pressure 2022-09-23 16.05.48.excalidraw.sync-conflict-20220930-213950-FQZM2AE.md",
     "Physics/attatchments/Projectile Motion.sync-conflict-20220930-214000-QF6W6JX.md",
     "Chemistry/AS/Resources_Chemistry.sync-conflict-20220930-213957-QF6W6JX.md",
-    "attatchments/Reversible Reactions 2022-09-22 12.04.48.excalidraw.sync-conflict-20220930-213954-QF6W6JX.md",
-    "Physics/attatchments/Scalars _ Vectors  CIE AS Physics Revision Notes.sync-conflict-20220930-214009-QF6W6JX.md",
-    "Physics/attatchments/SI Units  CIE AS Physics Revision Notes.sync-conflict-20220930-213949-QF6W6JX.md",
-    "Physics/AS/attatchments/SI Units and Uncertainities 2022-09-11 19.30.42.excalidraw.sync-conflict-20220930-213947-QF6W6JX.md",
-    "Physics/AS/SI Units and Uncertainities.sync-conflict-20220930-214000-QF6W6JX.md",
-    "Physics/attatchments/Solving Problems with Kinematic Equations.sync-conflict-20220930-213949-QF6W6JX.md"
+    "attatchments/Reversible Reactions 2022-09-22 12.04.48.excalidraw.sync-conflict-20220930-213954-QF6W6JX.md"
   ]
 }
