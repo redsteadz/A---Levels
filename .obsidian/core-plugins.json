@@ -8,8 +8,11 @@
   "page-preview",
   "note-composer",
   "command-palette",
+  "slash-command",
   "markdown-importer",
   "outline",
   "word-count",
-  "file-recovery"
+  "workspaces",
+  "file-recovery",
+  "publish"
 ]

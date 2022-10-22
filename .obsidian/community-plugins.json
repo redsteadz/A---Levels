@@ -16,12 +16,12 @@
   "cm-typewriter-scroll-obsidian",
   "oz-clear-unused-images",
   "obsidian-pandoc",
-  "sliding-panes-obsidian",
   "cycle-through-panes",
   "obsidian-auto-link-title",
   "find-unlinked-files",
   "oz-image-plugin",
   "obsidian-paste-image-rename",
   "calendar",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "obsidian-math-plus"
 ]

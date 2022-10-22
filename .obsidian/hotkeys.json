@@ -63,5 +63,14 @@
       ],
       "key": "O"
     }
+  ],
+  "workspace:toggle-stacked-tabs": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }
