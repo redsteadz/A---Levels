@@ -21,7 +21,7 @@
   "matchThemeTrigger": true,
   "defaultMode": "normal",
   "defaultPenMode": "never",
-  "zoomToFitOnResize": true,
+  "zoomToFitOnResize": false,
   "zoomToFitMaxLevel": 2,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
