@@ -6,6 +6,7 @@
       {
         "id": "482b8610cc8ca037",
         "type": "tabs",
+        "dimension": 50.04081632653061,
         "children": [
           {
             "id": "d15fad12f192fc22",
@@ -25,6 +26,7 @@
       {
         "id": "7205e4ae8fdafd21",
         "type": "tabs",
+        "dimension": 49.95918367346939,
         "children": [
           {
             "id": "b32bc2290261fd8b",
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "aabc4dd8de0f0f31",
@@ -149,6 +150,7 @@
   "active": "b32bc2290261fd8b",
   "lastOpenFiles": [
     "O levels/Chemsitry/Group 7 Halides.md",
+    "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.48.01.excalidraw.md",
     "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.25.57.excalidraw.md",
     "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-23 18.10.00.excalidraw.md",
     "Chemistry/A2/Organic Chemistry/Nomenclature.md",
@@ -156,7 +158,6 @@
     "Chemistry/A2/Organic Chemistry/attatchments/IUPAC_Handout.pdf",
     "Chemistry/A2/Organic Chemistry/32 Hydroxy Compounds.md",
     "Maths/Worksheets.sync-conflict-20220930-213953-QF6W6JX.md",
-    "Excalidraw/Scripts/Downloaded/OCR - Optical Character Recognition.sync-conflict-20220930-213959-QF6W6JX.md",
-    "@anki/Physics_Universal.sync-conflict-20220930-213957-QF6W6JX.md"
+    "Excalidraw/Scripts/Downloaded/OCR - Optical Character Recognition.sync-conflict-20220930-213959-QF6W6JX.md"
   ]
 }
