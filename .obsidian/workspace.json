@@ -23,16 +23,16 @@
         "stacked": true
       },
       {
-        "id": "778763b18d1869d0",
+        "id": "7205e4ae8fdafd21",
         "type": "tabs",
         "children": [
           {
-            "id": "6a737801c07d70d9",
+            "id": "b32bc2290261fd8b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-23 18.10.00.excalidraw.md"
+                "file": "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.48.01.excalidraw.md"
               }
             }
           }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "aabc4dd8de0f0f31",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-23 18.10.00.excalidraw.md",
+                "file": "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.48.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-23 18.10.00.excalidraw.md",
+                "file": "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.48.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-23 18.10.00.excalidraw.md"
+                "file": "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.48.01.excalidraw.md"
               }
             }
           }
@@ -145,17 +146,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6a737801c07d70d9",
+  "active": "b32bc2290261fd8b",
   "lastOpenFiles": [
     "O levels/Chemsitry/Group 7 Halides.md",
+    "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.25.57.excalidraw.md",
+    "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-23 18.10.00.excalidraw.md",
     "Chemistry/A2/Organic Chemistry/Nomenclature.md",
     "Chemistry/A2/Organic Chemistry/attatchments/Hydroxy Compounds AcylChloride+Alcohol.excalidraw.md",
     "Chemistry/A2/Organic Chemistry/attatchments/IUPAC_Handout.pdf",
     "Chemistry/A2/Organic Chemistry/32 Hydroxy Compounds.md",
     "Maths/Worksheets.sync-conflict-20220930-213953-QF6W6JX.md",
     "Excalidraw/Scripts/Downloaded/OCR - Optical Character Recognition.sync-conflict-20220930-213959-QF6W6JX.md",
-    "@anki/Physics_Universal.sync-conflict-20220930-213957-QF6W6JX.md",
-    "attatchments/Pressure 2022-09-23 16.05.48.excalidraw.sync-conflict-20220930-213950-FQZM2AE.md",
-    "Physics/attatchments/Projectile Motion.sync-conflict-20220930-214000-QF6W6JX.md"
+    "@anki/Physics_Universal.sync-conflict-20220930-213957-QF6W6JX.md"
   ]
 }
