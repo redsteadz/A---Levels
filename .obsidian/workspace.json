@@ -6,19 +6,39 @@
       {
         "id": "482b8610cc8ca037",
         "type": "tabs",
+        "dimension": 38.99018232819074,
         "children": [
           {
             "id": "d15fad12f192fc22",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Moles 2022-10-20 19.02.11.excalidraw.md"
+                "file": "O levels/Chemsitry/Acid And Alkali.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "214e095cb358d8aa",
+        "type": "tabs",
+        "dimension": 61.00981767180925,
+        "children": [
+          {
+            "id": "e8cdec7e53523e73",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-24 17.30.27.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "aabc4dd8de0f0f31",
@@ -84,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Moles 2022-10-20 19.02.11.excalidraw.md",
+                "file": "O levels/Chemsitry/Acid And Alkali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Moles 2022-10-20 19.02.11.excalidraw.md",
+                "file": "O levels/Chemsitry/Acid And Alkali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Moles 2022-10-20 19.02.11.excalidraw.md"
+                "file": "O levels/Chemsitry/Acid And Alkali.md"
               }
             }
           }
@@ -129,15 +150,15 @@
   },
   "active": "d15fad12f192fc22",
   "lastOpenFiles": [
+    "Untitled.md",
+    "O levels/Chemsitry/Acid And Alkali.md",
+    "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-24 17.30.27.excalidraw.md",
+    "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-24 17.14.59.excalidraw.md",
+    "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-19 17.35.47.excalidraw.md",
+    "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-19 17.15.05.excalidraw.md",
+    "O levels/Chemsitry/attatchments/Moles 2022-10-20 19.02.11.excalidraw.md",
     "O levels/Chemsitry/Moles.md",
     "O levels/Chemsitry/Group 7 Halides.md",
-    "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.48.01.excalidraw.md",
-    "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.25.57.excalidraw.md",
-    "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-23 18.10.00.excalidraw.md",
-    "Chemistry/A2/Organic Chemistry/Nomenclature.md",
-    "Chemistry/A2/Organic Chemistry/attatchments/Hydroxy Compounds AcylChloride+Alcohol.excalidraw.md",
-    "Chemistry/A2/Organic Chemistry/attatchments/IUPAC_Handout.pdf",
-    "Chemistry/A2/Organic Chemistry/32 Hydroxy Compounds.md",
-    "Maths/Worksheets.sync-conflict-20220930-213953-QF6W6JX.md"
+    "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.48.01.excalidraw.md"
   ]
 }

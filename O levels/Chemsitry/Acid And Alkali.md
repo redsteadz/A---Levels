@@ -25,3 +25,44 @@
 ## Neutralization
 **Occurs b/w Acid and a Base**
 ![[O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-19 17.35.47.excalidraw]]
+
+## Indicators
+- **(a)** Litmus Paper
+	- Blue Litmus is used to test
+		-  Acids(It turns Red)
+	- Red Litmus is used to test
+		- Bases (It turns Blue)
+- **(b)** Thymolphthalein
+	- Acid - Colorless
+	- Strong Base Blue/purpulish
+- **(c)** Methyl Orange
+	- Acidic Medium - Red 
+	- Basic medium - Yellow
+
+- **UNIVERSAL INDICATOR**
+- ![[O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-24 17.30.27.excalidraw]]
+
+![[O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-24 17.14.59.excalidraw]]
+**Examples**
+- Strong Acids
+	- Hydro Chloric Acid
+	- Nitric Acid
+	- Sulfuric Acid
+- Weak Acids
+	- Carboxylic Acids
+
+## Oxides
+- Metal Oxides
+	- $\ce{Na2O}$, $\ce{MgO, CuO, CaO}$ 
+	- **Base**
+- Non Metal Oxides
+	- $\ce{SO2}$ , $\ce{CO2}$ 
+	- **Acids**
+
+- **Amphoteric Oxides**
+- They react. With both Acids and Bases
+	- They Behave like Acids/Bases both
+	- $\ce{Al2O3, ZnO}$
+
+
+# The Preparation of Salts
