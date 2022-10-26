@@ -66,3 +66,6 @@
 
 
 # The Preparation of Salts
+![[O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-26 17.05.22.excalidraw]]
+![[O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-26 17.27.54.excalidraw]]
+![[O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-26 17.43.28.excalidraw]]
