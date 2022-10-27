@@ -6,18 +6,21 @@
 ### Physical Properties
 - High melting point. - High force of attraction due to electrostatic attraction b/w oppositely charged ions
 - Compounds are brittle (Break instead of Bending)
+---
 
-## Covelant Bonding
+# Covelant Bonding
+
 - This is formed due to the bonding of **Non Metals** in which they **share** electrons between them
 - Electrostatic force due to the elctrons shared
 - ![[O levels/attatchments/Untitled 2022-10-04 18.31.01.excalidraw]]
-  ### Properties
+### Properties
 - Low Melting point and Boiling point
 - Poor conductors of electricity and heat
 - **Giant Covelant Structure**
 	- Many Covelant bonds are formed to create a giant structure
 		- High Melting Point and Boiling Point
 		- ![[O levels/attatchments/Untitled 2022-10-04 18.37.44.excalidraw]]
+---
 
 ## Metallic Structures
 - Metallic Elements - Positive Metal Ions and Negative Electrons have a strong electrostatic force
@@ -25,3 +28,4 @@
 - They have strong electrostatics force
 - High melting point and BP
 - They are quite strong
+--- 
