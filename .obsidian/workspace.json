@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91a148a462f4945e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,10 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "9d1b50243bda1ac1",
+  "active": "91a148a462f4945e",
   "lastOpenFiles": [
     "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-26 17.43.28.excalidraw.md",
     "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-26 17.27.54.excalidraw.md",
