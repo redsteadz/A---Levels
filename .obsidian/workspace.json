@@ -4,42 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "687b864d38e0a21b",
+        "id": "700eafb2f665a27f",
         "type": "tabs",
         "children": [
           {
-            "id": "9d1b50243bda1ac1",
+            "id": "7c6297b39ac41585",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "O levels/attatchments/Untitled 2022-10-04 18.20.55.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "fe2cea936b4cdf33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O levels/Chemsitry/Balancing Equations - Formula Making.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2714f7bc7e903b3e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "O levels/Chemsitry/attatchments/Balancing Equations - Formula Making 2022-10-28 17.34.33.excalidraw.md"
+                "file": "Chemistry/@_Chemistry.md"
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O levels/attatchments/Untitled 2022-10-04 18.20.55.excalidraw.md",
+                "file": "Chemistry/@_Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O levels/attatchments/Untitled 2022-10-04 18.20.55.excalidraw.md",
+                "file": "Chemistry/@_Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O levels/attatchments/Untitled 2022-10-04 18.20.55.excalidraw.md"
+                "file": "Chemistry/@_Chemistry.md"
               }
             }
           }
@@ -146,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d1b50243bda1ac1",
+  "active": "7c6297b39ac41585",
   "lastOpenFiles": [
-    "O levels/Chemsitry/Structures.md",
-    "O levels/attatchments/Untitled 2022-10-04 18.31.01.excalidraw.md",
-    "O levels/Chemsitry/attatchments/Balancing Equations - Formula Making 2022-10-28 17.34.33.excalidraw.md",
+    "Untitled 1.md",
+    "Chemistry/@_Chemistry.md",
+    "Chemistry/A2/Syllabus.md",
+    "Chemistry/A2/Chemistry_Syllabus(ALVL).pdf",
+    "O levels/Chemsitry/Chemistry Overview.md",
+    "O levels/attatchments/Untitled 2022-10-04 18.20.55.excalidraw.md",
     "O levels/Chemsitry/Balancing Equations - Formula Making.md",
-    "O levels/Chemsitry/Untitled 1.md",
-    "O levels/Chemsitry/attatchments/Balancing Equations - Formula Making 2022-10-28 17.12.29.excalidraw.md",
-    "O levels/Chemsitry/attatchments/Balancing Equations - Formula Making 2022-10-28 17.19.39.excalidraw.md",
-    "O levels/Chemsitry/Untitled.md",
-    "O levels/Chemsitry/Chemical And Energy Changes.md",
-    "O levels/Chemsitry/Redox Reactions.md"
+    "O levels/Chemsitry/attatchments/Balancing Equations - Formula Making 2022-10-30 18.03.13.excalidraw.md",
+    "O levels/Chemsitry/Structures.md",
+    "O levels/attatchments/Untitled 2022-10-04 18.31.01.excalidraw.md"
   ]
 }
