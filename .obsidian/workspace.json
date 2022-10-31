@@ -11,14 +11,26 @@
             "id": "7c6297b39ac41585",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Chemistry/@_Chemistry.md"
+                "file": "O levels/Physics/Thermal Physics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dcc5dc788133fb0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "O levels/Physics/attatchments/Thermal Physics 2022-10-31 12.08.48.excalidraw.md"
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/@_Chemistry.md",
+                "file": "O levels/Physics/attatchments/Thermal Physics 2022-10-31 12.08.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/@_Chemistry.md",
+                "file": "O levels/Physics/attatchments/Thermal Physics 2022-10-31 12.08.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/@_Chemistry.md"
+                "file": "O levels/Physics/attatchments/Thermal Physics 2022-10-31 12.08.48.excalidraw.md"
               }
             }
           }
@@ -125,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c6297b39ac41585",
+  "active": "6dcc5dc788133fb0",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "O levels/Physics/Thermal Physics.md",
     "Chemistry/@_Chemistry.md",
+    "Untitled 1.md",
     "Chemistry/A2/Syllabus.md",
     "Chemistry/A2/Chemistry_Syllabus(ALVL).pdf",
     "O levels/Chemsitry/Chemistry Overview.md",
     "O levels/attatchments/Untitled 2022-10-04 18.20.55.excalidraw.md",
     "O levels/Chemsitry/Balancing Equations - Formula Making.md",
     "O levels/Chemsitry/attatchments/Balancing Equations - Formula Making 2022-10-30 18.03.13.excalidraw.md",
-    "O levels/Chemsitry/Structures.md",
-    "O levels/attatchments/Untitled 2022-10-04 18.31.01.excalidraw.md"
+    "O levels/Chemsitry/Structures.md"
   ]
 }

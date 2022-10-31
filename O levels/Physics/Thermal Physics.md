@@ -38,3 +38,4 @@ $T(C) = T(K) -273$
 ![[O levels/Physics/attatchments/Thermal Physics 2022-10-27 17.05.15.excalidraw]]
 
 ![[O levels/Physics/attatchments/Thermal Physics 2022-10-27 17.37.16.excalidraw]]
+![[O levels/Physics/attatchments/Thermal Physics 2022-10-31 12.08.48.excalidraw]]
