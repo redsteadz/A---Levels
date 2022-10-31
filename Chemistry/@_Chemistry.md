@@ -42,6 +42,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","date-colors":[],"link-date-to-daily-note":true}
 ```
 %%
