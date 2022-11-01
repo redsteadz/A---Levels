@@ -48,7 +48,7 @@ The presence of Acids. ^ajUNsrV1
 			"y": 76.84654235839844,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 111,
+			"width": 110,
 			"height": 44,
 			"seed": 368971596,
 			"groupIds": [],
@@ -160,7 +160,7 @@ The presence of Acids. ^ajUNsrV1
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 399,
-			"height": 108,
+			"height": 111,
 			"seed": 1512562420,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -172,7 +172,7 @@ The presence of Acids. ^ajUNsrV1
 			"fontFamily": 1,
 			"text": "-> All G-1 Hydroxides/Oxides\n-> Berillyum and Calcium OH\n-> Ammonia",
 			"rawText": "-> All G-1 Hydroxides/Oxides\n-> Berillyum and Calcium OH\n-> Ammonia",
-			"baseline": 97,
+			"baseline": 100,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -195,7 +195,7 @@ The presence of Acids. ^ajUNsrV1
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 657,
-			"height": 36,
+			"height": 37,
 			"seed": 842274932,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -207,7 +207,7 @@ The presence of Acids. ^ajUNsrV1
 			"fontFamily": 1,
 			"text": "Almost all G-2 Hydroxides/Oxides/Carbonates",
 			"rawText": "Almost all G-2 Hydroxides/Oxides/Carbonates",
-			"baseline": 25,
+			"baseline": 26,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -230,7 +230,7 @@ The presence of Acids. ^ajUNsrV1
 			"strokeColor": "#364fc7",
 			"backgroundColor": "transparent",
 			"width": 229,
-			"height": 36,
+			"height": 37,
 			"seed": 1552799092,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -242,7 +242,7 @@ The presence of Acids. ^ajUNsrV1
 			"fontFamily": 1,
 			"text": "Soluble in water",
 			"rawText": "Soluble in water",
-			"baseline": 25,
+			"baseline": 26,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -265,7 +265,7 @@ The presence of Acids. ^ajUNsrV1
 			"strokeColor": "#364fc7",
 			"backgroundColor": "transparent",
 			"width": 256,
-			"height": 36,
+			"height": 37,
 			"seed": 1110405236,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -277,7 +277,7 @@ The presence of Acids. ^ajUNsrV1
 			"fontFamily": 1,
 			"text": "Insoluble in water",
 			"rawText": "Insoluble in water",
-			"baseline": 25,
+			"baseline": 26,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -8686,8 +8686,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "text",
-			"version": 73,
-			"versionNonce": 349906080,
+			"version": 74,
+			"versionNonce": 742290583,
 			"isDeleted": false,
 			"id": "ajUNsrV1",
 			"fillStyle": "hachure",
@@ -8700,20 +8700,22 @@ The presence of Acids. ^ajUNsrV1
 			"y": 771.1234893798828,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 327,
-			"height": 36,
+			"width": 328,
+			"height": 37,
 			"seed": 1626473804,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064694,
 			"link": null,
 			"locked": false,
 			"fontSize": 29,
 			"fontFamily": 1,
 			"text": "The presence of Acids.",
 			"rawText": "The presence of Acids.",
-			"baseline": 25,
+			"baseline": 26,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -8721,8 +8723,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 357496160,
+			"version": 17,
+			"versionNonce": 344065113,
 			"isDeleted": false,
 			"id": "SKVad57Jc-Ux3QkjWsIWD",
 			"fillStyle": "hachure",
@@ -8738,10 +8740,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 5.47723388671875,
 			"height": 53.67681884765625,
 			"seed": 1327695308,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8818,8 +8822,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 1666027680,
+			"version": 16,
+			"versionNonce": 1876019639,
 			"isDeleted": false,
 			"id": "13CZaZnH-GeGWuVvzc38p",
 			"fillStyle": "hachure",
@@ -8835,10 +8839,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 2.19091796875,
 			"height": 51.48590087890625,
 			"seed": 1864745804,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8910,8 +8916,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 1854490976,
+			"version": 13,
+			"versionNonce": 106041657,
 			"isDeleted": false,
 			"id": "puM0N_L-BjLlDMVpKynNH",
 			"fillStyle": "hachure",
@@ -8927,10 +8933,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 23.00433349609375,
 			"height": 5.47723388671875,
 			"seed": 1851048052,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8987,8 +8995,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 278035616,
+			"version": 18,
+			"versionNonce": 1283291863,
 			"isDeleted": false,
 			"id": "IBD6G95i4TRX61uarXmPM",
 			"fillStyle": "hachure",
@@ -9004,10 +9012,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 17.527099609375,
 			"height": 39.43603515625,
 			"seed": 529135604,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9089,8 +9099,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 1431903584,
+			"version": 22,
+			"versionNonce": 1615692313,
 			"isDeleted": false,
 			"id": "5Twb_kTUBuXEfKvVcJgeK",
 			"fillStyle": "hachure",
@@ -9106,10 +9116,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 17.527099609375,
 			"height": 39.43603515625,
 			"seed": 1525112524,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9211,8 +9223,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 509208736,
+			"version": 12,
+			"versionNonce": 919996407,
 			"isDeleted": false,
 			"id": "tFu9H2qHi9iTsOePRD_jS",
 			"fillStyle": "hachure",
@@ -9228,10 +9240,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 18.62255859375,
 			"height": 2.19091796875,
 			"seed": 223572340,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9283,8 +9297,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 9,
-			"versionNonce": 2064544096,
+			"version": 10,
+			"versionNonce": 1332205305,
 			"isDeleted": false,
 			"id": "lONPKF6lCVWnBnKO3kZnT",
 			"fillStyle": "hachure",
@@ -9300,10 +9314,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 6.57269287109375,
 			"height": 21.90887451171875,
 			"seed": 1907444172,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9345,8 +9361,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 1481888928,
+			"version": 85,
+			"versionNonce": 484438295,
 			"isDeleted": false,
 			"id": "gp3l_9Oq2wypcqi5TwDzk",
 			"fillStyle": "hachure",
@@ -9362,10 +9378,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 69.0130615234375,
 			"height": 76.68115234375,
 			"seed": 175357300,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064694,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9782,8 +9800,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 1727612256,
+			"version": 17,
+			"versionNonce": 371494873,
 			"isDeleted": false,
 			"id": "ySLxg55-Juewc8feMTEoc",
 			"fillStyle": "hachure",
@@ -9799,10 +9817,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 15.33624267578125,
 			"height": 38.340576171875,
 			"seed": 694282996,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9879,8 +9899,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 338706592,
+			"version": 22,
+			"versionNonce": 940553783,
 			"isDeleted": false,
 			"id": "_StWdVeJe_mCbGPkSia6D",
 			"fillStyle": "hachure",
@@ -9896,10 +9916,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 18.62255859375,
 			"height": 31.76788330078125,
 			"seed": 1715045748,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9996,8 +10018,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 912890208,
+			"version": 22,
+			"versionNonce": 1519856825,
 			"isDeleted": false,
 			"id": "WhAym3kT_dBn-CqKrnqQb",
 			"fillStyle": "hachure",
@@ -10013,10 +10035,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 8.7635498046875,
 			"height": 20.8134765625,
 			"seed": 1550931532,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10118,8 +10142,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 1906257056,
+			"version": 12,
+			"versionNonce": 524932951,
 			"isDeleted": false,
 			"id": "SP3-i9V890_YI1KWWpIFJ",
 			"fillStyle": "hachure",
@@ -10135,10 +10159,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 3.28631591796875,
 			"height": 41.62689208984375,
 			"seed": 1275137652,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10190,8 +10216,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 1555000672,
+			"version": 13,
+			"versionNonce": 878914969,
 			"isDeleted": false,
 			"id": "VcW1VEKRhshtckbDFNVpq",
 			"fillStyle": "hachure",
@@ -10207,10 +10233,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 2.19091796875,
 			"height": 43.81781005859375,
 			"seed": 1032223948,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10267,8 +10295,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 441489568,
+			"version": 13,
+			"versionNonce": 417518711,
 			"isDeleted": false,
 			"id": "lc2zSsoXHmSol8BWA4oHf",
 			"fillStyle": "hachure",
@@ -10284,10 +10312,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 24.09979248046875,
 			"height": 5.4771728515625,
 			"seed": 1365441868,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10344,8 +10374,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 1662697824,
+			"version": 15,
+			"versionNonce": 2059145849,
 			"isDeleted": false,
 			"id": "_6kQOXm1bZ6cERAXRVj4n",
 			"fillStyle": "hachure",
@@ -10361,10 +10391,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 17.52716064453125,
 			"height": 33.95880126953125,
 			"seed": 954150348,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10431,8 +10463,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 32801952,
+			"version": 23,
+			"versionNonce": 748629399,
 			"isDeleted": false,
 			"id": "MGomkK4qjEaIcHoEeLXsm",
 			"fillStyle": "hachure",
@@ -10448,10 +10480,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 16.431640625,
 			"height": 43.81781005859375,
 			"seed": 411919564,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10558,8 +10592,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 687576416,
+			"version": 12,
+			"versionNonce": 1382374233,
 			"isDeleted": false,
 			"id": "TmfCr5ZjXacbwj-yxi-jH",
 			"fillStyle": "hachure",
@@ -10575,10 +10609,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 14.24078369140625,
 			"height": 2.19085693359375,
 			"seed": 1944327628,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10630,8 +10666,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 641396896,
+			"version": 12,
+			"versionNonce": 1974690487,
 			"isDeleted": false,
 			"id": "R8noJvDLtKzAmNyFpCIwr",
 			"fillStyle": "hachure",
@@ -10647,10 +10683,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 7.66815185546875,
 			"height": 18.62261962890625,
 			"seed": 1410982644,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10702,8 +10740,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 597813600,
+			"version": 41,
+			"versionNonce": 2075297849,
 			"isDeleted": false,
 			"id": "GzyYeI6n1x5NSKsw3aL0u",
 			"fillStyle": "hachure",
@@ -10719,10 +10757,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 27.3861083984375,
 			"height": 43.81781005859375,
 			"seed": 1337815116,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10919,8 +10959,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 1322507424,
+			"version": 21,
+			"versionNonce": 885257175,
 			"isDeleted": false,
 			"id": "xA875cZV5PCS677hgesZp",
 			"fillStyle": "hachure",
@@ -10936,10 +10976,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 17.52716064453125,
 			"height": 13.14532470703125,
 			"seed": 1894263756,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11036,8 +11078,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 19,
-			"versionNonce": 509459808,
+			"version": 20,
+			"versionNonce": 1619466521,
 			"isDeleted": false,
 			"id": "z6dA4TFlx1fh9K4Iif1d7",
 			"fillStyle": "hachure",
@@ -11053,10 +11095,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 13.1453857421875,
 			"height": 21.90887451171875,
 			"seed": 2023278156,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11143,8 +11187,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 1299138720,
+			"version": 23,
+			"versionNonce": 568680695,
 			"isDeleted": false,
 			"id": "VCWnQ9PUjQLOl0RTgWcYn",
 			"fillStyle": "hachure",
@@ -11160,10 +11204,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 13.1453857421875,
 			"height": 29.57696533203125,
 			"seed": 746840180,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11270,8 +11316,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 2055147872,
+			"version": 13,
+			"versionNonce": 1649839609,
 			"isDeleted": false,
 			"id": "1G4XuVKzCM9dqCyf8RbCQ",
 			"fillStyle": "hachure",
@@ -11287,10 +11333,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 14.24078369140625,
 			"height": 5.47723388671875,
 			"seed": 1725144948,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11347,8 +11395,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 45,
-			"versionNonce": 1035809952,
+			"version": 46,
+			"versionNonce": 2124163607,
 			"isDeleted": false,
 			"id": "sac63aFqex_85Jz8HTsGN",
 			"fillStyle": "hachure",
@@ -11364,10 +11412,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 87.6356201171875,
 			"height": 32.86334228515625,
 			"seed": 1947926132,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11589,8 +11639,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 1867900256,
+			"version": 85,
+			"versionNonce": 1747216089,
 			"isDeleted": false,
 			"id": "VBIUWIr1PAhOYUJYlsBvu",
 			"fillStyle": "hachure",
@@ -11606,10 +11656,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 61.3448486328125,
 			"height": 79.96746826171875,
 			"seed": 1343355724,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12026,8 +12078,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 39,
-			"versionNonce": 1164812448,
+			"version": 40,
+			"versionNonce": 1742524215,
 			"isDeleted": false,
 			"id": "L6nMuNxJmOlL7niqn4Hzo",
 			"fillStyle": "hachure",
@@ -12043,10 +12095,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 28.4815673828125,
 			"height": 41.62689208984375,
 			"seed": 1287583180,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12238,8 +12292,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 1244805472,
+			"version": 18,
+			"versionNonce": 746857401,
 			"isDeleted": false,
 			"id": "mlR-IkP14NBnaraWs-pn2",
 			"fillStyle": "hachure",
@@ -12255,10 +12309,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 9.85888671875,
 			"height": 13.14532470703125,
 			"seed": 104925172,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12340,8 +12396,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 10,
-			"versionNonce": 1412467872,
+			"version": 11,
+			"versionNonce": 1745604695,
 			"isDeleted": false,
 			"id": "bhHQ-96DeVSZ1I0RgPD0P",
 			"fillStyle": "hachure",
@@ -12357,10 +12413,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 13.1453857421875,
 			"height": 1.095458984375,
 			"seed": 225922764,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12407,8 +12465,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 10,
-			"versionNonce": 778308960,
+			"version": 11,
+			"versionNonce": 1268335769,
 			"isDeleted": false,
 			"id": "riVmYzS3rM4UMO5bfOct-",
 			"fillStyle": "hachure",
@@ -12424,10 +12482,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 6.5726318359375,
 			"height": 16.43170166015625,
 			"seed": 1071876300,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844030,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12474,8 +12534,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 1672870048,
+			"version": 14,
+			"versionNonce": 1224584567,
 			"isDeleted": false,
 			"id": "AafkhP7bpSqZLYQQxMKM9",
 			"fillStyle": "hachure",
@@ -12491,10 +12551,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 6.5726318359375,
 			"height": 41.62689208984375,
 			"seed": 1164100300,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12556,8 +12618,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 14,
-			"versionNonce": 1429954912,
+			"version": 15,
+			"versionNonce": 286738809,
 			"isDeleted": false,
 			"id": "RU9GMYJQn0OmsB5tNze5B",
 			"fillStyle": "hachure",
@@ -12573,10 +12635,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 5.4771728515625,
 			"height": 43.81781005859375,
 			"seed": 43132788,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12643,8 +12707,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 934143136,
+			"version": 12,
+			"versionNonce": 636937879,
 			"isDeleted": false,
 			"id": "9UsDPGpfekBpiWLfIL7kB",
 			"fillStyle": "hachure",
@@ -12660,10 +12724,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 13.145263671875,
 			"height": 2.19085693359375,
 			"seed": 263389300,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12715,8 +12781,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 1309160800,
+			"version": 16,
+			"versionNonce": 104968793,
 			"isDeleted": false,
 			"id": "xW-RqL97JKVLYW6O7PnzQ",
 			"fillStyle": "hachure",
@@ -12732,10 +12798,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 16.431640625,
 			"height": 9.8590087890625,
 			"seed": 1008577228,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064695,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12807,8 +12875,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 499667104,
+			"version": 21,
+			"versionNonce": 1034681271,
 			"isDeleted": false,
 			"id": "f4T48aekrR8Hs1Rp0IHtH",
 			"fillStyle": "hachure",
@@ -12824,10 +12892,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 24.0997314453125,
 			"height": 30.6724853515625,
 			"seed": 2054861044,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12919,8 +12989,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 1041926496,
+			"version": 13,
+			"versionNonce": 1072430905,
 			"isDeleted": false,
 			"id": "Otwr2srT1N-DkHcC-lYLz",
 			"fillStyle": "hachure",
@@ -12936,10 +13006,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 13.1453857421875,
 			"height": 2.19091796875,
 			"seed": 1722793588,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12996,8 +13068,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 766852256,
+			"version": 12,
+			"versionNonce": 71396567,
 			"isDeleted": false,
 			"id": "Szoz6OF9eBiAgOMNRwTD_",
 			"fillStyle": "hachure",
@@ -13013,10 +13085,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 2.19091796875,
 			"height": 20.8134765625,
 			"seed": 1229338100,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13068,8 +13142,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 15,
-			"versionNonce": 549608800,
+			"version": 16,
+			"versionNonce": 1819914265,
 			"isDeleted": false,
 			"id": "xx4g_Uffu9REUnOsR7nK5",
 			"fillStyle": "hachure",
@@ -13085,10 +13159,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 18.62255859375,
 			"height": 31.7679443359375,
 			"seed": 1474121036,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13160,8 +13236,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 153397408,
+			"version": 23,
+			"versionNonce": 1967897079,
 			"isDeleted": false,
 			"id": "Ofq7yoIk5PRwUaDn77vak",
 			"fillStyle": "hachure",
@@ -13177,10 +13253,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 18.62255859375,
 			"height": 29.5770263671875,
 			"seed": 1512724084,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13282,8 +13360,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 122663264,
+			"version": 18,
+			"versionNonce": 568214777,
 			"isDeleted": false,
 			"id": "S509E0x0sFvZstuomTFf9",
 			"fillStyle": "hachure",
@@ -13299,10 +13377,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 8.7635498046875,
 			"height": 12.0499267578125,
 			"seed": 1090426228,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13384,8 +13464,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 465999008,
+			"version": 35,
+			"versionNonce": 634348311,
 			"isDeleted": false,
 			"id": "58dN2DiephYuvHS1N3Ai2",
 			"fillStyle": "hachure",
@@ -13401,10 +13481,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 81.06292724609375,
 			"height": 28.48162841796875,
 			"seed": 732965196,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13571,8 +13653,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 1494386016,
+			"version": 43,
+			"versionNonce": 1805467097,
 			"isDeleted": false,
 			"id": "HPi3qzW8ju9XokJ-m1x6l",
 			"fillStyle": "hachure",
@@ -13588,10 +13670,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 33.95880126953125,
 			"height": 40.53143310546875,
 			"seed": 1737363788,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13798,8 +13882,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 1531642016,
+			"version": 22,
+			"versionNonce": 373352503,
 			"isDeleted": false,
 			"id": "PKpB3ToaTX7fW1SiWYik3",
 			"fillStyle": "hachure",
@@ -13815,10 +13899,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 15.336181640625,
 			"height": 12.04986572265625,
 			"seed": 773780300,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13920,8 +14006,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 324720992,
+			"version": 35,
+			"versionNonce": 415898297,
 			"isDeleted": false,
 			"id": "zcie5OSFWCcQTPS7ttKHH",
 			"fillStyle": "hachure",
@@ -13937,10 +14023,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 17.527099609375,
 			"height": 30.67242431640625,
 			"seed": 931624180,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14107,8 +14195,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 9,
-			"versionNonce": 123858080,
+			"version": 10,
+			"versionNonce": 1149552983,
 			"isDeleted": false,
 			"id": "je-pEFydlkfVXpheAkOr0",
 			"fillStyle": "hachure",
@@ -14124,10 +14212,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 10.9544677734375,
 			"height": 2.19091796875,
 			"seed": 1770327284,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14169,8 +14259,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 10,
-			"versionNonce": 158903648,
+			"version": 11,
+			"versionNonce": 1242061721,
 			"isDeleted": false,
 			"id": "YdC1GzALg_XJs_HDdVTn1",
 			"fillStyle": "hachure",
@@ -14186,10 +14276,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 2.1907958984375,
 			"height": 17.527099609375,
 			"seed": 530104268,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14236,8 +14328,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 13,
-			"versionNonce": 1773885600,
+			"version": 14,
+			"versionNonce": 2112849527,
 			"isDeleted": false,
 			"id": "FUjdW4EnF-fj-DKfhnbbn",
 			"fillStyle": "hachure",
@@ -14253,10 +14345,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 4.3817138671875,
 			"height": 31.76788330078125,
 			"seed": 1363442124,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14318,8 +14412,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 12,
-			"versionNonce": 616300896,
+			"version": 13,
+			"versionNonce": 1066107001,
 			"isDeleted": false,
 			"id": "JGO3yeXgTu6VqCQp2c2ek",
 			"fillStyle": "hachure",
@@ -14335,10 +14429,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 0,
 			"height": 29.5770263671875,
 			"seed": 1479000180,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14395,8 +14491,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 369575072,
+			"version": 12,
+			"versionNonce": 1900388247,
 			"isDeleted": false,
 			"id": "YVatHFIcnTkVr6ofViJzg",
 			"fillStyle": "hachure",
@@ -14412,10 +14508,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 15.336181640625,
 			"height": 2.19091796875,
 			"seed": 92076020,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14467,8 +14565,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 611636576,
+			"version": 17,
+			"versionNonce": 1729562969,
 			"isDeleted": false,
 			"id": "pRg9t-yyevsModiUrkKmA",
 			"fillStyle": "hachure",
@@ -14484,10 +14582,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 13.1453857421875,
 			"height": 14.24078369140625,
 			"seed": 1607248716,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14564,8 +14664,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 703967392,
+			"version": 21,
+			"versionNonce": 12293303,
 			"isDeleted": false,
 			"id": "ULtGIctwwPHIgeTjm0yOp",
 			"fillStyle": "hachure",
@@ -14581,10 +14681,12 @@ The presence of Acids. ^ajUNsrV1
 			"width": 21.908935546875,
 			"height": 26.29071044921875,
 			"seed": 1135122636,
-			"groupIds": [],
+			"groupIds": [
+				"TmnWlr3ZbkKLNjzlBd5v1"
+			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844031,
+			"updated": 1667305064696,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14675,54 +14777,28 @@ The presence of Acids. ^ajUNsrV1
 			]
 		},
 		{
-			"id": "EHPcWOegLnuW5ks3lPULT",
 			"type": "rectangle",
-			"x": -537.69596961876,
-			"y": 10.940079116440302,
-			"width": 1107.964390345982,
-			"height": 1039.108014787946,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 74,
+			"versionNonce": 422835552,
+			"isDeleted": false,
+			"id": "EHPcWOegLnuW5ks3lPULT",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"seed": 221682848,
-			"version": 74,
-			"versionNonce": 422835552,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1666612853411,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "W3Ke5-uGWPDZYPn6TOOLC",
-			"type": "diamond",
-			"x": -587.7735714602778,
-			"y": 20.329509571239385,
-			"width": 1032.848249162946,
-			"height": 607.1895490373881,
 			"angle": 0,
+			"x": -537.69596961876,
+			"y": 10.940079116440302,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
+			"width": 1107.964390345982,
+			"height": 1039.108014787946,
+			"seed": 221682848,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 833455456,
-			"version": 23,
-			"versionNonce": 1576216928,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1666612844031,
+			"boundElements": [],
+			"updated": 1666612853411,
 			"link": null,
 			"locked": false
 		}
