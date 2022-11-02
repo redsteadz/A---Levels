@@ -11,9 +11,11 @@
             "id": "7c6297b39ac41585",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Moles 2022-11-01 20.37.07.excalidraw.md"
+                "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Moles 2022-11-01 20.37.07.excalidraw.md",
+                "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Moles 2022-11-01 20.37.07.excalidraw.md",
+                "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Moles 2022-11-01 20.37.07.excalidraw.md"
+                "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md"
               }
             }
           }
@@ -126,8 +128,8 @@
   },
   "active": "7c6297b39ac41585",
   "lastOpenFiles": [
-    "O levels/Chemsitry/Moles.md",
     "O levels/Chemsitry/attatchments/Moles 2022-11-01 20.37.07.excalidraw.md",
+    "O levels/Chemsitry/Moles.md",
     "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-26 17.05.22.excalidraw.md",
     "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-26 17.43.28.excalidraw.md",
     "O levels/Chemsitry/Acid And Alkali.md",
