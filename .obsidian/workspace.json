@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md",
-                "mode": "preview",
+                "file": "O levels/Chemsitry/Acid And Alkali.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cc30fb7e5f21711",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "O levels/Chemsitry/attatchments/Acid And Alkali 2022-11-02 17.08.22.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "aa52a6bf8b1a9c7b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "O levels/Chemsitry/attatchments/Acid And Alkali 2022-11-02 17.07.02.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md",
+                "file": "O levels/Chemsitry/attatchments/Acid And Alkali 2022-11-02 17.07.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md",
+                "file": "O levels/Chemsitry/attatchments/Acid And Alkali 2022-11-02 17.07.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md"
+                "file": "O levels/Chemsitry/attatchments/Acid And Alkali 2022-11-02 17.07.02.excalidraw.md"
               }
             }
           }
@@ -126,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c6297b39ac41585",
+  "active": "aa52a6bf8b1a9c7b",
   "lastOpenFiles": [
+    "O levels/Chemsitry/attatchments/Acid And Alkali 2022-11-02 17.08.22.excalidraw.md",
+    "O levels/Chemsitry/Acid And Alkali.md",
+    "O levels/Chemsitry/attatchments/Acid And Alkali 2022-11-02 17.07.02.excalidraw.md",
+    "Chemistry/A2/Organic Chemistry/30 Arenes.md",
     "O levels/Chemsitry/attatchments/Moles 2022-11-01 20.37.07.excalidraw.md",
     "O levels/Chemsitry/Moles.md",
     "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-26 17.05.22.excalidraw.md",
     "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-26 17.43.28.excalidraw.md",
-    "O levels/Chemsitry/Acid And Alkali.md",
     "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-19 17.15.05.excalidraw.md",
-    "O levels/Physics/Thermal Physics.md",
-    "O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-24 17.30.27.excalidraw.md",
-    "O levels/Physics/attatchments/Thermal Physics 2022-10-31 12.08.48.excalidraw.md",
-    "Chemistry/@_Chemistry.md"
+    "O levels/Physics/Thermal Physics.md"
   ]
 }

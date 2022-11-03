@@ -16,7 +16,8 @@
 
 # Bases / Alkalis
 ![[O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-17 17.14.48.excalidraw]]
-
+### Ammonium Salts + Alkalis
+![[O levels/Chemsitry/attatchments/Acid And Alkali 2022-11-02 17.08.22.excalidraw]]
 1. Base/Alkali + Acid.
 2. Alkali/Base + Ammonium Salts
 
@@ -71,3 +72,7 @@
 ![[O levels/Chemsitry/attatchments/Acid And Alkali 2022-10-26 17.43.28.excalidraw]]
 ## Acid - Base Reaction
 ![[O levels/Chemsitry/attatchments/Pasted image 20221101172047.png]]
+```ad-tip
+collapse:true
+![[O levels/Chemsitry/attatchments/Acid And Alkali 2022-11-02 17.07.02.excalidraw]]
+```
