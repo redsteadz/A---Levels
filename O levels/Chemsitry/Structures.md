@@ -1,3 +1,19 @@
+# Atoms, Elements and Compounds
+- **Atoms**
+	- Are neutral particles, That have single atoms present
+		- $\ce{H,O, Na, Li}$ 
+- **Element**
+	- Are neutral particles, That have a single TYPE of Element present.
+		- $\ce{H2, O2, C, Al}$
+- **Molecule**
+	- Is a particle that has more than one atom bonded covelantly
+		- $\ce{H2, CO2, O2, N2}$
+- **Compounds**
+	- Are particles that have MORE than ONE type ELEMENT present.
+		- $\ce{CO2, CO, NH3}$
+![[O levels/Chemsitry/attatchments/Structures 2022-11-04 18.15.52.excalidraw]]
+
+
 # Why Bond ?
 - **Except for Group 8** Elements do not have a complete shell
 	- Group **1** have **1e in final shell**
@@ -12,7 +28,7 @@
 - Is a type of bonding in which **Metals** and **Non-Metals** bond by giving/taking electrons (forming ions) 
 	- **Cations->** $\ce{Na^+}$
 	- **Anions->** $\ce{Cl^-}$
-- This a **Giant Lattic Structure**
+- This a **Giant Lattice Structure**
 	- A regular arrangement of Positive and Negative Ions
 - The force of bond is electrostatic force between the ions
 ![[O levels/attatchments/Untitled 2022-10-04 18.20.55.excalidraw]]
