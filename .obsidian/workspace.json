@@ -13,29 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O levels/ Physics/Waves.md",
+                "file": "O levels/Chemistry/Periodic Table.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "717f36fc37b4eddb",
+            "id": "15b4ee41898059da",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "O levels/ Physics/attatchments/Waves 2022-11-15 11.20.22.excalidraw.md"
+                "file": "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.19.03.excalidraw.md"
               }
             }
           },
           {
-            "id": "e3c8591b780b8712",
+            "id": "f7cd8fbefd466cb4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "O levels/ Physics/attatchments/Waves 2022-11-15 11.44.09.excalidraw.md"
+                "file": "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.31.02.excalidraw.md"
               }
             }
           }
@@ -68,8 +68,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "91%",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O levels/ Physics/Waves.md",
+                "file": "O levels/Chemistry/Periodic Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O levels/ Physics/Waves.md",
+                "file": "O levels/Chemistry/Periodic Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O levels/ Physics/Waves.md"
+                "file": "O levels/Chemistry/Periodic Table.md"
               }
             }
           },
@@ -158,15 +158,15 @@
   },
   "active": "aa52a6bf8b1a9c7b",
   "lastOpenFiles": [
+    "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.31.02.excalidraw.md",
+    "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.19.03.excalidraw.md",
+    "O levels/Chemistry/Periodic Table.md",
+    "O levels/Chemsitry/attatchments/Structures and Periodic Table 2022-10-19 20.15.26.excalidraw.md",
+    "O levels/Chemsitry/Structures and Periodic Table.md",
+    "O levels/ Physics/Waves.md",
     "O levels/ Physics/attatchments/Waves 2022-11-15 11.20.22.excalidraw.md",
     "O levels/ Physics/attatchments/Waves 2022-11-15 11.44.09.excalidraw.md",
-    "O levels/ Physics/Waves.md",
     "O levels/Highlights for Chemistry_Syllabus(ALVL).md",
-    "Chemistry/A2/Syllabus.md",
-    "Physics/Resources_Physics.md",
-    "Physics/@_Physics.md",
-    "Physics/001.Physics Overview.md",
-    "Physics/A2 Level subject Syllabus .md",
-    "Untitled 1.md"
+    "Chemistry/A2/Syllabus.md"
   ]
 }
