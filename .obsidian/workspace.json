@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa52a6bf8b1a9c7b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "O levels/attatchments/Untitled 2022-10-04 18.37.44.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "15b4ee41898059da",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.19.03.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "f7cd8fbefd466cb4",
             "type": "leaf",
             "state": {
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O levels/attatchments/Untitled 2022-10-04 18.37.44.excalidraw.md",
+                "file": "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.31.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O levels/attatchments/Untitled 2022-10-04 18.37.44.excalidraw.md",
+                "file": "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.31.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O levels/attatchments/Untitled 2022-10-04 18.37.44.excalidraw.md"
+                "file": "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.31.02.excalidraw.md"
               }
             }
           },
@@ -154,16 +134,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa52a6bf8b1a9c7b",
+  "active": "f7cd8fbefd466cb4",
   "lastOpenFiles": [
+    "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.19.03.excalidraw.md",
+    "O levels/attatchments/Untitled 2022-10-04 18.37.44.excalidraw.md",
     "O levels/Chemsitry/Structures.md",
     "O levels/attatchments/Untitled 2022-10-04 18.40.40.excalidraw.md",
-    "O levels/attatchments/Untitled 2022-10-04 18.37.44.excalidraw.md",
     "O levels/attatchments/Untitled 2022-10-04 18.31.01.excalidraw.md",
     "O levels/attatchments/Untitled 2022-10-04 18.20.55.excalidraw.md",
     "O levels/Chemistry/Periodic Table.md",
     "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.31.02.excalidraw.md",
-    "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.19.03.excalidraw.md",
     "O levels/Chemsitry/attatchments/Structures and Periodic Table 2022-10-19 20.15.26.excalidraw.md",
     "O levels/Chemsitry/Structures and Periodic Table.md"
   ]
