@@ -11,9 +11,11 @@
             "id": "f7cd8fbefd466cb4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-23 18.10.00.excalidraw.md"
+                "file": "O levels/ Physics/Waves.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -36,8 +38,19 @@
                 "file": "O levels/Chemistry/attatchments/Periodic Table 2022-11-16 13.34.27.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "bcb637d5dec0b121",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "O levels/ Physics/attatchments/Waves 2022-11-17 17.35.54.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "aabc4dd8de0f0f31",
@@ -103,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-23 18.10.00.excalidraw.md",
+                "file": "O levels/ Physics/attatchments/Waves 2022-11-17 17.35.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-23 18.10.00.excalidraw.md",
+                "file": "O levels/ Physics/attatchments/Waves 2022-11-17 17.35.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-23 18.10.00.excalidraw.md"
+                "file": "O levels/ Physics/attatchments/Waves 2022-11-17 17.35.54.excalidraw.md"
               }
             }
           },
@@ -152,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f7cd8fbefd466cb4",
+  "active": "bcb637d5dec0b121",
   "lastOpenFiles": [
+    "O levels/ Physics/Waves.md",
+    "O levels/ Physics/attatchments/Waves 2022-11-15 11.44.09.excalidraw.md",
+    "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-23 18.10.00.excalidraw.md",
     "O levels/Chemsitry/Group 7 Halides.md",
     "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.48.01.excalidraw.md",
     "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.25.57.excalidraw.md",
     "O levels/Chemistry/Periodic Table.md",
     "O levels/Chemistry/attatchments/Periodic Table 2022-11-16 13.34.27.excalidraw.md",
     "O levels/Chemistry/attatchments/Periodic Table 2022-11-16 13.20.10.excalidraw.md",
-    "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.31.02.excalidraw.md",
-    "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.19.03.excalidraw.md",
-    "O levels/attatchments/Untitled 2022-10-04 18.37.44.excalidraw.md",
-    "O levels/Chemsitry/Structures.md"
+    "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.31.02.excalidraw.md"
   ]
 }
