@@ -43,9 +43,11 @@
             "id": "bcb637d5dec0b121",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "O levels/ Physics/attatchments/Waves 2022-11-17 17.35.54.excalidraw.md"
+                "file": "temp.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O levels/ Physics/attatchments/Waves 2022-11-17 17.35.54.excalidraw.md",
+                "file": "temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O levels/ Physics/attatchments/Waves 2022-11-17 17.35.54.excalidraw.md",
+                "file": "temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O levels/ Physics/attatchments/Waves 2022-11-17 17.35.54.excalidraw.md"
+                "file": "temp.md"
               }
             }
           },
@@ -168,6 +170,8 @@
   },
   "active": "bcb637d5dec0b121",
   "lastOpenFiles": [
+    "O levels/ Physics/attatchments/Waves 2022-11-17 17.35.54.excalidraw.md",
+    "Daily_Notes/01_Daily Notes Template.md",
     "O levels/ Physics/Waves.md",
     "O levels/ Physics/attatchments/Waves 2022-11-15 11.44.09.excalidraw.md",
     "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-23 18.10.00.excalidraw.md",
@@ -175,8 +179,6 @@
     "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.48.01.excalidraw.md",
     "O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.25.57.excalidraw.md",
     "O levels/Chemistry/Periodic Table.md",
-    "O levels/Chemistry/attatchments/Periodic Table 2022-11-16 13.34.27.excalidraw.md",
-    "O levels/Chemistry/attatchments/Periodic Table 2022-11-16 13.20.10.excalidraw.md",
-    "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.31.02.excalidraw.md"
+    "O levels/Chemistry/attatchments/Periodic Table 2022-11-16 13.34.27.excalidraw.md"
   ]
 }
