@@ -30,3 +30,42 @@
 	-   the force of attraction between the nucleus and the outer electron decreases
 	-   the outer electron is lost more easily
 
+## Group 7
+
+## Characteristics
+- Non metals
+- 7e in their outer most shell
+- Colors Substances
+- Hydrogen Halides are strong Acids
+
+![[O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.25.57.excalidraw]]
+## Displacement Reactions
+![[O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-21 17.48.01.excalidraw]]
+![[O levels/Chemsitry/attatchments/Group 7 Halides 2022-10-23 18.10.00.excalidraw]]
+
+## Transition Elements
+![[O levels/Chemistry/attatchments/Periodic Table 2022-11-21 10.12.36.excalidraw]]
+- Metals
+	- High Density
+	- High Melting Points
+	- Metallic Structure
+- Transition Element specific
+	- Variable Oxidation States
+		- ![[O levels/Chemistry/attatchments/Periodic Table 2022-11-21 10.16.18.excalidraw]]
+		- These states, are colored. And colored differently
+	- They are usually used as catalysts
+
+| Transition Element/Compound | Usage                 |
+| --------------------------- | --------------------- |
+| Vanadium PentaOxide         | Contact Process (SO3) |
+| Iron                        | Haebers Process (NH3)|
+
+# Noble Gases (Group 0/8)
+These gases are unreactive because they have a complete shell
+- They make no bonds so they are **monoatomic**
+- **Unreactive**
+### Uses:
+- **Helium**- filling balloons: less dense than air so the balloons float and He is non-flammable
+- Neon – advertising signs 
+- argon/krypton/xenon- gas in filament lamps: inert 
+- **argon**- shielding gas in welding: denser than air so keeps air off of metal and inert so metal won’t oxidise
