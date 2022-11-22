@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "700eafb2f665a27f",
+        "id": "75a40d61877f6354",
         "type": "tabs",
         "children": [
           {
-            "id": "f7cd8fbefd466cb4",
+            "id": "01e1fd2195d5cfc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e1826c282c82c5a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "attatchments/temp 2022-11-21 10.41.53.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "77306c2f96926768",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "O levels/Chemistry/attatchments/Periodic Table 2022-11-21 10.12.36.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attatchments/temp 2022-11-21 10.41.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attatchments/temp 2022-11-21 10.41.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "attatchments/temp 2022-11-21 10.41.53.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2e1826c282c82c5a",
+  "active": "01e1fd2195d5cfc9",
   "lastOpenFiles": [
+    "O levels/Chemistry/attatchments/Periodic Table 2022-11-21 10.12.36.excalidraw.md",
     "temp.md",
+    "attatchments/temp 2022-11-21 10.41.53.excalidraw.md",
     "O levels/Chemistry/Periodic Table.md",
     "O levels/Chemsitry/Group 7 Halides.md",
     "O levels/Chemsitry/Reversible Reactions.md",
     "O levels/attatchments/Reversible Reactions 2022-10-04 17.38.13.excalidraw.md",
-    "O levels/Chemistry/attatchments/Periodic Table 2022-11-21 10.12.36.excalidraw.md",
     "O levels/Chemistry/attatchments/Periodic Table 2022-11-21 10.16.18.excalidraw.md",
     "O levels/Chemsitry/Structures.md",
-    "O levels/attatchments/Untitled 2022-10-04 18.40.40.excalidraw.md",
-    "O levels/Chemistry/attatchments/Periodic Table 2022-11-15 17.31.02.excalidraw.md"
+    "O levels/attatchments/Untitled 2022-10-04 18.40.40.excalidraw.md"
   ]
 }
