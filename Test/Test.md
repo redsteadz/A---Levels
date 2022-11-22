@@ -1,1 +1,1 @@
-![[Test 2022-09-20 00.41.25.excalidraw]]
+![[Test/attatchments/Pasted image 20221122212243.jpg]]![[Test 2022-09-20 00.41.25.excalidraw]]
