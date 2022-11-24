@@ -25,3 +25,19 @@
 - ![[O levels/ Physics/attatchments/th 1.webp]]
   1. Sound Wave
   2. Seismic P waves
+
+- Waves can undergo
+	- Reflection at a plane surface
+		- ![[O levels/ Physics/attatchments/Waves 2022-11-24 14.17.27.excalidraw]]
+			- Waves **reflect** off smooth, plane surfaces rather than getting absorbed
+				- Angle of Incidence = Angle of Reflection
+			- Rough surfaces scatter the light in all direction, so they appear matte and unreflective
+			- **Frequence, wavelength and Speed** are all unchanged
+		- ![[O levels/ Physics/attatchments/Waves 2022-11-24 14.50.06.excalidraw]]
+	- Refraction (Due to a change of speed)
+		- The **speed** of a wave changes when it enters a new medium (environment)
+		- **If** the wave enters a **more optically dense** medium, its speed decreases and it **bends** **towards** the normal
+		- **If** the wave enters a **less optically dense** medium, its speed increase and it **bends** **away** from the normal
+		- In all cases, the frequency stays the **same** but **wavelength changes**
+		- ![[O levels/ Physics/attatchments/Waves 2022-11-24 15.20.40.excalidraw]]
+	- Diffraction through a gap
