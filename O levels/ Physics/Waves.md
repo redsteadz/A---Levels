@@ -39,5 +39,12 @@
 		- **If** the wave enters a **more optically dense** medium, its speed decreases and it **bends** **towards** the normal
 		- **If** the wave enters a **less optically dense** medium, its speed increase and it **bends** **away** from the normal
 		- In all cases, the frequency stays the **same** but **wavelength changes**
+		- Deep Water - Less dense, Shallow Water - More dense
 		- ![[O levels/ Physics/attatchments/Waves 2022-11-24 15.20.40.excalidraw]]
+		- ![[O levels/ Physics/attatchments/Waves 2022-11-25 16.21.05.excalidraw]]
 	- Diffraction through a gap
+	- Waves **spread out** when they go around the sides of an obstacle or through a gap
+	- The **narrower the gap** or **greater the wavelength** MORE **diffraction occurs**
+	- Freq, Wavelength and speed are all unchanged
+		- ![[O levels/ Physics/attatchments/Waves-1.png]]
+		- ![[O levels/ Physics/attatchments/Waves 2022-11-25 16.40.38.excalidraw]]

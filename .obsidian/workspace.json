@@ -28,8 +28,29 @@
                 "file": "O levels/ Physics/attatchments/Waves 2022-11-24 14.50.06.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "c715c66ee634364e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "O levels/ Physics/attatchments/Waves 2022-11-25 16.21.05.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2d7594077afd6778",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "O levels/ Physics/attatchments/Waves 2022-11-25 16.40.38.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O levels/ Physics/Waves.md",
+                "file": "O levels/ Physics/attatchments/Waves 2022-11-25 16.40.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O levels/ Physics/Waves.md",
+                "file": "O levels/ Physics/attatchments/Waves 2022-11-25 16.40.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O levels/ Physics/Waves.md"
+                "file": "O levels/ Physics/attatchments/Waves 2022-11-25 16.40.38.excalidraw.md"
               }
             }
           },
@@ -145,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "01e1fd2195d5cfc9",
+  "active": "2d7594077afd6778",
   "lastOpenFiles": [
-    "O levels/ Physics/attatchments/Waves 2022-11-24 15.20.40.excalidraw.md",
     "O levels/ Physics/Waves.md",
+    "O levels/ Physics/attatchments/Waves 2022-11-17 17.35.54.excalidraw.md",
+    "O levels/ Physics/attatchments/Waves 2022-11-25 16.21.05.excalidraw.md",
+    "O levels/ Physics/attatchments/Waves 2022-11-24 15.20.40.excalidraw.md",
     "O levels/ Physics/attatchments/Waves 2022-11-24 14.17.27.excalidraw.md",
     "O levels/ Physics/attatchments/Waves 2022-11-24 14.50.06.excalidraw.md",
     "Test/Test.md",
     "O levels/Chemistry/attatchments/Periodic Table 2022-11-21 10.12.36.excalidraw.md",
     "temp.md",
-    "attatchments/temp 2022-11-21 10.41.53.excalidraw.md",
-    "O levels/Chemistry/Periodic Table.md",
-    "O levels/Chemsitry/Group 7 Halides.md"
+    "attatchments/temp 2022-11-21 10.41.53.excalidraw.md"
   ]
 }
