@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O levels/Computer/Paper Pattern.md",
+                "file": "O levels/Computer/Data Representation.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2037670d1919349",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "O levels/Computer/attatchments/Data Representation 2022-11-30 17.44.51.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "99a10d3aebc24490",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "O levels/Computer/attatchments/Data Representation 2022-11-30 17.46.49.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O levels/Computer/Paper Pattern.md",
+                "file": "O levels/Computer/attatchments/Data Representation 2022-11-30 17.46.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O levels/Computer/Paper Pattern.md",
+                "file": "O levels/Computer/attatchments/Data Representation 2022-11-30 17.46.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O levels/Computer/Paper Pattern.md"
+                "file": "O levels/Computer/attatchments/Data Representation 2022-11-30 17.46.49.excalidraw.md"
               }
             }
           },
@@ -135,17 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "01e1fd2195d5cfc9",
+  "active": "99a10d3aebc24490",
   "lastOpenFiles": [
+    "O levels/Computer/Data Representation.md",
+    "O levels/Computer/attatchments/Data Representation 2022-11-30 17.44.51.excalidraw.md",
+    "O levels/Computer/attatchments/Data Representation 2022-11-30 17.46.49.excalidraw.md",
+    "O levels/Computer/attatchments/Data Representation 2022-11-30 17.16.19.excalidraw.md",
+    "O levels/Computer/attatchments/Data Representation 2022-11-30 17.38.47.excalidraw.md",
+    "O levels/Computer/Paper Pattern.md",
     "O levels/Chemsitry/attatchments/Moles 2022-11-25 18.20.59.excalidraw.md",
     "O levels/Chemsitry/Moles.md",
     "O levels/Chemsitry/Balancing Equations - Formula Making.md",
-    "O levels/Computer/Paper Pattern.md",
-    "O levels/Chemistry/Periodic Table.md",
-    "O levels/ Physics/Waves.md",
-    "O levels/ Physics/attatchments/Waves 2022-11-25 16.21.05.excalidraw.md",
-    "O levels/Chemsitry/attatchments/Moles 2022-10-20 19.02.11.excalidraw.md",
-    "O levels/Chemistry/attatchments/Periodic Table 2022-11-21 10.16.18.excalidraw.md",
-    "O levels/Chemistry/attatchments/Periodic Table 2022-11-21 10.12.36.excalidraw.md"
+    "O levels/Chemistry/Periodic Table.md"
   ]
 }
