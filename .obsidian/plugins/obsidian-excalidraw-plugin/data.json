@@ -6,6 +6,8 @@
   "compress": false,
   "autosave": true,
   "autosaveInterval": 15000,
+  "autosaveIntervalDesktop": 15000,
+  "autosaveIntervalMobile": 10000,
   "drawingFilenamePrefix": "Drawing ",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
@@ -21,6 +23,7 @@
   "matchThemeTrigger": true,
   "defaultMode": "normal",
   "defaultPenMode": "never",
+  "zoomToFitOnOpen": true,
   "zoomToFitOnResize": true,
   "zoomToFitMaxLevel": 2,
   "linkPrefix": "📍",
@@ -81,11 +84,46 @@
         "description": "Fixed horizontal distance between centers"
       },
       "Remember last distance?": false
+    },
+    "Downloaded/Convert freedraw to line": {
+      "Point density": {
+        "value": "7:1",
+        "valueset": [
+          "1:1",
+          "2:1",
+          "3:1",
+          "4:1",
+          "5:1",
+          "6:1",
+          "7:1",
+          "8:1",
+          "9:1",
+          "10:1",
+          "11:1"
+        ],
+        "description": "A freedraw object has many points. Converting freedraw to a line with too many points will result in an impractical object that is hard to edit. This setting sepcifies how many points from freedraw should be averaged to form a point on the line"
+      }
+    },
+    "Downloaded/Modify background color opacity": {
+      "Prompt for opacity?": true,
+      "Default opacity": {
+        "value": 0.6,
+        "description": "Element's background color transparency"
+      },
+      "Remember last opacity?": false
+    },
+    "Downloaded/OCR - Optical Character Recognition": {
+      "token": {
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzA3Njg2NDAsImF1ZCI6Im9jci50YXNrYm9uZS5jb20iLCJpc3MiOiJ3d3cudGFza2JvbmUuY29tIiwic3ViIjoiZWxlY3Ryb25pY19tb2NjYXNpbl90b3VjYW4ifQ.XQkLbiSlg_U3nyIEc7aYspSeevCBvn83ZxNLFQvvsP4",
+        "hidden": true
+      }
     }
   },
   "defaultTrayMode": false,
-  "previousRelease": "1.7.26",
+  "previousRelease": "1.8.7",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
-  "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
+  "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
+  "taskboneEnabled": false,
+  "taskboneAPIkey": ""
 }

@@ -69,8 +69,8 @@ The presence of Acids. ^ajUNsrV1
 		},
 		{
 			"type": "line",
-			"version": 75,
-			"versionNonce": 917873824,
+			"version": 155,
+			"versionNonce": 2053924222,
 			"isDeleted": false,
 			"id": "o21EA_jnyxSkdGvVWrquE",
 			"fillStyle": "hachure",
@@ -83,13 +83,13 @@ The presence of Acids. ^ajUNsrV1
 			"y": 60.88774108886719,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 1.4210854715202004e-14,
-			"height": 202.65737915039062,
+			"width": 0,
+			"height": 506.88685137392713,
 			"seed": 1165723636,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1666612844027,
+			"updated": 1670333563158,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -103,8 +103,8 @@ The presence of Acids. ^ajUNsrV1
 					0
 				],
 				[
-					-1.4210854715202004e-14,
-					202.65737915039062
+					0,
+					506.88685137392713
 				]
 			]
 		},
@@ -14819,6 +14819,11 @@ The presence of Acids. ^ajUNsrV1
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
+		"scrollX": 747.5601260336712,
+		"scrollY": 99.96496667378051,
+		"zoom": {
+			"value": 0.9990902649735022
+		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null,
 		"colorPalette": {}

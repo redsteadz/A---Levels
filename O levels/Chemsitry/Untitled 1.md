@@ -1,1 +1,0 @@
-![[O levels/Chemsitry/attatchments/Untitled 1 2022-10-19 18.09.42.excalidraw]]

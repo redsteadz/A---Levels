@@ -1,6 +1,6 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "vimMode": true,
@@ -14,5 +14,6 @@
   },
   "newLinkFormat": "absolute",
   "showLineNumber": true,
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "defaultViewMode": "preview"
 }

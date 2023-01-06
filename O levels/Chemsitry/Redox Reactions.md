@@ -1,4 +1,3 @@
-
 # Redox Reactions
 ![[O levels/attatchments/Redox Reactions Syllabus.png]]
 
@@ -27,7 +26,7 @@ title:**Rule 4** Oxygen has three possible Oxidation numbers -2
 
 ```ad-note
 title:**Rule 5** The sum of the oxidation numbers in a neutral compound is equal to zero.
-
+![[O levels/Chemsitry/attatchments/Redox Reactions 2022-12-23 17.17.50.excalidraw]]
 ```
 
 # The Rules of Oxidation Number

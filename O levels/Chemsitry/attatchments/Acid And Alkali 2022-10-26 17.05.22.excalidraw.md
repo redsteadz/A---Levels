@@ -42,7 +42,8 @@ except ^UJ9yaQuD
 
 Hydroxides ^7bi2P62y
 
-Sodium, Potassium, Ammonium ^CTyyvf7u
+Sodium, Potassium, Ammonium
+G-1 ^CTyyvf7u
 
 Lead, Barium & Calcium ^rPNVFUpB
 
@@ -170,8 +171,8 @@ Potassium,
 		},
 		{
 			"type": "text",
-			"version": 136,
-			"versionNonce": 1060561034,
+			"version": 166,
+			"versionNonce": 1173291874,
 			"isDeleted": false,
 			"id": "CTyyvf7u",
 			"fillStyle": "hachure",
@@ -181,27 +182,27 @@ Potassium,
 			"opacity": 100,
 			"angle": 0,
 			"x": -397.17962646484375,
-			"y": -112.81342333103117,
+			"y": -135.54182782697475,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 282,
-			"height": 25,
+			"width": 281,
+			"height": 50,
 			"seed": 305028746,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1666788068010,
+			"updated": 1670334422656,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Sodium, Potassium, Ammonium",
-			"rawText": "Sodium, Potassium, Ammonium",
-			"baseline": 18,
+			"text": "Sodium, Potassium, Ammonium\nG-1",
+			"rawText": "Sodium, Potassium, Ammonium\nG-1",
+			"baseline": 43,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Sodium, Potassium, Ammonium"
+			"originalText": "Sodium, Potassium, Ammonium\nG-1"
 		},
 		{
 			"type": "text",
@@ -10119,41 +10120,6 @@ Potassium,
 				0,
 				0
 			]
-		},
-		{
-			"id": "5ruE7V2m",
-			"type": "text",
-			"x": 227.82937216364087,
-			"y": -127.13699890105501,
-			"width": 12,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#c92a2a",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"seed": 1280487897,
-			"version": 3,
-			"versionNonce": 716246713,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1667306538007,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 18,
-			"containerId": null,
-			"originalText": ""
 		}
 	],
 	"appState": {
@@ -10172,6 +10138,11 @@ Potassium,
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
+		"scrollX": 484.88557790478814,
+		"scrollY": 499.97399812215684,
+		"zoom": {
+			"value": 1.7238269742821355
+		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null,
 		"colorPalette": {}
