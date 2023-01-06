@@ -23,9 +23,21 @@
             "id": "53b52b94ac9aa489",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O levels/Chemistry/Electrochemistry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b5112f0bb489a14",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "O levels/Physics/attatchments/Electromagnetic Waves 2023-01-05 17.37.48.excalidraw.md"
+                "file": "O levels/Chemistry/attatchments/Electrochemistry 2023-01-06 17.33.42.excalidraw.md"
               }
             }
           }
@@ -72,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "aabc4dd8de0f0f31",
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O levels/Physics/attatchments/Electromagnetic Waves 2023-01-05 17.37.48.excalidraw.md",
+                "file": "O levels/Chemistry/Electrochemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O levels/Physics/attatchments/Electromagnetic Waves 2023-01-05 17.37.48.excalidraw.md",
+                "file": "O levels/Chemistry/Electrochemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O levels/Physics/attatchments/Electromagnetic Waves 2023-01-05 17.37.48.excalidraw.md"
+                "file": "O levels/Chemistry/Electrochemistry.md"
               }
             }
           },
@@ -163,15 +176,15 @@
   },
   "active": "53b52b94ac9aa489",
   "lastOpenFiles": [
-    "O levels/Physics/Electromagnetic Waves.md",
-    "O levels/Physics/attatchments/Electromagnetic Waves 2023-01-05 17.37.48.excalidraw.md",
-    "O levels/Physics/attatchments/Electromagnetic Waves 2023-01-05 17.32.52.excalidraw.md",
-    "O levels/Computer/1.2 Text sound and images.md",
-    "O levels/Computer/attatchments/1.2 Text sound and images 2023-01-04 17.40.39.excalidraw.md",
-    "O levels/Computer/attatchments/1.2 Text sound and images 2023-01-04 17.33.24.excalidraw.md",
+    "O levels/Chemistry/attatchments/Electrochemistry 2023-01-06 17.33.42.excalidraw.md",
     "O levels/Chemistry/Electrochemistry.md",
     "O levels/Chemistry/attatchments/Electrochemistry 2023-01-03 19.53.58.excalidraw.md",
-    "O levels/Chemistry/attatchments/Electrochemistry 2023-01-03 19.26.59.excalidraw.md",
-    "O levels/Chemistry/attatchments/Electrochemistry 2023-01-03 19.24.35.excalidraw.md"
+    "O levels/Chemistry/attatchments/Electrochemistry 2023-01-06 17.22.50.excalidraw.md",
+    "O levels/Chemistry/attatchments/Electrochemistry 2023-01-06 17.16.46.excalidraw.md",
+    "O levels/Physics/Electromagnetic Waves.md",
+    "O levels/Physics/Waves.md",
+    "O levels/Physics/attatchments/Electromagnetic Waves 2023-01-05 17.37.48.excalidraw.md",
+    "O levels/Physics/attatchments/Electromagnetic Waves 2023-01-05 17.32.52.excalidraw.md",
+    "O levels/Computer/1.2 Text sound and images.md"
   ]
 }
