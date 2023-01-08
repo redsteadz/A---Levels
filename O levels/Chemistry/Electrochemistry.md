@@ -46,8 +46,33 @@ $\ce{NaCl(aq)}$
 ![[O levels/Chemistry/attatchments/Electrochemistry 2023-01-06 17.33.42.excalidraw]]
 
 **Dilute Sodium Chloride**
-Ions Present
+Dilute sodium chloride indicates, The Sodium chloride was dissolved in water
+NaCl(aq)
 
-Cathode Reaction
+**Ions Present**
+- $\ce{Na^{+}, H^{+}, Cl^{-}, OH^{-}}$
+**Cathode Reaction (REACTIVITY SERIES)**
+- As hydrogen is less reactive than Sodium, It goes to the Cathode
+- $\ce{2H^{+} + 2e^{-} -> H2}$
+**Anode Reaction (Concentration - Halide)** 
+- Dilute solution!
+	- So even though it has a halide present
+- $\ce{OH^-}$ will win
+- $\ce{4OH^{-} -> 2H2O + O2 + 4e^{-}}$
+- ![[O levels/Chemistry/attatchments/Electrochemistry 2023-01-08 18.22.54.excalidraw]]
+## Dilute Sufuric Acid
+$\ce{HCl, HNO3, H2SO4(aq)}$  
+**Ions Present**
+$\ce{H^{+}, OH^{-}, H^{+}, SO4^2-}$ 
+**Cathode**
+$\ce{2H+ +2e^{-} ->H2}$ 
+**Anode (Concentration & Halide)**
+- Not  Concentrated
+- No Halides (Group 7) present
+- $\ce{OH^-}$ wins!
+- $\ce{4OH^{-} -> 2H2O + O2 + 4e^{-}}$
+| $\ce{H+}$ | $\ce{OH-}$ |
+| --------- | ---------- |
+| 2         | 1          |
 
-Anode Reaction
+![[O levels/Chemistry/attatchments/slide4-l.webp]]
