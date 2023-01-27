@@ -20,24 +20,14 @@
             }
           },
           {
-            "id": "7951bc184e1d2b9e",
+            "id": "8ed750a902f388ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/A2/Untitled.md",
+                "file": "Physics/A2/AC Current RnW.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "e37bc63c3d520dfe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "O levels/Chemsitry/attatchments/Moles 2023-01-10 11.58.53.excalidraw.md"
               }
             }
           }
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/A2/Untitled.md",
+                "file": "Physics/A2/AC Current RnW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/A2/Untitled.md",
+                "file": "Physics/A2/AC Current RnW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/A2/Untitled.md"
+                "file": "Physics/A2/AC Current RnW.md"
               }
             }
           },
@@ -178,20 +168,20 @@
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7951bc184e1d2b9e",
+  "active": "8ed750a902f388ca",
   "lastOpenFiles": [
+    "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md",
+    "Physics/A2/AC Current RnW.md",
+    "Maths/A2/Untitled.md",
     "Chemistry/A2/Organic Chemistry/30 Arenes.md",
     "Chemistry/AS/Atomic Bonding.md",
     "Chemistry/AS/Electrochemistry.md",
     "O levels/Physics/Sound.md",
     "O levels/Chemistry/attatchments/Electrochemistry 2023-01-08 18.22.54.excalidraw.md",
     "O levels/Chemsitry/attatchments/Moles 2023-01-10 11.58.53.excalidraw.md",
-    "O levels/Physics/attatchments/Sound 2023-01-10 12.43.01.excalidraw.md",
-    "O levels/Physics/attatchments/Sound 2023-01-10 12.33.36.excalidraw.md",
-    "O levels/Physics/attatchments/Sound 2023-01-10 12.29.50.excalidraw.md",
-    "O levels/Physics/attatchments/Sound 2023-01-10 12.18.54.excalidraw.md"
+    "O levels/Physics/attatchments/Sound 2023-01-10 12.43.01.excalidraw.md"
   ]
 }

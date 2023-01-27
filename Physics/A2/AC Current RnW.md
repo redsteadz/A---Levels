@@ -1,0 +1,1 @@
+![[Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw]]
