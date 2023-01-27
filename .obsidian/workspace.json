@@ -23,11 +23,9 @@
             "id": "8ed750a902f388ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Physics/A2/AC Current RnW.md",
-                "mode": "source",
-                "source": true
+                "file": "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/A2/AC Current RnW.md",
+                "file": "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/A2/AC Current RnW.md",
+                "file": "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/A2/AC Current RnW.md"
+                "file": "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md"
               }
             }
           },
@@ -173,10 +171,10 @@
   },
   "active": "8ed750a902f388ca",
   "lastOpenFiles": [
-    "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md",
     "Physics/A2/AC Current RnW.md",
-    "Maths/A2/Untitled.md",
     "Chemistry/A2/Organic Chemistry/30 Arenes.md",
+    "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md",
+    "Maths/A2/Untitled.md",
     "Chemistry/AS/Atomic Bonding.md",
     "Chemistry/AS/Electrochemistry.md",
     "O levels/Physics/Sound.md",
