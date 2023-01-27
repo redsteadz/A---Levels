@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7951bc184e1d2b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/A2/Untitled.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "e37bc63c3d520dfe",
             "type": "leaf",
             "state": {
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md",
+                "file": "Maths/A2/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md",
+                "file": "Maths/A2/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md"
+                "file": "Maths/A2/Untitled.md"
               }
             }
           },
@@ -168,8 +181,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "7f5bfa59fb29c35f",
+  "active": "7951bc184e1d2b9e",
   "lastOpenFiles": [
+    "Chemistry/A2/Organic Chemistry/30 Arenes.md",
     "Chemistry/AS/Atomic Bonding.md",
     "Chemistry/AS/Electrochemistry.md",
     "O levels/Physics/Sound.md",
@@ -178,7 +192,6 @@
     "O levels/Physics/attatchments/Sound 2023-01-10 12.43.01.excalidraw.md",
     "O levels/Physics/attatchments/Sound 2023-01-10 12.33.36.excalidraw.md",
     "O levels/Physics/attatchments/Sound 2023-01-10 12.29.50.excalidraw.md",
-    "O levels/Physics/attatchments/Sound 2023-01-10 12.18.54.excalidraw.md",
-    "O levels/Physics/attatchments/Sound 2023-01-10 12.08.33.excalidraw.md"
+    "O levels/Physics/attatchments/Sound 2023-01-10 12.18.54.excalidraw.md"
   ]
 }
