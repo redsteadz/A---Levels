@@ -4,7 +4,6 @@
   "obsidian-kanban",
   "obsidian-outliner",
   "templater-obsidian",
-  "taskbone-ocr-plugin",
   "obsidian-git",
   "obsidian-style-settings",
   "hotkeysplus-obsidian",
@@ -23,5 +22,6 @@
   "nldates-obsidian",
   "obsidian-math-plus",
   "obsidian-excalidraw-plugin",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "taskbone-ocr-plugin"
 ]

@@ -1,1 +1,0 @@
-![[attatchments/Energy work and Power 2022-09-09 16.07.15.excalidraw]]

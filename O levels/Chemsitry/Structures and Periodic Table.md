@@ -1,1 +1,0 @@
-![[O levels/Chemsitry/attatchments/Structures and Periodic Table 2022-10-19 20.15.26.excalidraw]]

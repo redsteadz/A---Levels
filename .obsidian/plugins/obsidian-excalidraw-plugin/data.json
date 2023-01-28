@@ -169,6 +169,6 @@
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
-  "taskboneEnabled": false,
-  "taskboneAPIkey": ""
+  "taskboneEnabled": true,
+  "taskboneAPIkey": "e14057af-f634-4711-8476-4a774dd235ce"
 }

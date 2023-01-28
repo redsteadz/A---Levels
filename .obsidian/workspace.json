@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "93d03ba27b52a01b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Template.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "ea2700045efe5cbe",
             "type": "leaf",
             "state": {
@@ -195,15 +205,15 @@
   },
   "active": "7f5bfa59fb29c35f",
   "lastOpenFiles": [
+    "Excalidraw/Template.excalidraw.md",
     "Excalidraw/Palettes/Thingie.md",
     "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md",
+    "Physics/A2/One Shiet PDF.md",
     "Excalidraw/Scripts/Downloaded/Alternative Pens.md",
     "Excalidraw/Pens/Shit.md",
-    "Physics/A2/AC Current RnW.md",
     "Chemistry/A2/Organic Chemistry/30 Arenes.md",
     "Maths/A2/Untitled.md",
     "Chemistry/AS/Atomic Bonding.md",
-    "Chemistry/AS/Electrochemistry.md",
-    "O levels/Physics/Sound.md"
+    "Chemistry/AS/Electrochemistry.md"
   ]
 }
