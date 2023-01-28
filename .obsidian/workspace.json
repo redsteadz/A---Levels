@@ -11,11 +11,21 @@
             "id": "7f5bfa59fb29c35f",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ea2700045efe5cbe",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/A2/Organic Chemistry/30 Arenes.md",
+                "file": "Excalidraw/Palettes/Thingie.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -23,14 +33,27 @@
             "id": "8ed750a902f388ca",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md"
+                "file": "Excalidraw/Scripts/Downloaded/Alternative Pens.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a2c4d12d01247996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Pens/Shit.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "aabc4dd8de0f0f31",
@@ -169,17 +193,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ed750a902f388ca",
+  "active": "7f5bfa59fb29c35f",
   "lastOpenFiles": [
+    "Excalidraw/Palettes/Thingie.md",
+    "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Alternative Pens.md",
+    "Excalidraw/Pens/Shit.md",
     "Physics/A2/AC Current RnW.md",
     "Chemistry/A2/Organic Chemistry/30 Arenes.md",
-    "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md",
     "Maths/A2/Untitled.md",
     "Chemistry/AS/Atomic Bonding.md",
     "Chemistry/AS/Electrochemistry.md",
-    "O levels/Physics/Sound.md",
-    "O levels/Chemistry/attatchments/Electrochemistry 2023-01-08 18.22.54.excalidraw.md",
-    "O levels/Chemsitry/attatchments/Moles 2023-01-10 11.58.53.excalidraw.md",
-    "O levels/Physics/attatchments/Sound 2023-01-10 12.43.01.excalidraw.md"
+    "O levels/Physics/Sound.md"
   ]
 }

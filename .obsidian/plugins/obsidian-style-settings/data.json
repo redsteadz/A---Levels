@@ -5,7 +5,5 @@
   "blue-topaz-theme@@retain-header-color": true,
   "blue-topaz-theme@@naked-embed": true,
   "blue-topaz-theme@@text-normal@@light": "#0E0E0E",
-  "blue-topaz-theme@@background-primary-bg-4-bt@@dark": "#1D1F28",
-  "things-style@@macOS-translucent": true,
-  "things-style@@cursor": "default"
+  "blue-topaz-theme@@background-primary-bg-4-bt@@dark": "#1D1F28"
 }
