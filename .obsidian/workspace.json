@@ -11,9 +11,11 @@
             "id": "7f5bfa59fb29c35f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md"
+                "file": "Physics/A2/One Shiet PDF.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md",
+                "file": "Physics/A2/One Shiet PDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md",
+                "file": "Physics/A2/One Shiet PDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md"
+                "file": "Physics/A2/One Shiet PDF.md"
               }
             }
           },
@@ -205,9 +207,9 @@
   },
   "active": "7f5bfa59fb29c35f",
   "lastOpenFiles": [
+    "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md",
     "Excalidraw/Template.excalidraw.md",
     "Excalidraw/Palettes/Thingie.md",
-    "Physics/A2/attatchments/AC Current RnW 2023-01-27 18.39.41.excalidraw.md",
     "Physics/A2/One Shiet PDF.md",
     "Excalidraw/Scripts/Downloaded/Alternative Pens.md",
     "Excalidraw/Pens/Shit.md",
